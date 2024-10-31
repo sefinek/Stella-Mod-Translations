@@ -2,7 +2,8 @@ exports.data = {
 	Version: '2.9.9',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
-		'daydreamer-json (https://github.com/daydreamer-json)'
+		'daydreamer-json (https://github.com/daydreamer-json)',
+		'oto (https://github.com/zozonteq)'
 	]
 };
 
