@@ -2,8 +2,8 @@ exports.data = {
 	Version: '2.9.9',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
-		'MayiVT (https://github.com/MayiVT)'
-	]
+		'MayiVT (https://github.com/MayiVT)',
+	],
 };
 
 // Main
@@ -26,8 +26,8 @@ exports.default = {
 
 	tooltips: {
 		OfficialDiscordServer: 'Servidor oficial de Discord',
-		GitHubRepositories: 'Repositorios de GitHub'
-	}
+		GitHubRepositories: 'Repositorios de GitHub',
+	},
 };
 
 // Errors
@@ -36,19 +36,19 @@ exports.errors = {
 		BadRequest: 'Error 400: Petición Inválida',
 		InvalidURL: 'La URL de retorno es inválida.',
 		ReferrerURL: 'Tú URL de referencia',
-		CorrectRefURL: 'URL correcta'
+		CorrectRefURL: 'URL correcta',
 	},
 
 	wrongOs: {
 		DeviceIsNotSupported: 'El dispositivo no es compatible',
 		OperatingSysIsNotSupported: 'We\'re sorry! Your operating system {0}, is not yet supported.',
-		ViewSupportedSystems: 'View supported systems »'
+		ViewSupportedSystems: 'View supported systems »',
 	},
 
 	missingZip: {
 		WeCannotFindZipFileOnTheServer: 'No se puede encontrar el archivo ZIP en el servidor',
-		NewUpdateIsComing: '¿Se acerca una nueva actualización? Quizás...\nNo te preocupes, puedes intentar de nuevo o informar de este problema en nuestro servidor de Discord.'
-	}
+		NewUpdateIsComing: '¿Se acerca una nueva actualización? Quizás...\nNo te preocupes, puedes intentar de nuevo o informar de este problema en nuestro servidor de Discord.',
+	},
 };
 
 // GET /genshin-stella-mod
@@ -98,7 +98,7 @@ exports.home = {
 	captchaModal: {
 		AreYouARobot: 'Are you a robot?',
 		FailedToVerifyCaptcha: 'Failed to verify captcha: {0}',
-		FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.'
+		FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.',
 	},
 
 	mirrorModal: {
@@ -108,7 +108,7 @@ exports.home = {
 		LauncherVersion: 'Launcher version:',
 		MirrorsAreCurrentlyUnavailable: 'Mirrors are currently unavailable for this category.',
 		ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
-		FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.'
+		FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
 	},
 
 	finalModal: {
@@ -117,13 +117,13 @@ exports.home = {
 		JoinOurDiscordServerToReceiveNotifications: 'Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or encounter any issues. We are always ready to help. Wishing you a great day or night!',
 		IfYouReEnjoyingStellaModConsiderLeavingAReview: 'Leave a review at {a}trustpilot.com{/a} after testing the software!',
 		TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
-		NoProblem: 'No problem'
+		NoProblem: 'No problem',
 	},
 
 	tooltips: {
 		PageViews: 'Page views. Statistics have been collected since January 19, 2024.',
-		ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.'
-	}
+		ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
+	},
 };
 
 // GET /genshin-stella-mod/gallery
@@ -146,8 +146,8 @@ exports.gallery = {
 	BonusScreenshot: 'Captura de pantalla extra',
 
 	tooltips: {
-		GoBackToMainGalleryPage: 'Go back to main gallery page'
-	}
+		GoBackToMainGalleryPage: 'Go back to main gallery page',
+	},
 };
 
 // GET /genshin-stella-mod/feedback
@@ -158,13 +158,13 @@ exports.feedback = {
 
 	btn: {
 		BelowYTVideo: 'Debajo de mi video de YouTube',
-		OnTheDiscordServer: 'En el servidor de Discord'
+		OnTheDiscordServer: 'En el servidor de Discord',
 	},
 
 	tooltips: {
 		ClickHereToGoToTheYTPage: 'Haz clic aquí para ir a la página de YouTube.',
-		GiveAStarToMyReposOnGitHub: 'Dale una estrella a mis repositorios en GitHub, a los que te gusten.'
-	}
+		GiveAStarToMyReposOnGitHub: 'Dale una estrella a mis repositorios en GitHub, a los que te gusten.',
+	},
 };
 
 // GET /genshin-stella-mod/support
@@ -183,8 +183,8 @@ exports.support = {
 		CreateANewTicket: 'Haz clic aquí para crear un nuevo ticket en el sitio web de SPC.',
 		JoinOurOfficialDiscordServer: 'Únete a nuestro servidor oficial de Discord.',
 		SendAnEmailToTheDeveloper: 'Envía un correo electrónico al desarrollador si esperas una respuesta más detallada.',
-		ReturnTo: 'Volver a: Genshin Stella Mod - Aquí comienza tu aventura.'
-	}
+		ReturnTo: 'Volver a: Genshin Stella Mod - Aquí comienza tu aventura.',
+	},
 };
 
 // GET /genshin-stella-mod/videos
@@ -194,7 +194,7 @@ exports.videos = {
 	DeprecatedMovies: 'Videos obsoletos',
 	TheMoviesAreFromPreviousVersionsOfStellaMod: 'Estos videos pertenecen a versiones anteriores de Stella Mod y se consideran obsoletos.',
 	FirstModRelease: 'Primer lanzamiento del mod',
-	Gameplay: 'Gameplay'
+	Gameplay: 'Gameplay',
 };
 
 // GET /genshin-stella-mod/stats
@@ -287,7 +287,7 @@ exports.stats = {
 	PerOneMonth: 'Per month',
 	PerOneYear: 'Per year',
 
-	ErrorRatePerDay: 'Error rate per day'
+	ErrorRatePerDay: 'Error rate per day',
 };
 
 // GET /genshin-stella-mod/docs
@@ -303,13 +303,13 @@ exports.docs = {
 		PrivacyPolicy: '{0}. {1} Privacy policy',
 		Installation: '{0}. {1} Installation',
 		Compilation: '{0}. {1} Compilation',
-		HowToAvoidABan: '{0}. {1} How to avoid a ban?'
+		HowToAvoidABan: '{0}. {1} How to avoid a ban?',
 	},
 
 	Changelogs: 'Changelogs',
 	2: {
 		Versions: '{0}. {1} Versions {2}.x.x',
-		DeprecatedReleases: '{0}. {1} Deprecated releases'
+		DeprecatedReleases: '{0}. {1} Deprecated releases',
 	},
 
 	LicensesAndCredits: 'Licenses & Credits',
@@ -320,12 +320,12 @@ exports.docs = {
 		MigotoLicense: '{0}. {1} 3DMigoto license',
 		Credits: '{0}. {1} Credits',
 		Contributors: '{0}. {1} Contributors',
-		Attributions: '{0}. {1} Attributions'
+		Attributions: '{0}. {1} Attributions',
 	},
 
 	CreationDate: 'Creation date: {0}',
 	FileSize: 'File size: {0}',
-	bytes: 'bytes'
+	bytes: 'bytes',
 };
 
 // GET /genshin-stella-mod/repositories
@@ -341,7 +341,7 @@ exports.github = {
 	Deprecated: 'Deprecated',
 
 	InstallationWizard: 'Installation wizard',
-	UnlockedReShade: 'Unlocked ReShade'
+	UnlockedReShade: 'Unlocked ReShade',
 };
 
 // GET /genshin-stella-mod/subscription
@@ -354,24 +354,24 @@ exports.subscription = {
 	tiers: {
 		1: {
 			name: 'Little Kitten',
-			description: 'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.'
+			description: 'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
 		},
 		2: {
 			name: 'Favorite Cat',
-			description: 'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.'
+			description: 'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
 		},
 		3: {
 			name: 'Safety Kitten',
-			description: 'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.'
+			description: 'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
 		},
 		4: {
 			name: 'Keyboard Cat',
-			description: 'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.'
+			description: 'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
 		},
 		5: {
 			name: 'Cute Kitty',
-			description: 'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.'
-		}
+			description: 'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.',
+		},
 	},
 
 	UnknownBenefit: 'Unknown benefit',
@@ -379,14 +379,14 @@ exports.subscription = {
 	prices: {
 		MonthlyPrice: 'Precio mensual',
 		Every3Months: 'Cada 3 meses',
-		YearlyPrice: 'Precio anual'
+		YearlyPrice: 'Precio anual',
 	},
 
 	Everything: {
 		FromTheTier: 'Todo sobre el grado {0}',
 		FromTheTier12: 'Todo sobre los grados 1 y 2',
 		FromTheTier12And3: 'Todo sobre los grados 1, 2 y 3',
-		FromAllTheTiers: 'Todo sobre todos los grados'
+		FromAllTheTiers: 'Todo sobre todos los grados',
 	},
 
 	TierName: 'Tier name',
@@ -417,7 +417,7 @@ exports.subscription = {
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
 
-		ActivationPossibleOn: 'Activation possible on {u}{0} devices{/u}'
+		ActivationPossibleOn: 'Activation possible on {u}{0} devices{/u}',
 	},
 
 	CompareAvailablePlans: 'Compare available plans',
@@ -450,7 +450,7 @@ exports.subscription = {
 		AbilityToUseBatchFiles: 'Usage of batch files',
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
-		ActivationPossibleOn: 'Activation possible on'
+		ActivationPossibleOn: 'Activation possible on',
 	},
 
 	SubscribeNow: 'Subscribete ahora',
@@ -468,7 +468,7 @@ exports.subscription = {
 		Header: 'Sistema de pago',
 		1: 'Nos complace anunciar que nuestro sistema de pago funciona con {0}. Con Stripe, puedes hacer pagos de forma segura, sabiendo que tu información de pago está gestionada de la manera más segura.',
 		2: 'Stripe es una plataforma de procesamiento de pago reconocida globalmente y seguura, que promete rapidez y seguridad en las transaciones de nuestros usuarios. Aunque estés comprando productos, suscribiendote a servicios o haciendo donaciones, la robusta infraestructura de Stripe asegura una experiencia de pagos segura y sin problemas.',
-		3: 'Tenga la seguridad de que sus datos confidenciales de pago están encriptados y protegidos durante todo el proceso de pago. Su privacidad y seguridad son nuestras principales prioridades.'
+		3: 'Tenga la seguridad de que sus datos confidenciales de pago están encriptados y protegidos durante todo el proceso de pago. Su privacidad y seguridad son nuestras principales prioridades.',
 	},
 
 	AcceptedPaymentMethods: 'Accepted payment methods',
@@ -490,12 +490,12 @@ exports.subscription = {
 		HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
 		SubText3: 'By becoming a subscriber to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product for purchase. Instead, as our subscriber, you solely gain access to use 3DMigoto within the Stella Mod Launcher application.',
 
-		Footer: 'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.'
+		Footer: 'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.',
 	},
 
 	request: {
 		WeAreProcessingYourRequest: 'We are processing your request...',
 		SubscribingInProgress: 'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction. ^w^',
-		ChangingTheTierInProgress: 'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^'
-	}
+		ChangingTheTierInProgress: 'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+	},
 };
