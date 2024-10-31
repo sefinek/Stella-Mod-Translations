@@ -2,7 +2,8 @@ exports.data = {
 	Version: '2.9.9',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
-		'daydreamer-json (https://github.com/daydreamer-json)'
+		'daydreamer-json (https://github.com/daydreamer-json)',
+		'oto (https://github.com/zozonteq)'
 	]
 };
 
@@ -13,16 +14,16 @@ exports.default = {
 	In: '中',
 
 	Back: '戻る',
-	GoBack: 'Go back',
-	GoBackTo: 'Go back to {0}',
-	GoToHomePage: 'Go to home page',
+	GoBack: '戻る',
+	GoBackTo: '{0} に戻る',
+	GoToHomePage: 'ホームページに戻る',
 	Next: '進む',
 
 	DiscordServer: 'Discordサーバー',
 	DiscordServerTooltip: 'Discordサーバーへの招待',
 
-	YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
-	YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
+	YourBrowserDoesNotSupportVideoTag: 'あなたのブラウザは動画タグをサポートしていないようです。',
+	YourBrowserDoesNotSupportAudioTag: 'あなたのブラウザは音声タグをサポートしていないようです。',
 
 	tooltips: {
 		OfficialDiscordServer: '公式Discordサーバー',
@@ -41,8 +42,8 @@ exports.errors = {
 
 	wrongOs: {
 		DeviceIsNotSupported: 'デバイスがサポートされていません',
-		OperatingSysIsNotSupported: 'We\'re sorry! Your operating system {0}, is not yet supported.',
-		ViewSupportedSystems: 'View supported systems »'
+		OperatingSysIsNotSupported: '申し訳ございません！あなたのオペレーティングシステム {0} はサポートされていません。',
+		ViewSupportedSystems: 'サポートされているシステムを見る »'
 	},
 
 	missingZip: {
@@ -53,10 +54,10 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
-	Header: 'Genshin Stella Mod - Step into a New World',
-	Text1: 'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
-	Text2: 'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
-	FinalText: 'Don\'t wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!',
+	Header: 'Genshin Stella Mod - あたらしい世界に足を踏み入れよう',
+	Text1: 'グラフィック強化、細部までこだわり抜かれたシェーダー、驚異的なFPSのアンロッカーやモッドにより、これまでにない最高のゲーム体験を提供します！',
+	Text2: '新たなグラフィックで、テイワットの世界を再び冒険へ出かけよう。ゲームプレイがさらにリアルに進化します。専用ランチャーが全プロセスを簡略化し、プレイヤーがすぐにアクションに飛び込めるようになりました。',
+	FinalText: 'さあ今すぐダウンロードして、ゲームプレイを次のレベルへ引き上げよう。強化されたテイワットの世界に飛び込み、忘れられない瞬間を作りましょう！',
 
 	Download: 'ダウンロード',
 	DownloadTooltip: 'Windows 10および11用のx64ビットインストーラーをダウンロードするにはここをクリックしてください。',
@@ -72,8 +73,8 @@ exports.home = {
 	Videos: 'ビデオ',
 	VideosTooltip: 'モッドと起動プログラムに関する私たちのビデオをご覧ください。',
 
-	Statistics: 'Statistics',
-	StatisticsTooltip: 'Check how many people are currently playing Genshin Impact with the Stella mod activated.',
+	Statistics: '統計',
+	StatisticsTooltip: 'Stella Mod が有効化された原神を現在プレイしている人数をみる.',
 
 	Feedback: 'フィードバック',
 	FeedbackTooltip: '私の作品やStella Modについてのご意見をシェアしてください。',
@@ -146,7 +147,7 @@ exports.gallery = {
 	BonusScreenshot: '他のスクリーンショット',
 
 	tooltips: {
-		GoBackToMainGalleryPage: 'Go back to main gallery page'
+		GoBackToMainGalleryPage: 'メインギャラリーページに戻る'
 	}
 };
 
