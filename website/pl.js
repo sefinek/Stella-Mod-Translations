@@ -412,7 +412,6 @@ exports.subscription = {
 		NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
 		PhotosAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmy z kotami dewelopera',
 
-		AbilityToUseBatchFiles: 'Możliwość używania plików wsadowych w Stella',
 		OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera lub laptopa',
 		AssistanceRelatedToPCsOrLaptops: 'Pomoc dotycząca komputerów PC lub laptopów',
 
@@ -446,7 +445,6 @@ exports.subscription = {
 		NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
 		PhotosAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmy z kotami deweloperów',
 
-		AbilityToUseBatchFiles: 'Możliwość użycia plików wsadowych',
 		OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera',
 		AssistanceRelatedToPCsOrLaptops: 'Pomoc dot. komputerów PC lub laptopów',
 		ActivationPossibleOn: 'Aktywacja możliwa na',

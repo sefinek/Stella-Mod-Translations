@@ -413,7 +413,6 @@ exports.subscription = {
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
 		PhotosAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
 
-		AbilityToUseBatchFiles: 'Ability to use batch files in Stella',
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
 
@@ -447,7 +446,6 @@ exports.subscription = {
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
 		PhotosAndInterestingVideosOfTheDevsCats: 'Dev\'s cat photos & interesting videos',
 
-		AbilityToUseBatchFiles: 'Usage of batch files',
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
 		ActivationPossibleOn: 'Activation possible on',
