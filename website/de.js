@@ -412,7 +412,7 @@ exports.subscription = {
 		MuchGreaterPrivacy: 'Much greater privacy',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		PhotosAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
+		ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
@@ -445,7 +445,7 @@ exports.subscription = {
 		MuchGreaterPrivacy: 'Much greater privacy',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		PhotosAndInterestingVideosOfTheDevsCats: 'Dev\'s cat photos & interesting videos',
+		ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
