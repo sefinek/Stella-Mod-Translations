@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.10',
+	Version: '2.9.11',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],

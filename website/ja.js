@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.10',
+	Version: '2.9.11',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 		'daydreamer-json (https://github.com/daydreamer-json)',
@@ -300,11 +300,10 @@ exports.docs = {
 		WhatIs: '{0}. {1} What is...',
 		FAQ: '{0}. {1} FAQ',
 		Support: '{0}. {1} Support',
+		Troubleshooting: '{0}. {1} Troubleshooting',
 		TermsOfUse: '{0}. {1} Terms of use',
 		PrivacyPolicy: '{0}. {1} Privacy policy',
 		Installation: '{0}. {1} Installation',
-		Compilation: '{0}. {1} Compilation',
-		HowToAvoidABan: '{0}. {1} How to avoid a ban?',
 	},
 
 	Changelogs: 'Changelogs',
@@ -320,8 +319,6 @@ exports.docs = {
 		FPSUnlockerLicense: '{0}. {1} FPS Unlocker license',
 		MigotoLicense: '{0}. {1} 3DMigoto license',
 		Credits: '{0}. {1} Credits',
-		Contributors: '{0}. {1} Contributors',
-		Attributions: '{0}. {1} Attributions',
 	},
 
 	CreationDate: 'Creation date: {0}',
