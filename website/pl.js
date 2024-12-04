@@ -394,7 +394,6 @@ exports.subscription = {
 		VisibilityOnTheSubscriberList: 'Widoczność na liście subskrybentów',
 		NoAdsOnTheWebsiteForPatrons: 'Brak reklam na stronie dla patronów (SPC)',
 		PrivateClipsFromCSGO: 'Prywatne klipy z CS:GO i CS2',
-		AnimePicturesGeneratedByAI: 'Obrazy anime wygenerowane przez AI',
 		CompletePostArchive: 'Pełne archiwum postów',
 
 		RayTracingForGenshin: 'Ray Tracing dla Genshina',
@@ -427,7 +426,6 @@ exports.subscription = {
 		VisibilityOnTheSubscriberList: 'Widoczność na liście subskrybentów',
 		NoAdsOnTheWebsiteForPatrons: 'Brak reklam na stronie dla patronów',
 		PrivateClipsFromCSGO: 'Prywatne klipy z CS:GO i CS2',
-		AnimePicturesGeneratedByAI: 'Obrazy anime wygenerowane przez AI',
 		CompletePostArchive: 'Pełne archiwum postów',
 
 		RayTracingForGenshin: 'Ray Tracing dla Genshina',
