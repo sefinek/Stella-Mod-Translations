@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.11',
+	Version: '2.9.12',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],
@@ -14,7 +14,6 @@ exports.default = {
 	Back: 'Back',
 	GoBack: 'Go back',
 	GoBackTo: 'Go back to {0}',
-	GoToHomePage: 'Go to home page',
 	Next: 'Next',
 
 	DiscordServer: 'Discord server',
@@ -25,6 +24,7 @@ exports.default = {
 
 	tooltips: {
 		OfficialDiscordServer: 'Official Discord server',
+		SupportThisProject: 'Support this project voluntarily',
 		GitHubRepositories: 'GitHub repositories',
 	},
 };
@@ -52,7 +52,7 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
-	Header: 'Genshin Stella Mod - Step into a New World',
+	Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
 	Text1: 'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
 	Text2: 'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
 	FinalText: 'Don\'t wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!',
@@ -80,11 +80,10 @@ exports.home = {
 	Support: 'Support',
 	SupportTooltip: 'Click here if you need help.',
 
-	MainPage: 'Main page',
-	MainPageTooltip: 'Home - Sefinek Official Website',
+	HomePage: 'Home page',
+	HomePageTooltip: 'Home page - Official website of Sefinek',
 
-	PleaseSupportMe: 'Please support my work',
-	SupportMyWork: 'Support my work',
+	PlayMusic: 'Play music',
 
 	DownloadingData: 'Downloading data...',
 	Version: 'Version',

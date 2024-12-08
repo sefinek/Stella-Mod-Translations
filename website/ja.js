@@ -1,9 +1,7 @@
 exports.data = {
-	Version: '2.9.11',
+	Version: '2.9.12',
 	Contributors: [
-		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
-		'daydreamer-json (https://github.com/daydreamer-json)',
-		'oto (https://github.com/zozonteq)',
+		'Sefinek <contact@sefinek.net> (https://sefinek.net)', 'daydreamer-json (https://github.com/daydreamer-json)', 'oto (https://github.com/zozonteq)',
 	],
 };
 
@@ -16,7 +14,6 @@ exports.default = {
 	Back: '戻る',
 	GoBack: '戻る',
 	GoBackTo: '{0} に戻る',
-	GoToHomePage: 'ホームページに戻る',
 	Next: '進む',
 
 	DiscordServer: 'Discordサーバー',
@@ -27,6 +24,7 @@ exports.default = {
 
 	tooltips: {
 		OfficialDiscordServer: '公式Discordサーバー',
+		SupportThisProject: 'Support this project voluntarily',
 		GitHubRepositories: 'GitHubリポジトリ',
 	},
 };
@@ -54,7 +52,7 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
-	Header: 'Genshin Stella Mod - あたらしい世界に足を踏み入れよう',
+	Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
 	Text1: 'グラフィック強化、細部までこだわり抜かれたシェーダー、驚異的なFPSのアンロッカーやモッドにより、これまでにない最高のゲーム体験を提供します！',
 	Text2: '新たなグラフィックで、テイワットの世界を再び冒険へ出かけよう。ゲームプレイがさらにリアルに進化します。専用ランチャーが全プロセスを簡略化し、プレイヤーがすぐにアクションに飛び込めるようになりました。',
 	FinalText: 'さあ今すぐダウンロードして、ゲームプレイを次のレベルへ引き上げよう。強化されたテイワットの世界に飛び込み、忘れられない瞬間を作りましょう！',
@@ -82,11 +80,10 @@ exports.home = {
 	Support: 'サポート',
 	SupportTooltip: '助けが必要な場合はこちらをクリックしてください。',
 
-	MainPage: 'メインページ',
-	MainPageTooltip: 'ホーム - Sefinek公式ウェブサイト',
+	HomePage: 'Home page',
+	HomePageTooltip: 'Home page - Official website of Sefinek',
 
-	PleaseSupportMe: '私の作品をサポートしてください',
-	SupportMyWork: '私の作品をサポート',
+	PlayMusic: 'Play music',
 
 	DownloadingData: 'データのダウンロード中...',
 	Version: 'バージョン',

@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.11',
+	Version: '2.9.12',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],
@@ -14,7 +14,6 @@ exports.default = {
 	Back: 'Wróć',
 	GoBack: 'Wstecz',
 	GoBackTo: 'Wróć do {0}',
-	GoToHomePage: 'Wróć do strony głównej',
 	Next: 'Dalej',
 
 	DiscordServer: 'Serwer Discord',
@@ -25,6 +24,7 @@ exports.default = {
 
 	tooltips: {
 		OfficialDiscordServer: 'Oficjalny serwer Discord',
+		SupportThisProject: 'Wesprzyj ten projekt dobrowolnie',
 		GitHubRepositories: 'Repozytoria GitHub',
 	},
 };
@@ -80,11 +80,10 @@ exports.home = {
 	Support: 'Wsparcie',
 	SupportTooltip: 'Kliknij tutaj, jeśli potrzebujesz pomocy.',
 
-	MainPage: 'Strona główna',
-	MainPageTooltip: 'Strona główna - Oficjalna strona Sefinka',
+	HomePage: 'Strona główna',
+	HomePageTooltip: 'Strona główna - Oficjalna strona Sefinka',
 
-	PleaseSupportMe: 'Proszę, wesprzyj moją pracę',
-	SupportMyWork: 'Wesprzyj moją pracę',
+	PlayMusic: 'Odtwórz muzykę',
 
 	DownloadingData: 'Pobieranie danych...',
 	Version: 'Wersja',
