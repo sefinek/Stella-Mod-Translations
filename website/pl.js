@@ -265,7 +265,7 @@ exports.stats = {
 	OnlinePerYear: 'Online na rok',
 
 	PlayersInTheGameHeader: '🎮 Gracze w grze',
-	PlayersInTheGameText: 'Sprawdź, ile osób aktualnie gra z aktywowanym Stella Mod. Zapewniamy, że Stella Mod Launcher działa transparentnie, nie wykonując żadnych niepożądanych działań w tle bez Twojej wiedzy. Ta funkcja gwarantuje płynne doświadczenie z grą, wzbogacając ją o dodatkowe funkcjonalności, jednocześnie utrzymując wysoki standard prywatności i bezpieczeństwa. Dzięki Stella Mod gracze zyskują dostęp do zestawu ulepszeń, które podnoszą jakość rozgrywki. Te statystyki w czasie rzeczywistym odzwierciedlają popularność i zaufanie do Stella Mod w naszej społeczności, pokazując liczbę aktywnych użytkowników, którzy zdecydowali się wzbogacić swoje sesje gry o tę innowację.',
+	PlayersInTheGameText: 'Zobacz, ilu graczy aktualnie korzysta ze Stella Mod w Genshin Impact. Stella Mod Launcher działa w sposób przejrzysty, bez żadnych działań w tle bez twojej wiedzy, zapewniając płynne doświadczenie z dodatkowymi funkcjami ulepszającymi Genshin Impact, przy jednoczesnym zachowaniu wysokich standardów prywatności i bezpieczeństwa. Niektóre dane mogą być niedokładne.',
 	PlayingNow: '💙 Teraz w grze',
 	Peak2: '⬆️ Szczyt',
 

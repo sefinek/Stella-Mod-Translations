@@ -265,7 +265,7 @@ exports.stats = {
 	OnlinePerYear: 'Online per year',
 
 	PlayersInTheGameHeader: '🎮 Players in the game',
-	PlayersInTheGameText: 'See how many players are currently using Stella Mod in Genshin Impact. The Stella Mod Launcher runs transparently, with no background actions happening without your knowledge, ensuring a smooth experience that enhances Genshin Impact with added features, all while upholding high standards of privacy and security. Stella Mod provides players with a range of improvements that elevate gameplay. These real-time statistics highlight the mod’s popularity and the trust it has earned in the community, showing how many active users have chosen to enhance their Genshin Impact sessions with this innovative tool.',
+	PlayersInTheGameText: 'See how many players are currently using Stella Mod in Genshin Impact. The Stella Mod Launcher runs transparently, with no background actions happening without your knowledge, ensuring a smooth experience that enhances Genshin Impact with added features, all while upholding high standards of privacy and security. Some data may be inaccurate.',
 	PlayingNow: '💙 Playing now',
 	Peak2: '⬆️ Peak',
 
