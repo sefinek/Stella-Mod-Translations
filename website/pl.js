@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.12',
+	Version: '2.9.13',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],
@@ -19,7 +19,7 @@ exports.default = {
 	DiscordServer: 'Serwer Discord',
 	DiscordServerTooltip: 'Zaproszenie na nasz serwer Discord',
 
-	YourBrowserDoesNotSupportVideoTag: 'Twoja przeglądarka nie obsługuje tagu video.',
+	YourBrowserDoesNotSupportVideoTag: 'Twoja przeglądarka nie obsługuje tagu wideo.',
 	YourBrowserDoesNotSupportAudioTag: 'Twoja przeglądarka nie obsługuje tagu audio.',
 
 	tooltips: {
