@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.13',
+	Version: '2.9.14',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)', 'daydreamer-json (https://github.com/daydreamer-json)', 'oto (https://github.com/zozonteq)',
 	],
@@ -85,7 +85,7 @@ exports.home = {
 
 	PlayMusic: 'Play music',
 
-	DownloadingData: 'データのダウンロード中...',
+	FetchingData: 'データのダウンロード中...',
 	Version: 'バージョン',
 	TheVersionWithoutCaps: 'バージョン',
 	DownloadCount: 'ダウンロード数',

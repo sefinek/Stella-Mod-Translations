@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.13',
+	Version: '2.9.14',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)', 'Shizu (https://github.com/ShizuKoto)',
 	],
@@ -85,7 +85,7 @@ exports.home = {
 
 	PlayMusic: 'Play music',
 
-	DownloadingData: 'Daten werden heruntergeladen...',
+	FetchingData: 'Daten werden heruntergeladen...',
 	Version: 'Version',
 	TheVersionWithoutCaps: 'die Version',
 	DownloadCount: 'Download-Zähler',

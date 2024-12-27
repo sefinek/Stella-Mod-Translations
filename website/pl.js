@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.13',
+	Version: '2.9.14',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],
@@ -85,7 +85,7 @@ exports.home = {
 
 	PlayMusic: 'Odtwórz muzykę',
 
-	DownloadingData: 'Pobieranie danych...',
+	FetchingData: 'Pobieranie danych...',
 	Version: 'Wersja',
 	TheVersionWithoutCaps: 'wersja',
 	DownloadCount: 'Liczba pobrań',

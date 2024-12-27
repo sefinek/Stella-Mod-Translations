@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.13',
+	Version: '2.9.14',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
 	],
@@ -85,7 +85,7 @@ exports.home = {
 
 	PlayMusic: 'Play music',
 
-	DownloadingData: 'Downloading data...',
+	FetchingData: 'Fetching data...',
 	Version: 'Version',
 	TheVersionWithoutCaps: 'the version',
 	DownloadCount: 'Download count',
