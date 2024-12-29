@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.14',
+	Version: '2.9.15',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)', 'daydreamer-json (https://github.com/daydreamer-json)', 'oto (https://github.com/zozonteq)',
 	],
@@ -171,7 +171,7 @@ exports.support = {
 	DoYouHaveAnyIssuesOrQuestionsAboutMod: 'Stella Modに関する問題や質問がありますか？もしそうなら、ためらわずにご連絡ください！チームはどんな質問や懸念にも対応する準備ができています。',
 	WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures: 'Stella Modのインストールに関するサポートが必要な場合や、機能についての質問がある場合、私たちはお手伝いします。',
 	PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions: '私たちのコミュニティも質問にお答えする準備ができていますのでご注意ください。Discordサーバーに参加するか、GitHubで新しいissueを作成してください。',
-	SimplyClickOnTheChatIconInTheBottomRightCorner: 'アカウントを作成するか、Sefinek Patron Centerにログインし、{a}チケットを提出{/a}してください。ポーランド語または英語でお受けします。なお、Stella ModはHoyoverseと提携していないことにご注意ください。',
+	SimplyClickOnTheChatIconInTheBottomRightCorner: 'アカウントを作成するか、Sefinek Patron Centerにログインし、{a}チケットを提出{/a}してください。ポーランド語または英語でお受けします。なお、Stella ModはHoYoverseと提携していないことにご注意ください。',
 
 	CreatANewTicket: '新しいチケットを作成',
 	JoinToDiscordServer: 'Discordサーバーに参加',

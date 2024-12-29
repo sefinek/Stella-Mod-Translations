@@ -1,5 +1,5 @@
 exports.data = {
-	Version: '2.9.14',
+	Version: '2.9.15',
 	Contributors: [
 		'Sefinek <contact@sefinek.net> (https://sefinek.net)', 'MayiVT (https://github.com/MayiVT)',
 	],
@@ -171,7 +171,7 @@ exports.support = {
 	DoYouHaveAnyIssuesOrQuestionsAboutMod: '¿Tienes algún problema con Stella Mod o solo una pregunta? ¡Si es así, no dudes en contactarnos! El equipo está aquí para asistirte con cualquier pregunta o inquietud.',
 	WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures: 'Ya sea que necesites ayuda para instalar el mod o tengas preguntas sobre sus características, estamos aquí para ayudarte.',
 	PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions: 'Ten en cuenta que nuestra comunidad también está lista para responder a tus preguntas. Para hacerlo, únete a nuestro servidor de Discord o crea un nuevo issue en GitHub.',
-	SimplyClickOnTheChatIconInTheBottomRightCorner: 'Simplemente crea una cuenta o inicia sesión en Sefinek Patron Center y {a}envía un ticket{/a} en polaco o inglés. Ten en cuenta que Stella Mod no está afiliado con Hoyoverse.',
+	SimplyClickOnTheChatIconInTheBottomRightCorner: 'Simplemente crea una cuenta o inicia sesión en Sefinek Patron Center y {a}envía un ticket{/a} en polaco o inglés. Ten en cuenta que Stella Mod no está afiliado con HoYoverse.',
 
 	CreatANewTicket: 'Crear un nuevo ticket',
 	JoinToDiscordServer: 'Unirse al servidor de Discord',
