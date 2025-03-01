@@ -117,35 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="panel2.ToolTip" xml:space="preserve">
+  <data name="panel3.ToolTip" xml:space="preserve">
     <value>Zamknij</value>
   </data>
-  <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Otwórz w domyślnej przeglądarce</value>
+  <data name="createShortcut_Label.Text" xml:space="preserve">
+    <value>Interaktywna mapa Teyvat</value>
   </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Jeśli napotkasz jakiekolwiek problemy lub masz sugestie, dołącz do mojego Discorda.
-Dziękuję za korzystanie ze Stelli. Wesprzyj mnie, jeśli uznasz to za pomocne. Miłego!</value>
+  <data name="linkLabel1.Text" xml:space="preserve">
+    <value>Interaktywna mapa świata Genshin Impact</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Dokumentacja</value>
-  </data>
-  <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Przeczytaj dokumentację</value>
+    <value>Lista poziomów najlepszych postaci Genshin Impact</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Galeria</value>
+    <value>4.4 Lista poziomów i najlepsze postacie na luty 2024</value>
   </data>
-  <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Sprawdź galerię</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Mapa gry</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Postacie</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Inne linki</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Widea</value>
+    <value>Interfejs programowania aplikacji</value>
   </data>
-  <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Inne widea</value>
+  <data name="linkLabel6.Text" xml:space="preserve">
+    <value>Oficjalna strona statusu</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Mini-rozgrywka wideo</value>
+    <value>Linki</value>
   </data>
 </root>
