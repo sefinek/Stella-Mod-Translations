@@ -8,7 +8,7 @@ files:
     translation: "/translated/launcher/Properties/Resources.%two_letters_code%.resx"
 
   - source: "/website/*.js"
-    translation: "/website/%two_letters_code%.js"
+    translation: "/translated/website/%two_letters_code%.js"
 
   - source: "/website/missing-translations/en.js"
-    translation: "/website/missing-translations/%two_letters_code%.js"
+    translation: "/translated/website/missing-translations/%two_letters_code%.js"
