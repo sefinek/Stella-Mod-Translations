@@ -1,0 +1,5 @@
+files:
+  - source: launcher
+    ignore:
+      - website
+    translation: translated/%original_path%
