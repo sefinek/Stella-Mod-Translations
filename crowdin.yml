@@ -5,7 +5,7 @@ files:
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/%original_path%/%original_file_name%.%two_letters_code%.resx"
+    translation: "/translated/%original_path%/%original_file_name_without_extension%.%two_letters_code%.resx"
 
   - source: "/launcher/Properties/Resources.resx"
     ignore:
