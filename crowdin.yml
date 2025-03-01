@@ -5,22 +5,22 @@ files:
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%%file_extension%"
+    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
 
   - source: "/launcher/Properties/Resources.resx"
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%%file_extension%"
+    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
 
   - source: "/website/*.js"
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/website/%file_name%.%two_letters_code%%file_extension%"
+    translation: "/translated/website/%file_name%.%two_letters_code%.%file_extension%"
 
   - source: "/website/missing-translations/en.js"
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/website/missing-translations/%file_name%.%two_letters_code%%file_extension%"
+    translation: "/translated/website/missing-translations/%file_name%.%two_letters_code%.%file_extension%"
