@@ -1,45 +1,49 @@
 exports.data = {
  Version: '2.9.15',
- Contributors: ['Sefinek <contact@sefinek.net> (https://sefinek.net)', 'MayiVT (https://github.com/MayiVT)'],
+ Contributors: [
+  'Sefinek <contact@sefinek.net> (https://sefinek.net)',
+  'daydreamer-json (https://github.com/daydreamer-json)',
+  'oto (https://github.com/zozonteq)',
+ ],
 };
 
 // Main
 exports.default = {
- And: 'y',
- From: 'desde',
- In: 'en',
- Back: 'Atrás',
- GoBack: 'Volver',
- GoBackTo: 'Regresar hasta {0}',
- Next: 'Siguiente',
- DiscordServer: 'Servidor de Discord',
- DiscordServerTooltip: 'Invitación a nuestro servidor de Discord',
- YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
- YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
+ And: 'と',
+ From: ' - ',
+ In: '中',
+ Back: '戻る',
+ GoBack: '戻る',
+ GoBackTo: '{0} に戻る',
+ Next: '進む',
+ DiscordServer: 'Discordサーバー',
+ DiscordServerTooltip: 'Discordサーバーへの招待',
+ YourBrowserDoesNotSupportVideoTag: 'あなたのブラウザは動画タグをサポートしていないようです。',
+ YourBrowserDoesNotSupportAudioTag: 'あなたのブラウザは音声タグをサポートしていないようです。',
  tooltips: {
-  OfficialDiscordServer: 'Servidor oficial de Discord',
+  OfficialDiscordServer: '公式Discordサーバー',
   SupportThisProject: 'Support this project voluntarily',
-  GitHubRepositories: 'Repositorios de GitHub',
+  GitHubRepositories: 'GitHubリポジトリ',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: Petición Inválida',
-  InvalidURL: 'La URL de retorno es inválida.',
-  ReferrerURL: 'Tú URL de referencia',
-  CorrectRefURL: 'URL correcta',
+  BadRequest: 'Error 400: 不正なリクエストです。',
+  InvalidURL: 'URLが不正です。',
+  ReferrerURL: 'リファラURL',
+  CorrectRefURL: '正しいURL',
  },
  wrongOs: {
-  DeviceIsNotSupported: 'El dispositivo no es compatible',
-  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
-  ViewSupportedSystems: 'View supported systems »',
+  DeviceIsNotSupported: 'デバイスがサポートされていません',
+  OperatingSysIsNotSupported: '申し訳ございません！あなたのオペレーティングシステム {0} はサポートされていません。',
+  ViewSupportedSystems: 'サポートされているシステムを見る »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: 'No se puede encontrar el archivo ZIP en el servidor',
+  WeCannotFindZipFileOnTheServer: 'サーバー上にZIPファイルが見つかりませんでした。',
   NewUpdateIsComing:
-   '¿Se acerca una nueva actualización? Quizás...\nNo te preocupes, puedes intentar de nuevo o informar de este problema en nuestro servidor de Discord.',
+   '新しいアップデートがありませんか?\n後でもう一度試してみるか、私たちのDiscordサーバーでこの問題を報告してください。',
  },
 };
 
@@ -47,35 +51,34 @@ exports.errors = {
 exports.home = {
  Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
  Text1:
-  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
+  'グラフィック強化、細部までこだわり抜かれたシェーダー、驚異的なFPSのアンロッカーやモッドにより、これまでにない最高のゲーム体験を提供します！',
  Text2:
-  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
+  '新たなグラフィックで、テイワットの世界を再び冒険へ出かけよう。ゲームプレイがさらにリアルに進化します。専用ランチャーが全プロセスを簡略化し、プレイヤーがすぐにアクションに飛び込めるようになりました。',
  FinalText:
-  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
- Download: 'Descargar',
- DownloadTooltip: 'Haz clic aquí para descargar el instalador de 64 bits para Windows 10 y 11.',
- StelaModPlusTooltip:
-  '¡Obtén acceso a la versión de pago de Stella Mod Plus y disfruta de numerosos beneficios y experiencias de juego mejoradas!',
- Documentation: 'Documentación',
- DocumentationTooltip: 'Consulta los requisitos del sistema, configuraciones de juego recomendadas y más.',
- Gallery: 'Galería',
- GalleryTooltip: 'Mira las capturas de pantalla del juego con ReShade inyectado.',
- Videos: 'Videos',
- VideosTooltip: 'Mira nuestros videos sobre el mod y el programa de lanzamiento.',
- Statistics: 'Statistics',
- StatisticsTooltip: 'Check how many people are currently playing Genshin Impact with the Stella mod activated.',
- Feedback: 'Comentarios',
- FeedbackTooltip: 'Comparte tu opinión sobre mi trabajo y Stella Mod.',
- Support: 'Soporte',
- SupportTooltip: 'Haz clic aquí si necesitas ayuda.',
+  'さあ今すぐダウンロードして、ゲームプレイを次のレベルへ引き上げよう。強化されたテイワットの世界に飛び込み、忘れられない瞬間を作りましょう！',
+ Download: 'ダウンロード',
+ DownloadTooltip: 'Windows 10および11用のx64ビットインストーラーをダウンロードするにはここをクリックしてください。',
+ StelaModPlusTooltip: 'Stella Mod Plusの有料バージョンにアクセスして、多くの特典と高度なゲーム体験をお楽しみください！',
+ Documentation: 'ドキュメンテーション',
+ DocumentationTooltip: 'システム要件、推奨ゲーム設定などを確認してください！',
+ Gallery: 'ギャラリー',
+ GalleryTooltip: 'ReShadeが注入されたゲームのスクリーンショットをご覧ください。',
+ Videos: 'ビデオ',
+ VideosTooltip: 'モッドと起動プログラムに関する私たちのビデオをご覧ください。',
+ Statistics: '統計',
+ StatisticsTooltip: 'Stella Mod が有効化された原神を現在プレイしている人数をみる.',
+ Feedback: 'フィードバック',
+ FeedbackTooltip: '私の作品やStella Modについてのご意見をシェアしてください。',
+ Support: 'サポート',
+ SupportTooltip: '助けが必要な場合はこちらをクリックしてください。',
  HomePage: 'Home page',
  HomePageTooltip: 'Home page - Official website of Sefinek',
  PlayMusic: 'Play music',
- FetchingData: 'Descargando datos...',
- Version: 'Versión',
- TheVersionWithoutCaps: 'la versión',
- DownloadCount: 'Recuento de descargas',
- LastDownload: 'Última descarga',
+ FetchingData: 'データのダウンロード中...',
+ Version: 'バージョン',
+ TheVersionWithoutCaps: 'バージョン',
+ DownloadCount: 'ダウンロード数',
+ LastDownload: '最終ダウンロード',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
   AreYouARobot: 'Are you a robot?',
@@ -110,75 +113,74 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Galería - Página número',
- GalleryCompareReleases: 'Galería - Comparar lanzamientos:',
+ GalleryPage: 'ギャラリー - ページ',
+ GalleryCompareReleases: 'ギャラリー - バージョン間の比較:',
  ScreenshotsAreAvailableInHighQuality:
-  'Las capturas de pantalla están disponibles en alta calidad, por lo que podrián tardar un poco en cargar.',
- WebsiteIsNotSupportedOnMobileDevices: 'Este sitio web no es compatible en dispositivos moviles.',
- SomeImageCanBeOutdated: '¡Algunas imágenes pueden estar desactualizadas!',
- SeeComparesFromTheOtherVersions: 'Ver comparaciones sobre las nuevas versiones',
- SeeTheComparisonBetween: 'Ver la comparación entre...',
- ThePageYouAreCurrentlyOnDisplaysAComparison:
-  'La página en la que estás actualmente muestra una comparación de distintas versiones de lanzamiento',
- OldVersion: 'Versión antigua',
- NewVersion: 'Nueva versión',
- WithMod: 'Con mods',
- WithoutMod: 'Sin mods',
- BonusScreenshot: 'Captura de pantalla extra',
+  'スクリーンショットは高画質のものを閲覧できます。読み込むまでに少し時間がかかります。',
+ WebsiteIsNotSupportedOnMobileDevices: 'このWebサイトはモバイル端末での利用をサポートしていません。',
+ SomeImageCanBeOutdated: '一部の画像は古くなっている場合があります！',
+ SeeComparesFromTheOtherVersions: '新しいバージョンとの比較を見る',
+ SeeTheComparisonBetween: 'の比較を見る...',
+ ThePageYouAreCurrentlyOnDisplaysAComparison: 'このページでは、異なるバージョンの比較を示しています。',
+ OldVersion: '旧バージョン',
+ NewVersion: '新バージョン',
+ WithMod: 'MODあり',
+ WithoutMod: 'MODなし',
+ BonusScreenshot: '他のスクリーンショット',
  tooltips: {
-  GoBackToMainGalleryPage: 'Go back to main gallery page',
+  GoBackToMainGalleryPage: 'メインギャラリーページに戻る',
  },
 };
 
 // GET /genshin-stella-mod/feedback
 exports.feedback = {
- LeaveYourFeedback: 'Deja tus comentarios',
+ LeaveYourFeedback: 'フィードバックを残す',
  IfYouLikeThisProjectSupportMe:
-  'Si te ha gustado el proyecto, considera suscribirte a mi {1}canal de Youtube{/1}, dándole una estrella {2}en GitHub{/2} o {3}ayudándome{/3} de otras maneras.',
+  'もしこのプロジェクトを気に入っていただけましたら、私の{1}YouTubeチャンネル{/1}のチャンネル登録をするか、{2}GitHub{/2}でStarをつけるか、その他の方法で{3}私を支援{/3}していただけると幸いです。',
  IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  'Además, si tienes algún comentario o sugerencia, no dudes en utilizar la función de chat para enviarlos directamente.',
+  'また、ご意見やご要望がありましたら、遠慮なくチャットサポートで直接私にお問い合わせください。',
  btn: {
-  BelowYTVideo: 'Debajo de mi video de YouTube',
-  OnTheDiscordServer: 'En el servidor de Discord',
+  BelowYTVideo: 'YouTube',
+  OnTheDiscordServer: 'Discord',
  },
  tooltips: {
-  ClickHereToGoToTheYTPage: 'Haz clic aquí para ir a la página de YouTube.',
-  GiveAStarToMyReposOnGitHub: 'Dale una estrella a mis repositorios en GitHub, a los que te gusten.',
+  ClickHereToGoToTheYTPage: 'YouTubeのページに移動するにはここをクリックしてください。',
+  GiveAStarToMyReposOnGitHub: '私のGitHubのリポジトリにスターを付けてください。お気に入りのものです。',
  },
 };
 
 // GET /genshin-stella-mod/support
 exports.support = {
- SomeQuestions: '¿Tienes alguna pregunta? ¿Necesitas soporte?',
+ SomeQuestions: '何か質問がありますか？サポートが必要ですか？',
  DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  '¿Tienes algún problema con Stella Mod o solo una pregunta? ¡Si es así, no dudes en contactarnos! El equipo está aquí para asistirte con cualquier pregunta o inquietud.',
+  'Stella Modに関する問題や質問がありますか？もしそうなら、ためらわずにご連絡ください！チームはどんな質問や懸念にも対応する準備ができています。',
  WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'Ya sea que necesites ayuda para instalar el mod o tengas preguntas sobre sus características, estamos aquí para ayudarte.',
+  'Stella Modのインストールに関するサポートが必要な場合や、機能についての質問がある場合、私たちはお手伝いします。',
  PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  'Ten en cuenta que nuestra comunidad también está lista para responder a tus preguntas. Para hacerlo, únete a nuestro servidor de Discord o crea un nuevo issue en GitHub.',
+  '私たちのコミュニティも質問にお答えする準備ができていますのでご注意ください。Discordサーバーに参加するか、GitHubで新しいissueを作成してください。',
  SimplyClickOnTheChatIconInTheBottomRightCorner:
-  'Simplemente crea una cuenta o inicia sesión en Sefinek Patron Center y {a}envía un ticket{/a} en polaco o inglés. Ten en cuenta que Stella Mod no está afiliado con HoYoverse.',
- CreatANewTicket: 'Crear un nuevo ticket',
- JoinToDiscordServer: 'Unirse al servidor de Discord',
- SendAnEmail: 'Enviar un correo electrónico',
+  'アカウントを作成するか、Sefinek Patron Centerにログインし、{a}チケットを提出{/a}してください。ポーランド語または英語でお受けします。なお、Stella ModはHoYoverseと提携していないことにご注意ください。',
+ CreatANewTicket: '新しいチケットを作成',
+ JoinToDiscordServer: 'Discordサーバーに参加',
+ SendAnEmail: 'メールを送信',
  tooltips: {
-  CreateANewTicket: 'Haz clic aquí para crear un nuevo ticket en el sitio web de SPC.',
-  JoinOurOfficialDiscordServer: 'Únete a nuestro servidor oficial de Discord.',
-  SendAnEmailToTheDeveloper: 'Envía un correo electrónico al desarrollador si esperas una respuesta más detallada.',
-  ReturnTo: 'Volver a: Genshin Stella Mod - Aquí comienza tu aventura.',
+  CreateANewTicket: 'ここをクリックしてSPCウェブサイトで新しいチケットを作成します。',
+  JoinOurOfficialDiscordServer: '公式Discordサーバーに参加します。',
+  SendAnEmailToTheDeveloper: 'より詳細な回答を希望する場合は、開発者にメールを送信してください。',
+  ReturnTo: '戻る: Genshin Stella Mod - ここからあなたの冒険が始まります。',
  },
 };
 
 // GET /genshin-stella-mod/videos
 exports.videos = {
- WatchVideosOnYT: 'Ver videos en YouTube',
+ WatchVideosOnYT: '動画をYouTubeで見る',
  IfYouWantToRecordNewVideo:
   'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
- DeprecatedMovies: 'Videos obsoletos',
+ DeprecatedMovies: '非推奨の映画',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
-  'Estos videos pertenecen a versiones anteriores de Stella Mod y se consideran obsoletos.',
- FirstModRelease: 'Primer lanzamiento del mod',
- Gameplay: 'Gameplay',
+  'これらの映画は、以前のStella Modのバージョンからのものであり、すでに時代遅れと考えられています。',
+ FirstModRelease: '初期リリース',
+ Gameplay: 'ゲームプレイ',
 };
 
 // GET /genshin-stella-mod/stats
@@ -315,11 +317,11 @@ exports.github = {
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Elige tu grado de suscripción',
+ ChooseYourSubscriptionTier: 'Choose your subscription tier',
  IfYouAreInterestedInTheBenefits:
-  'Si estás interesado en los beneficios, por favor explora todos los grados de suscripción para ver cual se rige más a tus preferencias. Con suerte encontrarás a alguno que sea de tu interés!',
+  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
  IfYouHaveAnyQuestions:
-  'Si tienes alguna pregunta, no dudes en contactarnos mediante discord o correo electrónico. Puedes encontrar la información de contacto en la pagina principal.',
+  "Do you have any questions? Don't hesitate to join our Discord server or contact us via email. You can find the contact information on the main page of this website.",
  Recommended: 'Recommended',
  tiers: {
   1: {
@@ -350,15 +352,15 @@ exports.subscription = {
  },
  UnknownBenefit: 'Unknown benefit',
  prices: {
-  MonthlyPrice: 'Precio mensual',
-  Every3Months: 'Cada 3 meses',
-  YearlyPrice: 'Precio anual',
+  MonthlyPrice: 'Monthly price',
+  Every3Months: 'Every 3 months',
+  YearlyPrice: 'Yearly price',
  },
  Everything: {
-  FromTheTier: 'Todo sobre el grado {0}',
-  FromTheTier12: 'Todo sobre los grados 1 y 2',
-  FromTheTier12And3: 'Todo sobre los grados 1, 2 y 3',
-  FromAllTheTiers: 'Todo sobre todos los grados',
+  FromTheTier: 'Everything from Tier {0}',
+  FromTheTier12: 'Everything from Tier 1 and 2',
+  FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
+  FromAllTheTiers: 'Everything from all Tiers',
  },
  TierName: 'Tier name',
  benefitsFull: {
@@ -374,7 +376,6 @@ exports.subscription = {
   HideYourUIDInTheGame: 'Hide your UID in the game',
   PresetsFromPreviousVersions: 'Presets from previous versions',
   EarlyAccessToStellaMod: 'Early access to Stella Mod',
-  FasterDownloadServers: 'Faster download servers',
   CarefullyDesignedSecuritySystem: 'Carefully designed security system',
   MuchGreaterPrivacy: 'Much greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
@@ -400,7 +401,6 @@ exports.subscription = {
   HideYourUIDInTheGame: 'Hide your UID in the game',
   PresetsFromPreviousVersions: 'Presets from previous versions',
   EarlyAccessToStellaMod: 'Early access to Stella Mod',
-  FasterDownloadServers: 'Faster download servers',
   CarefullyDesignedSecuritySystem: 'Carefully designed security system',
   MuchGreaterPrivacy: 'Much greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
@@ -410,8 +410,8 @@ exports.subscription = {
   AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
   ActivationPossibleOn: 'Activation possible on',
  },
- SubscribeNow: 'Subscribete ahora',
- ChangeYourTier: 'Cambia tu plan',
+ SubscribeNow: 'Subscribe now',
+ ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
   'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
  IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
@@ -422,10 +422,10 @@ exports.subscription = {
  IAcceptPaymentsOnlyOnBinance: 'I accept payments only on Binance.',
  CloseModal: 'Close modal',
  PaymentSystem: {
-  Header: 'Sistema de pago',
-  1: 'Nos complace anunciar que nuestro sistema de pago funciona con {0}. Con Stripe, puedes hacer pagos de forma segura, sabiendo que tu información de pago está gestionada de la manera más segura.',
-  2: 'Stripe es una plataforma de procesamiento de pago reconocida globalmente y seguura, que promete rapidez y seguridad en las transaciones de nuestros usuarios. Aunque estés comprando productos, suscribiendote a servicios o haciendo donaciones, la robusta infraestructura de Stripe asegura una experiencia de pagos segura y sin problemas.',
-  3: 'Tenga la seguridad de que sus datos confidenciales de pago están encriptados y protegidos durante todo el proceso de pago. Su privacidad y seguridad son nuestras principales prioridades.',
+  Header: 'Payment system',
+  1: 'We are delighted to announce that our secure payment system is powered by {0}. With Stripe, you can confidently make payments, knowing that your financial information is handled with the highest level of security.',
+  2: "Stripe is a well-trusted and globally recognized payment processing platform that guarantees smooth and secure transactions for our customers. Whether you're buying products, subscribing to services, or making donations, Stripe's robust infrastructure ensures a dependable and trouble-free payment experience.",
+  3: 'Please be assured that your sensitive payment details are encrypted and safeguarded throughout the entire payment process. Your privacy and security are our top priorities.',
  },
  AcceptedPaymentMethods: 'Accepted payment methods',
  IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
