@@ -1,8 +1,14 @@
+source_language: "en"
+
 files:
-  - source: '*'
-    ignore:
-      - README.md
-      - .github
-      - LICENSE
-      - .gitignore
-    translation: translated/%original_path%
+  - source: "/launcher/Forms/**/*.resx"
+    translation: "/translated/launcher/Forms/%original_path%/%original_file_name%.%two_letters_code%.resx"
+
+  - source: "/launcher/Properties/Resources.resx"
+    translation: "/translated/launcher/Properties/Resources.%two_letters_code%.resx"
+
+  - source: "/website/*.js"
+    translation: "/website/%two_letters_code%.js"
+
+  - source: "/website/missing-translations/en.js"
+    translation: "/website/missing-translations/%two_letters_code%.js"
