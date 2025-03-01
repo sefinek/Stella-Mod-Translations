@@ -2,13 +2,25 @@ source_language: "en"
 
 files:
   - source: "/launcher/Forms/**/*.resx"
-    translation: "/translated/launcher/Forms/%original_path%/%original_file_name%.%two_letters_code%.resx"
+    ignore:
+      - "/.github/**"
+      - "**/*.md"
+    translation: "/translated/%original_path%/%original_file_name%.%two_letters_code%.resx"
 
   - source: "/launcher/Properties/Resources.resx"
-    translation: "/translated/launcher/Properties/Resources.%two_letters_code%.resx"
+    ignore:
+      - "/.github/**"
+      - "**/*.md"
+    translation: "/translated/%original_path%/Resources.%two_letters_code%.resx"
 
   - source: "/website/*.js"
+    ignore:
+      - "/.github/**"
+      - "**/*.md"
     translation: "/translated/website/%two_letters_code%.js"
 
   - source: "/website/missing-translations/en.js"
+    ignore:
+      - "/.github/**"
+      - "**/*.md"
     translation: "/translated/website/missing-translations/%two_letters_code%.js"
