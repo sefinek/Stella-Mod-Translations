@@ -169,7 +169,7 @@
     <value>2</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>» Animals</value>
+    <value>» Animaux</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -199,7 +199,7 @@
     <value>3</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Dog</value>
+    <value>Chien</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -229,7 +229,7 @@
     <value>4</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Fox</value>
+    <value>Renard</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -325,13 +325,13 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Fox girl</value>
+    <value>Fille renarde</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime fox girls</value>
+    <value>Fille renarde d'anime</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -397,7 +397,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Coffee</value>
+    <value>Café</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -535,7 +535,7 @@
     <value>47</value>
   </data>
   <data name="linkLabel43.Text" xml:space="preserve">
-    <value>Tail</value>
+    <value>Queue</value>
   </data>
   <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
     <value>linkLabel43</value>
@@ -601,7 +601,7 @@
     <value>50</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>» YouTube videos</value>
+    <value>» Vidéos Youtube</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -631,7 +631,7 @@
     <value>51</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
-    <value>Half-Life cat</value>
+    <value>Chat d'Half-Life</value>
   </data>
   <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
     <value>linkLabel45</value>
@@ -664,7 +664,7 @@
     <value>54</value>
   </data>
   <data name="poweredBy_Label.Text" xml:space="preserve">
-    <value>Powered by: {0}</value>
+    <value>Alimenté par : {0}</value>
   </data>
   <data name="poweredBy_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -727,7 +727,7 @@
     <value>58</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Cute</value>
+    <value>Mignon</value>
   </data>
   <data name="&gt;&gt;linkLabel8.Name" xml:space="preserve">
     <value>linkLabel8</value>
@@ -760,7 +760,7 @@
     <value>59</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Uniform</value>
+    <value>Uniforme</value>
   </data>
   <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
     <value>linkLabel9</value>
@@ -793,7 +793,7 @@
     <value>60</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>Tail with ribbon</value>
+    <value>Queue avec ruban</value>
   </data>
   <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
     <value>linkLabel10</value>
@@ -859,7 +859,7 @@
     <value>62</value>
   </data>
   <data name="linkLabel12.Text" xml:space="preserve">
-    <value>Sailor uniform</value>
+    <value>Uniforme de marin</value>
   </data>
   <data name="&gt;&gt;linkLabel12.Name" xml:space="preserve">
     <value>linkLabel12</value>
@@ -892,7 +892,7 @@
     <value>63</value>
   </data>
   <data name="linkLabel13.Text" xml:space="preserve">
-    <value>Schoolgirl</value>
+    <value>Fille d'école</value>
   </data>
   <data name="&gt;&gt;linkLabel13.Name" xml:space="preserve">
     <value>linkLabel13</value>
@@ -958,7 +958,7 @@
     <value>65</value>
   </data>
   <data name="linkLabel15.Text" xml:space="preserve">
-    <value>Lying down</value>
+    <value>Allongé</value>
   </data>
   <data name="&gt;&gt;linkLabel15.Name" xml:space="preserve">
     <value>linkLabel15</value>
@@ -991,7 +991,7 @@
     <value>66</value>
   </data>
   <data name="linkLabel16.Text" xml:space="preserve">
-    <value>Skirt</value>
+    <value>Jupe</value>
   </data>
   <data name="&gt;&gt;linkLabel16.Name" xml:space="preserve">
     <value>linkLabel16</value>
@@ -1024,7 +1024,7 @@
     <value>67</value>
   </data>
   <data name="linkLabel17.Text" xml:space="preserve">
-    <value>Long hair</value>
+    <value>Cheveux longs</value>
   </data>
   <data name="&gt;&gt;linkLabel17.Name" xml:space="preserve">
     <value>linkLabel17</value>
@@ -1057,7 +1057,7 @@
     <value>68</value>
   </data>
   <data name="linkLabel18.Text" xml:space="preserve">
-    <value>Smile</value>
+    <value>Sourire</value>
   </data>
   <data name="&gt;&gt;linkLabel18.Name" xml:space="preserve">
     <value>linkLabel18</value>
@@ -1090,7 +1090,7 @@
     <value>69</value>
   </data>
   <data name="linkLabel19.Text" xml:space="preserve">
-    <value>Maid</value>
+    <value>Femme de ménage</value>
   </data>
   <data name="&gt;&gt;linkLabel19.Name" xml:space="preserve">
     <value>linkLabel19</value>
@@ -1123,7 +1123,7 @@
     <value>70</value>
   </data>
   <data name="linkLabel20.Text" xml:space="preserve">
-    <value>Thigh high socks</value>
+    <value>Chaussettes hautes jusqu'aux cuisses</value>
   </data>
   <data name="&gt;&gt;linkLabel20.Name" xml:space="preserve">
     <value>linkLabel20</value>
@@ -1156,7 +1156,7 @@
     <value>71</value>
   </data>
   <data name="linkLabel21.Text" xml:space="preserve">
-    <value>Knee high socks</value>
+    <value>Chaussettes hautes jusqu'aux genoux</value>
   </data>
   <data name="&gt;&gt;linkLabel21.Name" xml:space="preserve">
     <value>linkLabel21</value>
@@ -1189,7 +1189,7 @@
     <value>72</value>
   </data>
   <data name="linkLabel22.Text" xml:space="preserve">
-    <value>Heterochromia</value>
+    <value>Hétérochromie</value>
   </data>
   <data name="&gt;&gt;linkLabel22.Name" xml:space="preserve">
     <value>linkLabel22</value>
@@ -1222,7 +1222,7 @@
     <value>73</value>
   </data>
   <data name="linkLabel23.Text" xml:space="preserve">
-    <value>Wink</value>
+    <value>Clin d'œil</value>
   </data>
   <data name="&gt;&gt;linkLabel23.Name" xml:space="preserve">
     <value>linkLabel23</value>
@@ -1255,7 +1255,7 @@
     <value>74</value>
   </data>
   <data name="linkLabel24.Text" xml:space="preserve">
-    <value>Dress</value>
+    <value>Habits</value>
   </data>
   <data name="&gt;&gt;linkLabel24.Name" xml:space="preserve">
     <value>linkLabel24</value>
@@ -1288,7 +1288,7 @@
     <value>75</value>
   </data>
   <data name="linkLabel25.Text" xml:space="preserve">
-    <value>Ribbons</value>
+    <value>Rubans</value>
   </data>
   <data name="&gt;&gt;linkLabel25.Name" xml:space="preserve">
     <value>linkLabel25</value>
@@ -1321,7 +1321,7 @@
     <value>76</value>
   </data>
   <data name="linkLabel26.Text" xml:space="preserve">
-    <value>Hoodie</value>
+    <value>Sweat à capuche</value>
   </data>
   <data name="&gt;&gt;linkLabel26.Name" xml:space="preserve">
     <value>linkLabel26</value>
@@ -1354,7 +1354,7 @@
     <value>77</value>
   </data>
   <data name="linkLabel27.Text" xml:space="preserve">
-    <value>Casual wear</value>
+    <value>Habits normaux</value>
   </data>
   <data name="&gt;&gt;linkLabel27.Name" xml:space="preserve">
     <value>linkLabel27</value>
@@ -1387,7 +1387,7 @@
     <value>78</value>
   </data>
   <data name="linkLabel28.Text" xml:space="preserve">
-    <value>Black tights</value>
+    <value>Collants noirs</value>
   </data>
   <data name="&gt;&gt;linkLabel28.Name" xml:space="preserve">
     <value>linkLabel28</value>
@@ -1420,7 +1420,7 @@
     <value>79</value>
   </data>
   <data name="linkLabel29.Text" xml:space="preserve">
-    <value>White hair</value>
+    <value>Cheveux blancs</value>
   </data>
   <data name="&gt;&gt;linkLabel29.Name" xml:space="preserve">
     <value>linkLabel29</value>
@@ -1453,7 +1453,7 @@
     <value>80</value>
   </data>
   <data name="linkLabel30.Text" xml:space="preserve">
-    <value>Pink hair</value>
+    <value>Cheveux roses</value>
   </data>
   <data name="&gt;&gt;linkLabel30.Name" xml:space="preserve">
     <value>linkLabel30</value>
@@ -1486,7 +1486,7 @@
     <value>81</value>
   </data>
   <data name="linkLabel31.Text" xml:space="preserve">
-    <value>Blue hair</value>
+    <value>Cheveux bleus</value>
   </data>
   <data name="&gt;&gt;linkLabel31.Name" xml:space="preserve">
     <value>linkLabel31</value>
@@ -1585,7 +1585,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Visit our booru to see more adorable pictures! Click here.</value>
+    <value>Visite notre dooru pour voir plus d'images adorables ! Clique ici.</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1621,7 +1621,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Random anime pictures</value>
+    <value>Images d'animé aléatoire</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
