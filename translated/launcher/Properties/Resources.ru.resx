@@ -312,44 +312,44 @@
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>Печально... Не удалось загрузить ReShade.ini. Попробовать снова.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
-    <value>Sorry. Something went wrong with WebView2.</value>
+    <value>Извините. Что-то пошло не так с WebView2.</value>
   </data>
   <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>For some reason, you did not give consent for the automatic update of the ReShade file. Please note that older versions of this file may not be compatible with newer versions of Stella Mod. I hope you know what you're doing.</value>
+    <value>По какой-то причине вы не давали согласия на автоматическое обновление файла ReShade. Пожалуйста, обратите внимание, что старые версии этого файла могут быть несовместимы с новыми версиями Stella Mod. Надеюсь, вы знаете, что делаете.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
-    <value>Unpacking files...</value>
+    <value>Распаковка файлов...</value>
   </data>
   <data name="ReShadeIniUpdate_ReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade.ini was not found in: {0}</value>
+    <value>Файл ReShade.ini не был найден в: {0}</value>
   </data>
   <data name="Default_CurrentBackground" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Текущий фон: {0}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
-    <value>Browsing tools</value>
+    <value>Инструменты для просмотра</value>
   </data>
   <data name="NormalRelease_WeFoundNewUpdates" xml:space="preserve">
-    <value>We found new updates</value>
+    <value>Мы нашли новые обновления</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
-    <value>Playing: {0}</value>
+    <value>Игра: {0}</value>
   </data>
   <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
+    <value>Необходимые зависимости были успешно установлены, но ваш компьютер необходимо перезагрузить.</value>
   </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Game launcher was not found.</value>
+    <value>Программа запуска игры не найдена.</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade log file was not found in:
+    <value>Файл журнала ReShade не найден в:
 {0}</value>
   </data>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Downloading new update... {0} MB of {1} MB / {2} MB/s</value>
+    <value>Загрузка нового обновления... {0} МБ из {1} МБ / {2} МБ/с</value>
   </data>
   <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -361,22 +361,22 @@
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Unmute music on start</value>
+    <value>Отключение музыки при запуске</value>
   </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
-    <value>File download has been canceled by the user.</value>
+    <value>Загрузка файла была отменена пользователем.</value>
   </data>
   <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
-    <value>Do you want to send us anonymous log files?</value>
+    <value>Хотите ли вы отправлять нам анонимные файлы журналов?</value>
   </data>
   <data name="RandomImages_Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Исходный код</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating. Please wait...</value>
+    <value>Обновление. Пожалуйста, подождите...</value>
   </data>
   <data name="icons8_animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_layers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -385,113 +385,113 @@
     <value>..\Resources\icon_squared.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Main_PleaseWait" xml:space="preserve">
-    <value>Please wait...</value>
+    <value>Пожалуйста, подождите...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade config file was not found in:
+    <value>Файл конфигурации ReShade не найден в:
 {0}</value>
   </data>
   <data name="NormalRelease_NewReleaseIsAvailableDownloadNow" xml:space="preserve">
-    <value>New release is available. Download now!</value>
+    <value>Новый выпуск уже доступен. Загрузите сейчас!</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
-    <value>Successfully downloaded the ReShade.ini file!</value>
+    <value>Успешно загружен файл ReShade.ini!</value>
   </data>
   <data name="icons8_shortcut" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
-    <value>Playing Genshin Impact</value>
+    <value>Играет в Genshin Impact</value>
   </data>
   <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
-    <value>Changed the launcher background. ID: {0}</value>
+    <value>Изменён фон лаунчера. Идентификатор: {0}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeFPSUnlockAnd3DMigoto" xml:space="preserve">
-    <value>Click the 'Start game' button to use ReShade, FPS Unlock, and 3DMigoto.</value>
+    <value>Нажмите кнопку «Начать игру», чтобы использовать ReShade, FPS Unlock и 3DMigoto.</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
+    <value>Необходимый файл 'Configuration Window.exe' не найден. Пожалуйста, переустановите это приложение или присоединитесь к нашему серверу Discord для получения помощи.</value>
   </data>
   <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>Downloaded ReShade.ini was not found in: {0}</value>
+    <value>Загруженный файл ReShade.ini не найден в: {0}</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Loaded form: {0}</value>
+    <value>Загруженная форма: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUnpacked" xml:space="preserve">
-    <value>Successfully unpacked: {0}</value>
+    <value>Успешно распаковано: {0}</value>
   </data>
   <data name="Default_FailedToDownload" xml:space="preserve">
-    <value>Failed to download...</value>
+    <value>Не удалось загрузить...</value>
   </data>
   <data name="flaticon_log" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_log.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
-    <value>Exited from WebView2 browser</value>
+    <value>Выход из браузера WebView2</value>
   </data>
   <data name="Default_UpdatingBenefits" xml:space="preserve">
-    <value>Updating benefits...</value>
+    <value>Обновление...</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
-    <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
+    <value>Успешно обновлено 3DMigoto для подписчиков Stella Plus.</value>
   </data>
   <data name="NormalRelease_SomethingWentWrong" xml:space="preserve">
-    <value>Something went wrong???</value>
+    <value>Что-то пошло не так???</value>
   </data>
   <data name="bg_donates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_support-me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
-    <value>You have the latest version</value>
+    <value>У вас последняя версия</value>
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
-    <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
+    <value>Не удалось обновить. Программе было отказано в доступе к местоположению, что не позволило ей сохранить, скопировать, открыть или загрузить файлы.</value>
   </data>
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Log files was sent to developer.</value>
+    <value>Файлы журнала были отправлены разработчику.</value>
   </data>
   <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Disable Discord RPC</value>
+    <value>Отключить Discord RPC</value>
   </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Deleting the previous version of the mod pack...</value>
+    <value>Удаление предыдущей версии мод-пака...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>Не могли бы вы поделиться своим мнением о Stella Mod на сайте trustpilot.ru? Я буду очень признателен.</value>
   </data>
   <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Enable Discord RPC</value>
+    <value>Включить Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>Загрузите файл конфигурации (unlocker.config.json) для FPS Unlocker</value>
   </data>
   <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>Ohh, something went wrong</value>
+    <value>О, что-то пошло не так.</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Удалён старый установочный файл из временного каталога.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Just chilling</value>
+    <value>Просто прохлаждаюсь</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparing... If process is stuck, reopen launcher.</value>
+    <value>Подготовка... Если процесс застопорился, снова откройте лаунчер.</value>
   </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
-    <value>Audio file ({0}) was not found.</value>
+    <value>Аудиофайл ({0}) не найден.</value>
   </data>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
-    <value>Successfully uploaded logs</value>
+    <value>Успешная загрузка журналов</value>
   </data>
   <data name="icons8_gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_gear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
-    <value>Everything is okay! Starting setup...</value>
+    <value>Всё в порядке! Начинаю настройку...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>The requested operation was successful, but your computer needs to be restarted.</value>
+    <value>Запрошенная операция была выполнена успешно, но ваш компьютер необходимо перезагрузить.</value>
   </data>
   <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -595,45 +595,45 @@ Stella Mod - это безопасное программное обеспече
 {0}</value>
   </data>
   <data name="Default_TheReShadeIniFileCouldNotBeLocatedInYourGameFiles" xml:space="preserve">
-    <value>The ReShade.ini file could not be located in your game files, or it may not be compatible with the current version.
+    <value>Не удалось найти файл ReShade.ini в файлах вашей игры или он может быть несовместим с текущей версией.
 
-Would you like to download this file now to prevent future errors and manual configuration? Recommended.</value>
+Хотите загрузить этот файл сейчас, чтобы предотвратить будущие ошибки и необходимость настройки вручную? Рекомендовано.</value>
   </data>
   <data name="Cmd_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Ошибка</value>
   </data>
   <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Cmd_ExecutedCommand" xml:space="preserve">
-    <value>Executed command</value>
+    <value>Выполненная команда</value>
   </data>
   <data name="Default_CachedAppBackground_ID" xml:space="preserve">
-    <value>Cached app background in RAM memory '{0}'; ID: {1};</value>
+    <value>Кэшированный фон приложения в оперативной памяти '{0}'; Идентификатор: {1};</value>
   </data>
   <data name="DiscordRPC_DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord-сервер</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>Вы уверены, что нужно снова запустить окно настройки Stella?</value>
   </data>
   <data name="ReShadeIniUpdate_UpdateReShadeCfg" xml:space="preserve">
-    <value>Update ReShade config</value>
+    <value>Обновить ReShade config</value>
   </data>
   <data name="DiscordRPC_State" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>Версия: {0}</value>
   </data>
   <data name="Default_Downloading" xml:space="preserve">
-    <value>Downloading...</value>
+    <value>Загрузка...</value>
   </data>
   <data name="RandomImages_OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
+    <value>Откройте изображение в браузере по умолчанию</value>
   </data>
   <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>The game file was not found in the previously specified location:
+    <value>Файл игры не был найден в ранее указанном расположении:
 {0}
 
-Do you want to reconfigure Stella Mod in the Configuration Window?</value>
+Вы хотите перенастроить Stella Mod в окне настройки?</value>
   </data>
   <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -642,25 +642,25 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RandomImages_AnimeName" xml:space="preserve">
-    <value>Anime name</value>
+    <value>Название аниме</value>
   </data>
   <data name="ReShadeIniUpdate_GamePathWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Game path was not found on your PC.</value>
+    <value>Путь к игре не был найден на вашем компьютере.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Наблюдать за игровым процессом</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_GameLauncherWasNotFoundIn" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Программа запуска игр не была найдена в: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Cmd_ExitCode" xml:space="preserve">
-    <value>Exit code</value>
+    <value>Код выхода</value>
   </data>
   <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -669,22 +669,22 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>Программа запуска Stella Mod была успешно обновлена до версии: v{0}</value>
   </data>
   <data name="Os_FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
+    <value>Не удалось получить идентификатор устройства.</value>
   </data>
   <data name="WebView2Handler_ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
+    <value>Выберите автономный установщик Evergreen.</value>
   </data>
   <data name="NormalRelease_UpdateSize" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>Размер файла, готового к загрузке: {0}</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>Ой, произошла ошибка</value>
   </data>
   <data name="Cmd_RebootIsRequired" xml:space="preserve">
-    <value>Reboot is required</value>
+    <value>Требуется перезагрузка</value>
   </data>
   <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

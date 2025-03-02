@@ -160,7 +160,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Fermer</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -190,8 +190,9 @@
     <value>17</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>This software receives regular updates thanks to the support of Stella Mod Plus users. By subscribing, you unlock various game enhancements, including access to mods, add-ons, reliable shaders, new presets, mod collections, and much more! Elevate your Genshin Impact experience today!
-Please note that a Stella Plus subscription is considered voluntary support and not a product purchase. It is also important to be aware that we do not use GIMI!</value>
+    <value>Ce logiciel reçoit régulièrement des mises-à-jour grâce au support des utilisateurs de Stella Mod Plus. En s'abonnant, vous obtiendrez diverses améliorations du jeu, incluant un accès aux mods, add-ons, shaders fiables, de nouvelles présélections, des collections de mods, et bien plus !
+Élève ton experience sur Genshin Impact !
+S'il-vous-plait notez que un abonnement à Stella Plus est concidéré comme un support volontaire et pas un achat de produit. Il est aussi important de savoir que nous n'utilisons pas les GIMI !</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
