@@ -136,7 +136,7 @@
     <value>1</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Cat</value>
+    <value>Кошка</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -169,7 +169,7 @@
     <value>2</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>» Animals</value>
+    <value>» Животные</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -199,7 +199,7 @@
     <value>3</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Dog</value>
+    <value>Собака</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -229,7 +229,7 @@
     <value>4</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Fox</value>
+    <value>Лиса</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -262,7 +262,7 @@
     <value>5</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>» Anime</value>
+    <value>Аниме</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -292,7 +292,7 @@
     <value>8</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Senko</value>
+    <value>Сэнко</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -325,13 +325,13 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Fox girl</value>
+    <value>Девушка-лиса</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime fox girls</value>
+    <value>Аниме девушки-лисы</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -361,10 +361,10 @@
     <value>6</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Catgirl</value>
+    <value>Девушка-кошка</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
-    <value>Anime cat girls</value>
+    <value>Аниме девушки-кошки</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -397,7 +397,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Coffee</value>
+    <value>Кофе</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -502,7 +502,7 @@
     <value>46</value>
   </data>
   <data name="linkLabel42.Text" xml:space="preserve">
-    <value>Holo</value>
+    <value>Голограмма</value>
   </data>
   <data name="&gt;&gt;linkLabel42.Name" xml:space="preserve">
     <value>linkLabel42</value>
@@ -535,7 +535,7 @@
     <value>47</value>
   </data>
   <data name="linkLabel43.Text" xml:space="preserve">
-    <value>Tail</value>
+    <value>Хвост</value>
   </data>
   <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
     <value>linkLabel43</value>
@@ -568,7 +568,7 @@
     <value>48</value>
   </data>
   <data name="linkLabel44.Text" xml:space="preserve">
-    <value>Shiro</value>
+    <value>Широ</value>
   </data>
   <data name="&gt;&gt;linkLabel44.Name" xml:space="preserve">
     <value>linkLabel44</value>
@@ -601,7 +601,7 @@
     <value>50</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>» YouTube videos</value>
+    <value>» YouTube видео</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -631,7 +631,7 @@
     <value>51</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
-    <value>Half-Life cat</value>
+    <value>Half-Life Кошка</value>
   </data>
   <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
     <value>linkLabel45</value>
@@ -664,7 +664,7 @@
     <value>54</value>
   </data>
   <data name="poweredBy_Label.Text" xml:space="preserve">
-    <value>Powered by: {0}</value>
+    <value>Работает от: {0}</value>
   </data>
   <data name="poweredBy_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -727,7 +727,7 @@
     <value>58</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Cute</value>
+    <value>Мило</value>
   </data>
   <data name="&gt;&gt;linkLabel8.Name" xml:space="preserve">
     <value>linkLabel8</value>
@@ -760,7 +760,7 @@
     <value>59</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Uniform</value>
+    <value>Униформа</value>
   </data>
   <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
     <value>linkLabel9</value>
