@@ -631,7 +631,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page</value>
+    <value>Statut officiel de la page</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -688,7 +688,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Liens</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
