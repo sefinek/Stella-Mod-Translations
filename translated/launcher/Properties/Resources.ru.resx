@@ -118,94 +118,94 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>An update is required.
+    <value>Требуется обновление.
 
-We apologize for any inconvenience, but it is necessary to install every new update. These updates may include quality improvements, and some may even contain critical security fixes.
+Приносим извинения за возможные неудобства, но каждое новое обновление необходимо устанавливать. Эти обновления могут включать улучшения качества, а некоторые могут даже содержать критические исправления для системы безопасности.
 
-If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
+Если по какой-либо причине вы не можете обновить Stella Mod с помощью лаунчера, пожалуйста, удалите текущую версию и установите новую с официального сайта.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Запустите официальный лаунчер для Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>Проверяю наличие обновлений...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>Успешно!</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>Мы переименовали вашу папку ресурсов, добавив в конец "{0}".</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>Каталог ресурсов не найден. В новых версиях Stella Mod функция сохранения путей была перенесена в реестр. Если вы только что обновили программное обеспечение, нажмите "ОК". Откроется окно настройки.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Загружаем обновление... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>Успешно обновлены моды 3DMigoto для подписчиков Stella Plus.</value>
   </data>
   <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Successfully retrieved and updated the cached app background with ID {0}.</value>
+    <value>Успешно восстановлен и обновлён фоновый файл кэшированного приложения с идентификатором {0}.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Рабочий каталог</value>
   </data>
   <data name="Default_SuccessfullyUpdatedReShadeCfgAndSavedIn" xml:space="preserve">
-    <value>Successfully downloaded ReShade.ini and saved in: {0}</value>
+    <value>Файл ReShade.ini успешно загружен и сохранён в: {0}</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Successfully downloaded or updated file: {1}</value>
+    <value>{0} Успешно загруженный или обновленный файл: {1}</value>
   </data>
   <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Wrong EnableMusic value in the ini file.</value>
+    <value>Неверное значение EnableMusic в ini-файле.</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Удалён старый установочный файл из временного каталога.</value>
   </data>
   <data name="ReShadeIniUpdate_FileReShadeIniWasNotFoundInYourGameDir" xml:space="preserve">
-    <value>File ReShade.ini was not found in your game directory.</value>
+    <value>Файл ReShade.ini не был найден в каталоге вашей игры.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>Читает документацию</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
 
-Do you want to download this dependency from the Microsoft website?</value>
+Вы хотите загрузить эту зависимость с веб-сайта Microsoft?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
+    <value>Загрузка журналов Stella</value>
   </data>
   <data name="ReShadeIniUpdate_StellaConfigVersionIsNullInReShadeIni" xml:space="preserve">
-    <value>STELLA.ConfigVersion is null in ReShade.ini.</value>
+    <value>STELLA.ConfigVersion имеет значение null в файле ReShade.ini.</value>
   </data>
   <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Are you sure you want to update ReShade configuration?
+    <value>Вы уверены, что хотите обновить конфигурацию ReShade?
 
-This action will result in the loss of any custom configurations you have made. If you do not have any custom configurations, you may proceed by clicking Yes. However, if you have made changes, please ensure that you have backed up the previous ReShade file in your game files.</value>
+Это действие приведёт к потере всех пользовательских настроек, которые вы создали. Если у вас нет пользовательских настроек, вы можете продолжить, нажав "Да". Однако, если вы внесли изменения, пожалуйста, убедитесь, что вы сохранили резервную копию предыдущего файла ReShade в своих файлах игры.</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>В главном окне</value>
   </data>
   <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>Доступна крупная версия</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Проверка наличия обновлений</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Current background: Default</value>
+    <value>Текущий фон: По умолчанию</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>Нажмите здесь, чтобы обновить</value>
   </data>
   <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -214,81 +214,81 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>Официальный веб-сайт</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
-    <value>Online: {0}</value>
+    <value>Онлайн: {0}</value>
   </data>
   <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>File was not found.</value>
+    <value>Файл не был найден.</value>
   </data>
   <data name="ReShadeIniUpdate_TheVersionOfReShadeCfgWasNotFound" xml:space="preserve">
-    <value>The version of ReShade config was not found.</value>
+    <value>Версия ReShade config не была найдена.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>Извините. Фон {0} не найден.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>The application background has been changed to default. ID: {0}</value>
+    <value>Фон приложения был изменён на стандартный. Идентификатор: {0}</value>
   </data>
   <data name="Tools_TheShortcutHasBeenSuccessfullyCreated" xml:space="preserve">
-    <value>The shortcut has been successfully created.</value>
+    <value>Ярлык был успешно создан.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>File {0} was not found.</value>
+    <value>Файл {0} не был найден.</value>
   </data>
   <data name="Main_ClosingForm_" xml:space="preserve">
-    <value>Closing form {0}...</value>
+    <value>Закрытие формы {0}...</value>
   </data>
   <data name="icons8_github" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>Вы зарегистрированы как {0}. Привет, приятно познакомиться! Проверьте свою активность в Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
-    <value>Watching other videos</value>
+    <value>Просмотр других видео</value>
   </data>
   <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
-    <value>It's just text. What more do you want?</value>
+    <value>Это просто текст. Чего ты ещё хочешь?</value>
   </data>
   <data name="icons8_recycle_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_recycle-bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
-    <value>Successfully updated ReShade Addons for Stella Plus subscribers.</value>
+    <value>Успешно обновлены дополнения ReShade для подписчиков Stella Plus.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedPresets" xml:space="preserve">
-    <value>Successfully updated presets for Stella Plus subscribers.</value>
+    <value>Успешно обновлены пресеты для подписчиков Stella Plus.</value>
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
-    <value>Do you want to join our Discord server?</value>
+    <value>Вы хотите присоединиться к нашему серверу Discord?</value>
   </data>
   <data name="ReShadeIniUpdate_DownloadTheRequiredFile" xml:space="preserve">
-    <value>Download the required file</value>
+    <value>Загрузите необходимый файл</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
-    <value>The new version v{0} from {1} is available! Please update.</value>
+    <value>Доступна новая версия v{0} из {1}! Пожалуйста, обновите её.</value>
   </data>
   <data name="icons8_notepad" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Downloading update... {0} / {1}</value>
+    <value>Загружаю обновление... {0} / {1}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
-    <value>Browsing the gallery</value>
+    <value>Просмотр галереи</value>
   </data>
   <data name="Default_SomethingWentWrongWhileCheckingForNewUpdates" xml:space="preserve">
-    <value>Something went wrong while checking for new updates.
+    <value>Что-то пошло не так при проверке наличия новых обновлений.
 
 {0}</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
-    <value>Update size: {0}</value>
+    <value>Размер обновления: {0}</value>
   </data>
   <data name="bg_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_tools.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -297,16 +297,16 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\bg_gameplay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
-    <value>Successfully updated resources.</value>
+    <value>Успешно обновлённые ресурсы.</value>
   </data>
   <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>Waiting {0}s...</value>
+    <value>Ожидание {0}с...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Sorry, one instance is currently open. Quit the process with name {0} and try again.</value>
+    <value>Извините, в данный момент открыт только один экземпляр. Завершите процесс с именем {0} и повторите попытку.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
-    <value>In the window with links</value>
+    <value>В окне со ссылками</value>
   </data>
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -500,50 +500,50 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>Спасибо за вашу поддержку. Порекомендуйте Stella Mod своим друзьям. Хорошего дня!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>Настройки просмотра</value>
   </data>
   <data name="LaunchCount_TheSimultaneousOfUseRSFU3DM" xml:space="preserve">
-    <value>The simultaneous use of ReShade, 3DMigoto, and FPS Unlock is only possible for Stella Mod Plus subscribers.</value>
+    <value>Одновременное использование ReShade, 3DMigoto и FPS Unlock возможно только для подписчиков Stella Mod Plus.</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>Новое обновление ресурсов доступно с {0}.</value>
   </data>
   <data name="Default_ItLooksLikeYouAreLaunchingTheLauncherForTheFirstTime" xml:space="preserve">
-    <value>Hello! It looks like you're launching the launcher for the first time. Please take a moment to review the terms of use and guidelines for this modification in the official documentation to avoid any potential issues.
+    <value>Здравствуйте! Похоже, что вы запускаете программу запуска в первый раз. Пожалуйста, ознакомьтесь с условиями использования и рекомендациями по внесению изменений в официальную документацию, чтобы избежать возможных проблем.
 
-The software is continuously supported by the developer thanks to Stella Plus subscribers. Subscription revenues cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, ensuring that the local administrator is the sole owner of the data. This guarantees the security of your device's hardware data, which is processed according to the highest privacy standards. Stella Mod Launcher prioritizes privacy and security. No analytical data is sent to the server without your consent.
+Разработчик постоянно поддерживает программное обеспечение благодаря подписчикам Stella Plus. Доходы от подписки покрывают расходы на волоконно-оптический Интернет и счета за электричество. Сервер API размещен в частном доме в Польше, что гарантирует, что локальный администратор является единственным владельцем данных. Это гарантирует сохранность аппаратных данных вашего устройства, которые обрабатываются в соответствии с самыми высокими стандартами конфиденциальности. Stella Mod Launcher уделяет приоритетное внимание конфиденциальности и безопасности. Никакие аналитические данные не отправляются на сервер без вашего согласия.
 
-Stella Mod is safe software, so you don't need to worry about anything. Just remember not to use cheats. If you need help, join our Discord server or send an email to contact@sefinek.net. Have fun!</value>
+Stella Mod - это безопасное программное обеспечение, поэтому вам не нужно ни о чём беспокоиться. Просто помните, что не следует использовать читы. Если вам нужна помощь, присоединяйтесь к нашему серверу Discord или отправьте электронное письмо по адресу contact@sefinek.net. Развлекайтесь!</value>
   </data>
   <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>I sincerely thank you for your generous support! Your contribution means a lot to me. ~ Sefinek</value>
+    <value>Я искренне благодарю вас за вашу щедрую поддержку! Ваш вклад очень много значит для меня. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>Каталог {0} не был найден.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>Загрузка ресурсов... {0} / {1}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
-    <value>Click the 'Start game' button to inject ReShade and use FPS Unlock.</value>
+    <value>Нажмите кнопку "Начать игру", чтобы ввести ReShade и использовать Разблокировку кадров в секунду.</value>
   </data>
   <data name="ReShadeIniUpdate_UpdateSize_KB" xml:space="preserve">
-    <value>Update size: {0} KB</value>
+    <value>Размер обновления: {0} КБ</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>Загружаем установочный файл... {0} / {1}</value>
   </data>
   <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Closed form: {0}</value>
+    <value>Закрытая форма: {0}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1}</value>
+    <value>Распаковка файлов... {0} из {1}</value>
   </data>
   <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Output: {0}</value>
+    <value>Результат: {0}</value>
   </data>
   <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -555,42 +555,42 @@ Stella Mod is safe software, so you don't need to worry about anything. Just rem
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Mute music on start</value>
+    <value>Заглушить музыку в начале</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>Что-то пошло не так</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
   </data>
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>The best and completely safe mod for Genshin Impact that enhances graphics and more!</value>
+    <value>Лучший и абсолютно безопасный мод для Genshin Impact, улучшающий графику и многое другое!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>Эта функция доступна только игрокам с подпиской Stella Mod Plus.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+Хотите зайти на официальный сайт и оформить подписку? Вы получите доступ к многочисленным преимуществам, включая возможность одновременного использования ReShade, 3DMigoto и FPS Unlocker.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
-    <value>Successfully updated shaders to the latest version for Stella Plus subscribers.</value>
+    <value>Подписчики Stella Plus успешно обновили шейдеры до последней версии.</value>
   </data>
   <data name="Default_SuccessfullyUpdatedReShadeCfg" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file!</value>
+    <value>Успешно обновлён файл ReShade.ini!</value>
   </data>
   <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file. Paths to resource locations have been changed to current, and similar changes have been made.
+    <value>Успешно обновлён файл ReShade.ini. Пути к расположениям ресурсов изменены на текущие, и были внесены аналогичные изменения.
 
-Current preset:
+Текущая предустановка:
 {0}</value>
   </data>
   <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher file does not exist.
+    <value>Файл запуска не существует.
 
 {0}</value>
   </data>
