@@ -3,11 +3,11 @@ exports.data = {
  Contributors: ['Sefinek <contact@sefinek.net> (https://sefinek.net)'],
 };
 module.exports = {
- OhNoSomethingWentWrong: 'Oh no! Something went wrong...',
+ OhNoSomethingWentWrong: '「あらら、何かがうまくいかなかったようですね...',
  WereSorryButWeCouldFindTheCorrectTranslation:
-  "Sorry, we couldn't find a correct translation for your language - {0}. For more information, please check the console details. (≧◡≦) ♡",
+  '申し訳ありませんが、{0}の正しい翻訳が見つかりませんでした。詳細については、コンソールの詳細を確認してください。(≧◡≦) ♡',
  IfYouWouldLikeToContributeYourOwnTranslationOrHelpUsFixThisIssue:
-  'If you would like to contribute your own translation or help us fix this issue, please create a new {0}Pull Request{/0} on our {1}GitHub repository{/1} Thank you for your help! o(>ω<)o',
- SwitchLanguageToEnglish: 'Switch language to English',
- YesClickMe: 'Yes, click me!',
+  'もし独自の翻訳を提供していただくか、問題を修正していただける場合は、弊社の{0}GitHubリポジトリ{/0}で新しい{1}プルリクエスト{/1}を作成してください。ご協力いただきありがとうございます！ o(>ω<)o',
+ SwitchLanguageToEnglish: '言語を英語に切り替える',
+ YesClickMe: 'はい、ここをクリックしてください！',
 };
