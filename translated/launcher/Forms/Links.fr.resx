@@ -151,7 +151,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel3.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Fermer</value>
   </data>
   <data name="&gt;&gt;panel3.Name" xml:space="preserve">
     <value>panel3</value>
@@ -232,7 +232,7 @@
     <value>100</value>
   </data>
   <data name="createShortcut_Label.Text" xml:space="preserve">
-    <value>Teyvat Interactive Map</value>
+    <value>Carte interactive de Teyvat</value>
   </data>
   <data name="&gt;&gt;createShortcut_Label.Name" xml:space="preserve">
     <value>createShortcut_Label</value>
@@ -292,7 +292,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Genshin Impact Interactive World Map</value>
+    <value>Carte du monde interactive de Gensin Impact</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -352,7 +352,7 @@
     <value>104</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Genshin Impact Best Characters Tier List (genshin.gg)</value>
+    <value>Tier-list des meilleurs personnages de Genshin Impact (genshin.gg)</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -412,7 +412,7 @@
     <value>106</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Tier List and the Best Characters (game8.co)</value>
+    <value>Tier list et les meilleurs personnages (game8.co)</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -442,7 +442,7 @@
     <value>108</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Game map</value>
+    <value>Carte du jeu</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -475,7 +475,7 @@
     <value>109</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Characters</value>
+    <value>Personnages</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -508,7 +508,7 @@
     <value>110</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Other links</value>
+    <value>Autres liens</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -571,7 +571,7 @@
     <value>111</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Application programming interface</value>
+    <value>Interface des programmes d'installations</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -631,7 +631,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page</value>
+    <value>Statut officiel de la page</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -688,7 +688,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Liens</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

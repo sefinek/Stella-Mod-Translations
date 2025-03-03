@@ -151,7 +151,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Zamknij</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -238,7 +238,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Settings &lt;&lt;</value>
+    <value>&gt;&gt; Ustawienia &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -301,10 +301,10 @@
     <value>98</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Utwórz skrót na pulpicie</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Create a shortcut for Stella Mod Launcher on your desktop. This is useful if you accidentally deleted the Stella Mod Launcher icon.</value>
+    <value>Utwórz skrót do Stella Mod Launcher na pulpicie. Jest to przydatne w razie przypadkowego usunięcia ikony Stella Mod Launcher.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -370,10 +370,10 @@
     <value>112</value>
   </data>
   <data name="MuteMusicOnStart.Text" xml:space="preserve">
-    <value>Mute music on start</value>
+    <value>Wycisz muzyke na start</value>
   </data>
   <data name="MuteMusicOnStart.ToolTip" xml:space="preserve">
-    <value>Enable or mute the music played during the startup of this launcher program</value>
+    <value>Włączenie lub wyciszenie muzyki odtwarzanej podczas uruchamiania tego programu uruchamiającego</value>
   </data>
   <data name="&gt;&gt;MuteMusicOnStart.Name" xml:space="preserve">
     <value>MuteMusicOnStart</value>
@@ -406,10 +406,10 @@
     <value>114</value>
   </data>
   <data name="DisableDiscordRPC.Text" xml:space="preserve">
-    <value>Disable Discord RPC</value>
+    <value>Wyłącz Discord RPC</value>
   </data>
   <data name="DisableDiscordRPC.ToolTip" xml:space="preserve">
-    <value>Enable or disable the "Playing Genshin Stella Mod" status on Discord</value>
+    <value>Włącz lub wyłącz status "Gra w Genshin Stella Mod" na Discordzie</value>
   </data>
   <data name="&gt;&gt;DisableDiscordRPC.Name" xml:space="preserve">
     <value>DisableDiscordRPC</value>
@@ -442,10 +442,10 @@
     <value>117</value>
   </data>
   <data name="ChangeLanguage.Text" xml:space="preserve">
-    <value>Change langauge</value>
+    <value>Zmiana języka</value>
   </data>
   <data name="ChangeLanguage.ToolTip" xml:space="preserve">
-    <value>Change the language of the Stella Mod Launcher application</value>
+    <value>Zmiana języka aplikacji Stella Mod Launcher</value>
   </data>
   <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
     <value>ChangeLanguage</value>
@@ -481,10 +481,10 @@
     <value>119</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open configuration window</value>
+    <value>Otwórz okno konfiguracyjne</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Ponownie skonfiguruj Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -520,10 +520,10 @@
     <value>125</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Konfiguracja ReShade</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Automatycznie skonfiguruj ReShade i ustaw odpowiednie ścieżki katalogów</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -733,8 +733,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Full build: {0}
-File version: v{1} | Assembly version: v{2}</value>
+    <value>Pełna kompilacja: {0}
+Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -770,7 +770,7 @@ File version: v{1} | Assembly version: v{2}</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Ustawienia</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

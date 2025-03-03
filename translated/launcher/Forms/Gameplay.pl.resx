@@ -142,7 +142,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Zamknij</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -202,7 +202,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open in default browser</value>
+    <value>Otwórz w domyślnej przeglądarce</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -238,8 +238,8 @@
     <value>93</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you encounter any issues or have suggestions, join my Discord.
-Thank you for using Stella. Support me if you find it helpful. Enjoy!</value>
+    <value>Jeśli napotkasz jakiekolwiek problemy lub masz sugestie, dołącz do mojego Discorda.
+Dziękuję za korzystanie ze Stelli. Wesprzyj mnie, jeśli uznasz to za pomocne. Miłego!</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -272,13 +272,13 @@ Thank you for using Stella. Support me if you find it helpful. Enjoy!</value>
     <value>95</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>Dokumentacja</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Read documentation</value>
+    <value>Przeczytaj dokumentację</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -308,13 +308,13 @@ Thank you for using Stella. Support me if you find it helpful. Enjoy!</value>
     <value>96</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Gallery</value>
+    <value>Galeria</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Check the gallery</value>
+    <value>Sprawdź galerię</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -344,13 +344,13 @@ Thank you for using Stella. Support me if you find it helpful. Enjoy!</value>
     <value>97</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Widea</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Other videos</value>
+    <value>Inne widea</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -407,7 +407,7 @@ Thank you for using Stella. Support me if you find it helpful. Enjoy!</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Mini video gameplay</value>
+    <value>Mini-rozgrywka wideo</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
