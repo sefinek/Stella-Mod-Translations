@@ -151,7 +151,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Закрыть</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -205,7 +205,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher 2025</value>
+    <value>Genshin Stella Mod Лаунчер 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -238,7 +238,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Utils and logs &lt;&lt;</value>
+    <value>&gt;&gt; Утилиты и журналы &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -334,7 +334,7 @@
     <value>85</value>
   </data>
   <data name="LauncherLogs.Text" xml:space="preserve">
-    <value>Launcher</value>
+    <value>Лаунчер</value>
   </data>
   <data name="&gt;&gt;LauncherLogs.Name" xml:space="preserve">
     <value>LauncherLogs</value>
@@ -391,7 +391,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Log files</value>
+    <value>Файлы журнала</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -424,7 +424,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Config files</value>
+    <value>Конфигурационные файлы</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -523,7 +523,7 @@
     <value>92</value>
   </data>
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
-    <value>FPS Unlocker</value>
+    <value>Разблокировщик кадров в секунду</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
     <value>unlocker.config.json</value>
@@ -673,7 +673,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Показать директорию</value>
   </data>
   <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
     <value>InnoSetupLogs</value>
@@ -706,7 +706,7 @@
     <value>110</value>
   </data>
   <data name="madeWith_Label.Text" xml:space="preserve">
-    <value>Made with ♡ by Sefinek</value>
+    <value>Создано с ♡ от Sefinek</value>
   </data>
   <data name="madeWith_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -742,7 +742,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Инструменты</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
