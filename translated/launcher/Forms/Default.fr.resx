@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
@@ -127,7 +127,7 @@
   <data name="pictureBox5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
   <data name="pictureBox5.Location" type="System.Drawing.Point, System.Drawing">
     <value>205, 12</value>
   </data>
@@ -137,7 +137,7 @@
   <data name="pictureBox5.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="pictureBox5.TabIndex" type="System.Int32, mscorlib">
     <value>89</value>
   </data>
@@ -175,7 +175,7 @@
     <value>90</value>
   </data>
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
-    <value>Voir les changelogs</value>
+    <value>View changelog</value>
   </data>
   <data name="viewChangelog_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -235,7 +235,7 @@
     <value>88</value>
   </data>
   <data name="changeBg_LinkLabel.Text" xml:space="preserve">
-    <value>Changer le fond</value>
+    <value>Change background</value>
   </data>
   <data name="changeBg_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -244,7 +244,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Changer le fond d'application</value>
+    <value>Change the application background</value>
   </data>
   <data name="&gt;&gt;changeBg_LinkLabel.Name" xml:space="preserve">
     <value>changeBg_LinkLabel</value>
@@ -274,7 +274,7 @@
     <value>76</value>
   </data>
   <data name="close_Panel.ToolTip" xml:space="preserve">
-    <value>Quitter le launcher</value>
+    <value>Exit the launcher</value>
   </data>
   <data name="&gt;&gt;close_Panel.Name" xml:space="preserve">
     <value>close_Panel</value>
@@ -331,7 +331,7 @@
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Principal post GithUb. Aller ajouter une étoile si vous aimez ce logiciel.</value>
+    <value>Main GitHub repository. Star it if you like this software.</value>
   </data>
   <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
     <value>githubUrl_LinkLabel</value>
@@ -364,7 +364,7 @@
     <value>74</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>Fait par Sefinek</value>
+    <value>made by Sefinek</value>
   </data>
   <data name="madeBySefinek_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -439,7 +439,7 @@
     <value>76</value>
   </data>
   <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
-    <value>Icône GitHub</value>
+    <value>GitHub icon</value>
   </data>
   <data name="&gt;&gt;githubIco_Picturebox.Name" xml:space="preserve">
     <value>githubIco_Picturebox</value>
@@ -469,10 +469,10 @@
     <value>77</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
-    <value>Outils</value>
+    <value>Tools</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Outils et logs</value>
+    <value>Tools and logs</value>
   </data>
   <data name="&gt;&gt;tools_LinkLabel.Name" xml:space="preserve">
     <value>tools_LinkLabel</value>
@@ -511,7 +511,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Rejoins notre serveur Discord si tu as besoin d'aide ou si tu as des suggestions</value>
+    <value>Join our Discord server if you need help or have any questions</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -547,13 +547,13 @@
     <value>90</value>
   </data>
   <data name="website_LinkLabel.Text" xml:space="preserve">
-    <value>Site Web</value>
+    <value>Website</value>
   </data>
   <data name="website_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Visite le site web officiel de Stella Mod</value>
+    <value>Visit the official Stella Mod website</value>
   </data>
   <data name="website_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -589,7 +589,7 @@
     <value>Gameplay</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Regarder le Gameplay</value>
+    <value>Watch gameplay</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -622,13 +622,13 @@
     <value>100</value>
   </data>
   <data name="donators_LinkLabel.Text" xml:space="preserve">
-    <value>Donateurs</value>
+    <value>Donators</value>
   </data>
   <data name="donators_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Voir la liste des abonnés de Stella Plus</value>
+    <value>View the subscriber list for Stella Plus</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -664,14 +664,14 @@
     <value>111</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
-    <value>Si vous voulez améliorer votre future expérience de jeu, abonnez-vous à Stella Plus.
-Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout d'une façon sûre!</value>
+    <value>If you want to enhance your gaming experience even further, subscribe to Stella Plus.
+You'll be able to use mods and enjoy the game even more, all in a completely safe way!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Aller à https://sefinek.net/genshin-stella-mod/subscription</value>
+    <value>Go to https://sefinek.net/genshin-stella-mod/subscription</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -713,7 +713,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Ouvrir le Launcher principal du jeu</value>
+    <value>Open the main game launcher</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -749,13 +749,13 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>85</value>
   </data>
   <data name="version_LinkLabel.Text" xml:space="preserve">
-    <value>Attente...</value>
+    <value>Waiting...</value>
   </data>
   <data name="version_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
   </data>
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Clique pour voir le changelog en entier.</value>
+    <value>Click to view the full changelog.</value>
   </data>
   <data name="&gt;&gt;version_LinkLabel.Name" xml:space="preserve">
     <value>version_LinkLabel</value>
@@ -785,10 +785,10 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>104</value>
   </data>
   <data name="links_LinkLabel.Text" xml:space="preserve">
-    <value>Liens</value>
+    <value>Links</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Quelques liens</value>
+    <value>Some links</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -821,10 +821,10 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>118</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Ressources</value>
+    <value>Resources</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Aller voir les ressources de Stella</value>
+    <value>Go to Stella's resources</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -857,10 +857,10 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>120</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Paramètres</value>
+    <value>Settings</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Ouvrir les paramètres</value>
+    <value>Open the settings</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -890,13 +890,13 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>94</value>
   </data>
   <data name="startGame_LinkLabel.Text" xml:space="preserve">
-    <value>Commencer le jeu</value>
+    <value>Start game</value>
   </data>
   <data name="startGame_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Lancer Genshin Impact avec des mods de façon totalement sûre !</value>
+    <value>Launch Genshin Impact with mods completely safely!</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -941,7 +941,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Supporte ce projet. Stella Mod reçoit régulièrement des mises-à-jour grâce à ses supporteurs.</value>
+    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -980,7 +980,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade introduit des améliorations graphiques (notre preset prêt à l'emploi)!</value>
+    <value>ReShade introduces graphical enhancements (our ready-made presets) and more! Press Home in-game and create your own presets!</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1019,10 +1019,10 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>FPS débloqueur</value>
+    <value>Unlock FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Débloque la limite de 60 FPS. Utile si vous avez un écran qui a plus de 60Hz en temps de rafraîchissement.</value>
+    <value>Unlocks the 60 FPS limit. Useful if you have a monitor with a refresh rate higher than 60 Hz.</value>
   </data>
   <data name="unlockFps_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1061,10 +1061,10 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>132</value>
   </data>
   <data name="migoto_checkBox.Text" xml:space="preserve">
-    <value>Plus de mods</value>
+    <value>More mods</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Rend ton jeu plus intéressant et meilleur ! Ajoute des mods variés au jeu selon tes préférences. Totalement sûr !</value>
+    <value>Make your game even more interesting and better! Add various mods to the game according to your preferences. Completely safely!</value>
   </data>
   <data name="migoto_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1097,7 +1097,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>116</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Clique moi ^w^</value>
+    <value>Click me ^w^</value>
   </data>
   <data name="clickMe_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1136,7 +1136,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>124</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Connecté en tant que
+    <value>Logged in as
 {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
@@ -1260,7 +1260,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>85</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
-    <value>Chargement des données...</value>
+    <value>Loading data...</value>
   </data>
   <data name="checkForUpdates_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1518,7 +1518,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>115</value>
   </data>
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
-    <value>Attente de la stabilisation de l'UI...</value>
+    <value>Waiting for UI stabilization...</value>
   </data>
   <data name="PreparingPleaseWait.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
