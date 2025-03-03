@@ -151,7 +151,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Fermer</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -205,7 +205,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher 2025</value>
+    <value>Launcher de Genshin Stella Mod 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -238,7 +238,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Settings &lt;&lt;</value>
+    <value>&gt;&gt; Paramètres &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -301,10 +301,10 @@
     <value>98</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Créer un raccourci dans le bureau</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Create a shortcut for Stella Mod Launcher on your desktop. This is useful if you accidentally deleted the Stella Mod Launcher icon.</value>
+    <value>Créer un raccourci du Launcher de Stella mod dans ton bureau. C'est utile si vous avez accidentellement supprimé l'icône du launcher de Stella mod.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -370,10 +370,10 @@
     <value>112</value>
   </data>
   <data name="MuteMusicOnStart.Text" xml:space="preserve">
-    <value>Mute music on start</value>
+    <value>Désactive la musique au départ</value>
   </data>
   <data name="MuteMusicOnStart.ToolTip" xml:space="preserve">
-    <value>Enable or mute the music played during the startup of this launcher program</value>
+    <value>Active ou enlève la musique jouée durant le lancement de ce programme</value>
   </data>
   <data name="&gt;&gt;MuteMusicOnStart.Name" xml:space="preserve">
     <value>MuteMusicOnStart</value>
@@ -406,10 +406,10 @@
     <value>114</value>
   </data>
   <data name="DisableDiscordRPC.Text" xml:space="preserve">
-    <value>Disable Discord RPC</value>
+    <value>Désactive Discord RPC</value>
   </data>
   <data name="DisableDiscordRPC.ToolTip" xml:space="preserve">
-    <value>Enable or disable the "Playing Genshin Stella Mod" status on Discord</value>
+    <value>Active ou désactive le statut "Joue à Genshin Stella Mod" sur Discord</value>
   </data>
   <data name="&gt;&gt;DisableDiscordRPC.Name" xml:space="preserve">
     <value>DisableDiscordRPC</value>
@@ -442,10 +442,10 @@
     <value>117</value>
   </data>
   <data name="ChangeLanguage.Text" xml:space="preserve">
-    <value>Change langauge</value>
+    <value>Changer le langage</value>
   </data>
   <data name="ChangeLanguage.ToolTip" xml:space="preserve">
-    <value>Change the language of the Stella Mod Launcher application</value>
+    <value>Changer le langage de l'application Stella Mod</value>
   </data>
   <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
     <value>ChangeLanguage</value>
@@ -481,10 +481,10 @@
     <value>119</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open configuration window</value>
+    <value>Ouvrir la fenêtre de configuration</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Encore reconfigurer Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -520,10 +520,10 @@
     <value>125</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Configurer le ReShade</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Configure automatiquement le ReShade et mettre les chemins appropriés</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -733,8 +733,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Full build: {0}
-File version: v{1} | Assembly version: v{2}</value>
+    <value>Full build : {0}
+Version de fichier : v{1} | Version d'assemblement: v{2}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -770,7 +770,7 @@ File version: v{1} | Assembly version: v{2}</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Paramètres</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
