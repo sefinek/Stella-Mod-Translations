@@ -254,7 +254,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>9</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>Wykonaj reinstall</value>
+    <value>Ponownie zainstaluj Stella Mod</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
