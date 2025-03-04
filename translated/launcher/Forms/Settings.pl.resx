@@ -370,7 +370,7 @@
     <value>112</value>
   </data>
   <data name="MuteMusicOnStart.Text" xml:space="preserve">
-    <value>Wycisz muzyke na start</value>
+    <value>Wycisz muzykę na start</value>
   </data>
   <data name="MuteMusicOnStart.ToolTip" xml:space="preserve">
     <value>Włączenie lub wyciszenie muzyki odtwarzanej podczas uruchamiania tego programu uruchamiającego</value>
