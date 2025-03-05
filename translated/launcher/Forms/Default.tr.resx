@@ -117,29 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="versionIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
   </data>
-  <data name="status_Label.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="toolsIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
     <value>Visit the official Stella Mod website</value>
-  </data>
-  <data name="progressBar1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="checkForUpdates_LinkLabel.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="pictureBox6.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
     <value>Click to view the full changelog.</value>
@@ -147,20 +129,8 @@
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
     <value>Watch gameplay</value>
   </data>
-  <data name="support_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
     <value>Loading data...</value>
-  </data>
-  <data name="label2.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="viewChangelog_LinkLabel.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label1.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
     <value>GitHub icon</value>
@@ -174,9 +144,6 @@
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
     <value>Launch Genshin Impact with mods completely safely!</value>
   </data>
-  <data name="panel1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Settings</value>
   </data>
@@ -186,35 +153,17 @@
   <data name="changeBg_LinkLabel.Text" xml:space="preserve">
     <value>Change background</value>
   </data>
-  <data name="discord_Picturebox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Stella Mod Launcher</value>
   </data>
-  <data name="webView21.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="startGame_LinkLabel.Text" xml:space="preserve">
     <value>Start game</value>
-  </data>
-  <data name="paimon_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
     <value>made by Sefinek</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Resources</value>
-  </data>
-  <data name="PreparingPleaseWait.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="pictureBox3.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="pictureBox4.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
     <value>Open the main game launcher</value>
@@ -225,18 +174,12 @@
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
     <value>View changelog</value>
   </data>
-  <data name="shortcutIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
     <value>If you want to enhance your gaming experience even further, subscribe to Stella Plus.
 You'll be able to use mods and enjoy the game even more, all in a completely safe way!</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
     <value>Tools and logs</value>
-  </data>
-  <data name="pictureBox2.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="version_LinkLabel.Text" xml:space="preserve">
     <value>Waiting...</value>
@@ -253,9 +196,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="support_LinkLabel.Text" xml:space="preserve">
     <value>Support</value>
   </data>
-  <data name="donators_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="becomeASubscriber_LinkLabel.ToolTip" xml:space="preserve">
     <value>Go to https://sefinek.net/genshin-stella-mod/subscription</value>
   </data>
@@ -270,9 +210,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
     <value>ReShade introduces graphical enhancements (our ready-made presets) and more! Press Home in-game and create your own presets!</value>
-  </data>
-  <data name="padIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>Logged in as
@@ -311,31 +248,16 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="close_Panel.ToolTip" xml:space="preserve">
     <value>Exit the launcher</value>
   </data>
-  <data name="clickMe_Label.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Genshin Stella Mod Launcher</value>
-  </data>
-  <data name="pictureBox5.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
     <value>Unlock FPS</value>
   </data>
-  <data name="pictureBox1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
     <value>Go to Stella's resources</value>
   </data>
-  <data name="website_Picturebox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
     <value>Join our Discord server if you need help or have any questions</value>
-  </data>
-  <data name="updateIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
 </root>

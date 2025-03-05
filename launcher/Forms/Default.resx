@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="versionIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="runGiLauncher_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>226, 370</value>
@@ -177,9 +174,6 @@
   <data name="githubUrl_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>75</value>
   </data>
-  <data name="status_Label.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="discord_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
@@ -194,9 +188,6 @@
   </data>
   <data name="unlockFps_checkBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 25</value>
-  </data>
-  <data name="toolsIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="pictureBox6.Location" type="System.Drawing.Point, System.Drawing">
     <value>1153, 62</value>
@@ -225,9 +216,6 @@
   <data name="&gt;&gt;label2.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="$this.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="runGiLauncher_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Consolas, 12.75pt</value>
   </data>
@@ -246,20 +234,11 @@
   <data name="&gt;&gt;pictureBox6.Name" xml:space="preserve">
     <value>pictureBox6</value>
   </data>
-  <data name="progressBar1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="pictureBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="discord_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 24</value>
-  </data>
-  <data name="checkForUpdates_LinkLabel.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="pictureBox6.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="donators_PictureBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -348,9 +327,6 @@
   <data name="&gt;&gt;discord_LinkLabel.Name" xml:space="preserve">
     <value>discord_LinkLabel</value>
   </data>
-  <data name="support_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;website_LinkLabel.ZOrder" xml:space="preserve">
     <value>26</value>
   </data>
@@ -417,9 +393,6 @@
   <data name="pictureBox5.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="label2.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;donators_PictureBox.Name" xml:space="preserve">
     <value>donators_PictureBox</value>
   </data>
@@ -437,9 +410,6 @@
   </data>
   <data name="version_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>978, 659</value>
-  </data>
-  <data name="viewChangelog_LinkLabel.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="&gt;&gt;toolsIco_PictureBox.Parent" xml:space="preserve">
     <value>$this</value>
@@ -495,9 +465,6 @@
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>116, 30</value>
   </data>
-  <data name="label1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>116, 30</value>
   </data>
@@ -539,9 +506,6 @@
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
     <value>Launch Genshin Impact with mods completely safely!</value>
-  </data>
-  <data name="panel1.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="&gt;&gt;donators_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -669,9 +633,6 @@
   <data name="&gt;&gt;gameplay_LinkLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="discord_Picturebox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
@@ -753,9 +714,6 @@
   <data name="pictureBox4.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="webView21.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="links_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
@@ -827,9 +785,6 @@
   </data>
   <data name="pictureBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
-  </data>
-  <data name="paimon_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -909,9 +864,6 @@
   <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
   </data>
-  <data name="PreparingPleaseWait.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;changeBg_LinkLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -963,9 +915,6 @@
   <data name="&gt;&gt;paimon_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pictureBox3.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="shortcutIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>329, 688</value>
   </data>
@@ -995,9 +944,6 @@
   </data>
   <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
     <value>7</value>
-  </data>
-  <data name="pictureBox4.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1113,9 +1059,6 @@
   <data name="&gt;&gt;viewChangelog_LinkLabel.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="shortcutIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="githubUrl_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1210,9 +1153,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="madeBySefinek_Label.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="pictureBox2.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;tools_LinkLabel.Name" xml:space="preserve">
     <value>tools_LinkLabel</value>
   </data>
@@ -1269,9 +1209,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
     <value>Support</value>
-  </data>
-  <data name="donators_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
@@ -1371,9 +1308,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   </data>
   <data name="unlockFps_checkBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
-  </data>
-  <data name="padIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="becomeASubscriber_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>682, 46</value>
@@ -1622,9 +1556,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="startGame_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Georgia, 54.75pt</value>
   </data>
-  <data name="clickMe_Label.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;support_LinkLabel.Name" xml:space="preserve">
     <value>support_LinkLabel</value>
   </data>
@@ -1697,9 +1628,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>223, 52</value>
   </data>
-  <data name="pictureBox5.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="&gt;&gt;reshade_checkBox.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -1741,9 +1669,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   </data>
   <data name="unlockFps_checkBox.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 12pt</value>
-  </data>
-  <data name="pictureBox1.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="discord_Picturebox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 654</value>
@@ -1787,9 +1712,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
   </data>
-  <data name="website_Picturebox.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
   </data>
@@ -1798,9 +1720,6 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
     <value>Join our Discord server if you need help or have any questions</value>
-  </data>
-  <data name="updateIco_PictureBox.ToolTip" xml:space="preserve">
-    <value />
   </data>
   <data name="&gt;&gt;label1.Parent" xml:space="preserve">
     <value>$this</value>
