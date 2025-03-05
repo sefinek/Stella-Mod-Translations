@@ -370,10 +370,10 @@
     <value>112</value>
   </data>
   <data name="MuteMusicOnStart.Text" xml:space="preserve">
-    <value>Başlangıçta müziği kapat</value>
+    <value>Başlangıçta müziği sustur</value>
   </data>
   <data name="MuteMusicOnStart.ToolTip" xml:space="preserve">
-    <value>Enable or mute the music played during the startup of this launcher program</value>
+    <value>Bu Başlatıcının Başlatıldığı zaman müziğin çalmasını etkinleştirin veya devre dışı bırakın</value>
   </data>
   <data name="&gt;&gt;MuteMusicOnStart.Name" xml:space="preserve">
     <value>MuteMusicOnStart</value>
@@ -406,10 +406,10 @@
     <value>114</value>
   </data>
   <data name="DisableDiscordRPC.Text" xml:space="preserve">
-    <value>Disable Discord RPC</value>
+    <value>Discord RPC'yi Devre Dışı Bırak</value>
   </data>
   <data name="DisableDiscordRPC.ToolTip" xml:space="preserve">
-    <value>Enable or disable the "Playing Genshin Stella Mod" status on Discord</value>
+    <value>Discord üzerinde “Genshin Stella Modu Oynanıyor” durumunu etkinleştirin veya devre dışı bırakın</value>
   </data>
   <data name="&gt;&gt;DisableDiscordRPC.Name" xml:space="preserve">
     <value>DisableDiscordRPC</value>
@@ -442,10 +442,10 @@
     <value>117</value>
   </data>
   <data name="ChangeLanguage.Text" xml:space="preserve">
-    <value>Change langauge</value>
+    <value>Dili değiştir</value>
   </data>
   <data name="ChangeLanguage.ToolTip" xml:space="preserve">
-    <value>Change the language of the Stella Mod Launcher application</value>
+    <value>Stella Mod Başlatıcısının Dilini Değiştirin</value>
   </data>
   <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
     <value>ChangeLanguage</value>
@@ -481,10 +481,10 @@
     <value>119</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open configuration window</value>
+    <value>Yapılandırma penceresini aç</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Stella Modu Yeniden Yapılandır</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
