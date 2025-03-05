@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -585,9 +585,6 @@
   <data name="label4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Right</value>
   </data>
-  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 20.25pt</value>
   </data>
@@ -595,7 +592,7 @@
     <value>1279, 621</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>236, 38</value>
+    <value>342, 38</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>50</value>
