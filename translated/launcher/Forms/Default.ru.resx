@@ -120,35 +120,8 @@
   <data name="versionIco_PictureBox.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;runGiLauncher_LinkLabel.Name" xml:space="preserve">
-    <value>runGiLauncher_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;clickMe_Label.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;viewChangelog_LinkLabel.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;changeBg_LinkLabel.Name" xml:space="preserve">
-    <value>changeBg_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;padIco_PictureBox.ZOrder" xml:space="preserve">
-    <value>23</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;becomeASubscriber_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
-  </data>
-  <data name="&gt;&gt;padIco_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;githubUrl_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="status_Label.ToolTip" xml:space="preserve">
     <value />
@@ -158,24 +131,6 @@
   </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
     <value>Visit the official Stella Mod website</value>
-  </data>
-  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;madeBySefinek_Label.ZOrder" xml:space="preserve">
-    <value>39</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Default</value>
-  </data>
-  <data name="&gt;&gt;pictureBox6.Name" xml:space="preserve">
-    <value>pictureBox6</value>
   </data>
   <data name="progressBar1.ToolTip" xml:space="preserve">
     <value />
@@ -189,98 +144,23 @@
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
     <value>Click to view the full changelog.</value>
   </data>
-  <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
-    <value>gameplay_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;updateIco_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;reshade_checkBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
     <value>Watch gameplay</value>
-  </data>
-  <data name="&gt;&gt;discord_LinkLabel.Name" xml:space="preserve">
-    <value>discord_LinkLabel</value>
   </data>
   <data name="support_PictureBox.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;website_LinkLabel.ZOrder" xml:space="preserve">
-    <value>26</value>
-  </data>
-  <data name="&gt;&gt;discord_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;donators_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;discord_Picturebox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;links_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;website_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
     <value>Loading data...</value>
-  </data>
-  <data name="&gt;&gt;support_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;changeBg_LinkLabel.Parent" xml:space="preserve">
-    <value>panel1</value>
   </data>
   <data name="label2.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;donators_PictureBox.Name" xml:space="preserve">
-    <value>donators_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;tools_LinkLabel.ZOrder" xml:space="preserve">
-    <value>36</value>
-  </data>
   <data name="viewChangelog_LinkLabel.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;toolsIco_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;status_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;paimon_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;reshade_checkBox.Name" xml:space="preserve">
-    <value>reshade_checkBox</value>
-  </data>
-  <data name="&gt;&gt;donators_LinkLabel.ZOrder" xml:space="preserve">
-    <value>21</value>
-  </data>
   <data name="label1.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;links_LinkLabel.ZOrder" xml:space="preserve">
-    <value>20</value>
   </data>
   <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
     <value>GitHub icon</value>
@@ -291,164 +171,35 @@
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
     <value>Gameplay</value>
   </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;website_Picturebox.Name" xml:space="preserve">
-    <value>website_Picturebox</value>
-  </data>
-  <data name="&gt;&gt;PreparingPleaseWait.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
     <value>Launch Genshin Impact with mods completely safely!</value>
   </data>
   <data name="panel1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;donators_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;discord_LinkLabel.ZOrder" xml:space="preserve">
-    <value>27</value>
-  </data>
-  <data name="&gt;&gt;paimon_PictureBox.Name" xml:space="preserve">
-    <value>paimon_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
-  </data>
-  <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
-    <value>migoto_checkBox</value>
-  </data>
-  <data name="&gt;&gt;padIco_PictureBox.Name" xml:space="preserve">
-    <value>padIco_PictureBox</value>
-  </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Settings</value>
-  </data>
-  <data name="&gt;&gt;shortcutIco_PictureBox.Name" xml:space="preserve">
-    <value>shortcutIco_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;version_LinkLabel.ZOrder" xml:space="preserve">
-    <value>30</value>
-  </data>
-  <data name="&gt;&gt;viewChangelog_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;unlockFps_checkBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;unlockFps_checkBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;githubIco_Picturebox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;website_Picturebox.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="madeBySefinek_Label.ToolTip" xml:space="preserve">
     <value>&gt;~~&lt;</value>
   </data>
-  <data name="&gt;&gt;githubUrl_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="changeBg_LinkLabel.Text" xml:space="preserve">
     <value>Change background</value>
-  </data>
-  <data name="&gt;&gt;startGame_LinkLabel.ZOrder" xml:space="preserve">
-    <value>25</value>
-  </data>
-  <data name="&gt;&gt;gameplay_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="discord_Picturebox.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;updateIco_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;discord_Picturebox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Stella Mod Launcher</value>
-  </data>
-  <data name="&gt;&gt;versionIco_PictureBox.Name" xml:space="preserve">
-    <value>versionIco_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdates_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;updateIco_PictureBox.ZOrder" xml:space="preserve">
-    <value>33</value>
   </data>
   <data name="webView21.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;version_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;donators_PictureBox.ZOrder" xml:space="preserve">
-    <value>22</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdates_LinkLabel.Name" xml:space="preserve">
-    <value>checkForUpdates_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;links_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="startGame_LinkLabel.Text" xml:space="preserve">
     <value>Start game</value>
   </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>40</value>
-  </data>
-  <data name="&gt;&gt;updateIco_PictureBox.Name" xml:space="preserve">
-    <value>updateIco_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
-    <value>githubUrl_LinkLabel</value>
-  </data>
   <data name="paimon_PictureBox.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;runGiLauncher_LinkLabel.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
-  <data name="&gt;&gt;migoto_checkBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;githubIco_Picturebox.Name" xml:space="preserve">
-    <value>githubIco_Picturebox</value>
-  </data>
-  <data name="&gt;&gt;webView21.Type" xml:space="preserve">
-    <value>Microsoft.Web.WebView2.WinForms.WebView2, Microsoft.Web.WebView2.WinForms, Culture=neutral, PublicKeyToken=2a8ab48044d2601e</value>
-  </data>
-  <data name="&gt;&gt;close_Panel.Name" xml:space="preserve">
-    <value>close_Panel</value>
-  </data>
-  <data name="&gt;&gt;gameplay_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;support_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
     <value>made by Sefinek</value>
@@ -456,80 +207,14 @@
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Resources</value>
   </data>
-  <data name="&gt;&gt;linkLabel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="PreparingPleaseWait.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;changeBg_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;website_Picturebox.ZOrder" xml:space="preserve">
-    <value>29</value>
-  </data>
-  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;githubIco_Picturebox.ZOrder" xml:space="preserve">
-    <value>37</value>
-  </data>
-  <data name="&gt;&gt;donators_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;padIco_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;paimon_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="pictureBox3.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;shortcutIco_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;discord_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="pictureBox4.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
-    <value>progressBar1</value>
-  </data>
-  <data name="&gt;&gt;website_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;githubIco_Picturebox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;webView21.Name" xml:space="preserve">
-    <value>webView21</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;madeBySefinek_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;website_Picturebox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
     <value>Open the main game launcher</value>
@@ -537,62 +222,11 @@
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
     <value>Waiting for UI stabilization...</value>
   </data>
-  <data name="&gt;&gt;clickMe_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
     <value>View changelog</value>
   </data>
-  <data name="&gt;&gt;close_Panel.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;shortcutIco_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;status_Label.ZOrder" xml:space="preserve">
-    <value>24</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;viewChangelog_LinkLabel.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
   <data name="shortcutIco_PictureBox.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;donators_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Name" xml:space="preserve">
-    <value>pictureBox4</value>
-  </data>
-  <data name="&gt;&gt;PreparingPleaseWait.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;unlockFps_checkBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;support_PictureBox.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tools_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tools_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;githubUrl_LinkLabel.ZOrder" xml:space="preserve">
-    <value>38</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
     <value>If you want to enhance your gaming experience even further, subscribe to Stella Plus.
@@ -601,23 +235,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
     <value>Tools and logs</value>
   </data>
-  <data name="&gt;&gt;close_Panel.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;discord_Picturebox.ZOrder" xml:space="preserve">
-    <value>28</value>
-  </data>
   <data name="pictureBox2.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;tools_LinkLabel.Name" xml:space="preserve">
-    <value>tools_LinkLabel</value>
-  </data>
   <data name="version_LinkLabel.Text" xml:space="preserve">
     <value>Waiting...</value>
-  </data>
-  <data name="&gt;&gt;discord_Picturebox.Name" xml:space="preserve">
-    <value>discord_Picturebox</value>
   </data>
   <data name="donators_LinkLabel.Text" xml:space="preserve">
     <value>Donators</value>
@@ -625,20 +247,8 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="website_LinkLabel.Text" xml:space="preserve">
     <value>Website</value>
   </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
     <value>Shaders</value>
-  </data>
-  <data name="&gt;&gt;support_LinkLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
-    <value>pictureBox3</value>
-  </data>
-  <data name="&gt;&gt;webView21.ZOrder" xml:space="preserve">
-    <value>8</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
     <value>Support</value>
@@ -649,50 +259,14 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="becomeASubscriber_LinkLabel.ToolTip" xml:space="preserve">
     <value>Go to https://sefinek.net/genshin-stella-mod/subscription</value>
   </data>
-  <data name="&gt;&gt;runGiLauncher_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
-    <value>links_LinkLabel</value>
-  </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
     <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
-  </data>
-  <data name="&gt;&gt;PreparingPleaseWait.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;migoto_checkBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;versionIco_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="discord_LinkLabel.Text" xml:space="preserve">
     <value>Discord</value>
   </data>
-  <data name="&gt;&gt;linkLabel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;shortcutIco_PictureBox.ZOrder" xml:space="preserve">
-    <value>19</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;startGame_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;support_PictureBox.Name" xml:space="preserve">
-    <value>support_PictureBox</value>
-  </data>
   <data name="links_LinkLabel.Text" xml:space="preserve">
     <value>Links</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdates_LinkLabel.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
     <value>ReShade introduces graphical enhancements (our ready-made presets) and more! Press Home in-game and create your own presets!</value>
@@ -704,32 +278,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Logged in as
 {0}</value>
   </data>
-  <data name="&gt;&gt;becomeASubscriber_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;version_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
     <value>Main GitHub repository. Star it if you like this software.</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
     <value>Open the settings</value>
-  </data>
-  <data name="&gt;&gt;toolsIco_PictureBox.Name" xml:space="preserve">
-    <value>toolsIco_PictureBox</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;webView21.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
     <value>Unlocks the 60 FPS limit. Useful if you have a monitor with a refresh rate higher than 60 Hz.</value>
@@ -737,184 +290,52 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
     <value>Some links</value>
   </data>
-  <data name="&gt;&gt;madeBySefinek_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;status_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
-    <value>linkLabel1</value>
-  </data>
-  <data name="&gt;&gt;unlockFps_checkBox.Name" xml:space="preserve">
-    <value>unlockFps_checkBox</value>
-  </data>
   <data name="migoto_checkBox.Text" xml:space="preserve">
     <value>More mods</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
     <value>Tools</value>
   </data>
-  <data name="&gt;&gt;reshade_checkBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;close_Panel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
     <value>Make your game even more interesting and better! Add various mods to the game according to your preferences. Completely safely!</value>
-  </data>
-  <data name="&gt;&gt;startGame_LinkLabel.Name" xml:space="preserve">
-    <value>startGame_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;website_LinkLabel.Name" xml:space="preserve">
-    <value>website_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>41</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
     <value>View the subscriber list for Stella Plus</value>
   </data>
-  <data name="&gt;&gt;toolsIco_PictureBox.ZOrder" xml:space="preserve">
-    <value>34</value>
-  </data>
-  <data name="&gt;&gt;becomeASubscriber_LinkLabel.Name" xml:space="preserve">
-    <value>becomeASubscriber_LinkLabel</value>
-  </data>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
     <value>Change the application background</value>
-  </data>
-  <data name="&gt;&gt;toolsIco_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Text" xml:space="preserve">
     <value>Genshin Impact Launcher</value>
   </data>
-  <data name="&gt;&gt;migoto_checkBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;status_Label.Name" xml:space="preserve">
-    <value>status_Label</value>
-  </data>
-  <data name="&gt;&gt;becomeASubscriber_LinkLabel.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
   <data name="close_Panel.ToolTip" xml:space="preserve">
     <value>Exit the launcher</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Name" xml:space="preserve">
-    <value>pictureBox5</value>
-  </data>
-  <data name="&gt;&gt;versionIco_PictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="clickMe_Label.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;support_LinkLabel.Name" xml:space="preserve">
-    <value>support_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;viewChangelog_LinkLabel.Name" xml:space="preserve">
-    <value>viewChangelog_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;PreparingPleaseWait.Name" xml:space="preserve">
-    <value>PreparingPleaseWait</value>
-  </data>
-  <data name="&gt;&gt;versionIco_PictureBox.ZOrder" xml:space="preserve">
-    <value>32</value>
-  </data>
-  <data name="&gt;&gt;version_LinkLabel.Name" xml:space="preserve">
-    <value>version_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;clickMe_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Genshin Stella Mod Launcher</value>
-  </data>
-  <data name="&gt;&gt;support_PictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="pictureBox5.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;reshade_checkBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;madeBySefinek_Label.Name" xml:space="preserve">
-    <value>madeBySefinek_Label</value>
-  </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
     <value>Unlock FPS</value>
-  </data>
-  <data name="&gt;&gt;donators_LinkLabel.Name" xml:space="preserve">
-    <value>donators_LinkLabel</value>
-  </data>
-  <data name="&gt;&gt;runGiLauncher_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;changeBg_LinkLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
   </data>
   <data name="pictureBox1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;startGame_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;gameplay_LinkLabel.ZOrder" xml:space="preserve">
-    <value>35</value>
-  </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
     <value>Go to Stella's resources</value>
   </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdates_LinkLabel.ZOrder" xml:space="preserve">
-    <value>31</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
-    <value>linkLabel2</value>
-  </data>
   <data name="website_Picturebox.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
-    <value>toolTip1</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
     <value>Join our Discord server if you need help or have any questions</value>
   </data>
   <data name="updateIco_PictureBox.ToolTip" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;support_LinkLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;clickMe_Label.Name" xml:space="preserve">
-    <value>clickMe_Label</value>
-  </data>
-  <data name="&gt;&gt;paimon_PictureBox.ZOrder" xml:space="preserve">
-    <value>17</value>
   </data>
 </root>

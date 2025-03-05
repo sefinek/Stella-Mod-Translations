@@ -120,92 +120,20 @@
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Кошка</value>
   </data>
-  <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
-    <value>linkLabel1</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>45</value>
-  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>» Животные</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>44</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Собака</value>
   </data>
-  <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
-    <value>linkLabel2</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.ZOrder" xml:space="preserve">
-    <value>43</value>
-  </data>
   <data name="linkLabel3.Text" xml:space="preserve">
     <value>Лиса</value>
-  </data>
-  <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
-    <value>linkLabel3</value>
-  </data>
-  <data name="&gt;&gt;linkLabel3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel3.ZOrder" xml:space="preserve">
-    <value>42</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>Аниме</value>
   </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>41</value>
-  </data>
   <data name="linkLabel4.Text" xml:space="preserve">
     <value>Сэнко</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
-    <value>linkLabel4</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.ZOrder" xml:space="preserve">
-    <value>38</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
     <value>Девушка-лиса</value>
@@ -213,607 +141,115 @@
   <data name="linkLabel5.ToolTip" xml:space="preserve">
     <value>Аниме девушки-лисы</value>
   </data>
-  <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
-    <value>linkLabel5</value>
-  </data>
-  <data name="&gt;&gt;linkLabel5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel5.ZOrder" xml:space="preserve">
-    <value>39</value>
-  </data>
   <data name="linkLabel6.Text" xml:space="preserve">
     <value>Девушка-кошка</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
     <value>Аниме девушки-кошки</value>
   </data>
-  <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
-    <value>linkLabel6</value>
-  </data>
-  <data name="&gt;&gt;linkLabel6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel6.ZOrder" xml:space="preserve">
-    <value>40</value>
-  </data>
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>Кофе</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
-    <value>linkLabel7</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.ZOrder" xml:space="preserve">
-    <value>37</value>
-  </data>
-  <data name="&gt;&gt;text_Label.Name" xml:space="preserve">
-    <value>text_Label</value>
-  </data>
-  <data name="&gt;&gt;text_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;text_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;text_Label.ZOrder" xml:space="preserve">
-    <value>36</value>
-  </data>
-  <data name="&gt;&gt;linkLabel40.Name" xml:space="preserve">
-    <value>linkLabel40</value>
-  </data>
-  <data name="&gt;&gt;linkLabel40.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel40.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel40.ZOrder" xml:space="preserve">
-    <value>35</value>
-  </data>
-  <data name="&gt;&gt;linkLabel41.Name" xml:space="preserve">
-    <value>linkLabel41</value>
-  </data>
-  <data name="&gt;&gt;linkLabel41.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel41.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel41.ZOrder" xml:space="preserve">
-    <value>34</value>
   </data>
   <data name="linkLabel42.Text" xml:space="preserve">
     <value>Голограмма</value>
   </data>
-  <data name="&gt;&gt;linkLabel42.Name" xml:space="preserve">
-    <value>linkLabel42</value>
-  </data>
-  <data name="&gt;&gt;linkLabel42.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel42.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel42.ZOrder" xml:space="preserve">
-    <value>33</value>
-  </data>
   <data name="linkLabel43.Text" xml:space="preserve">
     <value>Хвост</value>
-  </data>
-  <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
-    <value>linkLabel43</value>
-  </data>
-  <data name="&gt;&gt;linkLabel43.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel43.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel43.ZOrder" xml:space="preserve">
-    <value>32</value>
   </data>
   <data name="linkLabel44.Text" xml:space="preserve">
     <value>Широ</value>
   </data>
-  <data name="&gt;&gt;linkLabel44.Name" xml:space="preserve">
-    <value>linkLabel44</value>
-  </data>
-  <data name="&gt;&gt;linkLabel44.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel44.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel44.ZOrder" xml:space="preserve">
-    <value>31</value>
-  </data>
   <data name="label4.Text" xml:space="preserve">
     <value>» YouTube видео</value>
-  </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>30</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
     <value>Half-Life Кошка</value>
   </data>
-  <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
-    <value>linkLabel45</value>
-  </data>
-  <data name="&gt;&gt;linkLabel45.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel45.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel45.ZOrder" xml:space="preserve">
-    <value>29</value>
-  </data>
   <data name="poweredBy_Label.Text" xml:space="preserve">
     <value>Работает от: {0}</value>
-  </data>
-  <data name="&gt;&gt;poweredBy_Label.Name" xml:space="preserve">
-    <value>poweredBy_Label</value>
-  </data>
-  <data name="&gt;&gt;poweredBy_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;poweredBy_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;poweredBy_Label.ZOrder" xml:space="preserve">
-    <value>28</value>
-  </data>
-  <data name="&gt;&gt;webView21.Name" xml:space="preserve">
-    <value>webView21</value>
-  </data>
-  <data name="&gt;&gt;webView21.Type" xml:space="preserve">
-    <value>Microsoft.Web.WebView2.WinForms.WebView2, Microsoft.Web.WebView2.WinForms, Culture=neutral, PublicKeyToken=2a8ab48044d2601e</value>
-  </data>
-  <data name="&gt;&gt;webView21.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;webView21.ZOrder" xml:space="preserve">
-    <value>27</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
     <value>Мило</value>
   </data>
-  <data name="&gt;&gt;linkLabel8.Name" xml:space="preserve">
-    <value>linkLabel8</value>
-  </data>
-  <data name="&gt;&gt;linkLabel8.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel8.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel8.ZOrder" xml:space="preserve">
-    <value>26</value>
-  </data>
   <data name="linkLabel9.Text" xml:space="preserve">
     <value>Униформа</value>
-  </data>
-  <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
-    <value>linkLabel9</value>
-  </data>
-  <data name="&gt;&gt;linkLabel9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel9.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel9.ZOrder" xml:space="preserve">
-    <value>25</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
     <value>Хвост с лентой</value>
   </data>
-  <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
-    <value>linkLabel10</value>
-  </data>
-  <data name="&gt;&gt;linkLabel10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel10.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel10.ZOrder" xml:space="preserve">
-    <value>24</value>
-  </data>
   <data name="linkLabel11.Text" xml:space="preserve">
     <value>VTuber</value>
-  </data>
-  <data name="&gt;&gt;linkLabel11.Name" xml:space="preserve">
-    <value>linkLabel11</value>
-  </data>
-  <data name="&gt;&gt;linkLabel11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel11.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel11.ZOrder" xml:space="preserve">
-    <value>23</value>
   </data>
   <data name="linkLabel12.Text" xml:space="preserve">
     <value>Матросская форма</value>
   </data>
-  <data name="&gt;&gt;linkLabel12.Name" xml:space="preserve">
-    <value>linkLabel12</value>
-  </data>
-  <data name="&gt;&gt;linkLabel12.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel12.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel12.ZOrder" xml:space="preserve">
-    <value>22</value>
-  </data>
   <data name="linkLabel13.Text" xml:space="preserve">
     <value>Школьница</value>
-  </data>
-  <data name="&gt;&gt;linkLabel13.Name" xml:space="preserve">
-    <value>linkLabel13</value>
-  </data>
-  <data name="&gt;&gt;linkLabel13.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel13.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel13.ZOrder" xml:space="preserve">
-    <value>21</value>
   </data>
   <data name="linkLabel14.Text" xml:space="preserve">
     <value>Сидеть в позе W</value>
   </data>
-  <data name="&gt;&gt;linkLabel14.Name" xml:space="preserve">
-    <value>linkLabel14</value>
-  </data>
-  <data name="&gt;&gt;linkLabel14.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel14.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel14.ZOrder" xml:space="preserve">
-    <value>20</value>
-  </data>
   <data name="linkLabel15.Text" xml:space="preserve">
     <value>Лежать</value>
-  </data>
-  <data name="&gt;&gt;linkLabel15.Name" xml:space="preserve">
-    <value>linkLabel15</value>
-  </data>
-  <data name="&gt;&gt;linkLabel15.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel15.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel15.ZOrder" xml:space="preserve">
-    <value>19</value>
   </data>
   <data name="linkLabel16.Text" xml:space="preserve">
     <value>Юбка</value>
   </data>
-  <data name="&gt;&gt;linkLabel16.Name" xml:space="preserve">
-    <value>linkLabel16</value>
-  </data>
-  <data name="&gt;&gt;linkLabel16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel16.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel16.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
   <data name="linkLabel17.Text" xml:space="preserve">
     <value>Длинные волосы</value>
-  </data>
-  <data name="&gt;&gt;linkLabel17.Name" xml:space="preserve">
-    <value>linkLabel17</value>
-  </data>
-  <data name="&gt;&gt;linkLabel17.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel17.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel17.ZOrder" xml:space="preserve">
-    <value>17</value>
   </data>
   <data name="linkLabel18.Text" xml:space="preserve">
     <value>Улыбка</value>
   </data>
-  <data name="&gt;&gt;linkLabel18.Name" xml:space="preserve">
-    <value>linkLabel18</value>
-  </data>
-  <data name="&gt;&gt;linkLabel18.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel18.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel18.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
   <data name="linkLabel19.Text" xml:space="preserve">
     <value>Горничная</value>
-  </data>
-  <data name="&gt;&gt;linkLabel19.Name" xml:space="preserve">
-    <value>linkLabel19</value>
-  </data>
-  <data name="&gt;&gt;linkLabel19.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel19.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel19.ZOrder" xml:space="preserve">
-    <value>15</value>
   </data>
   <data name="linkLabel20.Text" xml:space="preserve">
     <value>Носки до бёдер</value>
   </data>
-  <data name="&gt;&gt;linkLabel20.Name" xml:space="preserve">
-    <value>linkLabel20</value>
-  </data>
-  <data name="&gt;&gt;linkLabel20.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel20.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel20.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
   <data name="linkLabel21.Text" xml:space="preserve">
     <value>Носки до колен</value>
-  </data>
-  <data name="&gt;&gt;linkLabel21.Name" xml:space="preserve">
-    <value>linkLabel21</value>
-  </data>
-  <data name="&gt;&gt;linkLabel21.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel21.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel21.ZOrder" xml:space="preserve">
-    <value>13</value>
   </data>
   <data name="linkLabel22.Text" xml:space="preserve">
     <value>Гетерохромия</value>
   </data>
-  <data name="&gt;&gt;linkLabel22.Name" xml:space="preserve">
-    <value>linkLabel22</value>
-  </data>
-  <data name="&gt;&gt;linkLabel22.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel22.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel22.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
   <data name="linkLabel23.Text" xml:space="preserve">
     <value>Подмигивать</value>
-  </data>
-  <data name="&gt;&gt;linkLabel23.Name" xml:space="preserve">
-    <value>linkLabel23</value>
-  </data>
-  <data name="&gt;&gt;linkLabel23.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel23.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel23.ZOrder" xml:space="preserve">
-    <value>11</value>
   </data>
   <data name="linkLabel24.Text" xml:space="preserve">
     <value>Платье</value>
   </data>
-  <data name="&gt;&gt;linkLabel24.Name" xml:space="preserve">
-    <value>linkLabel24</value>
-  </data>
-  <data name="&gt;&gt;linkLabel24.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel24.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel24.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
   <data name="linkLabel25.Text" xml:space="preserve">
     <value>Ленты</value>
-  </data>
-  <data name="&gt;&gt;linkLabel25.Name" xml:space="preserve">
-    <value>linkLabel25</value>
-  </data>
-  <data name="&gt;&gt;linkLabel25.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel25.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel25.ZOrder" xml:space="preserve">
-    <value>9</value>
   </data>
   <data name="linkLabel26.Text" xml:space="preserve">
     <value>Толстовка с капюшоном</value>
   </data>
-  <data name="&gt;&gt;linkLabel26.Name" xml:space="preserve">
-    <value>linkLabel26</value>
-  </data>
-  <data name="&gt;&gt;linkLabel26.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel26.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel26.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
   <data name="linkLabel27.Text" xml:space="preserve">
     <value>Повседневная одежда</value>
-  </data>
-  <data name="&gt;&gt;linkLabel27.Name" xml:space="preserve">
-    <value>linkLabel27</value>
-  </data>
-  <data name="&gt;&gt;linkLabel27.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel27.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel27.ZOrder" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="linkLabel28.Text" xml:space="preserve">
     <value>Чёрные колготки</value>
   </data>
-  <data name="&gt;&gt;linkLabel28.Name" xml:space="preserve">
-    <value>linkLabel28</value>
-  </data>
-  <data name="&gt;&gt;linkLabel28.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel28.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel28.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <data name="linkLabel29.Text" xml:space="preserve">
     <value>Белые волосы</value>
-  </data>
-  <data name="&gt;&gt;linkLabel29.Name" xml:space="preserve">
-    <value>linkLabel29</value>
-  </data>
-  <data name="&gt;&gt;linkLabel29.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel29.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel29.ZOrder" xml:space="preserve">
-    <value>5</value>
   </data>
   <data name="linkLabel30.Text" xml:space="preserve">
     <value>Розовые волосы</value>
   </data>
-  <data name="&gt;&gt;linkLabel30.Name" xml:space="preserve">
-    <value>linkLabel30</value>
-  </data>
-  <data name="&gt;&gt;linkLabel30.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel30.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel30.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
   <data name="linkLabel31.Text" xml:space="preserve">
     <value>Синие волосы</value>
-  </data>
-  <data name="&gt;&gt;linkLabel31.Name" xml:space="preserve">
-    <value>linkLabel31</value>
-  </data>
-  <data name="&gt;&gt;linkLabel31.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel31.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel31.ZOrder" xml:space="preserve">
-    <value>3</value>
   </data>
   <data name="linkLabel32.Text" xml:space="preserve">
     <value>Валентин</value>
   </data>
-  <data name="&gt;&gt;linkLabel32.Name" xml:space="preserve">
-    <value>linkLabel32</value>
-  </data>
-  <data name="&gt;&gt;linkLabel32.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel32.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel32.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="linkLabel33.Text" xml:space="preserve">
     <value>Синий архив</value>
-  </data>
-  <data name="&gt;&gt;linkLabel33.Name" xml:space="preserve">
-    <value>linkLabel33</value>
-  </data>
-  <data name="&gt;&gt;linkLabel33.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel33.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel33.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
     <value>Посетите наш booru, чтобы увидеть еще больше очаровательных фотографий! Нажмите сюда.</value>
   </data>
-  <data name="&gt;&gt;linkLabel34.Name" xml:space="preserve">
-    <value>linkLabel34</value>
-  </data>
-  <data name="&gt;&gt;linkLabel34.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel34.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel34.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Случайные картинки из аниме</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
-    <value>toolTip1</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>RandomImages</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

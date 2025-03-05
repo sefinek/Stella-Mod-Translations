@@ -120,143 +120,23 @@
   <data name="panel2.ToolTip" xml:space="preserve">
     <value>Zamknij</value>
   </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Genshin Stella Mod Launcher 2025</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>16</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
     <value>&gt;&gt; Narzędzia i dzienniki &lt;&lt;</value>
   </data>
-  <data name="&gt;&gt;SettingsAndUtils.Name" xml:space="preserve">
-    <value>SettingsAndUtils</value>
-  </data>
-  <data name="&gt;&gt;SettingsAndUtils.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SettingsAndUtils.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;SettingsAndUtils.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
   <data name="ReShadeLogs.Text" xml:space="preserve">
     <value>ReShade.log</value>
-  </data>
-  <data name="&gt;&gt;ReShadeLogs.Name" xml:space="preserve">
-    <value>ReShadeLogs</value>
-  </data>
-  <data name="&gt;&gt;ReShadeLogs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ReShadeLogs.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ReShadeLogs.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>13</value>
   </data>
   <data name="LauncherLogs.Text" xml:space="preserve">
     <value>Program uruchamiający</value>
   </data>
-  <data name="&gt;&gt;LauncherLogs.Name" xml:space="preserve">
-    <value>LauncherLogs</value>
-  </data>
-  <data name="&gt;&gt;LauncherLogs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LauncherLogs.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LauncherLogs.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
   <data name="LogFiles.Text" xml:space="preserve">
     <value>Pliki dziennika</value>
   </data>
-  <data name="&gt;&gt;LogFiles.Name" xml:space="preserve">
-    <value>LogFiles</value>
-  </data>
-  <data name="&gt;&gt;LogFiles.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LogFiles.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LogFiles.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
     <value>Pliki konfiguracyjne</value>
-  </data>
-  <data name="&gt;&gt;ConfigFiles.Name" xml:space="preserve">
-    <value>ConfigFiles</value>
-  </data>
-  <data name="&gt;&gt;ConfigFiles.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ConfigFiles.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ConfigFiles.ZOrder" xml:space="preserve">
-    <value>9</value>
   </data>
   <data name="SeeReShadeConfig.Text" xml:space="preserve">
     <value>ReShade</value>
@@ -264,142 +144,22 @@
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
     <value>ReShade.ini</value>
   </data>
-  <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
-    <value>SeeReShadeConfig</value>
-  </data>
-  <data name="&gt;&gt;SeeReShadeConfig.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SeeReShadeConfig.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;SeeReShadeConfig.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Name" xml:space="preserve">
-    <value>pictureBox4</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
     <value>FPS Unlocker</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
     <value>unlocker.config.json</value>
   </data>
-  <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
-    <value>SeeFPSUnlockerConfig</value>
-  </data>
-  <data name="&gt;&gt;SeeFPSUnlockerConfig.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SeeFPSUnlockerConfig.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;SeeFPSUnlockerConfig.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Name" xml:space="preserve">
-    <value>pictureBox5</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;pictureBox9.Name" xml:space="preserve">
-    <value>pictureBox9</value>
-  </data>
-  <data name="&gt;&gt;pictureBox9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox9.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox9.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="InstallationLogs.Text" xml:space="preserve">
     <value>Genshin Stella Mod</value>
-  </data>
-  <data name="&gt;&gt;InstallationLogs.Name" xml:space="preserve">
-    <value>InstallationLogs</value>
-  </data>
-  <data name="&gt;&gt;InstallationLogs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InstallationLogs.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;InstallationLogs.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pictureBox10.Name" xml:space="preserve">
-    <value>pictureBox10</value>
-  </data>
-  <data name="&gt;&gt;pictureBox10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox10.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pictureBox10.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
     <value>Wyświetl katalog</value>
   </data>
-  <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
-    <value>InnoSetupLogs</value>
-  </data>
-  <data name="&gt;&gt;InnoSetupLogs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InnoSetupLogs.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;InnoSetupLogs.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="madeWith_Label.Text" xml:space="preserve">
     <value>Stworzone z ♡ przez Sefinka</value>
   </data>
-  <data name="&gt;&gt;madeWith_Label.Name" xml:space="preserve">
-    <value>madeWith_Label</value>
-  </data>
-  <data name="&gt;&gt;madeWith_Label.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;madeWith_Label.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;madeWith_Label.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Narzędzia</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
-    <value>toolTip1</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Tools</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
