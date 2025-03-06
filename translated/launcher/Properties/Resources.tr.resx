@@ -449,49 +449,49 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
     <value>Güncelleme başarısız oldu. Yazılımın bir konuma erişimi reddedildi, bu da dosyaları kaydetmesini, kopyalamasını, açmasını veya yüklemesini engelledi.</value>
   </data>
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Log files was sent to developer.</value>
+    <value>Çıktı dosyaları geliştiriciye gönderildi.</value>
   </data>
   <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Disable Discord RPC</value>
+    <value>Discord RPC'yi Devre Dışı Bırak</value>
   </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Deleting the previous version of the mod pack...</value>
+    <value>Mod paketinin önceki sürümü siliniyor...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>Stella Mod hakkındaki görüşlerinizi trustpilot.com'da paylaşır mısınız? Çok minnettar olurum.</value>
   </data>
   <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Enable Discord RPC</value>
+    <value>Discord RPC'yi Etkinleştir</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>FPS Unlocker için yapılandırma dosyası (unlocker.config.json) indirildi</value>
   </data>
   <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>Ohh, something went wrong</value>
+    <value>Ohh, bir şeyler ters gitti</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Just chilling</value>
+    <value>Sadece takılıyor</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparing... If process is stuck, reopen launcher.</value>
+    <value>Hazırlanıyor... İşlem takılırsa, başlatıcıyı yeniden açın.</value>
   </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
-    <value>Audio file ({0}) was not found.</value>
+    <value>Ses dosyası ({0}) bulunamadı.</value>
   </data>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
-    <value>Successfully uploaded logs</value>
+    <value>Çıktılar başarıyla yüklendi</value>
   </data>
   <data name="icons8_gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_gear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
-    <value>Everything is okay! Starting setup...</value>
+    <value>Her şey yolunda! Kurulum başlıyor...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>The requested operation was successful, but your computer needs to be restarted.</value>
+    <value>İstenen işlem başarılı oldu, ancak bilgisayarınızın yeniden başlatılması gerekiyor.</value>
   </data>
   <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -500,50 +500,50 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>Desteğiniz için teşekkür ederiz. Stella Mod'u arkadaşlarınıza tavsiye edin. İyi günler dilerim!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>Gözatma ayarları</value>
   </data>
   <data name="LaunchCount_TheSimultaneousOfUseRSFU3DM" xml:space="preserve">
-    <value>The simultaneous use of ReShade, 3DMigoto, and FPS Unlock is only possible for Stella Mod Plus subscribers.</value>
+    <value>ReShade, 3DMigoto ve FPS Unlock'un aynı anda kullanımı yalnızca Stella Mod Plus aboneleri için mümkündür.</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>Kaynakların yeni güncellemesi {0} adresinden edinilebilir.</value>
   </data>
   <data name="Default_ItLooksLikeYouAreLaunchingTheLauncherForTheFirstTime" xml:space="preserve">
-    <value>Hello! It looks like you're launching the launcher for the first time. Please take a moment to review the terms of use and guidelines for this modification in the official documentation to avoid any potential issues.
+    <value>Merhaba! Görünüşe göre başlatıcıyı ilk kez başlatıyorsunuz. Olası sorunları önlemek için lütfen resmi belgelerdeki bu değişikliğe ilişkin kullanım koşullarını ve yönergeleri gözden geçirin.
 
-The software is continuously supported by the developer thanks to Stella Plus subscribers. Subscription revenues cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, ensuring that the local administrator is the sole owner of the data. This guarantees the security of your device's hardware data, which is processed according to the highest privacy standards. Stella Mod Launcher prioritizes privacy and security. No analytical data is sent to the server without your consent.
+Yazılım, Stella Plus aboneleri sayesinde geliştirici tarafından sürekli olarak desteklenmektedir. Abonelik gelirleri fiber-optik internet ve elektrik faturalarının maliyetlerini karşılamaktadır. API sunucusu Polonya'da özel bir evde barındırılıyor ve yerel yöneticinin verilerin tek sahibi olması sağlanıyor. Bu, en yüksek gizlilik standartlarına göre işlenen cihazınızın donanım verilerinin güvenliğini garanti eder. Stella Mod Launcher gizlilik ve güvenliğe öncelik verir. İzniniz olmadan sunucuya hiçbir analitik veri gönderilmez.
 
-Stella Mod is safe software, so you don't need to worry about anything. Just remember not to use cheats. If you need help, join our Discord server or send an email to contact@sefinek.net. Have fun!</value>
+Stella Mod güvenli bir yazılımdır, bu nedenle hiçbir şey için endişelenmenize gerek yoktur. Sadece hile kullanmamayı unutmayın. Yardıma ihtiyacınız olursa Discord sunucumuza katılın veya contact@sefinek.net adresine bir e-posta gönderin. İyi eğlenceler!</value>
   </data>
   <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>I sincerely thank you for your generous support! Your contribution means a lot to me. ~ Sefinek</value>
+    <value>Cömert desteğiniz için içtenlikle teşekkür ederim! Katkınız benim için çok önemli. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>Dizin {0} bulunamadı.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>Kaynaklar indiriliyor... {0} / {1}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
-    <value>Click the 'Start game' button to inject ReShade and use FPS Unlock.</value>
+    <value>ReShade'i enjekte etmek ve FPS Unlock'u kullanmak için 'Oyunu başlat' düğmesine tıklayın.</value>
   </data>
   <data name="ReShadeIniUpdate_UpdateSize_KB" xml:space="preserve">
-    <value>Update size: {0} KB</value>
+    <value>Güncelleme boyutu: {0} KB</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
   <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Closed form: {0}</value>
+    <value>Pencere Kapatıldı: {0}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1}</value>
+    <value>Dosyalar açılıyor... {1}'den {0}</value>
   </data>
   <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Output: {0}</value>
+    <value>Çıktı: {0}</value>
   </data>
   <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -555,85 +555,85 @@ Stella Mod is safe software, so you don't need to worry about anything. Just rem
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Mute music on start</value>
+    <value>Başlangıçta müziğin sesini kapat</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>Bir şeyler ters gitti</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
   </data>
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>The best and completely safe mod for Genshin Impact that enhances graphics and more!</value>
+    <value>Genshin Impact için grafikleri ve daha fazlasını geliştiren en iyi ve tamamen güvenli mod!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>Bu özellik yalnızca Stella Mod Plus aboneliği olan oyuncular tarafından kullanılabilir.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+Resmi web sitesini ziyaret etmek ve abone olmak ister misiniz? ReShade, 3DMigoto ve FPS Unlocker'ı aynı anda kullanma olanağı da dahil olmak üzere çok sayıda avantaja erişim elde edeceksiniz.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
-    <value>Successfully updated shaders to the latest version for Stella Plus subscribers.</value>
+    <value>Stella Plus aboneleri için gölgelendiriciler en son sürüme başarıyla güncellendi.</value>
   </data>
   <data name="Default_SuccessfullyUpdatedReShadeCfg" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file!</value>
+    <value>ReShade.ini dosyası başarıyla güncellendi!</value>
   </data>
   <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file. Paths to resource locations have been changed to current, and similar changes have been made.
+    <value>ReShade.ini dosyası başarıyla güncellendi. Kaynak konumlarına giden yollar güncel olarak değiştirildi ve benzer değişiklikler yapıldı.
 
-Current preset:
+Mevcut ön ayar:
 {0}</value>
   </data>
   <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher file does not exist.
+    <value>Başlatıcı dosyası mevcut değil.
 
 {0}</value>
   </data>
   <data name="Default_TheReShadeIniFileCouldNotBeLocatedInYourGameFiles" xml:space="preserve">
-    <value>The ReShade.ini file could not be located in your game files, or it may not be compatible with the current version.
+    <value>ReShade.ini dosyası oyun dosyalarınızda bulunmuyor olabilir veya mevcut sürümle uyumlu olmayabilir.
 
-Would you like to download this file now to prevent future errors and manual configuration? Recommended.</value>
+Gelecekteki hataları ve manuel yapılandırmayı önlemek için bu dosyayı şimdi indirmek ister misiniz? Tavsiye edilir.</value>
   </data>
   <data name="Cmd_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Hata</value>
   </data>
   <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Cmd_ExecutedCommand" xml:space="preserve">
-    <value>Executed command</value>
+    <value>Yürütülen komut</value>
   </data>
   <data name="Default_CachedAppBackground_ID" xml:space="preserve">
-    <value>Cached app background in RAM memory '{0}'; ID: {1};</value>
+    <value>RAM belleğinde önbelleğe alınmış uygulama arka planı '{0}'; ID: {1};</value>
   </data>
   <data name="DiscordRPC_DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord sunucusu</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>Stella Yapılandırma Penceresini tekrar çalıştırdığınızdan emin misiniz?</value>
   </data>
   <data name="ReShadeIniUpdate_UpdateReShadeCfg" xml:space="preserve">
-    <value>Update ReShade config</value>
+    <value>ReShade yapılandırmasını güncelle</value>
   </data>
   <data name="DiscordRPC_State" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>Versiyon: {0}</value>
   </data>
   <data name="Default_Downloading" xml:space="preserve">
-    <value>Downloading...</value>
+    <value>İndiriliyor...</value>
   </data>
   <data name="RandomImages_OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
+    <value>Resmi varsayılan tarayıcıda aç</value>
   </data>
   <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>The game file was not found in the previously specified location:
+    <value>Oyun dosyası önceden belirtilen konumda bulunamadı:
 {0}
 
-Do you want to reconfigure Stella Mod in the Configuration Window?</value>
+Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz?</value>
   </data>
   <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -642,25 +642,25 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RandomImages_AnimeName" xml:space="preserve">
-    <value>Anime name</value>
+    <value>Anime ismi</value>
   </data>
   <data name="ReShadeIniUpdate_GamePathWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Game path was not found on your PC.</value>
+    <value>Bilgisayarınızda oyunun yolu bulunamadı.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Oynanışı izliyor</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_GameLauncherWasNotFoundIn" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Oyun başlatıcısı bulunamadı: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Cmd_ExitCode" xml:space="preserve">
-    <value>Exit code</value>
+    <value>Çıkış kodu</value>
   </data>
   <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -669,22 +669,22 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>Stella Mod Başlatıcısı başarıyla şu sürüme güncellendi: v{0}</value>
   </data>
   <data name="Os_FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
+    <value>Cihaz tanımlayıcı verisi alınamadı.</value>
   </data>
   <data name="WebView2Handler_ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
+    <value>Evergreen Bağımsız Yükleyici'yi seçin.</value>
   </data>
   <data name="NormalRelease_UpdateSize" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>İndirilmeye hazır dosya boyutu: {0}</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>Oops, bir hata oluştu</value>
   </data>
   <data name="Cmd_RebootIsRequired" xml:space="preserve">
-    <value>Reboot is required</value>
+    <value>Yeniden başlatma gerekli</value>
   </data>
   <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
