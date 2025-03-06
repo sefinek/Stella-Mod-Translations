@@ -5,68 +5,68 @@ exports.data = {
 
 // Main
 exports.default = {
- And: 'and',
- From: 'from',
- In: 'in',
- Back: 'Back',
- GoBack: 'Go back',
- GoBackTo: 'Go back to {0}',
- Next: 'Next',
- DiscordServer: 'Discord server',
- DiscordServerTooltip: 'Invitation to our Discord server',
- YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
- YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
+ And: 've',
+ From: 'itibaren',
+ In: 'içinde',
+ Back: 'Geri',
+ GoBack: 'Geri dön',
+ GoBackTo: "{0}'a geri dön",
+ Next: 'Sonraki',
+ DiscordServer: 'Discord sunucusu',
+ DiscordServerTooltip: 'Discord sunucumuza davet',
+ YourBrowserDoesNotSupportVideoTag: 'Tarayıcınız video etiketini desteklemiyor.',
+ YourBrowserDoesNotSupportAudioTag: 'Tarayıcınız ses etiketini desteklemiyor.',
  tooltips: {
-  OfficialDiscordServer: 'Official Discord server',
-  SupportThisProject: 'Support this project voluntarily',
-  GitHubRepositories: 'GitHub repositories',
+  OfficialDiscordServer: 'Resmi Discord sunucusu',
+  SupportThisProject: 'Bu projeyi gönüllü olarak destekleyin',
+  GitHubRepositories: 'GitHub depoları',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: Bad Request',
-  InvalidURL: 'The return URL is invalid.',
-  ReferrerURL: 'Your referrer URL',
-  CorrectRefURL: 'Correct URL',
+  BadRequest: 'Hata 400: Hatalı İstek',
+  InvalidURL: "Geri dönüş URL'si geçersiz.",
+  ReferrerURL: "Yönlendiren URL'niz",
+  CorrectRefURL: 'Doğru URL',
  },
  wrongOs: {
-  DeviceIsNotSupported: 'Device is not supported',
-  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
-  ViewSupportedSystems: 'View supported systems »',
+  DeviceIsNotSupported: 'Cihaz desteklenmiyor',
+  OperatingSysIsNotSupported: 'Üzgünüz! İşletim sisteminiz {0}, henüz desteklenmiyor.',
+  ViewSupportedSystems: 'Desteklenen sistemleri görüntüle »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: 'We cannot find ZIP file on the server',
+  WeCannotFindZipFileOnTheServer: 'Sunucuda ZIP dosyasını bulamıyoruz',
   NewUpdateIsComing:
-   'New update is coming? Probaby...\nAnyways, please try again later or report this issue on our Discord server.',
+   'Yeni güncelleme geliyor mu? Muhtemelen...\nHer neyse, lütfen daha sonra tekrar deneyin veya bu sorunu Discord sunucumuzda bildirin.',
  },
 };
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
+ Header: 'Genshin Impact için Geliştirilmiş Grafiklerle Yeni Bir Dünyaya Adım Atın',
  Text1:
-  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
+  'Geliştirilmiş grafikler, titizlikle hazırlanmış gölgelendiriciler, etkileyici FPS kilit açma ve modlar oyunculara her zamankinden daha iyi bir oyun deneyimi sunuyor!',
  Text2:
-  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
+  'Oyununuzu daha gerçekçi hale getiren yeni grafiklerle Teyvat dünyasını yeniden keşfedin. Özel bir başlatıcı tüm süreci kolaylaştırarak oyuncuların aksiyona hızlı ve kolay bir şekilde atlamasını sağlıyor.',
  FinalText:
-  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
- Download: 'Download',
- DownloadTooltip: 'Click here to download the x64-bit installer for Windows 10 and 11.',
+  "Beklemeyin, şimdi indirin! Oyununuzu bir sonraki seviyeye taşıyın. Kendinizi Teyvat'ın gelişmiş dünyasına bırakın ve unutulmaz anlar yaratın. İyi eğlenceler!",
+ Download: 'İndir',
+ DownloadTooltip: 'Windows 10 ve 11 için x64-bit yükleyiciyi indirmek için buraya tıklayın.',
  StelaModPlusTooltip:
-  'Get access to the paid version of Stella Mod Plus and enjoy numerous benefits and enhanced gaming experiences!',
- Documentation: 'Documentation',
- DocumentationTooltip: 'Check the system requirements, recommended game settings, and more!',
- Gallery: 'Gallery',
- GalleryTooltip: 'See the screenshots from the game with ReShade injected.',
- Videos: 'Videos',
- VideosTooltip: 'Watch our videos showcasing the mod and the launcher.',
- Statistics: 'Statistics',
+  "Stella Mod Plus'ın ücretli sürümüne erişin ve sayısız avantajın ve gelişmiş oyun deneyimlerinin tadını çıkarın!",
+ Documentation: 'Dokümanlar',
+ DocumentationTooltip: 'Sistem gereksinimlerini, önerilen oyun ayarlarını ve daha fazlasını kontrol edin!',
+ Gallery: 'Galeri',
+ GalleryTooltip: 'ReShade enjekte edilmiş oyunda ki ekran görüntülerine bakın.',
+ Videos: 'Videolar',
+ VideosTooltip: 'Modu ve başlatıcıyı gösteren videolarımızı izleyin.',
+ Statistics: 'İstatistikler',
  StatisticsTooltip:
-  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
- Feedback: 'Feedback',
- FeedbackTooltip: 'Share your opinion about my work and Stella Mod.',
+  'Şu anda kaç kişinin Stella Modunu kullanarak Genshin Impact oynadığını kontrol edin. Ayrıca çeşitli diğer istatistiklere de göz atın.',
+ Feedback: 'Geri bildirim',
+ FeedbackTooltip: 'Çalışmalarım ve Stella Mod hakkındaki görüşlerinizi paylaşın.',
  Support: 'Support',
  SupportTooltip: 'Click here if you need help.',
  HomePage: 'Home page',
