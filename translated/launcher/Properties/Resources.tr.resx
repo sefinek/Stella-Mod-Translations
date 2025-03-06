@@ -118,57 +118,57 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>An update is required.
+    <value>Güncelleme yüklenmesi gerekmektedir.
 
-We apologize for any inconvenience, but it is necessary to install every new update. These updates may include quality improvements, and some may even contain critical security fixes.
+Verdiğimiz rahatsızlıktan dolayı özür dileriz, ancak her yeni güncellemenin yüklenmesi gerekmektedir. Bu güncellemeler kalite iyileştirmeleri içerebilir ve hatta bazıları kritik güvenlik düzeltmeleri içerebilir.
 
-If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
+Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsanız, lütfen mevcut programı kaldırın ve resmi web sitesinden yenisini yükleyin.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Genshin Stella Modu için orijinal başlatıcıyı çalıştırın.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>Güncellemeler kontrol ediliyor...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>Başarılı!</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>Kaynak klasörünüzün sonuna '{0}' ekleyerek yeniden adlandırıldı.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>Kaynak dizini bulunamadı. Stella Mod'un daha yeni sürümlerinde, kayıt yolları kayıt defterine taşınmıştır. Yazılımı yeni güncellediyseniz, Tamam'a tıklayın. Yapılandırma penceresi başlatılacaktır.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Özel ayrıcalıklar güncellemesi indiriliyor... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
   <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Successfully retrieved and updated the cached app background with ID {0}.</value>
+    <value>Kimliği {0} olan önbelleğe alınmış uygulama arka planı başarıyla alındı ve güncellendi.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Çalışma dizini</value>
   </data>
   <data name="Default_SuccessfullyUpdatedReShadeCfgAndSavedIn" xml:space="preserve">
-    <value>Successfully downloaded ReShade.ini and saved in: {0}</value>
+    <value>ReShade.ini başarıyla indirildi ve kaydedildi: {0}</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Successfully downloaded or updated file: {1}</value>
+    <value>{0} Dosya başarıyla indirildi veya güncellendi: {1}</value>
   </data>
   <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Wrong EnableMusic value in the ini file.</value>
+    <value>ini dosyasında yanlış EnableMusic değeri.</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
   </data>
   <data name="ReShadeIniUpdate_FileReShadeIniWasNotFoundInYourGameDir" xml:space="preserve">
-    <value>File ReShade.ini was not found in your game directory.</value>
+    <value>ReShade.ini dosyası oyun dizininizde bulunamadı.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Reading the documentation</value>
