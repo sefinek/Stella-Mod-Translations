@@ -1,13 +1,7 @@
 source_language: "en"
 
 files:
-  - source: "/launcher/Forms/**/*.resx"
-    ignore:
-      - "/.github/**"
-      - "**/*.md"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
-
-  - source: "/launcher/Properties/Resources.resx"
+  - source: "/launcher/**/*.resx"
     ignore:
       - "/.github/**"
       - "**/*.md"
@@ -17,10 +11,4 @@ files:
     ignore:
       - "/.github/**"
       - "**/*.md"
-    translation: "/translated/website/%two_letters_code%.%file_extension%"
-
-  - source: "/website/missing-translations/en.js"
-    ignore:
-      - "/.github/**"
-      - "**/*.md"
-    translation: "/translated/website/missing-translations/%two_letters_code%.%file_extension%"
+    translation: "/translated/%original_path%/%two_letters_code%.%file_extension%"
