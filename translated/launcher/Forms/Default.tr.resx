@@ -193,7 +193,7 @@
     <value>1153, 62</value>
   </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Visit the official Stella Mod website</value>
+    <value>Stella Mod'un resmi web sitesini ziyaret edin</value>
   </data>
   <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>29, 29</value>
@@ -247,7 +247,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Click to view the full changelog.</value>
+    <value>Tüm değişiklikleri görüntülemek için tıklayın.</value>
   </data>
   <data name="paimon_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
@@ -310,7 +310,7 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch gameplay</value>
+    <value>Oynanışı izle</value>
   </data>
   <data name="support_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
@@ -373,7 +373,7 @@
     <value>89</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
-    <value>Loading data...</value>
+    <value>Veri yükleniyor...</value>
   </data>
   <data name="&gt;&gt;support_PictureBox.Parent" xml:space="preserve">
     <value>$this</value>
@@ -472,16 +472,16 @@
     <value>20</value>
   </data>
   <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
-    <value>GitHub icon</value>
+    <value>GitHub simgesi</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Click me ^w^</value>
+    <value>Tıkla bana ^w^</value>
   </data>
   <data name="githubUrl_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>376, 24</value>
   </data>
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
-    <value>Gameplay</value>
+    <value>Oynanış</value>
   </data>
   <data name="status_Label.TabIndex" type="System.Int32, mscorlib">
     <value>96</value>
@@ -505,7 +505,7 @@
     <value>13</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Launch Genshin Impact with mods completely safely!</value>
+    <value>Genshin Impact'i modlarla tamamen güvenli bir şekilde başlatın!</value>
   </data>
   <data name="&gt;&gt;donators_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -532,7 +532,7 @@
     <value>TopRight</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Ayarlar</value>
   </data>
   <data name="&gt;&gt;shortcutIco_PictureBox.Name" xml:space="preserve">
     <value>shortcutIco_PictureBox</value>
@@ -613,7 +613,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="changeBg_LinkLabel.Text" xml:space="preserve">
-    <value>Change background</value>
+    <value>Arka planı değiştir</value>
   </data>
   <data name="checkForUpdates_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -658,7 +658,7 @@
     <value>$this</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Stella Mod Launcher</value>
+    <value>Stella Mod Başlatıcı</value>
   </data>
   <data name="migoto_checkBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>109, 25</value>
@@ -754,7 +754,7 @@
     <value>115, 115</value>
   </data>
   <data name="startGame_LinkLabel.Text" xml:space="preserve">
-    <value>Start game</value>
+    <value>Oyunu başlat</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>40</value>
@@ -847,7 +847,7 @@
     <value>Bottom, Left</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>made by Sefinek</value>
+    <value>Sefinek tarafından yapılmıştır</value>
   </data>
   <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -856,7 +856,7 @@
     <value>Bottom, Left</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Resources</value>
+    <value>Kaynaklar</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Parent" xml:space="preserve">
     <value>$this</value>
@@ -991,13 +991,13 @@
     <value>False</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the main game launcher</value>
+    <value>Ana oyun başlatıcısını aç</value>
   </data>
   <data name="close_Panel.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
   </data>
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
-    <value>Waiting for UI stabilization...</value>
+    <value>Arayüz stabilizasyonunu bekliyorum...</value>
   </data>
   <data name="discord_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1021,7 +1021,7 @@
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
-    <value>View changelog</value>
+    <value>Değişiklikleri görüntüle</value>
   </data>
   <data name="paimon_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>1220, 598</value>
@@ -1120,8 +1120,8 @@
     <value>38</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
-    <value>If you want to enhance your gaming experience even further, subscribe to Stella Plus.
-You'll be able to use mods and enjoy the game even more, all in a completely safe way!</value>
+    <value>Oyun deneyiminizi daha da geliştirmek istiyorsanız, Stella Plus'a abone olun.
+Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da fazla çıkarabileceksiniz!</value>
   </data>
   <data name="pictureBox5.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1139,7 +1139,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>131</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Tools and logs</value>
+    <value>Araçlar ve çıktılar</value>
   </data>
   <data name="madeBySefinek_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>474, 31</value>
@@ -1157,7 +1157,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>tools_LinkLabel</value>
   </data>
   <data name="version_LinkLabel.Text" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>Bekleniyor...</value>
   </data>
   <data name="updateIco_PictureBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
@@ -1166,19 +1166,19 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>discord_Picturebox</value>
   </data>
   <data name="donators_LinkLabel.Text" xml:space="preserve">
-    <value>Donators</value>
+    <value>Bağışçılar</value>
   </data>
   <data name="pictureBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 132</value>
   </data>
   <data name="website_LinkLabel.Text" xml:space="preserve">
-    <value>Website</value>
+    <value>İnternet sitesi</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
-    <value>Shaders</value>
+    <value>Gölgelendiriciler</value>
   </data>
   <data name="&gt;&gt;support_LinkLabel.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1208,13 +1208,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Calibri, 15pt</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+    <value>Destek</value>
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Go to https://sefinek.net/genshin-stella-mod/subscription</value>
+    <value>Https://sefinek.net/genshin-stella-mod/subscription adresine gidin</value>
   </data>
   <data name="&gt;&gt;runGiLauncher_LinkLabel.Parent" xml:space="preserve">
     <value>$this</value>
@@ -1244,7 +1244,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>79</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
+    <value>Bu projeye destek olun. Stella Mod sadece destekçileri sayesinde düzenli güncellemeler almaktadır.</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>278, 30</value>
@@ -1295,7 +1295,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>support_PictureBox</value>
   </data>
   <data name="links_LinkLabel.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Bağlantılar</value>
   </data>
   <data name="&gt;&gt;checkForUpdates_LinkLabel.Parent" xml:space="preserve">
     <value>$this</value>
@@ -1304,7 +1304,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Calibri, 15pt</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade introduces graphical enhancements (our ready-made presets) and more! Press Home in-game and create your own presets!</value>
+    <value>ReShade grafiksel geliştirmeler (hazır ön ayarlarımız) ve daha fazlasını sunuyor! Oyun içinde Home tuşuna basın ve kendi ön ayarlarınızı oluşturun!</value>
   </data>
   <data name="unlockFps_checkBox.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1313,7 +1313,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>682, 46</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Logged in as
+    <value>Olarak giriş yapıldı
 {0}</value>
   </data>
   <data name="&gt;&gt;becomeASubscriber_LinkLabel.Type" xml:space="preserve">
@@ -1341,10 +1341,10 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>125, 342</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Main GitHub repository. Star it if you like this software.</value>
+    <value>Ana GitHub deposu. Bu yazılımı beğendiyseniz yıldız verin.</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open the settings</value>
+    <value>Ayarları aç</value>
   </data>
   <data name="&gt;&gt;toolsIco_PictureBox.Name" xml:space="preserve">
     <value>toolsIco_PictureBox</value>
@@ -1359,10 +1359,10 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>$this</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlocks the 60 FPS limit. Useful if you have a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>60 FPS limitinin kilidini açar. Yenileme hızı 60 Hz'den yüksek olan bir monitörünüz varsa kullanışlıdır.</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links</value>
+    <value>Bazı bağlantılar</value>
   </data>
   <data name="changeBg_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>42, 16</value>
@@ -1398,7 +1398,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>False</value>
   </data>
   <data name="migoto_checkBox.Text" xml:space="preserve">
-    <value>More mods</value>
+    <value>Daha fazla mod</value>
   </data>
   <data name="discord_Picturebox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
@@ -1407,7 +1407,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>681, 688</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Araçlar</value>
   </data>
   <data name="unlockFps_checkBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>292, 342</value>
@@ -1434,7 +1434,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>panel1</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Make your game even more interesting and better! Add various mods to the game according to your preferences. Completely safely!</value>
+    <value>Oyununuzu daha da ilginç ve iyi hale getirin! Zevkinize göre oyuna çeşitli modlar ekleyin. Tamamen güvenli!</value>
   </data>
   <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
@@ -1461,7 +1461,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Top, Right</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the subscriber list for Stella Plus</value>
+    <value>Stella Plus'ın abone listesini görüntüleyin</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>116, 30</value>
@@ -1473,7 +1473,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>becomeASubscriber_LinkLabel</value>
   </data>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Change the application background</value>
+    <value>Uygulama arka planını değiştirin</value>
   </data>
   <data name="&gt;&gt;toolsIco_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1482,7 +1482,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Top, Bottom, Left</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Text" xml:space="preserve">
-    <value>Genshin Impact Launcher</value>
+    <value>Genshin Impact Başlatıcı</value>
   </data>
   <data name="reshade_checkBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1515,7 +1515,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>16</value>
   </data>
   <data name="close_Panel.ToolTip" xml:space="preserve">
-    <value>Exit the launcher</value>
+    <value>Başlatıcıdan çık</value>
   </data>
   <data name="githubUrl_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
@@ -1611,7 +1611,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Comic Sans MS, 24pt, style=Bold</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher</value>
+    <value>Genshin Stella Mod Başlatıcı</value>
   </data>
   <data name="version_LinkLabel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>
@@ -1644,7 +1644,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>118</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Unlock FPS</value>
+    <value>FPS kilidini aç</value>
   </data>
   <data name="&gt;&gt;donators_LinkLabel.Name" xml:space="preserve">
     <value>donators_LinkLabel</value>
@@ -1689,7 +1689,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>35</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Go to Stella's resources</value>
+    <value>Stella'nın kaynaklarına git</value>
   </data>
   <data name="gameplay_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
@@ -1719,7 +1719,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>toolTip1</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need help or have any questions</value>
+    <value>Yardıma ihtiyacınız varsa veya herhangi bir sorunuz varsa Discord sunucumuza katılın</value>
   </data>
   <data name="&gt;&gt;label1.Parent" xml:space="preserve">
     <value>$this</value>
