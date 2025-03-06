@@ -13,7 +13,7 @@ files:
       - "**/*.md"
     translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
 
-  - source: "/website/*.js"
+  - source: "/website/**/*.js"
     ignore:
       - "/.github/**"
       - "**/*.md"
