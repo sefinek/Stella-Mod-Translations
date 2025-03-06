@@ -5,41 +5,41 @@ exports.data = {
 
 // Main
 exports.default = {
- And: 'and',
- From: 'from',
- In: 'in',
- Back: 'Back',
- GoBack: 'Go back',
- GoBackTo: 'Go back to {0}',
- Next: 'Next',
- DiscordServer: 'Discord server',
- DiscordServerTooltip: 'Invitation to our Discord server',
- YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
- YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
+ And: 'и',
+ From: 'из',
+ In: 'в',
+ Back: 'Назад',
+ GoBack: 'Назад',
+ GoBackTo: 'Вернуться к {0}',
+ Next: 'Далее',
+ DiscordServer: 'Discord-сервер',
+ DiscordServerTooltip: 'Приглашение на наш Discord-сервер',
+ YourBrowserDoesNotSupportVideoTag: 'Ваш браузер не поддерживает тег видео.',
+ YourBrowserDoesNotSupportAudioTag: 'Ваш браузер не поддерживает тег аудио.',
  tooltips: {
-  OfficialDiscordServer: 'Official Discord server',
-  SupportThisProject: 'Support this project voluntarily',
-  GitHubRepositories: 'GitHub repositories',
+  OfficialDiscordServer: 'Официальный Discord-сервер',
+  SupportThisProject: 'Добровольно поддержать этот проект',
+  GitHubRepositories: 'Репозитории GitHub',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: Bad Request',
-  InvalidURL: 'The return URL is invalid.',
-  ReferrerURL: 'Your referrer URL',
-  CorrectRefURL: 'Correct URL',
+  BadRequest: 'Ошибка 400: Плохой запрос',
+  InvalidURL: 'Возвращаемый URL-адрес недействителен.',
+  ReferrerURL: 'URL-адрес вашего реферера',
+  CorrectRefURL: 'Правильный URL',
  },
  wrongOs: {
-  DeviceIsNotSupported: 'Device is not supported',
-  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
-  ViewSupportedSystems: 'View supported systems »',
+  DeviceIsNotSupported: 'Устройство не поддерживается',
+  OperatingSysIsNotSupported: 'Мы сожалеем! Ваша операционная система {0} пока не поддерживается.',
+  ViewSupportedSystems: 'Посмотреть поддерживаемые системы »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: 'We cannot find ZIP file on the server',
+  WeCannotFindZipFileOnTheServer: 'Мы не можем найти ZIP-файл на сервере',
   NewUpdateIsComing:
-   'New update is coming? Probaby...\nAnyways, please try again later or report this issue on our Discord server.',
+   'Новое обновление на подходе? Возможно...\nВ любом случае, пожалуйста, повторите попытку позже или сообщите об этом на нашем сервере Discord.',
  },
 };
 
