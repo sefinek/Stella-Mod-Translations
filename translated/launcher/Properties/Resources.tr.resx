@@ -171,7 +171,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>ReShade.ini dosyası oyun dizininizde bulunamadı.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Belgeleri okuyor</value>
+    <value>Belgeleri okuyun</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
