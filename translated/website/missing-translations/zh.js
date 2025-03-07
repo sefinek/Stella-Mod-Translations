@@ -1,9 +1,8 @@
 module.exports = {
  OhNoSomethingWentWrong: 'Oh no! Something went wrong...',
  WereSorryButWeCouldFindTheCorrectTranslation:
-  "Sorry, we couldn't find a correct translation for your language - {0}. For more information, please check the console details. (≧◡≦) ♡",
- IfYouWouldLikeToContributeYourOwnTranslationOrHelpUsFixThisIssue:
-  'If you would like to contribute your own translation or help us fix this issue, please create a new {0}Pull Request{/0} on our {1}GitHub repository{/1} Thank you for your help! o(>ω<)o',
+  "Sorry, but we couldn't find translations for the {0} language. For more information, check the details in the console.",
+ IfYouWoldLikeToAddYourOwnTranslations:
+  'If you would like to add your own translation or help us fix this issue, check out our {0}Crowdin{/0} page. Thank you for your help! (≧◡≦) ♡',
  SwitchLanguageToEnglish: 'Switch language to English',
- YesClickMe: 'Yes, click me!',
 };
