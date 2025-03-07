@@ -75,8 +75,8 @@ exports.home = {
  FetchingData: 'Veri getiriliyor...',
  Version: 'Versiyon',
  TheVersionWithoutCaps: 'versiyon',
- DownloadCount: 'Download count',
- LastDownload: 'Last download',
+ DownloadCount: 'İndirilme sayısı',
+ LastDownload: 'Son indirilme',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
   AreYouARobot: 'Are you a robot?',
