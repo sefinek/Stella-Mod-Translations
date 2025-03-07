@@ -115,7 +115,7 @@ exports.gallery = {
  WebsiteIsNotSupportedOnMobileDevices: 'Bu web sitesi mobil cihazlarda desteklenmemektedir.',
  SomeImageCanBeOutdated: 'Bazı resimler güncel olmayabilir!',
  SeeComparesFromTheOtherVersions: 'Diğer sürümlerdeki karşılaştırmalara bakın',
- SeeTheComparisonBetween: 'Aralarındaki benzerliklere bakın...',
+ SeeTheComparisonBetween: 'Aralarındaki farklara bakın...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
   'Şu anda bulunduğunuz sayfada farklı sürümlerin karşılaştırması gösterilmektedir.',
  OldVersion: 'Eski sürüm',
