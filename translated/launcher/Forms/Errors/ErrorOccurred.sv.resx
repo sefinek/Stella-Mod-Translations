@@ -136,7 +136,7 @@
     <value>7</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Sorry, something went wrong</value>
+    <value>Tyvärr, något gick fel</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -169,7 +169,7 @@
     <value>6</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Please report any errors on our Discord server or via email.
+    <value>Vänligen rapportera eventuella fel på vår Discord-server eller via e-post.
 Discord: {0} ┃ E-mail: {1}</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
@@ -200,7 +200,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>11</value>
   </data>
   <data name="button3.Text" xml:space="preserve">
-    <value>See debug logs</value>
+    <value>Se felsökningsloggar</value>
   </data>
   <data name="&gt;&gt;button3.Name" xml:space="preserve">
     <value>button3</value>
@@ -227,7 +227,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>10</value>
   </data>
   <data name="button2.Text" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord-server</value>
   </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
@@ -254,7 +254,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>9</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>Reinstall Stella Mod</value>
+    <value>Ominstallera Stella Mod</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
@@ -311,7 +311,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>Något gick fel</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ErrorOccurred</value>
