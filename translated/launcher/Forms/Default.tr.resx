@@ -475,7 +475,7 @@
     <value>GitHub simgesi</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Tıkla bana ^w^</value>
+    <value>Bana tıkla ^w^</value>
   </data>
   <data name="githubUrl_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>376, 24</value>
