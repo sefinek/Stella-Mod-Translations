@@ -79,127 +79,130 @@ exports.home = {
  LastDownload: 'Son indirilme',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
-  AreYouARobot: 'Are you a robot?',
-  FailedToVerifyCaptcha: 'Failed to verify captcha: {0}',
-  FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.',
+  AreYouARobot: 'Sen robot musun?',
+  FailedToVerifyCaptcha: 'Captcha doğrulaması başarısız oldu: {0}',
+  FailedToVerifyCaptchaStatusCode:
+   'Captcha doğrulanamadı (hata kodu: {0}). Web sitesini yeniden yükleyin ve tekrar deneyin.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Select the download server',
+  SelectDownloadServer: 'İndirme sunucusunu seçin',
   Companies: 'Companies',
-  Countries: 'Countries',
-  LauncherVersion: 'Launcher version:',
+  Countries: 'Ülkeler',
+  LauncherVersion: 'Başlatıcı sürümü:',
   MirrorsAreCurrentlyUnavailable:
    'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
   ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
   FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
  },
  finalModal: {
-  ThankYouForDownloading: 'Thank you for downloading',
+  ThankYouForDownloading: 'İndirdiğiniz için teşekkürler',
   BecomeAStellaModSubscriber:
-   'Become a Stella Mod Plus subscriber to gain access to additional benefits such as the ability to use 3DMigoto, FPS Unlocker, and ReShade simultaneously, a large collection of error-free mods, enhanced security (blocking telemetry and analytics), a package of the latest shaders, an add-on to prevent filter overlays on the user interface (UI), Ray Tracing presets, and much more!',
+   "3DMigoto, FPS Unlocker ve ReShade'i aynı anda kullanabilme, hatasız modlardan oluşan geniş bir koleksiyon, gelişmiş güvenlik (telemetri ve analizleri engelleme), en yeni gölgelendiricilerden oluşan bir paket, kullanıcı arayüzünde (UI) filtre kaplamalarını önleyen bir eklenti, Işın İzleme ön ayarları ve çok daha fazlası gibi ek avantajlara erişmek için Stella Mod Plus abonesi olun!",
   JoinOurDiscordServerToReceiveNotifications:
-   'Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or encounter any issues. We are always ready to help. Wishing you a great day or night!',
-  IfYouReEnjoyingStellaModConsiderLeavingAReview: 'Leave a review at {a}trustpilot.com{/a} after testing the software!',
-  TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
-  NoProblem: 'No problem',
+   'En son güncellemeler, özellikler ve diğer duyurular hakkında bilgilendirmeler almak için Discord sunucumuza katılın. Herhangi bir sorunuz varsa veya herhangi bir sorunla karşılaşırsanız içerik oluşturucu ile iletişime geçin. Her zaman yardıma hazırız. Harika bir gün veya gece geçirmeniz dileğiyle!',
+  IfYouReEnjoyingStellaModConsiderLeavingAReview:
+   'Yazılımı test ettikten sonra {a}trustpilot.com{/a} adresinde bir inceleme bırakın!',
+  TheTotalNumberOfDownloadsNowIs: 'Anlık toplam indirme sayısı',
+  NoProblem: 'Sorun değil',
  },
  tooltips: {
-  PageViews: 'Page views. Statistics have been collected since January 19, 2024.',
-  ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
+  PageViews: 'Sayfa görüntülemeleri. İstatistikler 19 Ocak 2024 tarihinden itibaren toplanmıştır.',
+  ShareYourFeedbackOnTrustpilot: "Görüşlerinizi Trustpilot'ta paylaşın! Çok memnun oluruz.",
  },
 };
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Gallery - Page number',
+ GalleryPage: 'Galeri - Sayfa numarası',
  GalleryCompareReleases: 'Gallery - Compare releases:',
- ScreenshotsAreAvailableInHighQuality: 'Screenshots are available in high quality. It may take a while to load them.',
- WebsiteIsNotSupportedOnMobileDevices: 'This website is not supported on mobile devices.',
- SomeImageCanBeOutdated: 'Some images can be outdated!',
- SeeComparesFromTheOtherVersions: 'See compares from the other versions',
- SeeTheComparisonBetween: 'See the comparison between...',
+ ScreenshotsAreAvailableInHighQuality:
+  'Yüksek kalitede ekran görüntüleri mevcuttur. Bunların yüklenmesi biraz zaman alabilir.',
+ WebsiteIsNotSupportedOnMobileDevices: 'Bu web sitesi mobil cihazlarda desteklenmemektedir.',
+ SomeImageCanBeOutdated: 'Bazı resimler güncel olmayabilir!',
+ SeeComparesFromTheOtherVersions: 'Diğer sürümlerdeki karşılaştırmalara bakın',
+ SeeTheComparisonBetween: 'Aralarındaki karşılaştırmaya bakın...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
-  'The page you are currently on displays a comparison of different versions of releases.',
- OldVersion: 'Old version',
- NewVersion: 'New version',
- WithMod: 'With mod',
- WithoutMod: 'Without mod',
- BonusScreenshot: 'Bonus screenshot',
+  'Şu anda bulunduğunuz sayfada farklı sürümlerin karşılaştırması gösterilmektedir.',
+ OldVersion: 'Eski sürüm',
+ NewVersion: 'Yeni sürüm',
+ WithMod: 'Modlu',
+ WithoutMod: 'Modsuz',
+ BonusScreenshot: 'Bonus ekran görüntüsü',
  tooltips: {
-  GoBackToMainGalleryPage: 'Go back to main gallery page',
+  GoBackToMainGalleryPage: 'Ana galeri sayfasına geri dön',
  },
 };
 
 // GET /genshin-stella-mod/feedback
 exports.feedback = {
- LeaveYourFeedback: 'Share your opinion',
+ LeaveYourFeedback: 'Görüşlerinizi paylaşın',
  IfYouLikeThisProjectSupportMe:
-  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving it a {2}star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+  "Bu projeyi beğendiyseniz, YouTube kanalıma {1} abone olmayı{/1}, GitHub'da {2} yıldız{/2} vermeyi veya {3} beni başka bir şekilde desteklemeyi{/3} düşünün.",
  IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  "Additionally, if you have any comments or suggestions, don't hesitate to use the chat feature to send them directly to the creator.",
+  'Ayrıca, herhangi bir düşünceniz veya öneriniz varsa, bunları doğrudan içerik oluşturucuya göndermek için sohbet özelliğini kullanmaktan çekinmeyin.',
  btn: {
   BelowYTVideo: 'Below my YouTube video',
   OnTheDiscordServer: 'On the Discord server',
  },
  tooltips: {
-  ClickHereToGoToTheYTPage: 'Click here to go to the YouTube page.',
-  GiveAStarToMyReposOnGitHub: 'Give a star to my repositories on GitHub, the ones you like.',
+  ClickHereToGoToTheYTPage: 'YouTube sayfasına gitmek için buraya tıklayın.',
+  GiveAStarToMyReposOnGitHub: "GitHub'daki projelerimden beğendiklerinize bir yıldız verin.",
  },
 };
 
 // GET /genshin-stella-mod/support
 exports.support = {
- SomeQuestions: 'Do you have any questions? Do you need support?',
+ SomeQuestions: 'Herhangi bir sorunuz var mı? Desteğe ihtiyacınız var mı?',
  DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  'Do you have any issues with Stella Mod or just a question? If so, don’t hesitate to contact us! The team is here to assist you with any questions or concerns.',
+  'Stella Mod ile ilgili herhangi bir sorununuz ya da sadece bir sorunuz var mı? Eğer öyleyse, bizimle iletişime geçmekten çekinmeyin! Ekibimiz, her türlü soru veya endişenizde size yardımcı olmak için burada.',
  WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'Whether you need help with installing the mod or have questions about its features, we are here to help.',
+  'İster modun kurulumuyla ilgili yardıma ihtiyacınız olsun, ister modun özellikleriyle ilgili sorularınız olsun, size yardımcı olmak için buradayız.',
  PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  'Please note that our community is also ready to answer your questions. To do so, join our Discord server or create a new issue on GitHub.',
+  "Topluluğumuzun da sorularınızı yanıtlamaya hazır olduğunu lütfen unutmayın. Bunu yapmak için Discord sunucumuza katılın veya GitHub'da yeni bir soru oluşturun.",
  SimplyClickOnTheChatIconInTheBottomRightCorner:
-  'Simply create an account or log in to Sefinek Patron Center and {a}submit a ticket{/a} in Polish or English. Please note that Stella Mod is not affiliated with HoYoverse.',
- CreatANewTicket: 'Create a new ticket',
- JoinToDiscordServer: 'Join the Discord server',
- SendAnEmail: 'Send an email',
+  "Sadece bir hesap oluşturun veya Sefinek Patron Center'da oturum açın ve {a} Lehçe veya İngilizce bir bilet{/a} gönderin. Stella Mod'un HoYoverse ile bağlantılı olmadığını lütfen unutmayın.",
+ CreatANewTicket: 'Yeni bir bilet oluşturun',
+ JoinToDiscordServer: 'Discord sunucusuna katılın',
+ SendAnEmail: 'Bir e-posta gönderin',
  tooltips: {
-  CreateANewTicket: 'Click here to create a new ticket on the SPC website.',
-  JoinOurOfficialDiscordServer: 'Join our official Discord server.',
-  SendAnEmailToTheDeveloper: 'Send an email to the developer if you expect a more in-depth response.',
-  ReturnTo: 'Return to: Genshin Stella Mod - Here begins your adventure.',
+  CreateANewTicket: 'SPC web sitesinde yeni bir bilet oluşturmak için buraya tıklayın.',
+  JoinOurOfficialDiscordServer: 'Resmi Discord sunucumuza katılın.',
+  SendAnEmailToTheDeveloper: 'Daha detaylı bir yanıt bekliyorsanız geliştiriciye bir e-posta gönderin.',
+  ReturnTo: 'Şuraya dön: Genshin Stella Mod - İşte maceranız başlıyor.',
  },
 };
 
 // GET /genshin-stella-mod/videos
 exports.videos = {
- WatchVideosOnYT: 'Watch videos on YouTube',
+ WatchVideosOnYT: "YouTube'daki videoları izleyin",
  IfYouWantToRecordNewVideo:
-  'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
- DeprecatedMovies: 'Deprecated movies',
+  "Stella Mod hakkında bir video kaydetmek ve YouTube'a yüklemek istiyorsanız, lütfen benimle iletişime geçin. Videonuzun bağlantısı bu sayfaya eklenecektir.",
+ DeprecatedMovies: 'Kullanım dışı filmler',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
-  'The movies are from previous versions of Stella Mod and are already considered outdated.',
- FirstModRelease: 'First mod release',
- Gameplay: 'Gameplay',
+  "Filmler Stella Mod'un önceki sürümlerine aittir ve zaten eski olarak kabul edilirler.",
+ FirstModRelease: 'İlk mod sürümü',
+ Gameplay: 'Oynanış',
 };
 
 // GET /genshin-stella-mod/stats
 exports.stats = {
- ToggleBlur: 'Toggle blur',
- ToggleShadows: 'Toggle shadows',
- ToggleBorder: 'Toggle border',
- ToggleBackground: 'Toggle background',
- LiveStats: 'Live stats',
- OnlineNow: 'Online now',
+ ToggleBlur: 'Bulanıklığı aç / kapat',
+ ToggleShadows: 'Gölgeleri aç / kapat',
+ ToggleBorder: 'Kenarları aç / kapat',
+ ToggleBackground: 'Arka planı aç / kapat',
+ LiveStats: 'Canlı istatistikler',
+ OnlineNow: 'Şimdi çevrimiçi',
  Playing: 'Playing',
- AllDownloadsNow: 'All downloads now',
- Player: 'player',
- Players: 'players',
+ AllDownloadsNow: 'Anlık tüm indirmeler',
+ Player: 'oyuncu',
+ Players: 'oyuncular',
  BelowYouFindTheStatsOfStellaMod:
-  'Below you will find the statistics of Stella Mod. Timezone: Europe/Warsaw GMT+01:00 (Poland). Have a nice day!',
- PerCountry: 'Per country',
- PerHour: 'Per hour',
- PerDay: 'Per day',
- PerMonth: 'Per month',
- PerYear: 'Per year',
+  "Aşağıda Stella Mod'un istatistiklerini bulacaksınız. Saat dilimi: Avrupa/Varşova GMT+01:00 (Polonya). İyi günler dilerim!",
+ PerCountry: 'Ülke başına',
+ PerHour: 'Saat başına',
+ PerDay: 'Gün başına',
+ PerMonth: 'Ay başına',
+ PerYear: 'Yıl başına',
  All: 'All',
  Unique: 'Unique',
  FirstOpens: 'First opens',
