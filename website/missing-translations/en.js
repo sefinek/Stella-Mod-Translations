@@ -1,10 +1,3 @@
-exports.data = {
-	Version: '2.0.2',
-	Contributors: [
-		'Sefinek <contact@sefinek.net> (https://sefinek.net)',
-	],
-};
-
 module.exports = {
 	OhNoSomethingWentWrong: 'Oh no! Something went wrong...',
 	WereSorryButWeCouldFindTheCorrectTranslation: 'Sorry, we couldn\'t find a correct translation for your language - {0}. For more information, please check the console details. (≧◡≦) ♡',
