@@ -136,7 +136,7 @@
     <value>1</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Cat</value>
+    <value>Kat</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -169,7 +169,7 @@
     <value>2</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>» Animals</value>
+    <value>» Djur</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -199,7 +199,7 @@
     <value>3</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Dog</value>
+    <value>Hund</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -229,7 +229,7 @@
     <value>4</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Fox</value>
+    <value>Räv</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -325,7 +325,7 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Fox girl</value>
+    <value>Rävtjej</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -1417,7 +1417,7 @@
     <value>79</value>
   </data>
   <data name="linkLabel29.Text" xml:space="preserve">
-    <value>White hair</value>
+    <value>Vitt hår</value>
   </data>
   <data name="&gt;&gt;linkLabel29.Name" xml:space="preserve">
     <value>linkLabel29</value>
