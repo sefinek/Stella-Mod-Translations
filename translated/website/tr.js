@@ -1,8 +1,3 @@
-exports.data = {
- Version: '2.9.15',
- Contributors: ['Sefinek <contact@sefinek.net> (https://sefinek.net)'],
-};
-
 // Main
 exports.default = {
  And: 've',
