@@ -129,9 +129,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Deja tus comentarios',
  IfYouLikeThisProjectSupportMe:
-  'Si te ha gustado el proyecto, considera suscribirte a mi {1}canal de Youtube{/1}, dándole una estrella {2}en GitHub{/2} o {3}ayudándome{/3} de otras maneras.',
- IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  'Además, si tienes algún comentario o sugerencia, no dudes en utilizar la función de chat para enviarlos directamente.',
+  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+ AdditionallyIfYouHaveCommentsOrSuggestions:
+  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
   BelowYTVideo: 'Debajo de mi video de YouTube',
   OnTheDiscordServer: 'En el servidor de Discord',
@@ -139,28 +139,6 @@ exports.feedback = {
  tooltips: {
   ClickHereToGoToTheYTPage: 'Haz clic aquí para ir a la página de YouTube.',
   GiveAStarToMyReposOnGitHub: 'Dale una estrella a mis repositorios en GitHub, a los que te gusten.',
- },
-};
-
-// GET /genshin-stella-mod/support
-exports.support = {
- SomeQuestions: '¿Tienes alguna pregunta? ¿Necesitas soporte?',
- DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  '¿Tienes algún problema con Stella Mod o solo una pregunta? ¡Si es así, no dudes en contactarnos! El equipo está aquí para asistirte con cualquier pregunta o inquietud.',
- WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'Ya sea que necesites ayuda para instalar el mod o tengas preguntas sobre sus características, estamos aquí para ayudarte.',
- PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  'Ten en cuenta que nuestra comunidad también está lista para responder a tus preguntas. Para hacerlo, únete a nuestro servidor de Discord o crea un nuevo issue en GitHub.',
- SimplyClickOnTheChatIconInTheBottomRightCorner:
-  'Simplemente crea una cuenta o inicia sesión en Sefinek Patron Center y {a}envía un ticket{/a} en polaco o inglés. Ten en cuenta que Stella Mod no está afiliado con HoYoverse.',
- CreatANewTicket: 'Crear un nuevo ticket',
- JoinToDiscordServer: 'Unirse al servidor de Discord',
- SendAnEmail: 'Enviar un correo electrónico',
- tooltips: {
-  CreateANewTicket: 'Haz clic aquí para crear un nuevo ticket en el sitio web de SPC.',
-  JoinOurOfficialDiscordServer: 'Únete a nuestro servidor oficial de Discord.',
-  SendAnEmailToTheDeveloper: 'Envía un correo electrónico al desarrollador si esperas una respuesta más detallada.',
-  ReturnTo: 'Volver a: Genshin Stella Mod - Aquí comienza tu aventura.',
  },
 };
 
