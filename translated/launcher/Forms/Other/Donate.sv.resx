@@ -160,7 +160,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Stäng</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -221,7 +221,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>16</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>❌ Not this time</value>
+    <value>❌ Inte den här gången</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -251,7 +251,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>❤ Yes, I can</value>
+    <value>❤ Ja, jag kan</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -536,7 +536,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Support the creator</value>
+    <value>Stöd skaparen</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
