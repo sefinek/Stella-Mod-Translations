@@ -352,7 +352,7 @@
     <value>104</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Genshin Impact En İyi Karakter Katman Listesi (genshin.gg)</value>
+    <value>Genshin Impact En İyi Karakterler Katman Listesi (genshin.gg)</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -631,7 +631,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Resmi sunucu durum sayfası</value>
+    <value>Resmi sunucunun aktiflik sayfası</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
