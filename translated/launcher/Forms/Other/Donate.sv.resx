@@ -190,8 +190,9 @@
     <value>17</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>This software receives regular updates thanks to the support of Stella Mod Plus users. By subscribing, you unlock various game enhancements, including access to mods, add-ons, reliable shaders, new presets, mod collections, and much more! Elevate your Genshin Impact experience today!
-Please note that a Stella Plus subscription is considered voluntary support and not a product purchase. It is also important to be aware that we do not use GIMI!</value>
+    <value>Denna programvara får regelbundna uppdateringar tack vare stödet från Stella Mod Plus-användare. Genom att prenumerera låser du upp olika förbättringar i spelet, inklusive tillgång till moddar, tillägg, pålitliga shaders, nya förinställningar, moddsamlingar och mycket mer! Ta din Genshin Impact-upplevelse till nästa nivå idag!
+
+Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och inte som ett produktköp. Det är också viktigt att känna till att vi inte använder GIMI!</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -287,7 +288,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>10</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you like this project, please...</value>
+    <value>Om du gillar detta projekt, vänligen...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -323,7 +324,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>22</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>» Subscribe my YouTube channel</value>
+    <value>» Prenumerera på min YouTube-kanal</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Sefinek - YouTube</value>
@@ -395,10 +396,10 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join the Discord server</value>
+    <value>» Gå med i Discord-servern</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Join our Discord server</value>
+    <value>Gå med i våran Dicord-server</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -434,7 +435,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave feedback on Trustpilot.com</value>
+    <value>» Skriv en recension på Trustpilot.com</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Launcher Reviews | Read Customer Service Reviews of stella.sefinek.net</value>
@@ -470,7 +471,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>21</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>» Support this project by clicking here</value>
+    <value>» Stöd detta projekt genom att klicka här</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>

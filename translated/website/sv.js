@@ -57,7 +57,7 @@ exports.home = {
  GalleryTooltip: 'Se skärmdumpar från spelet med ReShade injicerat.',
  Videos: 'Videos',
  VideosTooltip: 'Titta på våra videor som visar modden och launchern.',
- Statistics: 'Statistics',
+ Statistics: 'Statistik',
  StatisticsTooltip:
   'Se hur många som för närvarande spelar Genshin Impact med Stella Mod. Bläddra även igenom olika andra statistikuppgifter.',
  Feedback: 'Återkoppling',
@@ -70,31 +70,34 @@ exports.home = {
  FetchingData: 'Hämtar data...',
  Version: 'Version',
  TheVersionWithoutCaps: 'versionen',
- DownloadCount: 'Download count',
+ DownloadCount: '"Antal nedladdningar',
  LastDownload: 'Senaste nedladdning',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
   AreYouARobot: 'Är du en robot?',
-  FailedToVerifyCaptcha: 'Failed to verify captcha: {0}',
-  FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.',
+  FailedToVerifyCaptcha: 'Misslyckades med att verifiera captcha: {0}',
+  FailedToVerifyCaptchaStatusCode:
+   'Misslyckades med att verifiera captcha (statuskod: {0}). Ladda om webbplatsen och försök igen.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Select the download server',
-  Companies: 'Companies',
-  Countries: 'Countries',
-  LauncherVersion: 'Launcher version:',
+  SelectDownloadServer: 'Välj nedladdningsserver',
+  Companies: 'Företag',
+  Countries: 'Länder',
+  LauncherVersion: 'Launcher-version:',
   MirrorsAreCurrentlyUnavailable:
-   'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
-  ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
-  FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
+   'Spegelservrar är för tillfället avstängda eller otillgängliga för denna kategori. Försök igen senare eller kontakta administratören.',
+  ChecksumHasBeenSuccessfullyCopied: '{0}-kontrollsumman har kopierats till urklippet!',
+  FailedToCopyChecksumTryAgain:
+   'Det gick inte att kopiera kontrollsumman för {0} till urklippet. Vänligen försök igen.',
  },
  finalModal: {
-  ThankYouForDownloading: 'Thank you for downloading',
+  ThankYouForDownloading: 'Tack för din nedladdning!',
   BecomeAStellaModSubscriber:
-   'Become a Stella Mod Plus subscriber to gain access to additional benefits such as the ability to use 3DMigoto, FPS Unlocker, and ReShade simultaneously, a large collection of error-free mods, enhanced security (blocking telemetry and analytics), a package of the latest shaders, an add-on to prevent filter overlays on the user interface (UI), Ray Tracing presets, and much more!',
+   'Bli en Stella Mod Plus-prenumerant för att få tillgång till extra förmåner, såsom möjligheten att använda 3DMigoto, FPS Unlocker och ReShade samtidigt, en stor samling felfria moddar, förbättrad säkerhet (blockering av telemetri och analys), ett paket med de senaste shaders, ett tillägg som förhindrar filteröverlägg på användargränssnittet (UI), Ray Tracing-förinställningar och mycket mer!',
   JoinOurDiscordServerToReceiveNotifications:
-   'Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or encounter any issues. We are always ready to help. Wishing you a great day or night!',
-  IfYouReEnjoyingStellaModConsiderLeavingAReview: 'Leave a review at {a}trustpilot.com{/a} after testing the software!',
+   'Gå med i vår Discord-server för att få notiser om de senaste uppdateringarna, funktionerna och andra nyheter. Kontakta skaparen om du har några frågor eller stöter på problem. Vi är alltid redo att hjälpa till. Önskar dig en fantastisk dag eller natt!',
+  IfYouReEnjoyingStellaModConsiderLeavingAReview:
+   'Lämna en recension på {a}trustpilot.com{/a} efter att du har testat programvaran!',
   TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
   NoProblem: 'Inga problem',
  },
