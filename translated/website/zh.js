@@ -129,9 +129,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Share your opinion',
  IfYouLikeThisProjectSupportMe:
-  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving it a {2}star{/2} on GitHub, or {3}supporting me{/3} in another way.',
- IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  "Additionally, if you have any comments or suggestions, don't hesitate to use the chat feature to send them directly to the creator.",
+  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+ AdditionallyIfYouHaveCommentsOrSuggestions:
+  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
   BelowYTVideo: 'Below my YouTube video',
   OnTheDiscordServer: 'On the Discord server',
@@ -139,28 +139,6 @@ exports.feedback = {
  tooltips: {
   ClickHereToGoToTheYTPage: 'Click here to go to the YouTube page.',
   GiveAStarToMyReposOnGitHub: 'Give a star to my repositories on GitHub, the ones you like.',
- },
-};
-
-// GET /genshin-stella-mod/support
-exports.support = {
- SomeQuestions: 'Do you have any questions? Do you need support?',
- DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  'Do you have any issues with Stella Mod or just a question? If so, don’t hesitate to contact us! The team is here to assist you with any questions or concerns.',
- WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'Whether you need help with installing the mod or have questions about its features, we are here to help.',
- PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  'Please note that our community is also ready to answer your questions. To do so, join our Discord server or create a new issue on GitHub.',
- SimplyClickOnTheChatIconInTheBottomRightCorner:
-  'Simply create an account or log in to Sefinek Patron Center and {a}submit a ticket{/a} in Polish or English. Please note that Stella Mod is not affiliated with HoYoverse.',
- CreatANewTicket: 'Create a new ticket',
- JoinToDiscordServer: 'Join the Discord server',
- SendAnEmail: 'Send an email',
- tooltips: {
-  CreateANewTicket: 'Click here to create a new ticket on the SPC website.',
-  JoinOurOfficialDiscordServer: 'Join our official Discord server.',
-  SendAnEmailToTheDeveloper: 'Send an email to the developer if you expect a more in-depth response.',
-  ReturnTo: 'Return to: Genshin Stella Mod - Here begins your adventure.',
  },
 };
 
