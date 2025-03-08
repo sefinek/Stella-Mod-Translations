@@ -331,7 +331,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime tilki kızlar</value>
+    <value>Anime tilki kızları</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -364,7 +364,7 @@
     <value>Kedi kız</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
-    <value>Anime kedi kızlar</value>
+    <value>Anime kedi kızları</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -397,7 +397,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Kahve</value>
+    <value>Kahveli</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -535,7 +535,7 @@
     <value>47</value>
   </data>
   <data name="linkLabel43.Text" xml:space="preserve">
-    <value>Kuyruk</value>
+    <value>Kuyruklu</value>
   </data>
   <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
     <value>linkLabel43</value>
@@ -628,7 +628,7 @@
     <value>51</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
-    <value>Half-Life kedi</value>
+    <value>Half-Life kedisi</value>
   </data>
   <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
     <value>linkLabel45</value>
@@ -757,7 +757,7 @@
     <value>59</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Üniforma</value>
+    <value>Üniformalı</value>
   </data>
   <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
     <value>linkLabel9</value>
@@ -790,7 +790,7 @@
     <value>60</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>Kurdeleli kuyruk</value>
+    <value>Kurdeleli ve kuyruklu</value>
   </data>
   <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
     <value>linkLabel10</value>
@@ -823,7 +823,7 @@
     <value>61</value>
   </data>
   <data name="linkLabel11.Text" xml:space="preserve">
-    <value>VTuber</value>
+    <value>Sanal YouTuber</value>
   </data>
   <data name="&gt;&gt;linkLabel11.Name" xml:space="preserve">
     <value>linkLabel11</value>
@@ -856,7 +856,7 @@
     <value>62</value>
   </data>
   <data name="linkLabel12.Text" xml:space="preserve">
-    <value>Denizci kıyafeti</value>
+    <value>Denizci kıyafetli</value>
   </data>
   <data name="&gt;&gt;linkLabel12.Name" xml:space="preserve">
     <value>linkLabel12</value>
@@ -922,7 +922,7 @@
     <value>64</value>
   </data>
   <data name="linkLabel14.Text" xml:space="preserve">
-    <value>W-oturma</value>
+    <value>Diz çöküp-oturuyor</value>
   </data>
   <data name="&gt;&gt;linkLabel14.Name" xml:space="preserve">
     <value>linkLabel14</value>
@@ -955,7 +955,7 @@
     <value>65</value>
   </data>
   <data name="linkLabel15.Text" xml:space="preserve">
-    <value>Yere uzanma</value>
+    <value>Yere uzanıyor</value>
   </data>
   <data name="&gt;&gt;linkLabel15.Name" xml:space="preserve">
     <value>linkLabel15</value>
@@ -988,7 +988,7 @@
     <value>66</value>
   </data>
   <data name="linkLabel16.Text" xml:space="preserve">
-    <value>Etek</value>
+    <value>Etekli</value>
   </data>
   <data name="&gt;&gt;linkLabel16.Name" xml:space="preserve">
     <value>linkLabel16</value>
@@ -1021,7 +1021,7 @@
     <value>67</value>
   </data>
   <data name="linkLabel17.Text" xml:space="preserve">
-    <value>Uzun saçlar</value>
+    <value>Uzun saçlı</value>
   </data>
   <data name="&gt;&gt;linkLabel17.Name" xml:space="preserve">
     <value>linkLabel17</value>
@@ -1054,7 +1054,7 @@
     <value>68</value>
   </data>
   <data name="linkLabel18.Text" xml:space="preserve">
-    <value>Gülümseme</value>
+    <value>Gülümseyen</value>
   </data>
   <data name="&gt;&gt;linkLabel18.Name" xml:space="preserve">
     <value>linkLabel18</value>
@@ -1120,7 +1120,7 @@
     <value>70</value>
   </data>
   <data name="linkLabel20.Text" xml:space="preserve">
-    <value>Uzun saydam çorap</value>
+    <value>Uzun saydam çoraplı</value>
   </data>
   <data name="&gt;&gt;linkLabel20.Name" xml:space="preserve">
     <value>linkLabel20</value>
@@ -1153,7 +1153,7 @@
     <value>71</value>
   </data>
   <data name="linkLabel21.Text" xml:space="preserve">
-    <value>Diz altı çorap</value>
+    <value>Diz altı çoraplı</value>
   </data>
   <data name="&gt;&gt;linkLabel21.Name" xml:space="preserve">
     <value>linkLabel21</value>
@@ -1186,7 +1186,7 @@
     <value>72</value>
   </data>
   <data name="linkLabel22.Text" xml:space="preserve">
-    <value>Heterokromi</value>
+    <value>Melez</value>
   </data>
   <data name="&gt;&gt;linkLabel22.Name" xml:space="preserve">
     <value>linkLabel22</value>
@@ -1219,7 +1219,7 @@
     <value>73</value>
   </data>
   <data name="linkLabel23.Text" xml:space="preserve">
-    <value>Göz kırpma</value>
+    <value>Göz kırpıyor</value>
   </data>
   <data name="&gt;&gt;linkLabel23.Name" xml:space="preserve">
     <value>linkLabel23</value>
@@ -1285,7 +1285,7 @@
     <value>75</value>
   </data>
   <data name="linkLabel25.Text" xml:space="preserve">
-    <value>Kurdeleler</value>
+    <value>Kurdeleli</value>
   </data>
   <data name="&gt;&gt;linkLabel25.Name" xml:space="preserve">
     <value>linkLabel25</value>
@@ -1318,7 +1318,7 @@
     <value>76</value>
   </data>
   <data name="linkLabel26.Text" xml:space="preserve">
-    <value>Kapşonlu</value>
+    <value>Kapüşonlu</value>
   </data>
   <data name="&gt;&gt;linkLabel26.Name" xml:space="preserve">
     <value>linkLabel26</value>
@@ -1351,7 +1351,7 @@
     <value>77</value>
   </data>
   <data name="linkLabel27.Text" xml:space="preserve">
-    <value>Günlük giyim</value>
+    <value>Gündelik giyimli</value>
   </data>
   <data name="&gt;&gt;linkLabel27.Name" xml:space="preserve">
     <value>linkLabel27</value>
@@ -1384,7 +1384,7 @@
     <value>78</value>
   </data>
   <data name="linkLabel28.Text" xml:space="preserve">
-    <value>Siyah taytlar</value>
+    <value>Siyah taytlı</value>
   </data>
   <data name="&gt;&gt;linkLabel28.Name" xml:space="preserve">
     <value>linkLabel28</value>
@@ -1417,7 +1417,7 @@
     <value>79</value>
   </data>
   <data name="linkLabel29.Text" xml:space="preserve">
-    <value>Beyaz saç</value>
+    <value>Beyaz saçlı</value>
   </data>
   <data name="&gt;&gt;linkLabel29.Name" xml:space="preserve">
     <value>linkLabel29</value>
@@ -1450,7 +1450,7 @@
     <value>80</value>
   </data>
   <data name="linkLabel30.Text" xml:space="preserve">
-    <value>Pembe saç</value>
+    <value>Pembe saçlı</value>
   </data>
   <data name="&gt;&gt;linkLabel30.Name" xml:space="preserve">
     <value>linkLabel30</value>
@@ -1483,7 +1483,7 @@
     <value>81</value>
   </data>
   <data name="linkLabel31.Text" xml:space="preserve">
-    <value>Mavi saç</value>
+    <value>Mavi saçlı</value>
   </data>
   <data name="&gt;&gt;linkLabel31.Name" xml:space="preserve">
     <value>linkLabel31</value>
