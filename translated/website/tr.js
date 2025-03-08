@@ -134,7 +134,7 @@ exports.feedback = {
  IfYouLikeThisProjectSupportMe:
   "Bu projeyi beğendiyseniz, {1} YouTube kanalıma abone olmayı{/1}, GitHub'da {2} bir yıldız{/2} vermeyi veya {3} beni başka bir yol ile desteklemeyi{/3} düşünün.",
  AdditionallyIfYouHaveCommentsOrSuggestions:
-  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
+  'Ayrıca, herhangi bir yorumunuz veya öneriniz varsa, Discord sunucumuza katılmaktan ve bunları bizimle paylaşmaktan çekinmeyin.',
  btn: {
   BelowYTVideo: 'YouTube videoma',
   OnTheDiscordServer: 'Discord sunucusunda',
@@ -179,7 +179,7 @@ exports.stats = {
  All: 'Tümü',
  Unique: 'Benzersiz',
  FirstOpens: 'İlk başlatılmalar',
- Peak: 'Zirve',
+ Peak: 'Üst Limit',
  Connections: 'Bağlantılar',
  NumberOfGameLaunches: 'Başlatıcının başlatılma sayısı',
  FullDate: 'Tam tarih',
@@ -214,7 +214,7 @@ exports.stats = {
  OnlineUsersWSText:
   'Bu bölüm, WebSocket sunucumuz aracılığıyla kullanıcı bağlantısına kapsamlı bir genel bakış sağlayarak aktif kullanıcılara ilişkin gerçek zamanlı bilgiler sunar. Mevcut çevrimiçi kullanıcı sayısını, en yüksek aktiflik seviyelerini ve kullanıcıların coğrafi dağılımını gösteren dinamik istatistikleri kontrol edin.',
  Online: '🔑 Çevrimiçi',
- Peak1: '🍭 Zirve',
+ Peak1: '🍭 Üst Limit',
  OnlinePerCountry: 'Ülke başına aktiflik',
  OnlinePerHour: 'Saat başına aktiflik',
  OnlinePerDay: 'Günlük aktiflik',
@@ -224,10 +224,10 @@ exports.stats = {
  PlayersInTheGameText:
   "Genshin Impact oyununda şu anda kaç oyuncunun Stella Modunu kullandığını görün. Stella Mod Launcher şeffaf bir şekilde çalışır, bilginiz dışında hiçbir arka plan eylemi gerçekleşmez ve yüksek gizlilik ve güvenlik standartlarını korurken Genshin Impact'i ek özelliklerle geliştiren sorunsuz bir deneyim sağlar. Bazı veriler hatalı olabilir.",
  PlayingNow: '💙 Şimdi oynanıyor',
- Peak2: '⬆️ Peak',
+ Peak2: '⬆️ Üst Limit',
  WsConnectionsHeader: '🌍 WebSocket bağlantıları ve işlemleri',
  WsConnectionsText:
-  'In this section, familiarize yourself with WebSocket metrics, including charts that display the frequency of messages and heartbeats on an hourly, daily, monthly, and yearly basis.',
+  'Bu bölümde, mesajların ve isteklerin sıklığını saatlik, günlük, aylık ve yıllık olarak gösteren grafikler de dahil olmak üzere WebSocket ölçümlerini görmüş olun.',
  Broadcast: 'Aktiflik',
  Heartbeats: 'İstekler',
  CryptographicOperationsHeader: '🔠 Şifreleme işlemleri',
@@ -330,16 +330,16 @@ exports.subscription = {
   YearlyPrice: 'Yıllık fiyat',
  },
  Everything: {
-  FromTheTier: "Seviye {0}'dan itibaren kalan her şey",
-  FromTheTier12: "Seviye 1 ve 2'den kalan her şey",
-  FromTheTier12And3: "Seviye 1, 2 ve 3'ten kalan her şey",
-  FromAllTheTiers: 'Tüm Seviyelerdeki Kalan Her Şey',
+  FromTheTier: "Seviye {0}'den itibaren mevcut olan her şey",
+  FromTheTier12: "Seviye 1 ve 2'den itibaren mevcut olan her şey",
+  FromTheTier12And3: "Seviye 1, 2 ve 3'den itibaren mevcut olan her şey",
+  FromAllTheTiers: 'Tüm Seviyelerden itibaren mevcut olan Her Şey',
  },
  TierName: 'Seviye ismi',
  benefitsFull: {
   RoleOnTheDiscordServer: 'Discord sunucusunda özel rol',
   VisibilityOnTheSubscriberList: 'Abone listesinde görünürlük',
-  NoAdsOnTheWebsiteForPatrons: 'Üyeler için web sitesinde reklam yok (SPC)',
+  NoAdsOnTheWebsiteForPatrons: 'Aboneler için web sitesinde reklam yok (SPC)',
   PrivateClipsFromCSGO: "CS:GO ve CS2'den özel klipler",
   CompletePostArchive: 'Gönderi arşivinin tamamı',
   RayTracingForGenshin: 'Genshin için Işın İzleme',
@@ -365,7 +365,7 @@ exports.subscription = {
   IntDevices: '{0} cihazlar',
   RoleOnTheDiscordServer: 'Discord sunucusundaki rol',
   VisibilityOnTheSubscriberList: 'Abone listesinde görünürlük',
-  NoAdsOnTheWebsiteForPatrons: 'Üyeler için reklamsız web sitesi',
+  NoAdsOnTheWebsiteForPatrons: 'Aboneler için reklamsız web sitesi',
   PrivateClipsFromCSGO: "CS:GO ve CS2'den özel klipler",
   CompletePostArchive: 'Gönderi arşivinin tamamı',
   RayTracingForGenshin: 'Genshin için Işın İzleme',
@@ -418,18 +418,18 @@ exports.subscription = {
    'Destekleri ve güvenleri için tüm abonelerimize en içten şükranlarımızı sunarız. Stella Mod Plus aboneliğine devam etmeden önce, lütfen birkaç önemli yönergeyi öğrenmek için bir dakikanızı ayırın.',
   HeaderText2: 'Avantajlar yalnızca abonelere yöneliktir:',
   SubText2:
-   'Each benefit redemption token is assigned to a subscriber and should be kept confidential. Please do not share your benefits with others or distribute them online. Utilize them solely for your personal use and in accordance with our guidelines.',
-  HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
+   'Her bir özellik kullanım anahtarı bir aboneye atanır ve gizli tutulmalıdır. Lütfen avantajlarınızı başkalarıyla paylaşmayın veya çevrimiçi olarak dağıtmayın. Bunları yalnızca kişisel kullanımınız için ve yönergelerimize uygun olarak kullanın.',
+  HeaderText3: 'Abone olmak 3DMigoto yazılımını satın almak anlamına gelmez:',
   SubText3:
-   'By becoming a subscriber to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product for purchase. Instead, as our subscriber, you solely gain access to use 3DMigoto within the Stella Mod Launcher application.',
+   "Stella Mod Plus'a abone olmakla, 3DMigoto'yu satın almak için dijital bir ürün olarak edinmiş olmuyorsunuz. Bunun yerine, abonemiz olarak, yalnızca Stella Mod Launcher uygulaması içinde 3DMigoto'yu kullanma erişimine sahip olursunuz.",
   Footer:
-   'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.',
+   'Topluluğumuzdaki varlığınız ve çalışmalarımıza verdiğiniz destek için teşekkür ederiz. Herhangi bir sorunuz veya endişeniz varsa, lütfen {a}bizimle iletişime geçin{/a}. Katılımınız ve bu kuralları anlamanız projemiz için son derece önemlidir.',
  },
  request: {
-  WeAreProcessingYourRequest: 'We are processing your request...',
+  WeAreProcessingYourRequest: 'Talebinizi işleme alıyoruz...',
   SubscribingInProgress:
-   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction. ^w^',
+   'Her şeyi hazır hale getirmek için biraz zamana ihtiyacımız var. Lütfen bu sayfada kalın ve bize bir dakika verin! Kısa süre içinde sizi işleminizi güvenle tamamlayabileceğiniz güvenli bir ödeme sayfasına yönlendireceğiz. ^w^',
   ChangingTheTierInProgress:
-   'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+   'Seviyenizi değiştirmek için biraz zamana ihtiyacımız var! Bize biraz zaman verin, her şeyin yolunda gideceğine söz veriyoruz. ^w^',
  },
 };
