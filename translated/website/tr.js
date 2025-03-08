@@ -132,9 +132,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Görüşlerinizi paylaşın',
  IfYouLikeThisProjectSupportMe:
-  "Bu projeyi beğendiyseniz, YouTube kanalıma {1} abone olmayı{/1}, GitHub'da {2} yıldız{/2} vermeyi veya {3} beni başka bir şekilde desteklemeyi{/3} düşünün.",
- IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  'Ayrıca, herhangi bir düşünceniz veya öneriniz varsa, bunları doğrudan içerik oluşturucuya göndermek için sohbet özelliğini kullanmaktan çekinmeyin.',
+  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+ AdditionallyIfYouHaveCommentsOrSuggestions:
+  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
   BelowYTVideo: 'YouTube videoma',
   OnTheDiscordServer: 'Discord sunucusunda',
@@ -142,28 +142,6 @@ exports.feedback = {
  tooltips: {
   ClickHereToGoToTheYTPage: 'YouTube sayfasına gitmek için buraya tıklayın.',
   GiveAStarToMyReposOnGitHub: "GitHub'daki projelerimden beğendiklerinize bir yıldız verin.",
- },
-};
-
-// GET /genshin-stella-mod/support
-exports.support = {
- SomeQuestions: 'Herhangi bir sorunuz var mı? Desteğe ihtiyacınız var mı?',
- DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  'Stella Mod ile ilgili herhangi bir sorununuz ya da sadece bir sorunuz var mı? Eğer öyleyse, bizimle iletişime geçmekten çekinmeyin! Ekibimiz, her türlü soru veya endişenizde size yardımcı olmak için burada.',
- WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'İster modun kurulumuyla ilgili yardıma ihtiyacınız olsun, ister modun özellikleriyle ilgili sorularınız olsun, size yardımcı olmak için buradayız.',
- PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  "Topluluğumuzun da sorularınızı yanıtlamaya hazır olduğunu lütfen unutmayın. Bunu yapmak için Discord sunucumuza katılın veya GitHub'da yeni bir soru oluşturun.",
- SimplyClickOnTheChatIconInTheBottomRightCorner:
-  "Sadece bir hesap oluşturun veya Sefinek Patron Center'da oturum açın ve {a} Lehçe veya İngilizce bir bilet{/a} gönderin. Stella Mod'un HoYoverse ile bağlantılı olmadığını lütfen unutmayın.",
- CreatANewTicket: 'Yeni bir bilet oluşturun',
- JoinToDiscordServer: 'Discord sunucusuna katılın',
- SendAnEmail: 'Bir e-posta gönderin',
- tooltips: {
-  CreateANewTicket: 'SPC web sitesinde yeni bir bilet oluşturmak için buraya tıklayın.',
-  JoinOurOfficialDiscordServer: 'Resmi Discord sunucumuza katılın.',
-  SendAnEmailToTheDeveloper: 'Daha detaylı bir yanıt bekliyorsanız geliştiriciye bir e-posta gönderin.',
-  ReturnTo: 'Şuraya dön: Genshin Stella Mod - İşte maceranız başlıyor.',
  },
 };
 
@@ -254,113 +232,112 @@ exports.stats = {
  Heartbeats: 'İstekler',
  CryptographicOperationsHeader: '🔠 Şifreleme işlemleri',
  CryptographicOperationsText:
-  'This section provides a comprehensive overview of cryptographic activities in our systems, presenting statistical data on encryption and decryption processes. Visitors can explore charts displaying the frequency and success rates of cryptographic operations over various timeframes. Cryptography plays a crucial role in securing applications and communications by ensuring data confidentiality, integrity, and authenticity, thus protecting against unauthorized access and cyber threats. It is vital for safeguarding digital transactions and maintaining the privacy of sensitive information.',
- Encryption: '🧶 Encryption',
- Decryption: '🔧 Decryption',
- Misc: '🧵 Misc',
- PerOneHour: 'Per hour',
- PerOneDay: 'Per day',
- PerOneMonth: 'Per month',
- PerOneYear: 'Per year',
- ErrorRatePerDay: 'Error rate per day',
+  'Bu bölüm, şifreleme ve deşifreleme işlemlerine ilişkin istatistiksel veriler sunarak sistemlerimizdeki kriptografik faaliyetlere kapsamlı bir genel bakış sağlar. Ziyaretçiler, çeşitli zaman dilimlerinde kriptografik işlemlerin sıklığını ve başarı oranlarını gösteren grafikleri inceleyebilirler. Kriptografi, verilerin gizliliğini, bütünlüğünü ve gerçekliğini sağlayarak uygulamaların ve iletişimin güvenliğini sağlamada çok önemli bir rol oynar, böylece yetkisiz erişime ve siber tehditlere karşı koruma sağlar. Sanal işlemlerin korunması ve hassas bilgilerin gizliliğinin korunması için hayati önem taşır.',
+ Encryption: '🧶 Şifreleme',
+ Decryption: 'Deşifreleme',
+ Misc: '🧵 Çeşitli',
+ PerOneHour: 'Saatlik',
+ PerOneDay: 'Günlük',
+ PerOneMonth: 'Aylık',
+ PerOneYear: 'Yıllık',
+ ErrorRatePerDay: 'Günlük hata oranı',
 };
 
 // GET /genshin-stella-mod/docs
 exports.docs = {
- TableOfContents: 'Table of Contents',
+ TableOfContents: 'Kaynaklar',
  1: {
-  Introduction: '{0}. {1} Introduction',
-  Requirements: '{0}. {1} Requirements',
-  WhatIs: '{0}. {1} What is...',
-  FAQ: '{0}. {1} FAQ',
-  Support: '{0}. {1} Support',
-  Troubleshooting: '{0}. {1} Troubleshooting',
-  TermsOfUse: '{0}. {1} Terms of use',
-  PrivacyPolicy: '{0}. {1} Privacy policy',
-  Installation: '{0}. {1} Installation',
+  Introduction: '{0}. {1} Giriş',
+  Requirements: '{0}. {1} Gereksinimler',
+  WhatIs: '{0}. {1} Ne oldu...',
+  FAQ: '{0}. {1} SSS',
+  Support: '{0}. {1} Destek',
+  Troubleshooting: '{0}. {1} Sorun Giderme',
+  TermsOfUse: '{0}. {1} Kullanım Koşulları',
+  PrivacyPolicy: '{0}. {1} Gizlilik Politikası',
+  Installation: '{0}. {1} Kurulum',
  },
- Changelogs: 'Changelogs',
+ Changelogs: 'Değişiklikler',
  2: {
-  Versions: '{0}. {1} Versions {2}.x.x',
-  DeprecatedReleases: '{0}. {1} Deprecated releases',
+  Versions: '{0}. {1} Sürümler {2}.x.x',
+  DeprecatedReleases: '{0}. {1} Kullanımdan kaldırılan sürümler',
  },
- LicensesAndCredits: 'Licenses & Credits',
+ LicensesAndCredits: 'Lisanslar ve Emeği geçenler',
  3: {
-  StellaModLicense: '{0}. {1} Stella Mod license',
-  ReShadeLicense: '{0}. {1} ReShade license',
-  FPSUnlockerLicense: '{0}. {1} FPS Unlocker license',
-  MigotoLicense: '{0}. {1} 3DMigoto license',
-  Credits: '{0}. {1} Credits',
+  StellaModLicense: '{0}. {1} Stella Mod lisansı',
+  ReShadeLicense: '{0}. {1} ReShade lisansı',
+  FPSUnlockerLicense: '{0}. {1} FPS Unlocker lisansı',
+  MigotoLicense: '{0}. {1} 3DMigoto lisansı',
+  Credits: '{0}. {1} Emeği geçenler',
  },
- CreationDate: 'Creation date: {0}',
- FileSize: 'File size: {0}',
- bytes: 'bytes',
+ CreationDate: 'Oluşturulma tarihi: {0}',
+ FileSize: 'Dosya boyutu: {0}',
+ bytes: 'bayt',
 };
 
 // GET /genshin-stella-mod/repositories
 exports.github = {
- AllReposOnGithub: 'All repositories on GitHub',
- IfYouWantToBecomeContributor:
-  'If you want to become contributor, just create a new {a}Pull Request{/a}. Thank you very much and happy coding!',
- Translations: 'Translations',
- Resources: 'Resources',
- Documentation: 'Documentation',
- More: 'More »',
- Deprecated: 'Deprecated',
- InstallationWizard: 'Installation wizard',
+ AllReposOnGithub: "GitHub'daki tüm projeler",
+ IfYouWantToBecomeContributor: 'Katkıda bulunmak istiyorsanız, yeni bir {a}Talep{/a} oluşturmanız yeterlidir!',
+ Translations: 'Çeviriler',
+ Resources: 'Kaynaklar',
+ Documentation: 'Belgeler',
+ More: 'Dahası',
+ Deprecated: 'Kullanım dışı',
+ InstallationWizard: 'Kurulum sihirbazı',
  UnlockedReShade: 'Unlocked ReShade',
 };
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Choose your subscription tier',
+ ChooseYourSubscriptionTier: 'Abonelik seviyenizi seçin',
  IfYouAreInterestedInTheBenefits:
-  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
+  'Avantajlarla ilgileniyorsanız, hangisinin tercihlerinize uygun olduğunu görmek için lütfen mevcut tüm kademeleri inceleyin. Umarım ilginizi çekecek bir tane bulursunuz!',
  IfYouHaveAnyQuestions:
-  "Do you have any questions? Don't hesitate to join our Discord server or contact us via email. You can find the contact information on the main page of this website.",
- Recommended: 'Recommended',
+  'Herhangi bir sorunuz var mı? Discord sunucumuza katılmaktan veya e-posta yoluyla bizimle iletişime geçmekten çekinmeyin. İletişim bilgilerini bu web sitesinin ana sayfasında bulabilirsiniz.',
+ Recommended: 'Önerilen',
  tiers: {
   1: {
-   name: 'Little Kitten',
+   name: 'Küçük Kedicik',
    description:
-    'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
+    'Sadece projeyi desteklemek isteyenler için temel seviye. Örneğin, Genshin Impact oynamayı bıraktıysanız ve artık oyunun faydalarına ihtiyacınız yoksa, ancak yine de projeyi gönüllü olarak desteklemek istiyorsanız, bu iyi bir çözümdür.',
   },
   2: {
-   name: 'Favorite Cat',
+   name: 'Favori Kedicik',
    description:
-    'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
+    'Genshin Impact oyunuyla ilişkili temel avantajların çoğunu sunan orta seviye. Oyunda ek değişikliklerin ve geliştirmelerin keyfini çıkarmak isteyen oyuncular için idealdir.',
   },
   3: {
-   name: 'Safety Kitten',
+   name: 'Güvenlik Kedisi',
    description:
-    'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
+    'Engellenmelere karşı koruma sağlayan sistemler, Genshin Impact hesapları için hediyeler ve Windows Terminal arayüzü için özel bir görünüm gibi özel avantajlar sunan güvenilir kullanıcılar için gelişmiş seviye.',
   },
   4: {
-   name: 'Keyboard Cat',
+   name: 'Klavye Kedisi',
    description:
-    'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
+    "Cihazlarının yeteneklerini en üst düzeye çıkarmak ve herhangi bir kesinti olmadan oyunun tadını çıkarmak isteyen oyuncular için. Bu seçenek, bilgisayar optimizasyon hizmetleri (TeamViewer veya AnyDesk aracılığıyla), teknik destek ve Stella Mod Launcher'da ki dosyaları kullanma olanağı sunar.",
   },
   5: {
-   name: 'Cute Kitty',
+   name: 'Sevimli Kedicik',
    description:
-    'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.',
+    "Daha düşük kademelerde sunulan tüm avantajlara erişim sağlar ve ayrıca birden fazla cihazda etkinleştirmeye izin verir. Stella Mod'un yaratıcısının çalışmalarını takdir eden ve daha fazla gelişmeyi ve projenin sunucu altyapısını desteklemek isteyen oyuncular için idealdir.",
   },
  },
- UnknownBenefit: 'Unknown benefit',
+ UnknownBenefit: 'Bilinmeyen avantaj',
  prices: {
-  MonthlyPrice: 'Monthly price',
-  Every3Months: 'Every 3 months',
-  YearlyPrice: 'Yearly price',
+  MonthlyPrice: 'Aylık fiyat',
+  Every3Months: 'Her 3 ayda bir',
+  YearlyPrice: 'Yıllık fiyat',
  },
  Everything: {
-  FromTheTier: 'Everything from Tier {0}',
-  FromTheTier12: 'Everything from Tier 1 and 2',
-  FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
-  FromAllTheTiers: 'Everything from all Tiers',
+  FromTheTier: "Seviye {0}'dan itibaren kalan her şey",
+  FromTheTier12: "Seviye 1 ve 2'den kalan her şey",
+  FromTheTier12And3: "Seviye 1, 2 ve 3'ten kalan her şey",
+  FromAllTheTiers: 'Tüm Seviyelerdeki Kalan Her Şey',
  },
- TierName: 'Tier name',
+ TierName: 'Seviye ismi',
  benefitsFull: {
-  RoleOnTheDiscordServer: 'Role on the Discord server',
+  RoleOnTheDiscordServer: 'Discord sunucusunda özel rol',
   VisibilityOnTheSubscriberList: 'Visibility on the subscriber list',
   NoAdsOnTheWebsiteForPatrons: 'No ads on the website for patrons (SPC)',
   PrivateClipsFromCSGO: 'Private clips from CS:GO and CS2',

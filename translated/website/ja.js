@@ -127,9 +127,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'フィードバックを残す',
  IfYouLikeThisProjectSupportMe:
-  'もしこのプロジェクトを気に入っていただけましたら、私の{1}YouTubeチャンネル{/1}のチャンネル登録をするか、{2}GitHub{/2}でStarをつけるか、その他の方法で{3}私を支援{/3}していただけると幸いです。',
- IfYouHaveAnyFeedBackOrSuggestionsUseChat:
-  'また、ご意見やご要望がありましたら、遠慮なくチャットサポートで直接私にお問い合わせください。',
+  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+ AdditionallyIfYouHaveCommentsOrSuggestions:
+  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
   BelowYTVideo: 'YouTube',
   OnTheDiscordServer: 'Discord',
@@ -137,28 +137,6 @@ exports.feedback = {
  tooltips: {
   ClickHereToGoToTheYTPage: 'YouTubeのページに移動するにはここをクリックしてください。',
   GiveAStarToMyReposOnGitHub: '私のGitHubのリポジトリにスターを付けてください。お気に入りのものです。',
- },
-};
-
-// GET /genshin-stella-mod/support
-exports.support = {
- SomeQuestions: '何か質問がありますか？サポートが必要ですか？',
- DoYouHaveAnyIssuesOrQuestionsAboutMod:
-  'Stella Modに関する問題や質問がありますか？もしそうなら、ためらわずにご連絡ください！チームはどんな質問や懸念にも対応する準備ができています。',
- WhetherYouNeedHelpWithInstallingStellaOrHaveQuestionsAboutItsFeatures:
-  'Stella Modのインストールに関するサポートが必要な場合や、機能についての質問がある場合、私たちはお手伝いします。',
- PleaseNoteThatOurCommunityIsAlsoReadyToAnswerYourQuestions:
-  '私たちのコミュニティも質問にお答えする準備ができていますのでご注意ください。Discordサーバーに参加するか、GitHubで新しいissueを作成してください。',
- SimplyClickOnTheChatIconInTheBottomRightCorner:
-  'アカウントを作成するか、Sefinek Patron Centerにログインし、{a}チケットを提出{/a}してください。ポーランド語または英語でお受けします。なお、Stella ModはHoYoverseと提携していないことにご注意ください。',
- CreatANewTicket: '新しいチケットを作成',
- JoinToDiscordServer: 'Discordサーバーに参加',
- SendAnEmail: 'メールを送信',
- tooltips: {
-  CreateANewTicket: 'ここをクリックしてSPCウェブサイトで新しいチケットを作成します。',
-  JoinOurOfficialDiscordServer: '公式Discordサーバーに参加します。',
-  SendAnEmailToTheDeveloper: 'より詳細な回答を希望する場合は、開発者にメールを送信してください。',
-  ReturnTo: '戻る: Genshin Stella Mod - ここからあなたの冒険が始まります。',
  },
 };
 
