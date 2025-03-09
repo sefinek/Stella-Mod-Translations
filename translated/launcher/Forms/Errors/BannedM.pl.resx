@@ -175,7 +175,7 @@
     <value>9</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Niestety nie masz dostępu do tego oprogramowania, ponieważ Twoje urządzenie jest zbanowane. Skontaktuj się z deweloperem, aby uzyskać więcej informacji i pomoc w tej sprawie.</value>
+    <value>Niestety nie masz dostępu do tego oprogramowania, ponieważ Twoje urządzenie zostało zbanowane. Skontaktuj się z deweloperem, aby uzyskać więcej informacji i pomoc w tej sprawie.</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
