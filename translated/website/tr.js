@@ -42,7 +42,7 @@ exports.errors = {
 exports.home = {
  Header: 'Genshin Impact için Geliştirilmiş Grafiklerle Yeni Bir Dünyaya Adım Atın',
  Text1:
-  'Geliştirilmiş grafikler, titizlikle hazırlanmış gölgelendiriciler, etkileyici FPS kilit açma ve modlar oyunculara her zamankinden daha iyi bir oyun deneyimi sunuyor!',
+  'Geliştirilmiş grafikler, titizlikle hazırlanmış gölgelendiriciler, etkileyici FPS sınırı kaldırma ve modlar oyunculara her zamankinden daha iyi bir oyun deneyimi sunuyor!',
  Text2:
   'Oyununuzu daha gerçekçi hale getiren yeni grafiklerle Teyvat dünyasını yeniden keşfedin. Özel bir başlatıcı tüm süreci kolaylaştırarak oyuncuların aksiyona hızlı ve kolay bir şekilde atlamasını sağlıyor.',
  FinalText:
