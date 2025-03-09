@@ -1022,10 +1022,10 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>FPS kilidini aç</value>
+    <value>FPS sınırını kaldır</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>60 FPS limitinin kilidini açar. Yenileme hızı 60 Hz'den yüksek olan bir monitörünüz varsa kullanışlıdır.</value>
+    <value>60 FPS sınırını kaldırır. Yenileme hızı 60 Hz'den yüksek olan bir monitörünüz varsa kullanışlıdır.</value>
   </data>
   <data name="unlockFps_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1142,7 +1142,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>124</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Olarak giriş yapıldı
+    <value>Şu hesapla giriş yapıldı
 {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">

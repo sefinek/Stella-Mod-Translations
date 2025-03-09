@@ -523,7 +523,7 @@
     <value>92</value>
   </data>
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
-    <value>FPS Sınırı Kaldırıcı</value>
+    <value>FPS Sınır Kaldırıcı</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
     <value>unlocker.config.json</value>
