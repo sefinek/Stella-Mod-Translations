@@ -86,8 +86,8 @@ exports.home = {
   LauncherVersion: 'Başlatıcı sürümü:',
   MirrorsAreCurrentlyUnavailable:
    'Sunucular şu anda bu kategori için devre dışı veya kullanılamıyor. Lütfen daha sonra tekrar kontrol edin veya yöneticiyle iletişime geçin.',
-  ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
-  FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
+  ChecksumHasBeenSuccessfullyCopied: '{0} Doğrulama kodu başarıyla panoya kopyalandı!',
+  FailedToCopyChecksumTryAgain: '{0} Doğrulama kodu panoya kopyalanamadı. Lütfen tekrar deneyin.',
  },
  finalModal: {
   ThankYouForDownloading: 'İndirdiğiniz için teşekkürler',
@@ -345,7 +345,7 @@ exports.subscription = {
   RayTracingForGenshin: 'Genshin için Işın İzleme',
   AbilityToUseMods: 'Oyunda modları kullanabilme (daha eğlenceli)',
   BigCollectionOfShadersMods: 'En sorunsuz dopdolu gölgelendirici ve mod koleksiyonu',
-  GameUIWithoutVisibleShaders: 'Game UI without visible shaders',
+  GameUIWithoutVisibleShaders: 'Özel grafik efektleri olmadan oyun arayüzü',
   HideYourUIDInTheGame: 'Oyun içinde Kimliğinizi gizleyin',
   PresetsFromPreviousVersions: 'Önceki sürümlerden hazır ayarlar',
   EarlyAccessToStellaMod: 'Stella moduna erken erişim',
@@ -371,7 +371,7 @@ exports.subscription = {
   RayTracingForGenshin: 'Genshin için Işın İzleme',
   BigCollectionOfShadersMods: 'Dopdolu gölgelendirici ve mod koleksiyonu',
   AbilityToUseMods: 'Mod kullanabilme',
-  GameUIWithoutVisibleShaders: 'Game UI without visible shaders',
+  GameUIWithoutVisibleShaders: 'Özel grafik efektleri olmadan oyun arayüzü',
   HideYourUIDInTheGame: 'Oyun içinde Kimliğinizi gizleyin',
   PresetsFromPreviousVersions: 'Önceki sürümlerden hazır ayarlar',
   EarlyAccessToStellaMod: 'Stella moduna erken erişim',
@@ -395,7 +395,7 @@ exports.subscription = {
  IfYouWantToMakeAPaymentUsingCrypto:
   'Kripto para kullanarak bir ödeme yapmak istiyorsanız, lütfen geliştiriciyle iletişime geçin.',
  IAcceptPaymentsOnlyOnBinance: 'Sadece Binance üzerinden ödeme kabul ediyorum.',
- CloseModal: 'Close modal',
+ CloseModal: 'Pencereyi kapat',
  PaymentSystem: {
   Header: 'Ödeme sistemi',
   1: 'Güvenli ödeme sistemimizin {0} tarafından desteklendiğini duyurmaktan mutluluk duyuyoruz. Stripe ile, finansal bilgilerinizin en üst düzeyde güvenle ele alındığını bilerek rahatlıkla ödeme yapabilirsiniz.',
