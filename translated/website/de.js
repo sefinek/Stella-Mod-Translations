@@ -84,7 +84,7 @@ exports.home = {
   LauncherVersion: 'Launcher version:',
   MirrorsAreCurrentlyUnavailable:
    'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
-  ChecksumHasBeenSuccessfullyCopied: '',
+  ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
   FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
  },
  finalModal: {
