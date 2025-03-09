@@ -40,24 +40,24 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
+ Header: 'Сделайте шаг в новый мир с улучшенной графикой для Genshin Impact',
  Text1:
-  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
+  'Улучшенная графика, тщательно проработанные шейдеры, разблокировка FPS и моды обеспечивают игрокам еще более лучшие игровые впечатления, чем когда-либо прежде!',
  Text2:
-  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
+  'Откройте для себя мир Тейвата заново благодаря новой графике, которая сделает ваш игровой процесс более реалистичным. Специальный лаунчер упрощает весь процесс, позволяя игрокам быстро и легко включиться в действие.',
  FinalText:
-  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
- Download: 'Download',
- DownloadTooltip: 'Click here to download the x64-bit installer for Windows 10 and 11.',
+  'Не ждите, скачивайте прямо сейчас! Поднимите свой игровой процесс на новый уровень. Погрузитесь в расширенный мир Тейвата и создайте незабываемые моменты. Получайте удовольствие!',
+ Download: 'Скачать',
+ DownloadTooltip: 'Нажмите здесь, чтобы загрузить 64-разрядный установщик для Windows 10 и 11.',
  StelaModPlusTooltip:
-  'Get access to the paid version of Stella Mod Plus and enjoy numerous benefits and enhanced gaming experiences!',
- Documentation: 'Documentation',
- DocumentationTooltip: 'Check the system requirements, recommended game settings, and more!',
- Gallery: 'Gallery',
- GalleryTooltip: 'See the screenshots from the game with ReShade injected.',
- Videos: 'Videos',
- VideosTooltip: 'Watch our videos showcasing the mod and the launcher.',
- Statistics: 'Statistics',
+  'Получите доступ к платной версии Stella Mod Plus и насладитесь многочисленными преимуществами и улучшенными игровыми возможностями!',
+ Documentation: 'Документация',
+ DocumentationTooltip: 'Проверьте системные требования, рекомендуемые настройки игры и многое другое!',
+ Gallery: 'Галерея',
+ GalleryTooltip: 'Посмотрите скриншоты из игры с использованием ReShade.',
+ Videos: 'Видео',
+ VideosTooltip: 'Посмотрите наши видеоролики, демонстрирующие работу мода и лаунчера.',
+ Statistics: 'Статистика',
  StatisticsTooltip:
   'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
  Feedback: 'Feedback',
