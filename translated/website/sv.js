@@ -98,12 +98,12 @@ exports.home = {
    'Gå med i vår Discord-server för att få notiser om de senaste uppdateringarna, funktionerna och andra nyheter. Kontakta skaparen om du har några frågor eller stöter på problem. Vi är alltid redo att hjälpa till. Önskar dig en fantastisk dag eller natt!',
   IfYouReEnjoyingStellaModConsiderLeavingAReview:
    'Lämna en recension på {a}trustpilot.com{/a} efter att du har testat programvaran!',
-  TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
+  TheTotalNumberOfDownloadsNowIs: 'Det totala antalet nedladdningar är nu',
   NoProblem: 'Inga problem',
  },
  tooltips: {
-  PageViews: 'Page views. Statistics have been collected since January 19, 2024.',
-  ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
+  PageViews: 'Sidvisningar. Statistik har samlats in sedan 19 januari 2024.',
+  ShareYourFeedbackOnTrustpilot: 'Dela din feedback på Trustpilot! Vi skulle verkligen uppskatta det.',
  },
 };
 
@@ -111,9 +111,10 @@ exports.home = {
 exports.gallery = {
  GalleryPage: 'Gallery - Page number',
  GalleryCompareReleases: 'Gallery - Compare releases:',
- ScreenshotsAreAvailableInHighQuality: 'Screenshots are available in high quality. It may take a while to load them.',
+ ScreenshotsAreAvailableInHighQuality:
+  'Skärmbilder finns tillgängliga i hög kvalitet. Det kan ta en stund att ladda dem.',
  WebsiteIsNotSupportedOnMobileDevices: 'This website is not supported on mobile devices.',
- SomeImageCanBeOutdated: 'Some images can be outdated!',
+ SomeImageCanBeOutdated: 'Observera att vissa bilder kan vara föråldrade!',
  SeeComparesFromTheOtherVersions: 'See compares from the other versions',
  SeeTheComparisonBetween: 'See the comparison between...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
