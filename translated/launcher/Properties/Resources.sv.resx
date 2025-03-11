@@ -149,9 +149,6 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
   </data>
-  <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Successfully retrieved and updated the cached app background with ID {0}.</value>
-  </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Working directory</value>
   </data>
