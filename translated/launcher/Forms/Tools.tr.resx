@@ -205,7 +205,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Başlatıcı 2025</value>
+    <value>Genshin Stella Mod Başlatıcısı 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -634,7 +634,7 @@
     <value>Masaüstünde kısayol oluştur</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Masaüstünüzde Stella Mod Launcher için bir kısayol oluşturun. Bu, Stella Mod Launcher'ın simgesini yanlışlıkla sildiyseniz kullanışlıdır.</value>
+    <value>Masaüstünüzde Stella Mod Başlatıcısı için bir kısayol oluşturun. Bu, Stella Mod Başlatıcısının simgesini yanlışlıkla sildiyseniz kullanışlıdır.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>

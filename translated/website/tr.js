@@ -203,7 +203,7 @@ exports.stats = {
  YourTimezone: '🪐 Saat diliminiz',
  StellaModLauncherStatsHeader: '😻 Stella Mod Başlatıcı istatistikleri',
  StellaModLauncherStatsText:
-  'Bu kategoride, Stella Mod Launcher programının kaç kez başlatıldığına dair ayrıntılı istatistikler sunuyoruz. Bu, uygulamanın ne sıklıkla başlatıldığına ilişkin verileri içerir.',
+  'Bu kategoride, Stella Mod Başlatıcısı programının kaç kez başlatıldığına dair ayrıntılı istatistikler sunuyoruz. Bu, uygulamanın ne sıklıkla başlatıldığına ilişkin verileri içerir.',
  AllStellaLauncherOpens: 'Başlatılan Tüm Stella başlatıcılar',
  UniqueStellaLauncherOpens: 'Benzersiz Başlatılan Stella Başlatıcılar',
  OpensPerCountry: 'Ülke başına başlatılma',
@@ -222,7 +222,7 @@ exports.stats = {
  OnlinePerYear: 'Yıllık aktiflik',
  PlayersInTheGameHeader: '🎮 Oyundaki oyuncular',
  PlayersInTheGameText:
-  "Genshin Impact oyununda şu anda kaç oyuncunun Stella Modunu kullandığını görün. Stella Mod Launcher şeffaf bir şekilde çalışır, bilginiz dışında hiçbir arka plan eylemi gerçekleşmez ve yüksek gizlilik ve güvenlik standartlarını korurken Genshin Impact'i ek özelliklerle geliştiren sorunsuz bir deneyim sağlar. Bazı veriler hatalı olabilir.",
+  "Genshin Impact oyununda şu anda kaç oyuncunun Stella Modunu kullandığını görün. Stella Mod Başlatıcısı şeffaf bir şekilde çalışır, bilginiz dışında hiçbir arka plan eylemi gerçekleşmez ve yüksek gizlilik ve güvenlik standartlarını korurken Genshin Impact'i ek özelliklerle geliştiren sorunsuz bir deneyim sağlar. Bazı veriler hatalı olabilir.",
  PlayingNow: '💙 Şimdi oynanıyor',
  Peak2: '⬆️ Üst Limit',
  WsConnectionsHeader: '🌍 WebSocket bağlantıları ve işlemleri',
@@ -315,7 +315,7 @@ exports.subscription = {
   4: {
    name: 'Klavye Kedisi',
    description:
-    "Cihazlarının yeteneklerini en üst düzeye çıkarmak ve herhangi bir kesinti olmadan oyunun tadını çıkarmak isteyen oyuncular için. Bu seçenek, bilgisayar optimizasyon hizmetleri (TeamViewer veya AnyDesk aracılığıyla), teknik destek ve Stella Mod Launcher'da ki dosyaları kullanma olanağı sunar.",
+    "Cihazlarının yeteneklerini en üst düzeye çıkarmak ve herhangi bir kesinti olmadan oyunun tadını çıkarmak isteyen oyuncular için. Bu seçenek, bilgisayar optimizasyon hizmetleri (TeamViewer veya AnyDesk aracılığıyla), teknik destek ve Stella Mod Başlatıcısın'da ki dosyaları kullanma olanağı sunar.",
   },
   5: {
    name: 'Sevimli Kedicik',
@@ -421,7 +421,7 @@ exports.subscription = {
    'Her bir özellik kullanım anahtarı bir aboneye atanır ve gizli tutulmalıdır. Lütfen avantajlarınızı başkalarıyla paylaşmayın veya çevrimiçi olarak dağıtmayın. Bunları yalnızca kişisel kullanımınız için ve yönergelerimize uygun olarak kullanın.',
   HeaderText3: 'Abone olmak 3DMigoto yazılımını satın almak anlamına gelmez:',
   SubText3:
-   "Stella Mod Plus'a abone olmakla, 3DMigoto'yu satın almak için dijital bir ürün olarak edinmiş olmuyorsunuz. Bunun yerine, abonemiz olarak, yalnızca Stella Mod Launcher uygulaması içinde 3DMigoto'yu kullanma erişimine sahip olursunuz.",
+   "Stella Mod Plus'a abone olmakla, 3DMigoto'yu satın almak için dijital bir ürün olarak edinmiş olmuyorsunuz. Bunun yerine, abonemiz olarak, yalnızca Stella Mod Başlatıcısının uygulama içerisinde 3DMigoto'yu kullanabilme erişimine sahip olursunuz.",
   Footer:
    'Topluluğumuzdaki varlığınız ve çalışmalarımıza verdiğiniz destek için teşekkür ederiz. Herhangi bir sorunuz veya endişeniz varsa, lütfen {a}bizimle iletişime geçin{/a}. Katılımınız ve bu kuralları anlamanız projemiz için son derece önemlidir.',
  },
