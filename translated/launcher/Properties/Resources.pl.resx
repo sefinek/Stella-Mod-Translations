@@ -149,9 +149,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Pomyślnie zaktualizowano mody 3DMigoto dla subskrybentów Stella Plus.</value>
   </data>
-  <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Pomyślnie pobrano i zaktualizowano buforowane tło aplikacji o identyfikatorze {0}.</value>
-  </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Katalog roboczy</value>
   </data>
