@@ -255,9 +255,6 @@
   <data name="&gt;&gt;SettingsAndUtils.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="changeTheLanguageLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -274,10 +271,10 @@
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Change the language</value>
+    <value>Dili değiştir</value>
   </data>
   <data name="changeTheLanguageLabel.ToolTip" xml:space="preserve">
-    <value>Change the language of Genshin Stella Mod.</value>
+    <value>Genshin Stella Mod'unun dilini değiştirir.</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -552,7 +549,7 @@ Dosya sürümü: v{1} | Birleşik sürümü: v{2}</value>
     <value>136</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>DWM Effects *</value>
+    <value>MPYE Efektleri *</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -582,7 +579,7 @@ Dosya sürümü: v{1} | Birleşik sürümü: v{2}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>ReShade</value>
+    <value>* Ayarların değiştirilmesi uygulamanın yeniden başlamasına sebep olabilir.</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
