@@ -149,9 +149,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
-  <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Kimliği {0} olan önbelleğe alınmış uygulama arka planı başarıyla alındı ve güncellendi.</value>
-  </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Çalışma dizini</value>
   </data>
