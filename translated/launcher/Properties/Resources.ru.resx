@@ -149,9 +149,6 @@
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Успешно обновлены моды 3DMigoto для подписчиков Stella Plus.</value>
   </data>
-  <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>Успешно восстановлен и обновлён фоновый файл кэшированного приложения с идентификатором {0}.</value>
-  </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Рабочий каталог</value>
   </data>

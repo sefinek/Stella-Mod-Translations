@@ -40,21 +40,21 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Genshin Stella Mod - Wprowadź się w nowy świat',
+ Header: 'Wkrocz do nowego świata z ulepszoną grafiką w Genshin Impact',
  Text1:
-  'Ulepszona grafika, starannie opracowane shadery, imponujące odblokowanie FPS oraz mody, zapewniające graczom jeszcze lepsze wrażenia z gry niż dotychczas!',
+  'Ulepszona grafika, precyzyjnie dopracowane shadery, imponujące odblokowanie FPS oraz mody zapewniają graczom jeszcze lepsze wrażenia z rozgrywki niż kiedykolwiek wcześniej!',
  Text2:
-  'Odkryj świat Teyvat na nowo dzięki nowej grafice, która uczyni Twoją rozgrywkę bardziej realistyczną. Dedykowany launcher usprawnia cały proces, umożliwiając graczom szybkie i łatwe włączenie się do akcji.',
+  'Odkryj na nowo świat Teyvat dzięki nowej grafice, która sprawia, że rozgrywka staje się bardziej realistyczna. Dedykowany launcher usprawnia cały proces, pozwalając graczom szybko i łatwo zanurzyć się w akcji.',
  FinalText:
-  'Nie zwlekaj i pobierz już teraz! Przenieś swoją rozgrywkę na wyższy poziom. Zanurz się w ulepszonym świecie Teyvat i twórz niezapomniane chwile. Miłej zabawy!',
+  'Nie czekaj, pobierz już teraz! Przenieś swoją rozgrywkę na wyższy poziom. Zanurz się w ulepszonym świecie Teyvat i twórz niezapomniane chwile. Baw się dobrze!',
  Download: 'Pobierz',
- DownloadTooltip: 'Kliknij tutaj, aby pobrać instalator 64-bitowy dla systemów Windows 10 i 11.',
+ DownloadTooltip: 'Kliknij tutaj, aby pobrać instalator x64-bit dla Windows 10 i 11.',
  StelaModPlusTooltip:
-  'Uzyskaj dostęp do wersji płatnej Stella Mod Plus i ciesz się wieloma korzyściami oraz lepszym wrażeniem wizualnym w Genshin!',
+  'Uzyskaj dostęp do płatnej wersji Stella Mod Plus i ciesz się wieloma korzyściami oraz ulepszonymi wrażeniami z gry!',
  Documentation: 'Dokumentacja',
  DocumentationTooltip: 'Sprawdź wymagania systemowe, zalecane ustawienia gry i więcej!',
  Gallery: 'Galeria',
- GalleryTooltip: 'Zobacz zrzuty ekranu z gry z wstrzykniętym ReShade.',
+ GalleryTooltip: 'Zobacz zrzuty ekranu z gry ze wstrzykniętym ReShade.',
  Videos: 'Filmy',
  VideosTooltip: 'Oglądaj nasze filmy prezentujące moda i program uruchamiający.',
  Statistics: 'Statystyki',

@@ -149,9 +149,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Les mods 3DMigoto pour les abonnés Stella Plus ont été mis à jour avec succès.</value>
   </data>
-  <data name="Default_SuccessfullyRetrievedAndUpdatedTheCachedAppBackgroundWithID_" xml:space="preserve">
-    <value>L'arrière-plan de l'application mise en cache avec l'ID {0} a été récupéré et mis à jour avec succès.</value>
-  </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Working directory</value>
   </data>

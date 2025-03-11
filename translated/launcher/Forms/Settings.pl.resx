@@ -271,10 +271,10 @@
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Change the language</value>
+    <value>Zmień język</value>
   </data>
   <data name="changeTheLanguageLabel.ToolTip" xml:space="preserve">
-    <value>Change the language of Genshin Stella Mod.</value>
+    <value>Zmień język Genshin Stella Mod.</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -405,7 +405,7 @@ Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
     <value>132</value>
   </data>
   <data name="checkBox1.Text" xml:space="preserve">
-    <value>Background music on startup *</value>
+    <value>Muzyka w tle aplikacji *</value>
   </data>
   <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
     <value>checkBox1</value>
@@ -441,7 +441,7 @@ Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Sounds in the launcher</value>
+    <value>Dźwięki w aplikacji</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -477,7 +477,7 @@ Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
     <value>134</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Sound during launcher startup</value>
+    <value>Dźwięk podczas uruchamiania launchera</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
@@ -549,7 +549,7 @@ Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
     <value>136</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>DWM Effects *</value>
+    <value>Efekty DWM *</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -579,7 +579,7 @@ Wersja pliku: v{1} | Wersja asemblera: v{2}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Changing the settings may require restarting the application.</value>
+    <value>* Zmiana ustawień może wymagać ponownego uruchomienia aplikacji.</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
