@@ -592,10 +592,10 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open configuration window</value>
+    <value>Yapılandırma penceresini aç</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Stella Mod'u yeniden yapılandır</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -631,10 +631,10 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Masaüstünde kısayol oluştur</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Create a shortcut for Stella Mod Launcher on your desktop. This is useful if you accidentally deleted the Stella Mod Launcher icon.</value>
+    <value>Masaüstünüzde Stella Mod Launcher için bir kısayol oluşturun. Bu, Stella Mod Launcher'ın simgesini yanlışlıkla sildiyseniz kullanışlıdır.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -667,10 +667,10 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>ReShade'i Yapılandır</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>ReShade'i otomatik olarak yapılandır ve doğru dizin yollarını belirle</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
