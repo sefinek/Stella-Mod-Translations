@@ -271,7 +271,7 @@
     <value>117</value>
   </data>
   <data name="ChangeLanguage.Text" xml:space="preserve">
-    <value>Change language</value>
+    <value>Change the language</value>
   </data>
   <data name="ChangeLanguage.ToolTip" xml:space="preserve">
     <value>Change the language of the Stella Mod Launcher application</value>
