@@ -274,7 +274,7 @@
     <value>Change the language</value>
   </data>
   <data name="ChangeLanguage.ToolTip" xml:space="preserve">
-    <value>Change the language of the Stella Mod Launcher application</value>
+    <value>Change the language of Genshin Stella Mod.</value>
   </data>
   <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
     <value>ChangeLanguage</value>
