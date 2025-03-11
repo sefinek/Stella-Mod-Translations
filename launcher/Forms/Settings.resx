@@ -255,37 +255,40 @@
   <data name="&gt;&gt;SettingsAndUtils.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="ChangeLanguage.AutoSize" type="System.Boolean, mscorlib">
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="changeTheLanguageLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="ChangeLanguage.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="changeTheLanguageLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 12.75pt</value>
   </data>
-  <data name="ChangeLanguage.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="changeTheLanguageLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>68, 139</value>
   </data>
-  <data name="ChangeLanguage.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="changeTheLanguageLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>172, 24</value>
   </data>
-  <data name="ChangeLanguage.TabIndex" type="System.Int32, mscorlib">
+  <data name="changeTheLanguageLabel.TabIndex" type="System.Int32, mscorlib">
     <value>117</value>
   </data>
-  <data name="ChangeLanguage.Text" xml:space="preserve">
+  <data name="changeTheLanguageLabel.Text" xml:space="preserve">
     <value>Change the language</value>
   </data>
-  <data name="ChangeLanguage.ToolTip" xml:space="preserve">
+  <data name="changeTheLanguageLabel.ToolTip" xml:space="preserve">
     <value>Change the language of Genshin Stella Mod.</value>
   </data>
-  <data name="&gt;&gt;ChangeLanguage.Name" xml:space="preserve">
-    <value>ChangeLanguage</value>
+  <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
+    <value>changeTheLanguageLabel</value>
   </data>
-  <data name="&gt;&gt;ChangeLanguage.Type" xml:space="preserve">
+  <data name="&gt;&gt;changeTheLanguageLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;ChangeLanguage.Parent" xml:space="preserve">
+  <data name="&gt;&gt;changeTheLanguageLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;ChangeLanguage.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;changeTheLanguageLabel.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
   <data name="pictureBox14.Location" type="System.Drawing.Point, System.Drawing">
