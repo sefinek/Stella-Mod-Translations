@@ -40,7 +40,7 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
+ Header: 'Kliv in i en ny värld med förbättrad grafik för Genshin Impact',
  Text1:
   'Förbättrad grafik, noggrant skapade shaders, imponerande FPSupplåsning och moddar ger spelare en ännu bättre spelupplevelse än någonsin tidigare!',
  Text2:

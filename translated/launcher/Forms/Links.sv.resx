@@ -166,7 +166,7 @@
     <value>100</value>
   </data>
   <data name="createShortcut_Label.Text" xml:space="preserve">
-    <value>Teyvat Interactive Map</value>
+    <value>Teyvat Interaktiv Karta</value>
   </data>
   <data name="&gt;&gt;createShortcut_Label.Name" xml:space="preserve">
     <value>createShortcut_Label</value>
@@ -226,7 +226,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Genshin Impact Interactive World Map</value>
+    <value>Genshin Impact Interaktiv Världskarta</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -286,7 +286,7 @@
     <value>104</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Genshin Impact Best Characters Tier List (genshin.gg)</value>
+    <value>Genshin Impact Bästa Karaktärer Tier-lista (genshin.gg)</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -346,7 +346,7 @@
     <value>106</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Tier List and the Best Characters (game8.co)</value>
+    <value>Tier-lista och de bästa karaktärerna (game8.co)</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -376,7 +376,7 @@
     <value>108</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Game map</value>
+    <value>Spelkarta</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -688,7 +688,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Links</value>
+    <value>Länkar</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

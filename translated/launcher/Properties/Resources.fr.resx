@@ -478,8 +478,8 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourDefault_Support" xml:space="preserve">
-    <value>Thank you for your Default_Support. Recommend Stella Mod to your friends. Have a great day!</value>
+  <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
+    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Paramètres de navigation</value>
@@ -497,8 +497,8 @@ Le logiciel est continuellement pris en charge par le développeur grâce aux ab
 
 Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi que ce soit. N'oubliez pas de ne pas utiliser de cheats. Si vous avez besoin d'aide, rejoignez notre serveur Discord ou envoyez un e-mail à contact@sefinek.net. Amusez-vous bien !</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourGenerousDefault_Support" xml:space="preserve">
-    <value>I sincerely thank you for your generous Default_Support! Your contribution means a lot to me. ~ Sefinek</value>
+  <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
+    <value>I sincerely thank you for your generous support! Your contribution means a lot to me. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Le répertoire {0} n'a pas été trouvé.</value>
@@ -545,7 +545,7 @@ Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi qu
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
     <value>Le meilleur mod totalement sûr pour Genshin Impact qui améliore les graphismes et plus encore !</value>
   </data>
-  <data name="Default_ThisFeatureIsAvailableOnlyForDefault_StellaModPlusSubscribers" xml:space="preserve">
+  <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>This feature is only available to players with a Stella Mod Plus subscription.
 
 Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
@@ -576,7 +576,7 @@ Préréglage actuel :
   <data name="DiscordServer" xml:space="preserve">
     <value>Discord server</value>
   </data>
-  <data name="AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
+  <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
     <value>Are you sure to run Stella Configuration Window again?</value>
   </data>
   <data name="Version" xml:space="preserve">
@@ -588,7 +588,7 @@ Préréglage actuel :
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
     <value>Open image in default browser</value>
   </data>
-  <data name="TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
+  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
     <value>The game file was not found in the previously specified location:
 {0}
 
@@ -630,7 +630,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Select Evergreen Standalone Installer.</value>
   </data>
-  <data name="OopsAnErrorOccurred" xml:space="preserve">
+  <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, an error occurred</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
@@ -645,7 +645,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
     <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
   </data>
-  <data name="Important" xml:space="preserve">
+  <data name="Tools_Important" xml:space="preserve">
     <value>Important</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
@@ -696,7 +696,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
     <value>Debugging this application is not possible due to lack of permissions.</value>
   </data>
-  <data name="StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceModeWeAreDoingThisForYouToImproveTheApplicationTryAgainLater" xml:space="preserve">
+  <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
     <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
@@ -743,5 +743,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
     <value>File size ready for download: {0}</value>
+  </data>
+  <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
+    <value>Note from the developer ({0}):\n{1}</value>
   </data>
 </root>
