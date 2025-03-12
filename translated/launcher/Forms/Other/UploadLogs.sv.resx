@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -163,7 +163,7 @@
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>Väntar...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -232,7 +232,11 @@
     <value>6</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>We are constantly working to make Genshin Stella Mod even better for everyone. Today, we have a small but significant request for you. Would you consider sending us anonymous usage logs of Stella Mod? This gesture would play a crucial role in our ongoing efforts to improve and optimize the application. We assure you that no sensitive data will be sent to our servers. Only log files and hardware data will be uploaded to the server. What do you think? Pleaseee :3</value>
+    <value>Vi arbetar ständigt för att göra Genshin Stella Mod ännu bättre för alla. Idag har vi en liten men betydelsefull förfrågan till dig. Skulle du kunna tänka dig att skicka oss anonyma användningsloggar från Stella Mod?
+
+Denna gest skulle spela en avgörande roll i vårt fortsatta arbete med att förbättra och optimera applikationen. Vi försäkrar att inga känsliga data skickas till våra servrar – endast loggfiler och hårdvaruinformation laddas upp.
+
+Vad säger du? Snälla? :3</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -268,7 +272,7 @@
     <value>7</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>✔ Okay, lets go!</value>
+    <value>✔ Okej, nu kör vi!</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -304,7 +308,7 @@
     <value>8</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>❌ Not this time...</value>
+    <value>❌ Inte den här gången...</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -337,7 +341,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>No, don't ask me again</value>
+    <value>Nej, fråga mig inte igen</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -397,7 +401,7 @@
     <value>11</value>
   </data>
   <data name="showMeUploadedFiles.Text" xml:space="preserve">
-    <value>Show me uploaded files</value>
+    <value>Visa uppladdade filer</value>
   </data>
   <data name="showMeUploadedFiles.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -427,7 +431,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Upload logs</value>
+    <value>Ladda upp loggar</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>UploadLogs</value>
