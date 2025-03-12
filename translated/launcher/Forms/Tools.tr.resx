@@ -589,7 +589,7 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Yapılandırma penceresini aç</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
     <value>Stella Mod'u yeniden yapılandır</value>
@@ -1042,7 +1042,7 @@
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>3DMigoto d3dx.ini Dosyası</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -1108,7 +1108,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>3DMigoto d3dx_user.ini Dosyası</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
