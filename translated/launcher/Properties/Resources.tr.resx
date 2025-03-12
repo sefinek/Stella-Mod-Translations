@@ -682,10 +682,10 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Görüşlerini Bildir</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Default_Donations</value>
+    <value>Donations</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Default_Quit</value>
+    <value>Quit</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Gerekli dosyalar Kontrol ediliyor...</value>
