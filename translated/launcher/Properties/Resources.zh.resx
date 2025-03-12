@@ -676,7 +676,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Visit Discord server</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Support</value>
+    <value>Default_Support</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Leave your feedback</value>
