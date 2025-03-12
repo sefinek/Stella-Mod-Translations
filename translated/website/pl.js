@@ -28,7 +28,7 @@ exports.errors = {
  },
  wrongOs: {
   DeviceIsNotSupported: 'Urządzenie nie jest obsługiwane',
-  OperatingSysIsNotSupported: 'Przepraszamy! Twój system operacyjny {0}, nie jest jeszcze wspierany.',
+  OperatingSysIsNotSupported: 'Wybacz! Twój system operacyjny {0}, nie jest jeszcze wspierany.',
   ViewSupportedSystems: 'Wyświetl obsługiwane systemy »',
  },
  missingZip: {
@@ -42,9 +42,9 @@ exports.errors = {
 exports.home = {
  Header: 'Wkrocz do nowego świata z ulepszoną grafiką w Genshin Impact',
  Text1:
-  'Ulepszona grafika, precyzyjnie dopracowane shadery, imponujące odblokowanie FPS oraz mody zapewniają graczom jeszcze lepsze wrażenia z rozgrywki niż kiedykolwiek wcześniej!',
+  'Ulepszona grafika, precyzyjnie dopracowane shadery, imponujące odblokowanie FPS oraz mody zapewniające graczom jeszcze lepsze wrażenia z rozgrywki niż kiedykolwiek wcześniej!',
  Text2:
-  'Odkryj na nowo świat Teyvat dzięki nowej grafice, która sprawia, że rozgrywka staje się bardziej realistyczna. Dedykowany launcher usprawnia cały proces, pozwalając graczom szybko i łatwo zanurzyć się w akcji.',
+  'Odkryj na nowo świat Teyvat dzięki nowej grafice, która sprawi, że rozgrywka stanie się bardziej realistyczna. Dedykowany launcher usprawnia cały proces, pozwalając graczom szybko i łatwo zanurzyć się w akcji.',
  FinalText:
   'Nie czekaj, pobierz już teraz! Przenieś swoją rozgrywkę na wyższy poziom. Zanurz się w ulepszonym świecie Teyvat i twórz niezapomniane chwile. Baw się dobrze!',
  Download: 'Pobierz',
@@ -92,7 +92,7 @@ exports.home = {
  finalModal: {
   ThankYouForDownloading: 'Dziękujemy za pobranie',
   BecomeAStellaModSubscriber:
-   'Zostań subskrybentem Stella Mod Plus, aby uzyskać dostęp do dodatkowych korzyści, takich jak: możliwość jednoczesnego używania 3DMigoto, FPS Unlocker i ReShade, dużą kolekcję modów bez błędów, zwiększone bezpieczeństwo (blokowanie telemetrii i analityki), pakiet najnowszych shaderów, dodatek zapobiegający nakładaniu filtrów na interfejs użytkownika (UI), presety do śledzenia promieni (Ray Tracing) i wiele więcej!',
+   'Zostań subskrybentem Stella Mod Plus, aby uzyskać dostęp do wielu korzyści, takich jak możliwość jednoczesnego korzystania z 3DMigoto, FPS Unlockera i ReShade, obszerna kolekcja modów wolnych od błędów, lepsze bezpieczeństwo (blokowanie telemetrii i analityki), paczka najnowszych shaderów, dodatek zapobiegający nakładaniu filtrów na interfejs użytkownika (UI), preset Ray Tracingu i wiele więcej!',
   JoinOurDiscordServerToReceiveNotifications:
    'Dołącz do naszego serwera Discord, aby otrzymywać powiadomienia o najnowszych aktualizacjach, funkcjach i innych ogłoszeniach. Skontaktuj się z twórcą, jeśli masz jakieś pytania lub napotkasz jakieś problemy. Zawsze jesteśmy gotowi pomóc. Życzę ci wspaniałego dnia lub nocy!',
   IfYouReEnjoyingStellaModConsiderLeavingAReview:
@@ -101,7 +101,7 @@ exports.home = {
   NoProblem: 'Nie ma problemu',
  },
  tooltips: {
-  PageViews: 'Wyświetlenia tej strony. Statystyki są zbierane począwszy od 19 stycznia 2024.',
+  PageViews: 'Wyświetlenia strony. Statystyki są zbierane od 19 stycznia 2024 roku.',
   ShareYourFeedbackOnTrustpilot:
    'Podziel się z nami swoją opinią w serwisie Trustpilot! Będziemy za to bardzo wdzięczni.',
  },
@@ -133,9 +133,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Podziel się swoją opinią',
  IfYouLikeThisProjectSupportMe:
-  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+  'Jeśli podoba Ci się ten projekt, rozważ {1}subskrypcję{/1} mojego kanału na YouTube, danie {2}gwiazdki{/2} na GitHubie lub {3}wsparcie mnie{/3} w inny sposób.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
-  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
+  'Dodatkowo, jeśli masz jakiekolwiek uwagi lub sugestie, nie wahaj się dołączyć na nasz serwer Discord i podzielić się nimi z nami.',
  btn: {
   BelowYTVideo: 'Pod filmem na YouTube',
   OnTheDiscordServer: 'Na serwerze Discord',
@@ -171,7 +171,7 @@ exports.stats = {
  Player: 'gracz',
  Players: 'graczy',
  BelowYouFindTheStatsOfStellaMod:
-  'Poniżej znajdują się statystyki dla Stella Mod. Miłego przeglądania ich jak i oczywiście dnia!',
+  'Poniżej znajdziesz statystyki Stella Mod. Strefa czasowa: Europa/Warszawa GMT+01:00 (Polska). Miłego dnia!',
  PerCountry: 'Na kraj',
  PerHour: 'Na godzinę',
  PerDay: 'Na dzień',
@@ -213,7 +213,7 @@ exports.stats = {
  OpensPerSysBuild: 'Uruchomienia na kompilację systemu',
  OnlineUsersWSHeader: '🌍 Użytkownicy online - WebSocket',
  OnlineUsersWSText:
-  'Ta sekcja zapewnia kompleksowy przegląd łączności użytkowników przez nasz serwer WebSocket, oferując wgląd w aktywnych użytkowników w czasie rzeczywistym. Odkryj dynamiczne statystyki, które pokazują bieżącą liczbę użytkowników online, szczytowe poziomy jednoczesnych połączeń oraz geograficzne rozmieszczenie użytkowników. Dodatkowo, wizualizowane są wzorce czasowe użytkowania, ukazując trendy w dziennej, godzinowej, miesięcznej i rocznej aktywności online.',
+  'Ta sekcja zawiera szczegółowy przegląd łączności użytkowników za pośrednictwem naszego serwera WebSocket, zapewniając wgląd w czasie rzeczywistym w aktywnych użytkowników. Odkryj dynamiczne statystyki, które pokazują aktualną liczbę online, szczytowe poziomy jednoczesnych połączeń oraz geograficzny rozkład użytkowników.',
  Online: '🔑 Online',
  Peak1: '🍭 Szczyt',
  OnlinePerCountry: 'Online na kraj',
@@ -253,7 +253,7 @@ exports.docs = {
   WhatIs: '{0}. {1} Czym jest...',
   FAQ: '{0}. {1} FAQ: Pytania i odpowiedzi',
   Support: '{0}. {1} Wsparcie',
-  Troubleshooting: '{0}. {1} Troubleshooting',
+  Troubleshooting: '{0}. {1} Rozwiązywanie problemów',
   TermsOfUse: '{0}. {1} Warunki użytkowania',
   PrivacyPolicy: '{0}. {1} Polityka prywatności',
   Installation: '{0}. {1} Instalacja',
@@ -402,7 +402,7 @@ exports.subscription = {
   Header: 'System płatności',
   1: 'Nasz bezpieczny system płatności jest napędzany dzięki {0}. To właśnie dzięki tej bramce płatności możesz śmiało dokonywać płatności, wiedząc, że Twoje dane finansowe są traktowane z najwyższym poziomem bezpieczeństwa.',
   2: 'Stripe to dobrze zaufana i globalnie rozpoznawana platforma do przetwarzania płatności, która gwarantuje płynne i bezpieczne transakcje dla naszej społeczności. Bez względu na to, czy kupujesz produkty, subskrybujesz usługi czy dokonujesz darowizn, solidna infrastruktura Stripe zapewnia niezawodne i bezproblemowe doświadczenie płatności.',
-  3: 'Please be assured that your sensitive payment details are encrypted and safeguarded throughout the entire payment process. Your privacy and security are our top priorities.',
+  3: 'Możesz być pewien, że Twoje wrażliwe dane płatnicze są szyfrowane i chronione na każdym etapie procesu płatności. Twoja prywatność i bezpieczeństwo są dla nas najwyższym priorytetem.',
  },
  AcceptedPaymentMethods: 'Akceptowane metody płatności',
  IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
