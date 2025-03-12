@@ -31,9 +31,9 @@
     name/value pairs.
     
     Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
+    type or mimetype. Type corresponds to a .NET class that support
     text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+    Classes that don't support this are serialized and stored with the
     mimetype set.
     
     The mimetype is used for serialized objects, and tells the 
@@ -152,9 +152,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
     <value>Working directory</value>
   </data>
-  <data name="Default_SuccessfullyUpdatedReShadeCfgAndSavedIn" xml:space="preserve">
-    <value>ReShade.ini a été téléchargé avec succès et enregistré dans : {0}</value>
-  </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Fichier téléchargé ou mis à jour avec succès : {1}</value>
   </data>
@@ -163,9 +160,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>J'ai supprimé l'ancien fichier d'installation du répertoire temporaire.</value>
-  </data>
-  <data name="ReShadeIniUpdate_FileReShadeIniWasNotFoundInYourGameDir" xml:space="preserve">
-    <value>Le fichier ReShade.ini n'a pas été trouvé dans votre répertoire de jeu.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Lire la documentation</value>
@@ -177,9 +171,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Téléchargement des Stella Logs</value>
-  </data>
-  <data name="ReShadeIniUpdate_StellaConfigVersionIsNullInReShadeIni" xml:space="preserve">
-    <value>STELLA.ConfigVersion est null dans ReShade.ini.</value>
   </data>
   <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir mettre à jour la configuration de ReShade ?
@@ -219,9 +210,6 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="Default_FileWasNotFound" xml:space="preserve">
     <value>Le fichier n'a pas été trouvé.</value>
   </data>
-  <data name="ReShadeIniUpdate_TheVersionOfReShadeCfgWasNotFound" xml:space="preserve">
-    <value>La version de la configuration de ReShade n'a pas été trouvée.</value>
-  </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Désolé. Le fond {0} n'a pas été trouvé.</value>
   </data>
@@ -246,7 +234,7 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Regarder d'autres vidéos</value>
   </data>
-  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="paimon_error" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
@@ -263,9 +251,6 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
     <value>Voulez-vous rejoindre notre serveur Discord ?</value>
-  </data>
-  <data name="ReShadeIniUpdate_DownloadTheRequiredFile" xml:space="preserve">
-    <value>Téléchargez le fichier requis</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>La nouvelle version v{0} de {1} est disponible ! Veuillez mettre à jour.</value>
@@ -319,9 +304,6 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Unpacking files...</value>
-  </data>
-  <data name="ReShadeIniUpdate_ReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade.ini was not found in: {0}</value>
   </data>
   <data name="Default_CurrentBackground" xml:space="preserve">
     <value>Current background: {0}</value>
@@ -496,8 +478,8 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Merci pour votre soutien. Recommandez Stella Mod à vos amis. Passez une bonne journée !</value>
+  <data name="LaunchCount_ThankYouForYourDefault_Support" xml:space="preserve">
+    <value>Thank you for your Default_Support. Recommend Stella Mod to your friends. Have a great day!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Paramètres de navigation</value>
@@ -515,8 +497,8 @@ Le logiciel est continuellement pris en charge par le développeur grâce aux ab
 
 Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi que ce soit. N'oubliez pas de ne pas utiliser de cheats. Si vous avez besoin d'aide, rejoignez notre serveur Discord ou envoyez un e-mail à contact@sefinek.net. Amusez-vous bien !</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>Je vous remercie sincèrement pour votre généreux soutien ! Votre contribution signifie beaucoup pour moi. ~ Sefinek</value>
+  <data name="LaunchCount_ThankYouForYourGenerousDefault_Support" xml:space="preserve">
+    <value>I sincerely thank you for your generous Default_Support! Your contribution means a lot to me. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Le répertoire {0} n'a pas été trouvé.</value>
@@ -526,9 +508,6 @@ Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi qu
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
     <value>Cliquez sur le bouton « Démarrer le jeu » pour injecter ReShade et utiliser FPS Unlock.</value>
-  </data>
-  <data name="ReShadeIniUpdate_UpdateSize_KB" xml:space="preserve">
-    <value>Taille de la mise à jour : {0} Ko</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Téléchargement du fichier d'installation... {0} / {1}</value>
@@ -566,16 +545,13 @@ Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi qu
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
     <value>Le meilleur mod totalement sûr pour Genshin Impact qui améliore les graphismes et plus encore !</value>
   </data>
-  <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>Cette fonctionnalité est uniquement disponible pour les joueurs disposant d'un abonnement Stella Mod Plus.
+  <data name="Default_ThisFeatureIsAvailableOnlyForDefault_StellaModPlusSubscribers" xml:space="preserve">
+    <value>This feature is only available to players with a Stella Mod Plus subscription.
 
-Vous souhaitez visiter le site officiel et vous abonner ? Vous aurez accès à de nombreux avantages, notamment la possibilité d'utiliser simultanément ReShade, 3DMigoto et FPS Unlocker.</value>
+Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Les shaders ont été mis à jour avec succès vers la dernière version pour les abonnés Stella Plus.</value>
-  </data>
-  <data name="Default_SuccessfullyUpdatedReShadeCfg" xml:space="preserve">
-    <value>Le fichier ReShade.ini a été mis à jour avec succès !</value>
   </data>
   <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -591,46 +567,32 @@ Préréglage actuel :
 
 {0}</value>
   </data>
-  <data name="Default_TheReShadeIniFileCouldNotBeLocatedInYourGameFiles" xml:space="preserve">
-    <value>Le fichier ReShade.ini n'a pas pu être localisé dans vos fichiers de jeu ou il n'est peut-être pas compatible avec la version actuelle.
-
-Souhaitez-vous télécharger ce fichier maintenant pour éviter de futures erreurs et une configuration manuelle ? Recommandé.</value>
-  </data>
-  <data name="Cmd_Error" xml:space="preserve">
-    <value>Erreur</value>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
   </data>
   <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Cmd_ExecutedCommand" xml:space="preserve">
-    <value>Commande exécutée</value>
+  <data name="DiscordServer" xml:space="preserve">
+    <value>Discord server</value>
   </data>
-  <data name="Default_CachedAppBackground_ID" xml:space="preserve">
-    <value>Arrière-plan de l'application mis en cache dans la mémoire RAM '{0}' ; ID : {1} ;</value>
+  <data name="AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
+    <value>Are you sure to run Stella Configuration Window again?</value>
   </data>
-  <data name="DiscordRPC_DiscordServer" xml:space="preserve">
-    <value>Serveur Discord</value>
-  </data>
-  <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Êtes-vous sûr de vouloir exécuter à nouveau la fenêtre de configuration de Stella ?</value>
-  </data>
-  <data name="ReShadeIniUpdate_UpdateReShadeCfg" xml:space="preserve">
-    <value>Mettre à jour la configuration de ReShade</value>
-  </data>
-  <data name="DiscordRPC_State" xml:space="preserve">
+  <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
   </data>
-  <data name="Default_Downloading" xml:space="preserve">
-    <value>Téléchargement...</value>
+  <data name="Downloading" xml:space="preserve">
+    <value>Downloading...</value>
   </data>
-  <data name="RandomImages_OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Ouvrir l'image dans le navigateur par défaut</value>
+  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
+    <value>Open image in default browser</value>
   </data>
-  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>Le fichier du jeu n'a pas été trouvé à l'emplacement spécifié précédemment :
+  <data name="TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
+    <value>The game file was not found in the previously specified location:
 {0}
 
-Voulez-vous reconfigurer Stella Mod dans la fenêtre de configuration ?</value>
+Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -638,26 +600,20 @@ Voulez-vous reconfigurer Stella Mod dans la fenêtre de configuration ?</value>
   <data name="flaticon_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="RandomImages_AnimeName" xml:space="preserve">
-    <value>Nom de l'anime</value>
+  <data name="AnimeName" xml:space="preserve">
+    <value>Anime name</value>
   </data>
-  <data name="ReShadeIniUpdate_GamePathWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Le chemin du jeu n'a pas été trouvé sur votre PC.</value>
-  </data>
-  <data name="DiscordRPC_Status_WatchingGameplay" xml:space="preserve">
-    <value>Regarder le gameplay</value>
+  <data name="WatchingGameplay" xml:space="preserve">
+    <value>Watching gameplay</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_GameLauncherWasNotFoundIn" xml:space="preserve">
-    <value>Le lanceur de jeu n'a pas été trouvé dans : {0}</value>
+  <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
+    <value>Game launcher was not found in: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Cmd_ExitCode" xml:space="preserve">
-    <value>Sortie du code</value>
   </data>
   <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -668,22 +624,124 @@ Voulez-vous reconfigurer Stella Mod dans la fenêtre de configuration ?</value>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Launcher a été mis à jour avec succès vers la version : v{0}</value>
   </data>
-  <data name="Os_FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Échec de la récupération de l'identifiant de l'appareil.</value>
+  <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
+    <value>Failed to retrieve device identifier.</value>
   </data>
-  <data name="WebView2Handler_ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Sélectionnez l’installateur autonome Evergreen.</value>
+  <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
+    <value>Select Evergreen Standalone Installer.</value>
   </data>
-  <data name="NormalRelease_UpdateSize" xml:space="preserve">
-    <value>Taille du fichier prêt à être téléchargé : {0}</value>
+  <data name="OopsAnErrorOccurred" xml:space="preserve">
+    <value>Oops, an error occurred</value>
   </data>
-  <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oups, une erreur s'est produite</value>
-  </data>
-  <data name="Cmd_RebootIsRequired" xml:space="preserve">
-    <value>Le redémarrage est requis</value>
+  <data name="RebootIsRequired" xml:space="preserve">
+    <value>Reboot is required</value>
   </data>
   <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
+    <value>You do not have an active Stella Plus subscription.</value>
+  </data>
+  <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
+    <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
+  </data>
+  <data name="Important" xml:space="preserve">
+    <value>Important</value>
+  </data>
+  <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
+    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+  </data>
+  <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
+    <value>Videos - sefinek.net</value>
+  </data>
+  <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
+    <value>Documentation - sefinek.net</value>
+  </data>
+  <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
+    <value>Gallery - sefinek.net</value>
+  </data>
+  <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
+    <value>Hello! Loading Stella Mod launcher...</value>
+  </data>
+  <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
+    <value>Toggle minimize/restore</value>
+  </data>
+  <data name="Default_ReloadWindow" xml:space="preserve">
+    <value>Reload window</value>
+  </data>
+  <data name="Default_StellaModPlus" xml:space="preserve">
+    <value>Stella Mod Plus</value>
+  </data>
+  <data name="Default_VisitDiscordServer" xml:space="preserve">
+    <value>Visit Discord server</value>
+  </data>
+  <data name="Default_Support" xml:space="preserve">
+    <value>Default_Support</value>
+  </data>
+  <data name="Default_LeaveYourFeedback" xml:space="preserve">
+    <value>Leave your feedback</value>
+  </data>
+  <data name="Default_Donations" xml:space="preserve">
+    <value>Default_Donations</value>
+  </data>
+  <data name="Default_Quit" xml:space="preserve">
+    <value>Default_Quit</value>
+  </data>
+  <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
+    <value>Verifying required files in progress...</value>
+  </data>
+  <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
+    <value>Authorization, please wait...</value>
+  </data>
+  <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
+    <value>Debugging this application is not possible due to lack of permissions.</value>
+  </data>
+  <data name="StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceModeWeAreDoingThisForYouToImproveTheApplicationTryAgainLater" xml:space="preserve">
+    <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
+  </data>
+  <data name="Default_StellaModPlusLauncher" xml:space="preserve">
+    <value>Stella Mod Plus Launcher</value>
+  </data>
+  <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
+    <value>Checking for updates and other required data...</value>
+  </data>
+  <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
+    <value>The application has been successfully updated, checking the changelog...</value>
+  </data>
+  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
+    <value>Uhh, it looks like the changelog isn't available for this version yet...</value>
+  </data>
+  <data name="Default_CheckingNews" xml:space="preserve">
+    <value>Checking news...</value>
+  </data>
+  <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
+    <value>Approving application launch (this may take a moment)...</value>
+  </data>
+  <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
+    <value>Establishing connection with the WebSocket server...</value>
+  </data>
+  <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
+    <value>Initializing WebView2, please wait...</value>
+  </data>
+  <data name="ThisIsAlreadyTheLaunchCountThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
+    <value>This is already the {launchCount}th time you are launching this app on this device. Thank you!</value>
+  </data>
+  <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
+    <value>Successfully reconnected with the WS server</value>
+  </data>
+  <data name="ExceededTheMaximumNumberOfReconnectionAttempts_reconnectAttemptsWithTheWebSocket" xml:space="preserve">
+    <value>Exceeded the maximum number of reconnection attempts ({_reconnectAttempts}) with the WebSocket</value>
+  </data>
+  <data name="NotificationFromTheServer" xml:space="preserve">
+    <value>Notification from the server</value>
+  </data>
+  <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
+    <value>You have received a notification from the remote server. Please check it.</value>
+  </data>
+  <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
+    <value>Stella Mod Plus Subscribers</value>
+  </data>
+  <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
+    <value>File size ready for download: {0}</value>
   </data>
 </root>
