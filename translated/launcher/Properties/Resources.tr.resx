@@ -125,7 +125,7 @@ Verdiğimiz rahatsızlıktan dolayı özür dileriz, ancak her yeni güncellemen
 Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsanız, lütfen mevcut programı kaldırın ve resmi web sitesinden yenisini yükleyin.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Genshin Stella Modu için orijinal başlatıcıyı çalıştırın.</value>
+    <value>Genshin Stella Modu için resmi başlatıcıyı çalıştırın.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
     <value>Güncellemeler kontrol ediliyor...</value>
@@ -184,7 +184,7 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
     <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Önemli versiyon mevcuttur</value>
+    <value>Önemli versiyon mevcut</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
     <value>Güncellemeleri kontrol et</value>
@@ -691,7 +691,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Gerekli dosyalar Kontrol ediliyor...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
-    <value>Authorization, please wait...</value>
+    <value>Yetkilendiriliyor, Lütfen bekleyin...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
     <value>Debugging this application is not possible due to lack of permissions.</value>
@@ -742,9 +742,9 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Stella Mod Plus Aboneleri</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>İndirilmeye hazır dosya boyutu: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Note from the developer ({0}):\n{1}</value>
+    <value>Yapımcıdan Not ({0}):\n{1}</value>
   </data>
 </root>
