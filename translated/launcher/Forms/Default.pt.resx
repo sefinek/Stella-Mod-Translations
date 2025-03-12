@@ -913,49 +913,49 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="&gt;&gt;startGame_LinkLabel.ZOrder" xml:space="preserve">
     <value>25</value>
   </data>
-  <data name="Default_Support_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="support_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="Default_Support_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="support_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="Default_Support_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="support_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Corbel, 15pt, style=Bold</value>
   </data>
-  <data name="Default_Support_LinkLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="support_LinkLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Default_Support_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="support_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>44, 599</value>
   </data>
-  <data name="Default_Support_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="support_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>81, 24</value>
   </data>
-  <data name="Default_Support_LinkLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="support_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>128</value>
   </data>
-  <data name="Default_Support_LinkLabel.Text" xml:space="preserve">
-    <value>Default_Support</value>
+  <data name="support_LinkLabel.Text" xml:space="preserve">
+    <value>Support</value>
   </data>
-  <data name="Default_Support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="Default_Support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Default_Support this project. Stella Mod receives regular updates only thanks to its Default_Supporters.</value>
+  <data name="support_LinkLabel.ToolTip" xml:space="preserve">
+    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
   </data>
-  <data name="Default_Support_LinkLabel.Visible" type="System.Boolean, mscorlib">
+  <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;Default_Support_LinkLabel.Name" xml:space="preserve">
-    <value>Default_Support_LinkLabel</value>
+  <data name="&gt;&gt;support_LinkLabel.Name" xml:space="preserve">
+    <value>support_LinkLabel</value>
   </data>
-  <data name="&gt;&gt;Default_Support_LinkLabel.Type" xml:space="preserve">
+  <data name="&gt;&gt;support_LinkLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Default_Support_LinkLabel.Parent" xml:space="preserve">
+  <data name="&gt;&gt;support_LinkLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Default_Support_LinkLabel.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;support_LinkLabel.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="reshade_checkBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -1685,37 +1685,37 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="Default_Support_PictureBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="support_PictureBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="Default_Support_PictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="support_PictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Default_Support_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="support_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 598</value>
   </data>
-  <data name="Default_Support_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="support_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>28, 28</value>
   </data>
-  <data name="Default_Support_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="support_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="Default_Support_PictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="support_PictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>127</value>
   </data>
-  <data name="Default_Support_PictureBox.Visible" type="System.Boolean, mscorlib">
+  <data name="support_PictureBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;Default_Support_PictureBox.Name" xml:space="preserve">
-    <value>Default_Support_PictureBox</value>
+  <data name="&gt;&gt;support_PictureBox.Name" xml:space="preserve">
+    <value>support_PictureBox</value>
   </data>
-  <data name="&gt;&gt;Default_Support_PictureBox.Type" xml:space="preserve">
+  <data name="&gt;&gt;support_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Default_Support_PictureBox.Parent" xml:space="preserve">
+  <data name="&gt;&gt;support_PictureBox.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Default_Support_PictureBox.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;support_PictureBox.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
