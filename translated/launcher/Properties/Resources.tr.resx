@@ -478,8 +478,8 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
   <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourDefault_Support" xml:space="preserve">
-    <value>Thank you for your Default_Support. Recommend Stella Mod to your friends. Have a great day!</value>
+  <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
+    <value>Desteğiniz için teşekkür ederiz. Stella Mod'u arkadaşlarınıza tavsiye edin. İyi günler dilerim!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Gözatma ayarları</value>
@@ -497,8 +497,8 @@ Yazılım, Stella Plus aboneleri sayesinde geliştirici tarafından sürekli ola
 
 Stella Mod güvenli bir yazılımdır, bu nedenle hiçbir şey için endişelenmenize gerek yoktur. Sadece hile kullanmamayı unutmayın. Yardıma ihtiyacınız olursa Discord sunucumuza katılın veya contact@sefinek.net adresine bir e-posta gönderin. İyi eğlenceler!</value>
   </data>
-  <data name="LaunchCount_ThankYouForYourGenerousDefault_Support" xml:space="preserve">
-    <value>I sincerely thank you for your generous Default_Support! Your contribution means a lot to me. ~ Sefinek</value>
+  <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
+    <value>Cömert desteğiniz için içtenlikle teşekkür ederim! Katkınız benim için çok önemli. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Dizin {0} bulunamadı.</value>
@@ -545,10 +545,10 @@ Stella Mod güvenli bir yazılımdır, bu nedenle hiçbir şey için endişelenm
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
     <value>Genshin Impact için grafikleri ve daha fazlasını geliştiren en iyi ve tamamen güvenli mod!</value>
   </data>
-  <data name="Default_ThisFeatureIsAvailableOnlyForDefault_StellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+  <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
+    <value>Bu özellik yalnızca Stella Mod Plus aboneliği olan oyuncular tarafından kullanılabilir.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+Resmi web sitesini ziyaret etmek ve abone olmak ister misiniz? ReShade, 3DMigoto ve FPS Unlocker'ı aynı anda kullanma olanağı da dahil olmak üzere çok sayıda avantaja erişim elde edeceksiniz.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Stella Plus aboneleri için gölgelendiriciler en son sürüme başarıyla güncellendi.</value>
@@ -568,16 +568,16 @@ Mevcut ön ayar:
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Hata</value>
   </data>
   <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord sunucusu</value>
   </data>
-  <data name="AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+  <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
+    <value>Stella Yapılandırma Penceresini tekrar çalıştırdığınızdan emin misiniz?</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
@@ -588,7 +588,7 @@ Mevcut ön ayar:
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
     <value>Open image in default browser</value>
   </data>
-  <data name="TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
+  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
     <value>The game file was not found in the previously specified location:
 {0}
 
@@ -630,7 +630,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Select Evergreen Standalone Installer.</value>
   </data>
-  <data name="OopsAnErrorOccurred" xml:space="preserve">
+  <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, an error occurred</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
@@ -645,7 +645,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
     <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
   </data>
-  <data name="Important" xml:space="preserve">
+  <data name="Tools_Important" xml:space="preserve">
     <value>Important</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
@@ -696,7 +696,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
     <value>Debugging this application is not possible due to lack of permissions.</value>
   </data>
-  <data name="StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceModeWeAreDoingThisForYouToImproveTheApplicationTryAgainLater" xml:space="preserve">
+  <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
     <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
@@ -743,5 +743,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
     <value>File size ready for download: {0}</value>
+  </data>
+  <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
+    <value>Note from the developer ({0}):\n{1}</value>
   </data>
 </root>
