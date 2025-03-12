@@ -347,7 +347,7 @@ Stella Plus aboneliğinin gönüllü destek olarak kabul edildiğini ve herhangi
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot.com</value>
+    <value>» Trustpilot.com'da geri bildirim bırakın</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Başlatıcısının İncelemeleri | Müşterilerimize Verilen Hizmetlerin İncelemelerini Okuyun stella.sefinek.net</value>
@@ -416,7 +416,7 @@ Stella Plus aboneliğinin gönüllü destek olarak kabul edildiğini ve herhangi
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join our Discord server</value>
+    <value>» Discord sunucumuza katıl</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
