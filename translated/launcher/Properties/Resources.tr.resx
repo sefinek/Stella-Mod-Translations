@@ -604,7 +604,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Anime Adı</value>
   </data>
   <data name="WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Oynanış izliyor</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -628,7 +628,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Cihaz tanımlayıcı verisi alınamadı.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
+    <value>Evergreen Bağımsız Kurucu'yu seçin.</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, bir hata oluştu</value>
@@ -676,7 +676,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Discord sunucusunu ziyaret et</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Default_Support</value>
+    <value>Destek</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Görüşlerini Bildir</value>
