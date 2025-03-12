@@ -118,9 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Left, Right</value>
-  </data>
   <data name="panel1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
   </data>
@@ -265,7 +262,7 @@
     <value>None</value>
   </data>
   <data name="close_Panel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1215, 20</value>
+    <value>1225, 19</value>
   </data>
   <data name="close_Panel.Size" type="System.Drawing.Size, System.Drawing">
     <value>27, 31</value>
@@ -288,11 +285,14 @@
   <data name="&gt;&gt;close_Panel.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1280, 51</value>
+    <value>1290, 51</value>
   </data>
   <data name="panel1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -319,7 +319,7 @@
     <value>Comic Sans MS, 12.75pt</value>
   </data>
   <data name="githubUrl_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>771, 138</value>
+    <value>781, 138</value>
   </data>
   <data name="githubUrl_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>376, 24</value>
@@ -355,7 +355,7 @@
     <value>TopRight</value>
   </data>
   <data name="madeBySefinek_Label.Location" type="System.Drawing.Point, System.Drawing">
-    <value>674, 107</value>
+    <value>684, 107</value>
   </data>
   <data name="madeBySefinek_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>474, 31</value>
@@ -397,7 +397,7 @@
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>674, 68</value>
+    <value>684, 68</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>477, 39</value>
@@ -427,7 +427,7 @@
     <value>Top, Right</value>
   </data>
   <data name="githubIco_Picturebox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>735, 137</value>
+    <value>745, 137</value>
   </data>
   <data name="githubIco_Picturebox.Size" type="System.Drawing.Size, System.Drawing">
     <value>32, 32</value>
@@ -553,7 +553,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Visit the official Stella Mod website</value>
+    <value>Besök den officiella Stella Mod-hemsidan</value>
   </data>
   <data name="website_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -737,7 +737,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="version_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>978, 659</value>
+    <value>988, 659</value>
   </data>
   <data name="version_LinkLabel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>
@@ -913,49 +913,49 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
   <data name="&gt;&gt;startGame_LinkLabel.ZOrder" xml:space="preserve">
     <value>25</value>
   </data>
-  <data name="support_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="Default_Support_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="support_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="Default_Support_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="support_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="Default_Support_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Corbel, 15pt, style=Bold</value>
   </data>
-  <data name="support_LinkLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="Default_Support_LinkLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="support_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="Default_Support_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>44, 599</value>
   </data>
-  <data name="support_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="Default_Support_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>81, 24</value>
   </data>
-  <data name="support_LinkLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="Default_Support_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>128</value>
   </data>
-  <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+  <data name="Default_Support_LinkLabel.Text" xml:space="preserve">
+    <value>Default_Support</value>
   </data>
-  <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="Default_Support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
+  <data name="Default_Support_LinkLabel.ToolTip" xml:space="preserve">
+    <value>Default_Support this project. Stella Mod receives regular updates only thanks to its Default_Supporters.</value>
   </data>
-  <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
+  <data name="Default_Support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;support_LinkLabel.Name" xml:space="preserve">
-    <value>support_LinkLabel</value>
+  <data name="&gt;&gt;Default_Support_LinkLabel.Name" xml:space="preserve">
+    <value>Default_Support_LinkLabel</value>
   </data>
-  <data name="&gt;&gt;support_LinkLabel.Type" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_LinkLabel.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;support_LinkLabel.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_LinkLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;support_LinkLabel.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_LinkLabel.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="reshade_checkBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -1091,7 +1091,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>NoControl</value>
   </data>
   <data name="clickMe_Label.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1025, 570</value>
+    <value>1035, 570</value>
   </data>
   <data name="clickMe_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>243, 25</value>
@@ -1130,7 +1130,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1047, 457</value>
+    <value>1057, 457</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>223, 52</value>
@@ -1191,7 +1191,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Bottom, Right</value>
   </data>
   <data name="updateIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1238, 688</value>
+    <value>1248, 688</value>
   </data>
   <data name="updateIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1218,7 +1218,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Bottom, Right</value>
   </data>
   <data name="versionIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1238, 659</value>
+    <value>1248, 659</value>
   </data>
   <data name="versionIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1251,7 +1251,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>NoControl</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>954, 688</value>
+    <value>964, 688</value>
   </data>
   <data name="checkForUpdates_LinkLabel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>
@@ -1455,7 +1455,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Bottom, Right</value>
   </data>
   <data name="paimon_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1220, 598</value>
+    <value>1230, 598</value>
   </data>
   <data name="paimon_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 48</value>
@@ -1629,7 +1629,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Bottom, Right</value>
   </data>
   <data name="pictureBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1136, 514</value>
+    <value>1146, 514</value>
   </data>
   <data name="pictureBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 132</value>
@@ -1662,7 +1662,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>NoControl</value>
   </data>
   <data name="pictureBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1153, 62</value>
+    <value>1163, 62</value>
   </data>
   <data name="pictureBox6.Size" type="System.Drawing.Size, System.Drawing">
     <value>115, 115</value>
@@ -1685,37 +1685,37 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="support_PictureBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="Default_Support_PictureBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="support_PictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="Default_Support_PictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="support_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="Default_Support_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 598</value>
   </data>
-  <data name="support_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="Default_Support_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>28, 28</value>
   </data>
-  <data name="support_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="Default_Support_PictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="support_PictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="Default_Support_PictureBox.TabIndex" type="System.Int32, mscorlib">
     <value>127</value>
   </data>
-  <data name="support_PictureBox.Visible" type="System.Boolean, mscorlib">
+  <data name="Default_Support_PictureBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;support_PictureBox.Name" xml:space="preserve">
-    <value>support_PictureBox</value>
+  <data name="&gt;&gt;Default_Support_PictureBox.Name" xml:space="preserve">
+    <value>Default_Support_PictureBox</value>
   </data>
-  <data name="&gt;&gt;support_PictureBox.Type" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_PictureBox.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;support_PictureBox.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_PictureBox.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;support_PictureBox.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;Default_Support_PictureBox.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -1731,7 +1731,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Stretch</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1280, 730</value>
+    <value>1290, 730</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
