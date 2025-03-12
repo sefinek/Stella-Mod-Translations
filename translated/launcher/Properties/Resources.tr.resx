@@ -580,19 +580,19 @@ Mevcut ön ayar:
     <value>Stella Yapılandırma Penceresini tekrar çalıştırdığınızdan emin misiniz?</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>Sürüm:{0}</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>Downloading...</value>
+    <value>İndiriliyor...</value>
   </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
+    <value>Görseli varsayılan tarayıcıda aç</value>
   </data>
   <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>The game file was not found in the previously specified location:
+    <value>Oyun dosyası önceden belirtilen konumda bulunamadı:
 {0}
 
-Do you want to reconfigure Stella Mod in the Configuration Window?</value>
+Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz?</value>
   </data>
   <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -601,7 +601,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="AnimeName" xml:space="preserve">
-    <value>Anime name</value>
+    <value>Anime Adı</value>
   </data>
   <data name="WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
@@ -610,7 +610,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Oyun başlatıcısı bulunamadı: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -625,43 +625,43 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Stella Mod Başlatıcısı başarıyla şu sürüme güncellendi: v{0}</value>
   </data>
   <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
+    <value>Cihaz tanımlayıcı verisi alınamadı.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Select Evergreen Standalone Installer.</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>Oops, bir hata oluştu</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
-    <value>Reboot is required</value>
+    <value>Yeniden başlatma gerekiyor</value>
   </data>
   <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
     <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Önemli</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
     <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videos - sefinek.net</value>
+    <value>Videolar - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
     <value>Documentation - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Gallery - sefinek.net</value>
+    <value>Galeri - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod launcher...</value>
+    <value>Merhaba! Stella Mod başlatıcısı Yükleniyor...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
     <value>Toggle minimize/restore</value>
@@ -673,13 +673,13 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Stella Mod Plus</value>
   </data>
   <data name="Default_VisitDiscordServer" xml:space="preserve">
-    <value>Visit Discord server</value>
+    <value>Discord sunucusunu ziyaret et</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
     <value>Default_Support</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
-    <value>Leave your feedback</value>
+    <value>Görüşlerini Bildir</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Default_Donations</value>
@@ -688,7 +688,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Default_Quit</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
-    <value>Verifying required files in progress...</value>
+    <value>Gerekli dosyalar Kontrol ediliyor...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
     <value>Authorization, please wait...</value>
@@ -700,10 +700,10 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
-    <value>Stella Mod Plus Launcher</value>
+    <value>Stella Mod Plus Başlatıcısı</value>
   </data>
   <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
-    <value>Checking for updates and other required data...</value>
+    <value>Güncellemeler ve diğer gerekli veriler Kontrol ediliyor...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>The application has been successfully updated, checking the changelog...</value>
@@ -733,13 +733,13 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Exceeded the maximum number of reconnection attempts ({_reconnectAttempts}) with the WebSocket</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
-    <value>Notification from the server</value>
+    <value>Sunucudan Bildirim</value>
   </data>
   <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
     <value>You have received a notification from the remote server. Please check it.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>Stella Mod Plus Aboneleri</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
     <value>File size ready for download: {0}</value>
