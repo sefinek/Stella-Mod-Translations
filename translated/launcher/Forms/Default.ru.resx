@@ -364,7 +364,7 @@
     <value>74</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>создано Sefinek</value>
+    <value>made by Sefinek</value>
   </data>
   <data name="madeBySefinek_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -935,13 +935,13 @@
     <value>128</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+    <value>Поддержка</value>
   </data>
   <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
+    <value>Поддержите этот проект. Stella Mod получает регулярные обновления только благодаря вашей поддержке.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>

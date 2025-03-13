@@ -58,7 +58,8 @@ exports.home = {
  Videos: 'Videos',
  VideosTooltip: 'Schau dir unsere Videos über den Mod und das Startprogramm an.',
  Statistics: 'Statistics',
- StatisticsTooltip: 'Check how many people are currently playing Genshin Impact with the Stella mod activated.',
+ StatisticsTooltip:
+  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
  Feedback: 'Feedback',
  FeedbackTooltip: 'Teile deine Meinung über meine Arbeit und Stella Mod mit.',
  Support: 'Support',

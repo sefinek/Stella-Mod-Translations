@@ -58,7 +58,8 @@ exports.home = {
  Videos: 'Videos',
  VideosTooltip: 'Mira nuestros videos sobre el mod y el programa de lanzamiento.',
  Statistics: 'Statistics',
- StatisticsTooltip: 'Check how many people are currently playing Genshin Impact with the Stella mod activated.',
+ StatisticsTooltip:
+  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
  Feedback: 'Comentarios',
  FeedbackTooltip: 'Comparte tu opinión sobre mi trabajo y Stella Mod.',
  Support: 'Soporte',
@@ -114,7 +115,7 @@ exports.gallery = {
  SeeComparesFromTheOtherVersions: 'Ver comparaciones sobre las nuevas versiones',
  SeeTheComparisonBetween: 'Ver la comparación entre...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
-  'La página en la que estás actualmente muestra una comparación de distintas versiones de lanzamiento',
+  'La página en la que estás actualmente muestra una comparación de distintas versiones de lanzamiento.',
  OldVersion: 'Versión antigua',
  NewVersion: 'Nueva versión',
  WithMod: 'Con mods',

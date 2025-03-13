@@ -131,8 +131,8 @@ exports.feedback = {
  AdditionallyIfYouHaveCommentsOrSuggestions:
   "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
-  BelowYTVideo: 'YouTube',
-  OnTheDiscordServer: 'Discord',
+  BelowYTVideo: 'Below my YouTube video',
+  OnTheDiscordServer: 'On the Discord server',
  },
  tooltips: {
   ClickHereToGoToTheYTPage: 'YouTubeのページに移動するにはここをクリックしてください。',
