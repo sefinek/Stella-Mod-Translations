@@ -141,7 +141,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Kaynak klasörünüzün sonuna '{0}' ekleyerek yeniden adlandırıldı.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Kaynak dizini bulunamadı. Stella Mod'un daha yeni sürümlerinde, kayıt yolları kayıt defterine taşınmıştır. Yazılımı yeni güncellediyseniz, Tamam'a tıklayın. Yapılandırma penceresi başlatılacaktır.</value>
+    <value>Kaynak klasörü bulunamadı. Stella Mod'un daha yeni sürümlerinde, kayıt yolları kayıt defterine taşınmıştır. Yazılımı yeni güncellediyseniz, Tamam'a tıklayın. Yapılandırma penceresi başlatılacaktır.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
     <value>Özel ayrıcalıklar güncellemesi indiriliyor... {0} / {1}</value>
@@ -150,7 +150,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Çalışma dizini</value>
+    <value>Çalışma yolu</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Dosya başarıyla indirildi veya güncellendi: {1}</value>
@@ -159,7 +159,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>ini dosyasında yanlış EnableMusic değeri.</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
+    <value>Eski kurulum dosyası geçici klasörden silindi.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Belgeleri okuyun</value>
@@ -449,7 +449,7 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
     <value>Ohh, bir şeyler ters gitti</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
+    <value>Eski kurulum dosyası geçici klasörden silindi.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
     <value>Sadece takılıyor</value>
@@ -501,7 +501,7 @@ Stella Mod güvenli bir yazılımdır, bu nedenle hiçbir şey için endişelenm
     <value>Cömert desteğiniz için içtenlikle teşekkür ederim! Katkınız benim için çok önemli. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Dizin {0} bulunamadı.</value>
+    <value>Klasör {0} bulunamadı.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
     <value>Kaynaklar indiriliyor... {0} / {1}</value>
@@ -643,19 +643,19 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
+    <value>Stella Çıktılarının bulunduğu klasör bulunamadı: {Log.Folder}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Önemli</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>Hassas veriler içerebileceğinden, çıktı dosyalarını tanımadığınız kişilerle paylaşmamayı unutmayın. Bunları yalnızca Stella Mod geliştiricisi ile paylaşın.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
     <value>Videolar - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Documentation - sefinek.net</value>
+    <value>Belgeler - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
     <value>Galeri - sefinek.net</value>
@@ -664,10 +664,10 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Merhaba! Stella Mod başlatıcısı Yükleniyor...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
-    <value>Toggle minimize/restore</value>
+    <value>Simge durumuna küçült/geri çevir</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
-    <value>Reload window</value>
+    <value>Pencereyi yeniden yükle</value>
   </data>
   <data name="Default_StellaModPlus" xml:space="preserve">
     <value>Stella Mod Plus</value>
@@ -694,10 +694,10 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Yetkilendiriliyor, Lütfen bekleyin...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
-    <value>Debugging this application is not possible due to lack of permissions.</value>
+    <value>Eksik izinler nedeniyle bu uygulamada hata ayıklama yapmak mümkün değildir.</value>
   </data>
   <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
-    <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
+    <value>Sunucu bakım modunda olduğu için Stella Mod Başlatıcısını başlatmak şu anda mümkün değil. Bunu sizin için, uygulamayı geliştirmek için yapıyoruz. Daha sonra tekrar deneyin.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
     <value>Stella Mod Plus Başlatıcısı</value>
@@ -706,19 +706,19 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Güncellemeler ve diğer gerekli veriler Kontrol ediliyor...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
-    <value>The application has been successfully updated, checking the changelog...</value>
+    <value>Uygulama başarıyla güncellendi, değişiklik günlüğünü kontrol edin...</value>
   </data>
   <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Uhh, it looks like the changelog isn't available for this version yet...</value>
+    <value>Görünüşe göre bu sürüm için değişiklik günlüğü henüz mevcut değil...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
-    <value>Checking news...</value>
+    <value>Gelişmeleri kontrol ediyorum...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
-    <value>Approving application launch (this may take a moment)...</value>
+    <value>Uygulama başlatması onaylanıyor (bu biraz zaman alabilir)...</value>
   </data>
   <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
-    <value>Establishing connection with the WebSocket server...</value>
+    <value>WebSocket sunucusu ile bağlantı kuruluyor...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
     <value>WebView2 başlatılıyor, lütfen bekleyin...</value>
@@ -748,49 +748,49 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Yapımcıdan Not ({0}):\n{1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
-    <value>Although this process may seem dead, it is still running. Please be patient...</value>
+    <value>Bu süreç ölü gibi görünse de hala devam etmektedir. Lütfen sabırlı olun...</value>
   </data>
   <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>It's taking longer than usual. Please check your internet connection.</value>
+    <value>Normalden daha uzun sürüyor. Lütfen internet bağlantınızı kontrol edin.</value>
   </data>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
-    <value>Requesting agreement to upload logs...</value>
+    <value>Çıktıları yüklemek için onay isteniyor...</value>
   </data>
   <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelowNNDataMessage" xml:space="preserve">
-    <value>The remote server did not grant you permission to send the logs. You will find more details below.\n\n{data.Message}</value>
+    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.\n\n{data.Message}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Preparing temporary directory...</value>
+    <value>Geçici klasör hazırlanıyor...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
-    <value>Copying log, cfg and ini files...</value>
+    <value>Çıktılar, cfg ve ini dosyaları kopyalanıyor...</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
-    <value>Waiting for DxDiag...</value>
+    <value>DxDiag bekleniyor...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
-    <value>Compressing collected files...</value>
+    <value>Toplanan dosyalar sıkıştırılıyor...</value>
   </data>
   <data name="UploadLogs_GatheringAndEncryptingAdditionalData" xml:space="preserve">
-    <value>Gathering and encrypting additional data...</value>
+    <value>Ek veriler toplanıyor ve şifreleniyor...</value>
   </data>
   <data name="UploadLogs_UploadingFilesToASecureServer" xml:space="preserve">
-    <value>Uploading files to a secure server...</value>
+    <value>Dosyalar güvenli bir sunucuya yükleniyor...</value>
   </data>
   <data name="UploadLogs_FinishingAndPerformingCleanup" xml:space="preserve">
-    <value>Finishing and performing cleanup...</value>
+    <value>Tamamlanıyor ve temizlik işlemleri gerçekleştiriliyor...</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch3YouCanCloseThisWindow" xml:space="preserve">
-    <value>Logs upload complete! Thank you very much &lt;3. You can close this window.</value>
+    <value>Çıktıların yüklenmesi tamamlandı! Çok teşekkür ederim &lt;3. Bu pencereyi kapatabilirsiniz.</value>
   </data>
   <data name="UploadLogs_AsTheOwnerOfTheSubmittedLogsYouHaveFullRightsToThemIfYouWouldLikeUsToRemoveThemFromOurDatabasePleaseContactTheDeveloperAndProvideTheFollowingIdentifier_" xml:space="preserve">
-    <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
+    <value>Gönderilen çıktıların sahibi olarak, bunlar üzerinde tüm haklara sahipsiniz. Bunları veritabanımızdan kaldırmamızı istiyorsanız, lütfen geliştiriciyle iletişime geçin ve aşağıdaki tanımlayıcı ifadeyi iletin: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong ):</value>
+    <value>Üzgünüm, ama bir şeyler ters gitti ):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.\n\n{0}</value>
+    <value>Ne yazık ki, dosya yükleme sırasında bir şeyler ters gitti. Lütfen özür dileklerimizi kabul edin.\n\n{0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
     <value>Güvenlik nedeniyle, sunucunun talebi reddetme nedeni açıklanamaz. Gerekli olduğunu düşünüyorsanız lütfen yöneticiyle iletişime geçin.</value>
@@ -820,6 +820,6 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Dosya okunurken hata oluştu!\n{0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Stella Çıktılarının bulunduğu dizin şu konumda bulunamadı:\n\n{0}</value>
+    <value>Stella Çıktılarının bulunduğu klasör şu konumda bulunamadı:\n\n{0}</value>
   </data>
 </root>

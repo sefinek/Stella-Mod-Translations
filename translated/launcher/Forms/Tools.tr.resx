@@ -667,7 +667,7 @@
     <value>ReShade'i Yapılandır</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>ReShade'i otomatik olarak yapılandır ve doğru dizin yollarını belirle</value>
+    <value>ReShade'i otomatik olarak yapılandır ve doğru klasör yollarını belirle</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -787,7 +787,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>Dizini görüntüle</value>
+    <value>Klasörleri görüntüle</value>
   </data>
   <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
     <value>InnoSetupLogs</value>
