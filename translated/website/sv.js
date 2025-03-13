@@ -83,7 +83,7 @@ exports.home = {
   SelectDownloadServer: 'Välj nedladdningsserver',
   Companies: 'Företag',
   Countries: 'Länder',
-  LauncherVersion: 'Launcher-version:',
+  LauncherVersion: 'Launcher version:',
   MirrorsAreCurrentlyUnavailable:
    'Spegelservrar är för tillfället avstängda eller otillgängliga för denna kategori. Försök igen senare eller kontakta administratören.',
   ChecksumHasBeenSuccessfullyCopied: '{0}-kontrollsumman har kopierats till urklippet!',
