@@ -349,7 +349,7 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
     <value>Pobieranie pliku zostało anulowane przez użytkownika.</value>
   </data>
   <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
-    <value>Czy chcesz przesłać nam anonimowe pliki dziennika (logi)?</value>
+    <value>Czy chcesz przesłać nam anonimowe pliki dziennika?</value>
   </data>
   <data name="RandomImages_Source" xml:space="preserve">
     <value>Źródło</value>
@@ -470,7 +470,7 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
     <value>Wszystko jest w porządku! Rozpoczynanie instalacji...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>The requested operation was successful, but your PC needs to be rebooted.</value>
+    <value>Żądana operacja zakończyła się pomyślnie, lecz konieczne jest ponowne uruchomienie komputera.</value>
   </data>
   <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -682,10 +682,10 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Leave your feedback</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>Darowizny</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Quit</value>
+    <value>Wyjście</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Verifying required files in progress...</value>
