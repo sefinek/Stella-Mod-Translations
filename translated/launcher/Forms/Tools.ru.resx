@@ -589,10 +589,10 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Открыть окно конфигурации</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Перенастроить Stella Mod снова</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -628,10 +628,10 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Создать ярлык на рабочем столе</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Create a shortcut for Stella Mod Launcher on your desktop. This is useful if you accidentally deleted the Stella Mod Launcher icon.</value>
+    <value>Создать ярлык для лаунчера Stella Mod на рабочем столе. Это пригодится, если вы случайно удалили значок лаунчера Stella Mod.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -664,10 +664,10 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Настроить ReShade</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Автоматически настроить ReShade и указать нужные пути к папкам</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -1009,7 +1009,7 @@
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>3DMigoto d3dx.ini файл</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -1075,7 +1075,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>3DMigoto d3dx_user.ini файл</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
