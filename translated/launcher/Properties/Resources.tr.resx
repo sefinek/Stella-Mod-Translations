@@ -604,7 +604,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Anime Adı</value>
   </data>
   <data name="WatchingGameplay" xml:space="preserve">
-    <value>Oynanış izliyor</value>
+    <value>Oynanışı izliyor</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -628,7 +628,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Cihaz tanımlayıcı verisi alınamadı.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Evergreen Bağımsız Kurucu'yu seçin.</value>
+    <value>Evergreen'in Bağımsız Yükleyicisini seçin.</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, bir hata oluştu</value>
@@ -733,7 +733,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>WebSocket ile birlikte maksimum yeniden bağlanma denemesi sayısı ({0}) aşıldı</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
-    <value>Sunucudan Bildirim</value>
+    <value>Sunucudan gelen bildirim</value>
   </data>
   <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
     <value>Uzak sunucudan bir bildirim aldınız. Lütfen kontrol edin.</value>
@@ -793,25 +793,25 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.\n\n{0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
-    <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
+    <value>Güvenlik nedeniyle, sunucunun talebi reddetme nedeni açıklanamaz. Gerekli olduğunu düşünüyorsanız lütfen yöneticiyle iletişime geçin.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Below are the details of what really happened:\n{0}</value>
+    <value>Aşağıda gerçekte neler olduğuna dair detaylar yer almaktadır:\n{0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.\n\n{0}</value>
+    <value>Bir hata meydana geldi.\n\n{0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
-    <value>File size exceeds the maximum limit.</value>
+    <value>Dosya boyutu maksimum sınırı aşıyor.</value>
   </data>
   <data name="UploadLogs_FileNotFound_" xml:space="preserve">
-    <value>File not found: {0}</value>
+    <value>Dosya bulunamadı: {0}</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
-    <value>Logs upload complete. Thank you very much!</value>
+    <value>Çıktıların yüklenmesi tamamlandı. Çok teşekkür ederim!</value>
   </data>
   <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
-    <value>Unknown error. Status {0}</value>
+    <value>Bilinmeyen hata. Hata çıktısı {0}</value>
   </data>
   <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
     <value>İstek gönderilirken hata oluştu. Lütfen internet bağlantınızı kontrol edin. {0}</value>
