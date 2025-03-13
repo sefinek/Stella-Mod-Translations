@@ -676,16 +676,19 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Visit Discord server</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Default_Support</value>
+    <value>Support</value>
+    <comment/>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Leave your feedback</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Default_Donations</value>
+    <comment/>
   </data>
   <data name="Default_Quit" xml:space="preserve">
     <value>Default_Quit</value>
+    <comment/>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Verifying required files in progress...</value>

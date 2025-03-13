@@ -677,15 +677,18 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
   </data>
   <data name="Default_Support" xml:space="preserve">
     <value>Destek</value>
+    <comment/>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Görüşlerini Bildir</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Default_Donations</value>
+    <comment/>
   </data>
   <data name="Default_Quit" xml:space="preserve">
     <value>Default_Quit</value>
+    <comment/>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Gerekli dosyalar Kontrol ediliyor...</value>
