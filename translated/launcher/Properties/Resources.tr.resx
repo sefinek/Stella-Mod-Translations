@@ -721,7 +721,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Establishing connection with the WebSocket server...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
-    <value>Initializing WebView2, please wait...</value>
+    <value>WebView2 başlatılıyor, lütfen bekleyin...</value>
   </data>
   <data name="ThisIsAlreadyTheLaunchCountThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
     <value>Bu uygulamayı bu cihazda {launchCount}kez başlatıyorsunuz. Teşekkür ederim!</value>
