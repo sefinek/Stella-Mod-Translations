@@ -814,12 +814,12 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Unknown error. Status {0}</value>
   </data>
   <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
-    <value>Error sending request. Please check your Internet connection. {0}</value>
+    <value>İstek gönderilirken hata oluştu. Lütfen internet bağlantınızı kontrol edin. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!\n{0}</value>
+    <value>Dosya okunurken hata oluştu!\n{0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:\n\n{0}</value>
+    <value>Stella Çıktılarının bulunduğu dizin şu konumda bulunamadı:\n\n{0}</value>
   </data>
 </root>
