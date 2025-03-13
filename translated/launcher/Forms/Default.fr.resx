@@ -331,7 +331,7 @@
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Principal post GithUb. Aller ajouter une étoile si vous aimez ce logiciel.</value>
+    <value>Principal post GitHub. Aller ajouter une étoile si vous aimez ce logiciel.</value>
   </data>
   <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
     <value>githubUrl_LinkLabel</value>
@@ -364,7 +364,7 @@
     <value>74</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>Fait par Sefinek</value>
+    <value>made by Sefinek</value>
   </data>
   <data name="madeBySefinek_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
