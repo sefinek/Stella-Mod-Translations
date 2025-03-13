@@ -721,9 +721,6 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
     <value>Initializing WebView2, please wait...</value>
   </data>
-  <data name="ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
-  </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>Successfully reconnected with the WS server</value>
   </data>
@@ -819,5 +816,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
     <value>Directory with the Stella Logs was not found in:\n\n{0}</value>
+  </data>
+  <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
+    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
   </data>
 </root>
