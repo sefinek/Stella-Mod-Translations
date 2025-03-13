@@ -677,18 +677,15 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
     <value>Support</value>
-    <comment/>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Leave your feedback</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Donations</value>
-    <comment/>
   </data>
   <data name="Default_Quit" xml:space="preserve">
     <value>Quit</value>
-    <comment/>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Verifying required files in progress...</value>
