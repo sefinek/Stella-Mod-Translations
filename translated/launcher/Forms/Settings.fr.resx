@@ -210,9 +210,6 @@
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
     <value>Change the language</value>
   </data>
-  <data name="changeTheLanguageLabel.ToolTip" xml:space="preserve">
-    <value>Change the language of Genshin Stella Mod.</value>
-  </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
   </data>
@@ -225,9 +222,6 @@
   <data name="&gt;&gt;changeTheLanguageLabel.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="panel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
@@ -563,9 +557,6 @@ Version de fichier : v{1} | Version d'assemblement: v{2}</value>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="panel1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
   </data>
