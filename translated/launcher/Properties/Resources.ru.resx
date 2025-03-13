@@ -745,7 +745,7 @@ Stella Mod – это безопасное программное обеспеч
     <value>Примечание от разработчика ({0}):\n{1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
-    <value>Хотя процесс может казаться зависшим, он всё ещё выполняется. Пожалуйста, подождите....</value>
+    <value>Хотя процесс может казаться зависшим, он всё ещё выполняется. Пожалуйста, подождите...</value>
   </data>
   <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
     <value>Это занимает больше времени, чем обычно. Пожалуйста, проверьте ваше интернет-соединение.</value>
