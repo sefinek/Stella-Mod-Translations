@@ -756,8 +756,8 @@ Stella Mod – это безопасное программное обеспеч
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Запрос разрешения на загрузку журналов...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelowNNDataMessage" xml:space="preserve">
-    <value>Удаленный сервер не предоставил вам разрешения на отправку журналов. Более подробную информацию вы найдете ниже.\n\n{data.Message}</value>
+  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
+    <value>Удаленный сервер не предоставил вам разрешения на отправку журналов. Более подробную информацию вы найдете ниже.\n\n{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Подготовка временной папки...</value>

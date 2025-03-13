@@ -756,8 +756,8 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Çıktıları yüklemek için onay isteniyor...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelowNNDataMessage" xml:space="preserve">
-    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.\n\n{data.Message}</value>
+  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
+    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.\n\n{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Geçici klasör hazırlanıyor...</value>

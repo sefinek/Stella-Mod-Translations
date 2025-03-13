@@ -754,8 +754,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Requesting agreement to upload logs...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelowNNDataMessage" xml:space="preserve">
-    <value>The remote server did not grant you permission to send the logs. You will find more details below.\n\n{data.Message}</value>
+  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
+    <value>The remote server did not grant you permission to send the logs. You will find more details below.\n\n{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Preparing temporary directory...</value>
