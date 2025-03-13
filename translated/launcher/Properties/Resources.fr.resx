@@ -677,18 +677,15 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
     <value>Support</value>
-    <comment/>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Leave your feedback</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Donations</value>
-    <comment/>
   </data>
   <data name="Default_Quit" xml:space="preserve">
     <value>Quit</value>
-    <comment/>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Verifying required files in progress...</value>
@@ -749,5 +746,80 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
     <value>Note from the developer ({0}):\n{1}</value>
+  </data>
+  <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
+    <value>Although this process may seem dead, it is still running. Please be patient...</value>
+  </data>
+  <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
+    <value>It's taking longer than usual. Please check your internet connection.</value>
+  </data>
+  <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
+    <value>Requesting agreement to upload logs...</value>
+  </data>
+  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelowNNDataMessage" xml:space="preserve">
+    <value>The remote server did not grant you permission to send the logs. You will find more details below.\n\n{data.Message}</value>
+  </data>
+  <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
+    <value>Preparing temporary directory...</value>
+  </data>
+  <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
+    <value>Copying log, cfg and ini files...</value>
+  </data>
+  <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
+    <value>Waiting for DxDiag...</value>
+  </data>
+  <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
+    <value>Compressing collected files...</value>
+  </data>
+  <data name="UploadLogs_GatheringAndEncryptingAdditionalData" xml:space="preserve">
+    <value>Gathering and encrypting additional data...</value>
+  </data>
+  <data name="UploadLogs_UploadingFilesToASecureServer" xml:space="preserve">
+    <value>Uploading files to a secure server...</value>
+  </data>
+  <data name="UploadLogs_FinishingAndPerformingCleanup" xml:space="preserve">
+    <value>Finishing and performing cleanup...</value>
+  </data>
+  <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch3YouCanCloseThisWindow" xml:space="preserve">
+    <value>Logs upload complete! Thank you very much &lt;3. You can close this window.</value>
+  </data>
+  <data name="UploadLogs_AsTheOwnerOfTheSubmittedLogsYouHaveFullRightsToThemIfYouWouldLikeUsToRemoveThemFromOurDatabasePleaseContactTheDeveloperAndProvideTheFollowingIdentifier_" xml:space="preserve">
+    <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
+  </data>
+  <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
+    <value>Sorry, but something went wrong ):</value>
+  </data>
+  <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
+    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.\n\n{0}</value>
+  </data>
+  <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
+    <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
+  </data>
+  <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
+    <value>Below are the details of what really happened:\n{0}</value>
+  </data>
+  <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
+    <value>An error occurred.\n\n{0}</value>
+  </data>
+  <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
+    <value>File size exceeds the maximum limit.</value>
+  </data>
+  <data name="UploadLogs_FileNotFound_" xml:space="preserve">
+    <value>File not found: {0}</value>
+  </data>
+  <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
+    <value>Logs upload complete. Thank you very much!</value>
+  </data>
+  <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
+    <value>Unknown error. Status {0}</value>
+  </data>
+  <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
+    <value>Error sending request. Please check your Internet connection. {0}</value>
+  </data>
+  <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
+    <value>Error reading file!\n{0}</value>
+  </data>
+  <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
+    <value>Directory with the Stella Logs was not found in:\n\n{0}</value>
   </data>
 </root>
