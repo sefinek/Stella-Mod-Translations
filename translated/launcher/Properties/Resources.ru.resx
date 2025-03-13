@@ -723,9 +723,6 @@ Stella Mod – это безопасное программное обеспеч
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
     <value>Инициализация WebView2, пожалуйста, подождите...</value>
   </data>
-  <data name="ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>Вы уже в {0}-й раз запускаете это приложение на данном устройстве. Спасибо!</value>
-  </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>Успешное повторное подключение к серверу WS</value>
   </data>
@@ -821,5 +818,8 @@ Stella Mod – это безопасное программное обеспеч
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
     <value>Папка с журналами Stella не найдена:\n\n{0}</value>
+  </data>
+  <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
+    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
   </data>
 </root>
