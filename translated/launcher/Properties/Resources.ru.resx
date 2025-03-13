@@ -128,7 +128,7 @@
     <value>Запустите официальный лаунчер для Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Проверяю наличие обновлений...</value>
+    <value>Checking for updates...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
     <value>Успешно!</value>
