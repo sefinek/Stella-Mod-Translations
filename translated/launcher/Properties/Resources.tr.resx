@@ -820,6 +820,6 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Stella Çıktılarının bulunduğu klasör şu konumda bulunamadı:\n\n{0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
+    <value>Bu cihazda bu uygulamayı {0} kez başlatıyorsunuz. Teşekkür ederim!</value>
   </data>
 </root>
