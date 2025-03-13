@@ -742,7 +742,8 @@ Stella Mod – это безопасное программное обеспеч
     <value>Размер файла, готового к скачиванию: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Примечание от разработчика ({0}):\n{1}</value>
+    <value>Примечание от разработчика ({0}):
+{1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
     <value>Хотя процесс может казаться зависшим, он всё ещё выполняется. Пожалуйста, подождите...</value>
@@ -754,7 +755,9 @@ Stella Mod – это безопасное программное обеспеч
     <value>Запрос разрешения на загрузку журналов...</value>
   </data>
   <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Удаленный сервер не предоставил вам разрешения на отправку журналов. Более подробную информацию вы найдете ниже.\n\n{0}</value>
+    <value>Удаленный сервер не предоставил вам разрешения на отправку журналов. Более подробную информацию вы найдете ниже.
+
+{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Подготовка временной папки...</value>
@@ -787,16 +790,21 @@ Stella Mod – это безопасное программное обеспеч
     <value>Извините, но что-то пошло не так ):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>К сожалению, во время загрузки файла произошла ошибка. Приносим свои извинения.\n\n{0}</value>
+    <value>К сожалению, во время загрузки файла произошла ошибка. Приносим свои извинения.
+
+{0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
     <value>В целях безопасности причина отклонения запроса сервером не может быть раскрыта. Пожалуйста, свяжитесь с администратором, если считаете это необходимым.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Ниже приведены подробности произошедшего:\n{0}</value>
+    <value>Ниже приведены подробности произошедшего:
+{0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>Произошла ошибка.\n\n{0}</value>
+    <value>Произошла ошибка.
+
+{0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
     <value>Размер файла превышает максимальный предел.</value>
@@ -814,10 +822,13 @@ Stella Mod – это безопасное программное обеспеч
     <value>Ошибка при отправке запроса. Пожалуйста, проверьте подключение к Интернету. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Ошибка чтения файла!\n{0}</value>
+    <value>Ошибка чтения файла!
+{0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Папка с журналами Stella не найдена:\n\n{0}</value>
+    <value>Папка с журналами Stella не найдена:
+
+{0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
     <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>

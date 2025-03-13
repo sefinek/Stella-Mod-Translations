@@ -742,7 +742,8 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>İndirilmeye hazır dosya boyutu: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Yapımcıdan Not ({0}):\n{1}</value>
+    <value>Yapımcıdan Not ({0}):
+{1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
     <value>Bu süreç ölü gibi görünse de hala devam etmektedir. Lütfen sabırlı olun...</value>
@@ -754,7 +755,9 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Çıktıları yüklemek için onay isteniyor...</value>
   </data>
   <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.\n\n{0}</value>
+    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.
+
+{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Geçici klasör hazırlanıyor...</value>
@@ -787,16 +790,21 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Üzgünüm, ama bir şeyler ters gitti ):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Ne yazık ki, dosya yükleme sırasında bir şeyler ters gitti. Lütfen özür dileklerimizi kabul edin.\n\n{0}</value>
+    <value>Ne yazık ki, dosya yükleme sırasında bir şeyler ters gitti. Lütfen özür dileklerimizi kabul edin.
+
+{0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
     <value>Güvenlik nedeniyle, sunucunun talebi reddetme nedeni açıklanamaz. Gerekli olduğunu düşünüyorsanız lütfen yöneticiyle iletişime geçin.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Aşağıda gerçekte neler olduğuna dair detaylar yer almaktadır:\n{0}</value>
+    <value>Aşağıda gerçekte neler olduğuna dair detaylar yer almaktadır:
+{0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>Bir hata meydana geldi.\n\n{0}</value>
+    <value>Bir hata meydana geldi.
+
+{0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
     <value>Dosya boyutu maksimum sınırı aşıyor.</value>
@@ -814,10 +822,13 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>İstek gönderilirken hata oluştu. Lütfen internet bağlantınızı kontrol edin. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Dosya okunurken hata oluştu!\n{0}</value>
+    <value>Dosya okunurken hata oluştu!
+{0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Stella Çıktılarının bulunduğu klasör şu konumda bulunamadı:\n\n{0}</value>
+    <value>Stella Çıktılarının bulunduğu klasör şu konumda bulunamadı:
+
+{0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
     <value>Bu cihazda bu uygulamayı {0} kez başlatıyorsunuz. Teşekkür ederim!</value>

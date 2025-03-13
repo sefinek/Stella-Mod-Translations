@@ -740,7 +740,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>File size ready for download: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Note from the developer ({0}):\n{1}</value>
+    <value>Note from the developer ({0}):
+{1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
     <value>Although this process may seem dead, it is still running. Please be patient...</value>
@@ -752,7 +753,9 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Requesting agreement to upload logs...</value>
   </data>
   <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>The remote server did not grant you permission to send the logs. You will find more details below.\n\n{0}</value>
+    <value>The remote server did not grant you permission to send the logs. You will find more details below.
+
+{0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Preparing temporary directory...</value>
@@ -785,16 +788,21 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Sorry, but something went wrong ):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.\n\n{0}</value>
+    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.
+
+{0}</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
     <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Below are the details of what really happened:\n{0}</value>
+    <value>Below are the details of what really happened:
+{0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.\n\n{0}</value>
+    <value>An error occurred.
+
+{0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
     <value>File size exceeds the maximum limit.</value>
@@ -812,10 +820,13 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Error sending request. Please check your Internet connection. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!\n{0}</value>
+    <value>Error reading file!
+{0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:\n\n{0}</value>
+    <value>Directory with the Stella Logs was not found in:
+
+{0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
     <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
