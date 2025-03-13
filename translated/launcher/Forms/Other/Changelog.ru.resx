@@ -167,7 +167,7 @@
     <value>1</value>
   </data>
   <data name="label.Text" xml:space="preserve">
-    <value>Fetching data...</value>
+    <value>Получение данных...</value>
   </data>
   <data name="label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -197,7 +197,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Changelog</value>
+    <value>Список изменений</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Changelog</value>
