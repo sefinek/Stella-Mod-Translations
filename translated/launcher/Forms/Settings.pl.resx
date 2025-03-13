@@ -238,7 +238,7 @@
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Zmień język w Stella Mod</value>
+    <value>Zmień język aplikacji</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
