@@ -729,8 +729,8 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>WS sunucusuna başarıyla yeniden bağlanıldı</value>
   </data>
-  <data name="ExceededTheMaximumNumberOfReconnectionAttempts_reconnectAttemptsWithTheWebSocket" xml:space="preserve">
-    <value>WebSocket ile birlikte maksimum yeniden bağlanma denemesi sayısı ({_reconnectAttempts}) aşıldı</value>
+  <data name="ExceededTheMaximumNumberOfReconnectionAttempts_WithTheWebSocket" xml:space="preserve">
+    <value>WebSocket ile birlikte maksimum yeniden bağlanma denemesi sayısı ({0}) aşıldı</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
     <value>Sunucudan Bildirim</value>

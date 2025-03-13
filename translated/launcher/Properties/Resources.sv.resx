@@ -727,8 +727,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>Successfully reconnected with the WS server</value>
   </data>
-  <data name="ExceededTheMaximumNumberOfReconnectionAttempts_reconnectAttemptsWithTheWebSocket" xml:space="preserve">
-    <value>Exceeded the maximum number of reconnection attempts ({_reconnectAttempts}) with the WebSocket</value>
+  <data name="ExceededTheMaximumNumberOfReconnectionAttempts_WithTheWebSocket" xml:space="preserve">
+    <value>Exceeded the maximum number of reconnection attempts ({0}) with the WebSocket</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
     <value>Notification from the server</value>
