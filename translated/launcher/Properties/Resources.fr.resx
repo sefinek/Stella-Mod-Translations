@@ -128,7 +128,7 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
     <value>Exécutez le lanceur officiel de Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Vérification des mises à jour...</value>
+    <value>Checking for updates...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
     <value>Succès!</value>
