@@ -935,13 +935,13 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>128</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+    <value>Wesprzyj</value>
   </data>
   <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
+    <value>Wesprzyj ten projekt. Stella Mod otrzymuje regularne aktualizacje tylko dzięki wspierającym.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
