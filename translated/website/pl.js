@@ -29,7 +29,7 @@ exports.errors = {
  wrongOs: {
   DeviceIsNotSupported: 'Urządzenie nie jest obsługiwane',
   OperatingSysIsNotSupported: 'Wybacz! Twój system operacyjny {0}, nie jest jeszcze wspierany.',
-  ViewSupportedSystems: 'Wyświetl obsługiwane systemy »',
+  ViewSupportedSystems: 'Wyświetl wspierane systemy »',
  },
  missingZip: {
   WeCannotFindZipFileOnTheServer: 'Nie możemy znaleźć pliku ZIP na serwerze',
@@ -77,7 +77,7 @@ exports.home = {
   AreYouARobot: 'Jesteś robotem?',
   FailedToVerifyCaptcha: 'Wystąpił problem podczas weryfikacji captchy: {0}',
   FailedToVerifyCaptchaStatusCode:
-   'Coś poszło nie tak podczas weryfikacji captchy (kod statusu: {0}). Odśwież tę stronę i spróbuj ponownie.',
+   'Coś poszło nie tak podczas weryfikacji captchy (kod statusu: {0}). Odśwież stronę i spróbuj ponownie.',
  },
  mirrorModal: {
   SelectDownloadServer: 'Wybierz serwer pobierania',
@@ -114,7 +114,7 @@ exports.gallery = {
  ScreenshotsAreAvailableInHighQuality:
   'Zrzuty ekranu są dostępne w wysokiej jakości. Wczytanie ich może zająć trochę czasu.',
  WebsiteIsNotSupportedOnMobileDevices: 'Ta witryna nie jest obsługiwana na urządzeniach mobilnych.',
- SomeImageCanBeOutdated: 'Niektóre zdjęcia mogą być nieaktualne.',
+ SomeImageCanBeOutdated: 'Niektóre zdjęcia mogą być nieaktualne!',
  SeeComparesFromTheOtherVersions: 'Zobacz porównania z innymi wersjami',
  SeeTheComparisonBetween: 'Zobacz porównanie między...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
@@ -230,7 +230,7 @@ exports.stats = {
  WsConnectionsText:
   'Zapoznaj się z metrykami WebSocket w tej sekcji, która zawiera wykresy przedstawiające częstotliwość wiadomości i odbicia serca na godzinę, dzień, miesiąc i rok.',
  Broadcast: 'Transmisja',
- Heartbeats: 'Obicia serca (Heartbeats)',
+ Heartbeats: 'Obicia serca',
  CryptographicOperationsHeader: '🔠 Operacje kryptograficzne',
  CryptographicOperationsText:
   'Ta sekcja oferuje kompleksowy przegląd działań kryptograficznych w naszych systemach, prezentując dane statystyczne dotyczące procesów szyfrowania i deszyfrowania. Odwiedzający mogą zobaczyć wykresy przedstawiające częstotliwość i sukces operacji kryptograficznych w różnych okresach. Kryptografia jest kluczowa w aplikacjach i komunikacji, zapewniając poufność danych, integralność i autentyczność, chroniąc tym samym przed nieautoryzowanym dostępem i zagrożeniami cybernetycznymi. Jest niezbędna w zabezpieczaniu transakcji cyfrowych i utrzymaniu prywatności wrażliwych informacji.',
@@ -263,7 +263,7 @@ exports.docs = {
   Versions: '{0}. {1} Wersje {2}.x.x',
   DeprecatedReleases: '{0}. {1} Przestarzałe wersje',
  },
- LicensesAndCredits: 'Licencje itp.',
+ LicensesAndCredits: 'Licencje & Uznania',
  3: {
   StellaModLicense: '{0}. {1} Licencja Stella Mod',
   ReShadeLicense: '{0}. {1} Licencja ReShade',
@@ -294,7 +294,7 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Wybierz swój tier subskrypcji',
  IfYouAreInterestedInTheBenefits:
-  'Jeśli jesteś zainteresowany korzyściami, proszę przejrzyj wszystkie dostępne poziomy, aby zobaczyć, która z nich odpowiada Twoim preferencjom najbardziej. Mam nadzieję, że znajdziesz tę, która Cię zainteresuje!',
+  'Jeśli jesteś zainteresowany korzyściami, zapoznaj się ze wszystkimi dostępnymi poziomami, aby sprawdzić, który z nich najlepiej odpowiada Twoim preferencjom. Mam nadzieję, że znajdziesz coś, co Cię zainteresuje!',
  IfYouHaveAnyQuestions:
   'Masz jakieś pytania? Nie krępuj się dołączyć do naszego Discord serwer lub skontaktować się z nami za pomocą e-maila.',
  Recommended: 'Polecane',
@@ -302,7 +302,7 @@ exports.subscription = {
   1: {
    name: 'Mały Kociak',
    description:
-    'Podstawowy poziom dla osób, które chcą wyłącznie wesprzeć projekt. Jest to dobre rozwiązanie, na przykład jeśli przestałeś grać w Genshin Impact i korzyści z gry już nie są Ci potrzebne, lecz nadal chcesz dobrowolnie wspierać projekt.',
+    'Podstawowy poziom dla tych, którzy po prostu chcą wesprzeć projekt. Dobry wybór, jeśli np. przestałeś grać w Genshin Impact i nie potrzebujesz już korzyści, ale nadal chcesz dobrowolnie wspierać projekt.',
   },
   2: {
    name: 'Ulubiony Kot',
@@ -430,7 +430,7 @@ exports.subscription = {
  request: {
   WeAreProcessingYourRequest: 'Przetwarzamy Twoje zgłoszenie...',
   SubscribingInProgress:
-   'Potrzebujemy chwili, aby wszystko przygotować. Proszę pozostań na tej stronie i daj nam chwilę!\nWkrótce przekierujemy Cię na bezpieczną stronę płatności, gdzie możesz bezpiecznie dokonać transakcji. ^w^',
+   'Potrzebujemy chwili, aby wszystko przygotować. Proszę, pozostań na tej stronie i daj nam chwilę!\nWkrótce przekierujemy Cię na bezpieczną stronę płatności, gdzie możesz bezpiecznie dokonać transakcji. ^w^',
   ChangingTheTierInProgress:
    'Potrzebujemy trochę czasu, aby zmienić Twój Tier subskrypcji! Daj nam chwilę, a obiecujemy, że wszystko pójdzie gładko. ^w^',
  },
