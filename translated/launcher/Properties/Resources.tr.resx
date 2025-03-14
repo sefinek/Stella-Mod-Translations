@@ -891,8 +891,8 @@ Yeni sürüm: v{2}</value>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>ReShade gölgelendiricilerinin yeni bir sürümü yayınlandı! Önceki gölgelendiricilerin üzerine eklenebilir.
 
-Sürümünüz: v{shadersJsonConverted.Version} ' itibaren {shadersJsonConverted.Date}
-Yeni sürüm: v{remoteVersions.Message.Resources.Shaders}</value>
+Sürümünüz: v{0} ' itibaren {1}
+Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
     <value>ReShade Gölgelendiricileri - v{0}.zip</value>
