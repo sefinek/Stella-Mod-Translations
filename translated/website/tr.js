@@ -285,7 +285,7 @@ exports.github = {
  More: 'Dahası',
  Deprecated: 'Kullanım dışı',
  InstallationWizard: 'Kurulum sihirbazı',
- UnlockedReShade: 'Unlocked ReShade',
+ UnlockedReShade: 'Kilidi Kaldırılmış ReShade',
 };
 
 // GET /genshin-stella-mod/subscription
