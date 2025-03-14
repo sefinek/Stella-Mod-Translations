@@ -604,7 +604,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Anime Adı</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Oynanışı izliyor</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -834,13 +834,13 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Bu cihazda bu uygulamayı {0} kez başlatıyorsunuz. Teşekkür ederim!</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
-    <value>Stella Mod resources were not found on your hard drive.</value>
+    <value>Stella Mod dosyaları sabit diskinizde bulunamadı.</value>
   </data>
   <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Change of the launcher path</value>
+    <value>Başlatıcının yolunu değiştir</value>
   </data>
   <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>We have detected a probable change in the location of the Stella Mod launcher. Some shortcuts have been updated.</value>
+    <value>Stella Mod başlatıcısının bulunduğu konumda olası bir değişiklik tespit edildi. Bazı kısayollar güncellendi.</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
