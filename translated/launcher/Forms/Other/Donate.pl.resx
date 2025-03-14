@@ -347,7 +347,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot.com</value>
+    <value>» Zostaw opinię na Trustpilot.com</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Launcher Reviews | Przeczytaj recenzje obsługi klienta stella.sefinek.net</value>
@@ -416,7 +416,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join our Discord server</value>
+    <value>» Dołącz na nasz serwer Discord</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
