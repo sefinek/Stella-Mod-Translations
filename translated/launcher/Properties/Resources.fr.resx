@@ -603,7 +603,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="AnimeName" xml:space="preserve">
     <value>Anime name</value>
   </data>
-  <data name="WatchingGameplay" xml:space="preserve">
+  <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
