@@ -661,7 +661,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Gallery - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod launcher...</value>
+    <value>Hello! Loading Stella Mod Launcher...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
     <value>Toggle minimize/restore</value>
