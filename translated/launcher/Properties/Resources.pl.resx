@@ -479,7 +479,7 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>Dzięki za wsparcie. Poleć Stella Mod swoim znajomym. Miłego dnia!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Przegląda ustawienia</value>
@@ -498,7 +498,7 @@ Oprogramowanie jest ciągle wspierane przez dewelopera dzięki subskrybentom Ste
 Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. Pamiętaj jedynie, aby nie używać cheatów. Jeśli potrzebujesz pomocy, dołącz do naszego serwera Discord lub wyślij e-mail na adres contact@sefinek.net. Miłej zabawy!</value>
   </data>
   <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>I sincerely thank you for your generous support! Your contribution means a lot to me. ~ Sefinek</value>
+    <value>Serdecznie dziękuję za hojne wsparcie! Twój wkład wiele dla mnie znaczy. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Katalog {0} nie został odnaleziony.</value>
@@ -546,9 +546,9 @@ Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. P
     <value>Najlepszy i bezpieczny mod do Genshin Impact, który poprawia grafikę i nie tylko!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>Ta funkcja jest dostępna wyłącznie dla graczy z subskrypcją Stella Mod Plus.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+Czy chcesz odwiedzić oficjalną stronę i dokonać subskrybcji? Zyskasz dostęp do wielu korzyści, w tym możliwość jednoczesnego korzystania z ReShade, 3DMigoto i FPS Unlockera.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Pomyślnie zaktualizowano shadery do najnowszej wersji dla subskrybentów Stella Plus.</value>
@@ -568,31 +568,31 @@ Bieżący preset:
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Błąd</value>
   </data>
   <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Serwer Discord</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>Czy na pewno chcesz ponownie uruchomić Okno Konfiguracji Stella?</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>Wersja: {0}</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>Downloading...</value>
+    <value>Pobieranie...</value>
   </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
+    <value>Otwórz zdjęcie w domyślnej przeglądarce</value>
   </data>
   <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>The game file was not found in the previously specified location:
+    <value>Plik gry nie został znaleziony we wcześniej określonej lokalizacji:
 {0}
 
-Do you want to reconfigure Stella Mod in the Configuration Window?</value>
+Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
   </data>
   <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -603,14 +603,14 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="AnimeName" xml:space="preserve">
     <value>Nazwa anime</value>
   </data>
-  <data name="WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+  <data name="Gameplay_WatchingGameplay" xml:space="preserve">
+    <value>Ogląda rozgrywkę</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Launcher gry nie został znaleziony w: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -625,40 +625,40 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Stella Mod Launcher został pomyślnie zaktualizowany do wersji: v{0}</value>
   </data>
   <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
+    <value>Nie udało się uzyskać identyfikatora urządzenia.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
+    <value>Wybierz Evergreen Standalone Installer.</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>Ups, wystąpił błąd</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
-    <value>Reboot is required</value>
+    <value>Wymagane jest ponowne uruchomienie</value>
   </data>
   <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>Nie posiadasz aktywnej subskrypcji Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Katalog z logami Stella nie został znaleziony w: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Ważne</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>Pamiętaj, aby nie udostępniać plików z logami nieznajomym osobom, ponieważ mogą one zawierać wrażliwe dane. Udostępniaj je wyłącznie deweloperowi Stella Mod.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videos - sefinek.net</value>
+    <value>Filmy - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Documentation - sefinek.net</value>
+    <value>Dokumentacja - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Gallery - sefinek.net</value>
+    <value>Galeria - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Hello! Loading Stella Mod launcher...</value>
