@@ -643,7 +643,7 @@ Stella Mod – это безопасное программное обеспеч
     <value>У вас нет активной подписки Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Не удалось найти папку с журналами Stella в: {Log.Folder}</value>
+    <value>Не удалось найти папку с журналами Stella в: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Важно</value>
