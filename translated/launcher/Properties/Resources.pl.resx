@@ -324,7 +324,7 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
     <value>Nie znaleziono programu uruchamiającego grę.</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
-    <value>Plik z dziennikiem zdarzeń (logami) nie został odnaleziony w:
+    <value>Plik z dziennikiem zdarzeń nie został odnaleziony w:
 {0}</value>
   </data>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
@@ -340,7 +340,7 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Odcisz muzykę na start</value>
+    <value>Wyłącz wyciszenie muzyki przy starcie</value>
   </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -661,25 +661,25 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Galeria - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod launcher...</value>
+    <value>Witaj! Ładowanie programu uruchamiającego Stella Mod...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
-    <value>Toggle minimize/restore</value>
+    <value>Przełącz minimalizacja/przywracanie</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
-    <value>Reload window</value>
+    <value>Przeładuj okno</value>
   </data>
   <data name="Default_StellaModPlus" xml:space="preserve">
     <value>Stella Mod Plus</value>
   </data>
   <data name="Default_VisitDiscordServer" xml:space="preserve">
-    <value>Visit Discord server</value>
+    <value>Odwiedź serwer Discord</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
     <value>Support</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
-    <value>Leave your feedback</value>
+    <value>Zostaw swoją opinię</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
     <value>Darczyńcy</value>
@@ -688,13 +688,13 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Wyjście</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
-    <value>Verifying required files in progress...</value>
+    <value>Weryfikacja wymaganych plików w toku...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
-    <value>Authorization, please wait...</value>
+    <value>Autoryzacja, proszę czekać...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
-    <value>Debugging this application is not possible due to lack of permissions.</value>
+    <value>Debugowanie tej aplikacji nie jest możliwe z powodu braku uprawnień.</value>
   </data>
   <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
     <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
@@ -703,7 +703,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Stella Mod Plus Launcher</value>
   </data>
   <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
-    <value>Checking for updates and other required data...</value>
+    <value>Sprawdzanie aktualizacji i innych wymaganych danych...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>The application has been successfully updated, checking the changelog...</value>
@@ -712,7 +712,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Uhh, it looks like the changelog isn't available for this version yet...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
-    <value>Checking news...</value>
+    <value>Sprawdzanie aktualności...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
     <value>Approving application launch (this may take a moment)...</value>
@@ -721,7 +721,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Establishing connection with the WebSocket server...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
-    <value>Initializing WebView2, please wait...</value>
+    <value>Inicjalizacja WebView2, proszę czekać...</value>
   </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>Successfully reconnected with the WS server</value>
@@ -736,7 +736,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>You have received a notification from the remote server. Please check it.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>Subskrybenci Stella Mod Plus</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
     <value>File size ready for download: {0}</value>
@@ -760,13 +760,13 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
 {0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Preparing temporary directory...</value>
+    <value>Przygotowanie katalogu tymczasowego...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
     <value>Copying log, cfg and ini files...</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
-    <value>Waiting for DxDiag...</value>
+    <value>Oczekiwanie na DxDiag...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Compressing collected files...</value>
@@ -787,7 +787,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong ):</value>
+    <value>Przepraszamy, ale coś poszło nie tak :):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.
@@ -802,7 +802,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
 {0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.
+    <value>Wystąpił błąd.
 
 {0}</value>
   </data>
@@ -810,7 +810,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>File size exceeds the maximum limit.</value>
   </data>
   <data name="UploadLogs_FileNotFound_" xml:space="preserve">
-    <value>File not found: {0}</value>
+    <value>Nie znaleziono pliku: {0}</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
     <value>Logs upload complete. Thank you very much!</value>
@@ -822,11 +822,11 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Error sending request. Please check your Internet connection. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!
+    <value>Błąd odczytu pliku!
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:
+    <value>Nie znaleziono katalogu z dziennikami Stella w:
 
 {0}</value>
   </data>
