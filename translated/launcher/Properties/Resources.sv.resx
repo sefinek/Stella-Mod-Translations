@@ -129,69 +129,69 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>Letar efter uppdateringar...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>Lyckat!</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>Vi har bytt namn på din resursmapp genom att lägga till '{0}' i slutet.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>Resurskatalogen hittades inte. I nyare versioner av Stella Mod har sparvägar flyttats till registret. Om du just har uppdaterat mjukvaran, klicka på OK. Konfigurationsfönstret kommer att öppnas.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Addar ner fördelar uppdatering... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>Uppdaterade 3DMigoto-mods framgångsrikt för Stella Plus-prenumeranter.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Arbetskatalog</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Successfully downloaded or updated file: {1}</value>
+    <value>{0} Filen har framgångsrikt laddats ner eller uppdaterats: {1}</value>
   </data>
   <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Wrong EnableMusic value in the ini file.</value>
+    <value>Felaktigt värde för EnableMusic i ini-filen.</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Den gamla installationsfilen har raderats från temp-katalogen.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>Läser dokumentationen</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
 
-Do you want to download this dependency from the Microsoft website?</value>
+Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
+    <value>Laddar upp Stella-loggar</value>
   </data>
   <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Are you sure you want to update ReShade configuration?
+    <value>Är du säker på att du vill uppdatera ReShade-konfigurationen?
 
-This action will result in the loss of any custom configurations you have made. If you do not have any custom configurations, you may proceed by clicking Yes. However, if you have made changes, please ensure that you have backed up the previous ReShade file in your game files.</value>
+Denna åtgärd kommer att resultera i förlust av eventuella anpassade konfigurationer du har gjort. Om du inte har några anpassade konfigurationer kan du fortsätta genom att klicka på Ja. Om du har gjort ändringar, se till att du har säkerhetskopierat den tidigare ReShade-filen i dina spelfiler.</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>I huvudfönstret</value>
   </data>
   <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>En större version är tillgänglig</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Kolla efter uppdateringar</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Current background: Default</value>
+    <value>Nuvarande bakgrund: Standard</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>Klicka här för att uppdatera</value>
   </data>
   <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -209,7 +209,7 @@ This action will result in the loss of any custom configurations you have made. 
     <value>Filen hittades inte.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>Ursäkta. Bakgrund {0} hittades inte.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>The application background has been changed to default. ID: {0}</value>
@@ -227,7 +227,7 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Watching other videos</value>
