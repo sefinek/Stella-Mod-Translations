@@ -155,9 +155,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Fichier téléchargé ou mis à jour avec succès : {1}</value>
   </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Valeur EnableMusic incorrecte dans le fichier ini.</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>J'ai supprimé l'ancien fichier d'installation du répertoire temporaire.</value>
   </data>
@@ -171,11 +168,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Téléchargement des Stella Logs</value>
-  </data>
-  <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Êtes-vous sûr de vouloir mettre à jour la configuration de ReShade ?
-
-Cette action entraînera la perte de toutes les configurations personnalisées que vous avez effectuées. Si vous n'avez aucune configuration personnalisée, vous pouvez continuer en cliquant sur Oui. Cependant, si vous avez effectué des modifications, assurez-vous d'avoir sauvegardé le fichier ReShade précédent dans vos fichiers de jeu.</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>Dans la fenêtre principale</value>
@@ -293,14 +285,11 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
+  <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Sorry. Something went wrong with WebView2.</value>
-  </data>
-  <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>For some reason, you did not give consent for the automatic update of the ReShade file. Please note that older versions of this file may not be compatible with newer versions of Stella Mod. I hope you know what you're doing.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Unpacking files...</value>
@@ -338,9 +327,6 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   </data>
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Unmute music on start</value>
   </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -391,9 +377,6 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
   </data>
-  <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>Downloaded ReShade.ini was not found in: {0}</value>
-  </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Loaded form: {0}</value>
   </data>
@@ -430,17 +413,11 @@ Cette action entraînera la perte de toutes les configurations personnalisées q
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Log files was sent to developer.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Disable Discord RPC</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Deleting the previous version of the mod pack...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Enable Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
@@ -529,9 +506,6 @@ Stella Mod est un logiciel sûr, vous n'avez donc pas à vous soucier de quoi qu
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Couper la musique au démarrage</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -882,6 +856,8 @@ New version: v{2}</value>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
 
+Click the OK button to proceed with the update.
+
 Your version: v{0} from {1}
 New version: v{2}</value>
   </data>
@@ -890,6 +866,8 @@ New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+
+Click the OK button to proceed with the update.
 
 Your version: v{0} from {1}
 New version: v{2}</value>

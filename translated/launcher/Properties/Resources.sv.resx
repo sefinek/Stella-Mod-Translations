@@ -129,69 +129,61 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>Letar efter uppdateringar...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>Lyckat!</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>Vi har bytt namn på din resursmapp genom att lägga till '{0}' i slutet.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>Resurskatalogen hittades inte. I nyare versioner av Stella Mod har sparvägar flyttats till registret. Om du just har uppdaterat mjukvaran, klicka på OK. Konfigurationsfönstret kommer att öppnas.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Addar ner fördelar uppdatering... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>Uppdaterade 3DMigoto-mods framgångsrikt för Stella Plus-prenumeranter.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Arbetskatalog</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Successfully downloaded or updated file: {1}</value>
-  </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Wrong EnableMusic value in the ini file.</value>
+    <value>{0} Filen har framgångsrikt laddats ner eller uppdaterats: {1}</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Den gamla installationsfilen har raderats från temp-katalogen.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>Läser dokumentationen</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
 
-Do you want to download this dependency from the Microsoft website?</value>
+Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
-  </data>
-  <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Are you sure you want to update ReShade configuration?
-
-This action will result in the loss of any custom configurations you have made. If you do not have any custom configurations, you may proceed by clicking Yes. However, if you have made changes, please ensure that you have backed up the previous ReShade file in your game files.</value>
+    <value>Laddar upp Stella-loggar</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>I huvudfönstret</value>
   </data>
   <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>En större version är tillgänglig</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Kolla efter uppdateringar</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Current background: Default</value>
+    <value>Nuvarande bakgrund: Standard</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>Klicka här för att uppdatera</value>
   </data>
   <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -200,16 +192,16 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>Officiell webbplats</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
   <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>File was not found.</value>
+    <value>Filen hittades inte.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>Ursäkta. Bakgrund {0} hittades inte.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>The application background has been changed to default. ID: {0}</value>
@@ -227,7 +219,7 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Watching other videos</value>
@@ -291,14 +283,11 @@ This action will result in the loss of any custom configurations you have made. 
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
+  <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Sorry. Something went wrong with WebView2.</value>
-  </data>
-  <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>For some reason, you did not give consent for the automatic update of the ReShade file. Please note that older versions of this file may not be compatible with newer versions of Stella Mod. I hope you know what you're doing.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Unpacking files...</value>
@@ -316,7 +305,7 @@ This action will result in the loss of any custom configurations you have made. 
     <value>Playing: {0}</value>
   </data>
   <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
+    <value>Den nödvändiga beroendet har installerats framgångsrikt, men din dator behöver startas om.</value>
   </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
     <value>Game launcher was not found.</value>
@@ -326,7 +315,7 @@ This action will result in the loss of any custom configurations you have made. 
 {0}</value>
   </data>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Downloading new update... {0} MB of {1} MB / {2} MB/s</value>
+    <value>Laddar ner ny uppdatering... {0} MB av {1} MB / {2} MB/s</value>
   </data>
   <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -336,9 +325,6 @@ This action will result in the loss of any custom configurations you have made. 
   </data>
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Unmute music on start</value>
   </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -384,13 +370,10 @@ This action will result in the loss of any custom configurations you have made. 
     <value>Changed the launcher background. ID: {0}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeFPSUnlockAnd3DMigoto" xml:space="preserve">
-    <value>Click the 'Start game' button to use ReShade, FPS Unlock, and 3DMigoto.</value>
+    <value>Klicka på knappen 'Starta spelet' för att använda ReShade, FPS Unlock och 3DMigoto.</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
-  </data>
-  <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>Downloaded ReShade.ini was not found in: {0}</value>
+    <value>Den nödvändiga filen 'Configuration Window.exe' hittades inte. Installera om denna app eller gå med i vår Discord-server för hjälp.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Loaded form: {0}</value>
@@ -428,17 +411,11 @@ This action will result in the loss of any custom configurations you have made. 
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Log files was sent to developer.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Disable Discord RPC</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Deleting the previous version of the mod pack...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Enable Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
@@ -527,9 +504,6 @@ Stella Mod is safe software, so you don't need to worry about anything. Just rem
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Mute music on start</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -880,6 +854,8 @@ New version: v{2}</value>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
 
+Click the OK button to proceed with the update.
+
 Your version: v{0} from {1}
 New version: v{2}</value>
   </data>
@@ -888,6 +864,8 @@ New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+
+Click the OK button to proceed with the update.
 
 Your version: v{0} from {1}
 New version: v{2}</value>

@@ -155,9 +155,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Dosya başarıyla indirildi veya güncellendi: {1}</value>
   </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>ini dosyasında yanlış EnableMusic değeri.</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Eski kurulum dosyası geçici klasörden silindi.</value>
   </data>
@@ -171,11 +168,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Stella çıktıları yükleniyor</value>
-  </data>
-  <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>ReShade yapılandırmasını güncellemek istediğinizden emin misiniz?
-
-Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden olacaktır. Herhangi bir özel ayarınız yoksa Evet'e tıklayarak devam edebilirsiniz. Ancak, değişiklik yaptıysanız, lütfen oyun dosyalarınızdaki önceki ReShade dosyasını yedeklediğinizden emin olun.</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>Ana menüde</value>
@@ -293,14 +285,11 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
+  <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Üzücü... ReShade.ini indirilemedi. Tekrar deneyin.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Özür dilerim. WebView2'de bir şeyler ters gitti.</value>
-  </data>
-  <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>Bazı nedenlerden dolayı, ReShade dosyasının otomatik olarak güncellenmesi için onay vermediniz. Lütfen bu dosyanın eski sürümlerinin Stella Mod'un yeni sürümleri ile uyumlu olamayabileceğini unutmayın. Umarım ne yaptığınızı biliyorsunuzdur.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Dosyalar açılıyor...</value>
@@ -338,9 +327,6 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
   </data>
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Başlangıçta müziğin sesini aç</value>
   </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -391,9 +377,6 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Gerekli dosya 'Configuration Window.exe' bulunamadı. Lütfen bu uygulamayı yeniden yükleyin veya yardım için Discord sunucumuza katılın.</value>
   </data>
-  <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>İndirilen ReShade.ini dosyasının içinde bulunamadı: {0}</value>
-  </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Pencere yüklendi: {0}</value>
   </data>
@@ -430,17 +413,11 @@ Bu eylem, yaptığınız tüm özel yapılandırmaların kaybolmasına neden ola
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Çıktı dosyaları geliştiriciye gönderildi.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Discord RPC'yi Devre Dışı Bırak</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Mod paketinin önceki sürümü siliniyor...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Stella Mod hakkındaki görüşlerinizi trustpilot.com'da paylaşır mısınız? Çok minnettar olurum.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Discord RPC'yi Etkinleştir</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>FPS Unlocker için yapılandırma dosyası (unlocker.config.json) indirildi</value>
@@ -529,9 +506,6 @@ Stella Mod güvenli bir yazılımdır, bu nedenle hiçbir şey için endişelenm
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Başlangıçta müziğin sesini kapat</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -643,7 +617,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Stella Çıktılarının bulunduğu klasör bulunamadı: {0}</value>
+    <value>Directory with the Stella Logs was not found in: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Önemli</value>
