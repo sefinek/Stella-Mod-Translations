@@ -200,13 +200,13 @@ This action will result in the loss of any custom configurations you have made. 
     <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>Officiell webbplats</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
   <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>File was not found.</value>
+    <value>Filen hittades inte.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Sorry. Background {0} was not found.</value>
@@ -316,7 +316,7 @@ This action will result in the loss of any custom configurations you have made. 
     <value>Playing: {0}</value>
   </data>
   <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
+    <value>Den nödvändiga beroendet har installerats framgångsrikt, men din dator behöver startas om.</value>
   </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
     <value>Game launcher was not found.</value>
@@ -326,7 +326,7 @@ This action will result in the loss of any custom configurations you have made. 
 {0}</value>
   </data>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Downloading new update... {0} MB of {1} MB / {2} MB/s</value>
+    <value>Laddar ner ny uppdatering... {0} MB av {1} MB / {2} MB/s</value>
   </data>
   <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -384,10 +384,10 @@ This action will result in the loss of any custom configurations you have made. 
     <value>Changed the launcher background. ID: {0}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeFPSUnlockAnd3DMigoto" xml:space="preserve">
-    <value>Click the 'Start game' button to use ReShade, FPS Unlock, and 3DMigoto.</value>
+    <value>Klicka på knappen 'Starta spelet' för att använda ReShade, FPS Unlock och 3DMigoto.</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
+    <value>Den nödvändiga filen 'Configuration Window.exe' hittades inte. Installera om denna app eller gå med i vår Discord-server för hjälp.</value>
   </data>
   <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
     <value>Downloaded ReShade.ini was not found in: {0}</value>
