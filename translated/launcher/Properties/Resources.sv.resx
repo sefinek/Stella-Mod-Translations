@@ -630,7 +630,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>You do not have an active Stella Plus subscription.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
+    <value>Directory with the Stella Logs was not found in: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Important</value>
