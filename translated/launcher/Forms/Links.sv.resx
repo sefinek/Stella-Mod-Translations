@@ -409,7 +409,7 @@
     <value>109</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Characters</value>
+    <value>Karaktärer</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -448,7 +448,7 @@
     <value>76</value>
   </data>
   <data name="panel3.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Stäng</value>
   </data>
   <data name="&gt;&gt;panel3.Name" xml:space="preserve">
     <value>panel3</value>
@@ -541,7 +541,7 @@
     <value>111</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Application programming interface</value>
+    <value>Applikationsprogrammeringsgränssnitt</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -601,7 +601,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page</value>
+    <value>Officiell statussida</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
