@@ -238,7 +238,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Utils and logs &lt;&lt;</value>
+    <value>&gt;&gt; Verktyg och loggar &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -631,7 +631,7 @@
     <value>Create shortcut on desktop</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Create a shortcut for Stella Mod Launcher on your desktop. This is useful if you accidentally deleted the Stella Mod Launcher icon.</value>
+    <value>Skapa en genväg för Stella Mod Launcher på ditt skrivbord. Detta är användbart om du av misstag har raderat Stella Mod Launcher-ikonen.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -664,7 +664,7 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Konfigurera ReShade</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Automatically configure ReShade and set the appropriate directory paths</value>
@@ -1108,7 +1108,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Verktyg</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
