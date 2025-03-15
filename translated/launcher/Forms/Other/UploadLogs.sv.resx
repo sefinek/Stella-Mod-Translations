@@ -256,23 +256,23 @@ Vad säger du? Snälla? :3</value>
   <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
-  <data name="linkLabel2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="linkLabel2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 17.25pt</value>
   </data>
   <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>884, 173</value>
+    <value>767, 173</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>190, 31</value>
+    <value>307, 31</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>✔ Okej, nu kör vi!</value>
+  </data>
+  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -289,9 +289,6 @@ Vad säger du? Snälla? :3</value>
   <data name="linkLabel3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="linkLabel3.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="linkLabel3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 17.25pt</value>
   </data>
@@ -302,13 +299,16 @@ Vad säger du? Snälla? :3</value>
     <value>12, 173</value>
   </data>
   <data name="linkLabel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 31</value>
+    <value>307, 31</value>
   </data>
   <data name="linkLabel3.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
     <value>❌ Inte den här gången...</value>
+  </data>
+  <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -332,10 +332,10 @@ Vad säger du? Snälla? :3</value>
     <value>NoControl</value>
   </data>
   <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>310, 173</value>
+    <value>325, 173</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>460, 31</value>
+    <value>436, 31</value>
   </data>
   <data name="linkLabel4.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -372,6 +372,9 @@ Vad säger du? Snälla? :3</value>
   </data>
   <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value></value>
   </data>
   <data name="richTextBox1.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
