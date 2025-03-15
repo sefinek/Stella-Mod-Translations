@@ -617,7 +617,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Nie posiadasz aktywnej subskrypcji Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Nie znaleziono katalogu z logami Stella w: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Ważne</value>
@@ -854,10 +854,12 @@ Nowa wersja: v{2}</value>
     <value>Dodatki ReShade - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
-    <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
+    <value>Wykryto nową aktualizację presetów ReShade! Istniejące presety mogą zostać nadpisane. Zaleca się wykonanie kopii zapasowej przed aktualizacją.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+Kliknij OK, aby dokonać aktualizacji.
+
+Twoja wersja: v{0} z {1}
+Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
     <value>Presety ReShade - v{0}.zip</value>
