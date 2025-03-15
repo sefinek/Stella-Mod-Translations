@@ -348,7 +348,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot.com</value>
+    <value>» Lämna en recension på Trustpilot.com</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Launcher Recensioner | Läs kundrecensioner på stella.sefinek.net</value>
@@ -417,7 +417,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Join our Discord server</value>
+    <value>» Gå med i våran Dicord-server</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
