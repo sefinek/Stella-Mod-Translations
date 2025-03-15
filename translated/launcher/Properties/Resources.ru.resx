@@ -155,9 +155,6 @@
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Успешно загруженный или обновленный файл: {1}</value>
   </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Неверное значение EnableMusic в ini-файле.</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Удалён старый установочный файл из временного каталога.</value>
   </data>
@@ -331,9 +328,6 @@
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Отключение музыки при запуске</value>
-  </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -419,17 +413,11 @@
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Файлы журнала были отправлены разработчику.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Отключить Discord RPC</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Удаление предыдущей версии мод-пака...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Не могли бы вы поделиться своим мнением о Stella Mod на сайте trustpilot.ru? Я буду очень признателен.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Включить Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Загрузите файл конфигурации (unlocker.config.json) для FPS Unlocker</value>
@@ -518,9 +506,6 @@ Stella Mod – это безопасное программное обеспеч
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Заглушить музыку в начале</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
