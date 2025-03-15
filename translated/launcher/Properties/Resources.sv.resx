@@ -153,9 +153,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Filen har framgångsrikt laddats ner eller uppdaterats: {1}</value>
   </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Felaktigt värde för EnableMusic i ini-filen.</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Den gamla installationsfilen har raderats från temp-katalogen.</value>
   </data>
@@ -329,9 +326,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Unmute music on start</value>
-  </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -417,17 +411,11 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Log files was sent to developer.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Disable Discord RPC</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Deleting the previous version of the mod pack...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Enable Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
@@ -516,9 +504,6 @@ Stella Mod is safe software, so you don't need to worry about anything. Just rem
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Mute music on start</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
