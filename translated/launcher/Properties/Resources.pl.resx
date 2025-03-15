@@ -889,10 +889,10 @@ New version: v{2}</value>
     <value>ReShade Presets - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
-    <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+    <value>Dostępna jest nowa wersja shaderów ReShade! Poprzednie shadery mogą zostać nadpisane.
 
-Your version: v{shadersJsonConverted.Version} from {shadersJsonConverted.Date}
-New version: v{remoteVersions.Message.Resources.Shaders}</value>
+Twoja wersja: v{0} z {1}
+Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
     <value>ReShade Shaders - v{0}.zip</value>
