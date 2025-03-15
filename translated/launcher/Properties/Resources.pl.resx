@@ -289,7 +289,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>Smutne... Nie udało się pobrać ReShade.ini. Spróbuj ponownie.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Przepraszamy. Coś poszło nie tak z WebView2.</value>
@@ -632,7 +632,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Nie posiadasz aktywnej subskrypcji Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Katalog z logami Stella nie został znaleziony w: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Ważne</value>
@@ -707,7 +707,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Zatwierdzanie uruchomienia aplikacji (może to chwilę potrwać)...</value>
   </data>
   <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
-    <value>Pomyślnie ponownie połączono z serwerem WS</value>
+    <value>Nawiązywanie połączenia z serwerem WebSocket...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
     <value>Inicjalizacja WebView2, proszę czekać...</value>
@@ -731,7 +731,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Rozmiar pliku gotowego do pobrania: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Notatka od dewelopera ({0}):  
+    <value>Notatka od dewelopera ({0}):
 {1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
