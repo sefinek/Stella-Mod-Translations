@@ -155,9 +155,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0}: Pomyślnie pobrano lub zaktualizowano plik: {1}</value>
   </data>
-  <data name="Tools_WrongEnableMusicValueInTheIniFile" xml:space="preserve">
-    <value>Nieprawidłowa wartość EnableMusic w pliku ini.</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Usunięto stary plik instalacyjny z katalogu tymczasowego.</value>
   </data>
@@ -331,9 +328,6 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Tools_UnmuteMusicOnStart" xml:space="preserve">
-    <value>Wyłącz wyciszenie muzyki przy starcie</value>
-  </data>
   <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -419,17 +413,11 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
     <value>Pliki dziennika zostały wysłane do programisty.</value>
   </data>
-  <data name="Tools_DisableDiscordRPC" xml:space="preserve">
-    <value>Wyłącz Discord RPC</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Usuwanie poprzedniej wersji paczki modów...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Czy mógłbyś podzielić się swoją opinią na temat Stella Mod na trustpilot.com? Byłbym bardzo wdzięczny.</value>
-  </data>
-  <data name="Tools_EnableDiscordRPC" xml:space="preserve">
-    <value>Włącz Discord RPC</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Pobrano plik konfiguracyjny (unlocker.config.json) dla programu FPS Unlocker</value>
@@ -518,9 +506,6 @@ Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. P
   </data>
   <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tools_MuteMusicOnStart" xml:space="preserve">
-    <value>Wycisz muzykę na start</value>
   </data>
   <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
