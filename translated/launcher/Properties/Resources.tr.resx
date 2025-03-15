@@ -617,7 +617,7 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Stella Çıktılarının bulunduğu klasör bulunamadı: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Önemli</value>
