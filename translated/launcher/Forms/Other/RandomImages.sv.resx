@@ -136,7 +136,7 @@
     <value>1</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Kat</value>
+    <value>Katt</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -331,7 +331,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime rävflicko</value>
+    <value>Anime rävflickor</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -361,7 +361,7 @@
     <value>6</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Kattje</value>
+    <value>Kattjej</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
     <value>Anime-kattflickor</value>
@@ -1582,7 +1582,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Visit our booru to see more adorable pictures! Click here.</value>
+    <value>Besök vår Booru för att se fler bedårande bilder! Klicka här.</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1618,7 +1618,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Random anime pictures</value>
+    <value>Slumpmässiga animebilder</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
