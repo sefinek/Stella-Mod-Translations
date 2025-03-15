@@ -172,11 +172,6 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Przesyła logi Stella Mod</value>
   </data>
-  <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Jesteś pewien, że chcesz zaktualizować konfigurację ReShade?
-
-Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie dokonałeś. Jeśli nie masz żadnych niestandardowych konfiguracji, możesz kontynuować, klikając Tak. Jednak jeśli wprowadziłeś zmiany, upewnij się, że utworzyłeś kopię zapasową poprzedniego pliku ReShade w folderze gry.</value>
-  </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>W oknie głównym</value>
   </data>
@@ -293,14 +288,11 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Smutne... Nie udało się pobrać ReShade.ini. Spróbuj ponownie.</value>
+  <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
+    <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Przepraszamy. Coś poszło nie tak z WebView2.</value>
-  </data>
-  <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>Z jakiegoś powodu nie wyraziłeś zgody na automatyczną aktualizację pliku ReShade. Należy pamiętać, że starsze wersje tego pliku mogą nie być kompatybilne z nowszymi wersjami modyfikacji Stella Mod. Mam nadzieję, że wiesz, co robisz.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Rozpakowywanie plików...</value>
@@ -390,9 +382,6 @@ Ta czynność spowoduje utratę wszelkich niestandardowych konfiguracji, jakie d
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Nie znaleziono wymaganego pliku "Configuration Window.exe". Proszę ponownie zainstalować tę aplikację lub dołączyć do naszego serwera Discord, aby uzyskać pomoc.</value>
-  </data>
-  <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>Nie znaleziono pobranego pliku ReShade.ini w: {0}</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Załadowano okno: {0}</value>
@@ -643,7 +632,7 @@ Czy chcesz ponownie skonfigurować Stella Mod w oknie konfiguracji?</value>
     <value>Nie posiadasz aktywnej subskrypcji Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Katalog z logami Stella nie został znaleziony w: {0}</value>
+    <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Ważne</value>
