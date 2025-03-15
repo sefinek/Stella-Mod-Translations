@@ -172,11 +172,6 @@
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Загрузка журналов Stella</value>
   </data>
-  <data name="Default_AreYouSureWantToUpdateReShadeConfiguration" xml:space="preserve">
-    <value>Вы уверены, что хотите обновить конфигурацию ReShade?
-
-Это действие приведёт к потере всех пользовательских настроек, которые вы создали. Если у вас нет пользовательских настроек, вы можете продолжить, нажав "Да". Однако, если вы внесли изменения, пожалуйста, убедитесь, что вы сохранили резервную копию предыдущего файла ReShade в своих файлах игры.</value>
-  </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>В главном окне</value>
   </data>
@@ -293,14 +288,11 @@
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Default_Sad_FailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Печально... Не удалось загрузить ReShade.ini. Попробовать снова.</value>
+  <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
+    <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Извините. Что-то пошло не так с WebView2.</value>
-  </data>
-  <data name="Default_ForSomeReasonYouDidNotGiveConsentForTheAutomaticUpdateOfTheReShadeFile" xml:space="preserve">
-    <value>По какой-то причине вы не давали согласия на автоматическое обновление файла ReShade. Пожалуйста, обратите внимание, что старые версии этого файла могут быть несовместимы с новыми версиями Stella Mod. Надеюсь, вы знаете, что делаете.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
     <value>Распаковка файлов...</value>
@@ -390,9 +382,6 @@
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Необходимый файл 'Configuration Window.exe' не найден. Пожалуйста, переустановите это приложение или присоединитесь к нашему серверу Discord для получения помощи.</value>
-  </data>
-  <data name="Default_DownloadedReShadeIniWasNotFoundIn_" xml:space="preserve">
-    <value>Загруженный файл ReShade.ini не найден в: {0}</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Загруженная форма: {0}</value>
@@ -643,7 +632,7 @@ Stella Mod – это безопасное программное обеспеч
     <value>У вас нет активной подписки Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Не удалось найти папку с журналами Stella в: {0}</value>
+    <value>Directory with the Stella Logs was not found in: {Log.Folder}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Важно</value>
@@ -882,6 +871,8 @@ New version: v{2}</value>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
 
+Click the OK button to proceed with the update.
+
 Your version: v{0} from {1}
 New version: v{2}</value>
   </data>
@@ -890,6 +881,8 @@ New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+
+Click the OK button to proceed with the update.
 
 Your version: v{0} from {1}
 New version: v{2}</value>
