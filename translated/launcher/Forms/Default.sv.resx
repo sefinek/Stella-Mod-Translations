@@ -589,7 +589,7 @@
     <value>Gameplay</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch gameplay</value>
+    <value>Titta på gameplay</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -713,7 +713,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the main game launcher</value>
+    <value>Öppna Genshins spellauncher</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -896,7 +896,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Launch Genshin Impact with mods completely safely!</value>
+    <value>Starta Genshin Impact med moddar helt säkert!</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -977,7 +977,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>130</value>
   </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
-    <value>Shaders</value>
+    <value>Skuggningseffekter</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
     <value>ReShade introducerar grafiska förbättringar (våra färdiga förinställningar) och mer! Tryck på Home i spelet och skapa dina egna förinställningar!</value>
@@ -1100,7 +1100,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>116</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Click me ^w^</value>
+    <value>Klicka här ^w^</value>
   </data>
   <data name="clickMe_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1521,7 +1521,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>115</value>
   </data>
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
-    <value>Waiting for UI stabilization...</value>
+    <value>Väntar på att UI ska stabiliseras...</value>
   </data>
   <data name="PreparingPleaseWait.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
