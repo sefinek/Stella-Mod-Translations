@@ -301,7 +301,7 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
     <value>Araçlara göz atıyor</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>Yeni güncelleme mevcut</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Oynuyor: {0}</value>
