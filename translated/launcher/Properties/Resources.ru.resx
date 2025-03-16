@@ -300,8 +300,8 @@
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Инструменты для просмотра</value>
   </data>
-  <data name="NormalRelease_WeFoundNewUpdates" xml:space="preserve">
-    <value>Мы нашли новые обновления</value>
+  <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
+    <value>New update available</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Игра: {0}</value>
