@@ -177,7 +177,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>En större version är tillgänglig</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Kolla efter uppdateringar</value>
+    <value>Kollar efter uppdateringar</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
     <value>Nuvarande bakgrund: Standard</value>
