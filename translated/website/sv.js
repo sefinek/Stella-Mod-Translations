@@ -7,7 +7,7 @@ exports.default = {
  GoBack: 'Gå tillbacka',
  GoBackTo: 'Gå tillbacka till {0}',
  Next: 'Nästa',
- DiscordServer: 'Discord server',
+ DiscordServer: 'Discord-server',
  DiscordServerTooltip: 'Inbjudan till vår Discord-server',
  YourBrowserDoesNotSupportVideoTag: 'Din webbläsare stöder inte videotaggen.',
  YourBrowserDoesNotSupportAudioTag: 'Din webbläsare stöder inte ljudtaggen.',
@@ -72,7 +72,7 @@ exports.home = {
  TheVersionWithoutCaps: 'versionen',
  DownloadCount: '"Antal nedladdningar',
  LastDownload: 'Senaste nedladdning',
- FeedbackOnTrustpilot: 'Feedback on Trustpilot',
+ FeedbackOnTrustpilot: 'Omdöme på Trustpilot',
  captchaModal: {
   AreYouARobot: 'Är du en robot?',
   FailedToVerifyCaptcha: 'Misslyckades med att verifiera captcha: {0}',
@@ -83,7 +83,7 @@ exports.home = {
   SelectDownloadServer: 'Välj nedladdningsserver',
   Companies: 'Företag',
   Countries: 'Länder',
-  LauncherVersion: 'Launcher version:',
+  LauncherVersion: 'Launcher-version:',
   MirrorsAreCurrentlyUnavailable:
    'Spegelservrar är för tillfället avstängda eller otillgängliga för denna kategori. Försök igen senare eller kontakta administratören.',
   ChecksumHasBeenSuccessfullyCopied: '{0}-kontrollsumman har kopierats till urklippet!',
@@ -109,11 +109,11 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Gallery - Page number',
+ GalleryPage: 'Galleri – Sidnummer',
  GalleryCompareReleases: 'Gallery - Compare releases:',
  ScreenshotsAreAvailableInHighQuality:
   'Skärmbilder finns tillgängliga i hög kvalitet. Det kan ta en stund att ladda dem.',
- WebsiteIsNotSupportedOnMobileDevices: 'This website is not supported on mobile devices.',
+ WebsiteIsNotSupportedOnMobileDevices: 'Den här webbplatsen är inte kompatibel med mobila enheter.',
  SomeImageCanBeOutdated: 'Observera att vissa bilder kan vara föråldrade!',
  SeeComparesFromTheOtherVersions: 'See compares from the other versions',
  SeeTheComparisonBetween: 'See the comparison between...',
