@@ -117,8 +117,7 @@ exports.gallery = {
  SomeImageCanBeOutdated: 'Observera att vissa bilder kan vara föråldrade!',
  SeeComparesFromTheOtherVersions: 'See compares from the other versions',
  SeeTheComparisonBetween: 'See the comparison between...',
- ThePageYouAreCurrentlyOnDisplaysAComparison:
-  'The page you are currently on displays a comparison of different versions of releases.',
+ ThePageYouAreCurrentlyOnDisplaysAComparison: 'På den här sidan kan du jämföra olika versioner av Stella mod.',
  OldVersion: 'Gammal version',
  NewVersion: 'Ny version',
  WithMod: 'Med mod',
