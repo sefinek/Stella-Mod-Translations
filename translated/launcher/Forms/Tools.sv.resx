@@ -592,7 +592,7 @@
     <value>Open the configuration window</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Omkonfigurera Stella Mod igen</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -628,7 +628,7 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create shortcut on desktop</value>
+    <value>Skapa genväg på skrivbordet</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
     <value>Skapa en genväg för Stella Mod Launcher på ditt skrivbord. Detta är användbart om du av misstag har raderat Stella Mod Launcher-ikonen.</value>
@@ -787,7 +787,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Visa katalog</value>
   </data>
   <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
     <value>InnoSetupLogs</value>
@@ -1009,7 +1009,7 @@
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>3DMigoto d3dx.ini fil</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -1075,7 +1075,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>3DMigoto d3dx_user.ini fil</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
