@@ -204,10 +204,10 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Ursäkta. Bakgrund {0} hittades inte.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>The application background has been changed to default. ID: {0}</value>
+    <value>Applikationens bakgrund har ändrats till standard. ID: {0}</value>
   </data>
   <data name="Tools_TheShortcutHasBeenSuccessfullyCreated" xml:space="preserve">
-    <value>The shortcut has been successfully created.</value>
+    <value>Genvägen har skapats framgångsrikt.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Filen {0} hittades inte.</value>
@@ -243,13 +243,13 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Vill du gå med i vår Discord-server?</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
-    <value>The new version v{0} from {1} is available! Please update.</value>
+    <value>Den nya versionen v{0} från {1} är tillgänglig! Vänligen uppdatera.</value>
   </data>
   <data name="icons8_notepad" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Downloading update... {0} / {1}</value>
+    <value>Laddar ner uppdatering... {0} / {1}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
     <value>Browsing the gallery</value>
@@ -272,10 +272,10 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Successfully updated resources.</value>
   </data>
   <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>Waiting {0}s...</value>
+    <value>Väntar {0} s...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Sorry, one instance is currently open. Quit the process with name {0} and try again.</value>
+    <value>Tyvärr, en instans är redan öppen. Avsluta processen med namnet {0} och försök igen.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
     <value>In the window with links</value>
@@ -415,7 +415,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Deleting the previous version of the mod pack...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>Skulle du kunna dela din åsikt om Stella Mod på trustpilot.com? Jag skulle vara väldigt tacksam.</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
@@ -633,7 +633,7 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
     <value>Gallery - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
-    <value>Hello! Loading Stella Mod launcher...</value>
+    <value>Hej! Laddar Stella Mod Launcher...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
     <value>Toggle minimize/restore</value>
