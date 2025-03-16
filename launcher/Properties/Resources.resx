@@ -300,8 +300,8 @@ Do you want to download this dependency from the Microsoft website?</value>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Browsing tools</value>
   </data>
-  <data name="NormalRelease_WeFoundNewUpdates" xml:space="preserve">
-    <value>We found new updates</value>
+  <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
+    <value>New update available</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Playing: {0}</value>
