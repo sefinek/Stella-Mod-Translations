@@ -300,8 +300,8 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Przegląda narzędzia</value>
   </data>
-  <data name="NormalRelease_WeFoundNewUpdates" xml:space="preserve">
-    <value>Znaleźliśmy nowe aktualizacje</value>
+  <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
+    <value>New update available</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>W grze: {0}</value>
