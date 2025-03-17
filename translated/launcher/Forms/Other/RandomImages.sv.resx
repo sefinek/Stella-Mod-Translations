@@ -535,7 +535,7 @@
     <value>47</value>
   </data>
   <data name="linkLabel43.Text" xml:space="preserve">
-    <value>Tail</value>
+    <value>Svans</value>
   </data>
   <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
     <value>linkLabel43</value>
@@ -856,7 +856,7 @@
     <value>62</value>
   </data>
   <data name="linkLabel12.Text" xml:space="preserve">
-    <value>Sailor uniform</value>
+    <value>Sjömansuniform</value>
   </data>
   <data name="&gt;&gt;linkLabel12.Name" xml:space="preserve">
     <value>linkLabel12</value>
@@ -922,7 +922,7 @@
     <value>64</value>
   </data>
   <data name="linkLabel14.Text" xml:space="preserve">
-    <value>W-sitting</value>
+    <value>W-sittande</value>
   </data>
   <data name="&gt;&gt;linkLabel14.Name" xml:space="preserve">
     <value>linkLabel14</value>
@@ -955,7 +955,7 @@
     <value>65</value>
   </data>
   <data name="linkLabel15.Text" xml:space="preserve">
-    <value>Lying down</value>
+    <value>Ligger ner</value>
   </data>
   <data name="&gt;&gt;linkLabel15.Name" xml:space="preserve">
     <value>linkLabel15</value>
@@ -1087,7 +1087,7 @@
     <value>69</value>
   </data>
   <data name="linkLabel19.Text" xml:space="preserve">
-    <value>Maid</value>
+    <value>Husa/hembiträde/hemhjälp</value>
   </data>
   <data name="&gt;&gt;linkLabel19.Name" xml:space="preserve">
     <value>linkLabel19</value>
@@ -1186,7 +1186,7 @@
     <value>72</value>
   </data>
   <data name="linkLabel22.Text" xml:space="preserve">
-    <value>Heterochromia</value>
+    <value>Heterokromi</value>
   </data>
   <data name="&gt;&gt;linkLabel22.Name" xml:space="preserve">
     <value>linkLabel22</value>
@@ -1219,7 +1219,7 @@
     <value>73</value>
   </data>
   <data name="linkLabel23.Text" xml:space="preserve">
-    <value>Wink</value>
+    <value>Blinkning</value>
   </data>
   <data name="&gt;&gt;linkLabel23.Name" xml:space="preserve">
     <value>linkLabel23</value>
@@ -1252,7 +1252,7 @@
     <value>74</value>
   </data>
   <data name="linkLabel24.Text" xml:space="preserve">
-    <value>Dress</value>
+    <value>Klänning</value>
   </data>
   <data name="&gt;&gt;linkLabel24.Name" xml:space="preserve">
     <value>linkLabel24</value>
@@ -1318,7 +1318,7 @@
     <value>76</value>
   </data>
   <data name="linkLabel26.Text" xml:space="preserve">
-    <value>Hoodie</value>
+    <value>Hoodie/Huvtröja</value>
   </data>
   <data name="&gt;&gt;linkLabel26.Name" xml:space="preserve">
     <value>linkLabel26</value>
