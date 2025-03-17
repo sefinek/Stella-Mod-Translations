@@ -1022,7 +1022,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Lås upp FPS</value>
+    <value>Lås upp FPS:en</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
     <value>Låser upp 60 FPS-begränsningen. Användbart om du har en skärm med en uppdateringsfrekvens högre än 60 Hz.</value>
