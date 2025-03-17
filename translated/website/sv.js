@@ -163,8 +163,8 @@ exports.stats = {
  ToggleShadows: 'Toggle shadows',
  ToggleBorder: 'Toggle border',
  ToggleBackground: 'Toggle background',
- LiveStats: 'Live stats',
- OnlineNow: 'Online now',
+ LiveStats: 'Statistik i realtid',
+ OnlineNow: 'Online nu',
  Playing: 'Playing',
  AllDownloadsNow: 'Alla nedladdningar nu',
  Player: 'spelare',
@@ -172,7 +172,7 @@ exports.stats = {
  BelowYouFindTheStatsOfStellaMod:
   'Nedanför hittar du statistiken för Stella Mod. Tidszon: Europa/Warszawa GMT+01:00 (Polen). Ha en trevlig dag!',
  PerCountry: 'Per land',
- PerHour: 'Per hour',
+ PerHour: 'Per timme',
  PerDay: 'Per dag',
  PerMonth: 'Per månad',
  PerYear: 'Per år',
@@ -188,19 +188,19 @@ exports.stats = {
  DownloadsPerCountry: 'Downloads per country',
  DownloadsPerCountryAll: 'Downloads per country [All]',
  DownloadsPerVersionAll: 'Downloads per version [All]',
- DownloadsPerVersionUnique: 'Downloads per version [Unique]',
- DownloadsPerDayAll: 'Downloads per day [All]',
+ DownloadsPerVersionUnique: 'Nedladdningar per version [Unika]',
+ DownloadsPerDayAll: 'Nedladdningar per dag [Alla]',
  DownloadsPerDayUnique: 'Downloads per day [Unique]',
  DownloadsPerMonthAll: 'Nedladdningar per månad [Alla]',
  DownloadsPerMonthUnique: 'Nedladdningar per månad [Unika]',
- DownloadsPerYearAll: 'Downloads per year [All]',
- DownloadsPerYearUnique: 'Downloads per year [Unique]',
+ DownloadsPerYearAll: 'Nedladdningar per månad [Unika]',
+ DownloadsPerYearUnique: 'Nedladdningar per år [Unika]',
  StellaModDownloadsHeader: 'Stella Mod-nedladdningar',
  StellaModDownloadsText:
   'Här är nedladdningsstatistiken för Stella Mod direkt från vår officiella webbplats. Vänligen notera att viss historisk data kan vara ofullständig, eftersom vi började samla statistik en betydande tid efter den globala lanseringen av Stella Mod.<br>Se alltid till att du laddar ner Stella Mod från en betrodd källa, som <a href="https://sefinek.net">sefinek.net</a>.',
- TotalDownloads: '🔢 Total downloads',
- LastDownload: '⏰ Last download',
- YourTimezone: '🪐 Your timezone',
+ TotalDownloads: '🔢 Totala nedladdningar',
+ LastDownload: '⏰ Senaste nedladdning',
+ YourTimezone: '🪐 Din tidszon',
  StellaModLauncherStatsHeader: '😻 Stella Mod Launcher stats',
  StellaModLauncherStatsText:
   'I den här kategorin presenterar vi detaljerad statistik om hur många gånger Stella Mod Launcher-programmet har startats. Detta inkluderar data om hur ofta applikationen startas.',
@@ -217,7 +217,7 @@ exports.stats = {
  Peak1: '🍭 Peak',
  OnlinePerCountry: 'Online per country',
  OnlinePerHour: 'Online per hour',
- OnlinePerDay: 'Online per day',
+ OnlinePerDay: 'Online per dag',
  OnlinePerMonth: 'Online per month',
  OnlinePerYear: 'Online per year',
  PlayersInTheGameHeader: '🎮 Players in the game',
@@ -237,7 +237,7 @@ exports.stats = {
  Decryption: '🔧 Decryption',
  Misc: '🧵 Misc',
  PerOneHour: 'Per hour',
- PerOneDay: 'Per day',
+ PerOneDay: 'Per dag',
  PerOneMonth: 'Per month',
  PerOneYear: 'Per year',
  ErrorRatePerDay: 'Felfrekvens per dag',
@@ -245,7 +245,7 @@ exports.stats = {
 
 // GET /genshin-stella-mod/docs
 exports.docs = {
- TableOfContents: 'Table of Contents',
+ TableOfContents: 'Innehållsförteckning',
  1: {
   Introduction: '{0}. {1} Introduktion',
   Requirements: '{0}. {1} Requirements',
@@ -291,7 +291,7 @@ exports.github = {
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Choose your subscription tier',
+ ChooseYourSubscriptionTier: 'Välj din prenumerationsnivå',
  IfYouAreInterestedInTheBenefits:
   'Om du är intresserad av fördelarna, vänligen utforska alla tillgängliga nivåer för att se vilken som passar dina preferenser. Förhoppningsvis hittar du en som väcker ditt intresse!',
  IfYouHaveAnyQuestions:
@@ -301,12 +301,12 @@ exports.subscription = {
   1: {
    name: 'Little Kitten',
    description:
-    'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
+    'Grundnivå för de som bara vill stödja projektet. Detta är en bra lösning, till exempel om du slutade spela Genshin Impact och inte längre behöver förmånerna från spelet, men fortfarande vill stödja projektet frivilligt.',
   },
   2: {
    name: 'Favorite Cat',
    description:
-    'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
+    'Mellannivå som erbjuder de flesta av de grundläggande förmånerna kopplade till spelet Genshin Impact. Idealisk för spelare som vill njuta av ytterligare modifieringar och förbättringar i spelet.',
   },
   3: {
    name: 'Safety Kitten',
@@ -321,10 +321,10 @@ exports.subscription = {
   5: {
    name: 'Cute Kitty',
    description:
-    'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.',
+    'Ger åtkomst till alla förmåner som erbjuds i lägre nivåer och tillåter även aktivering på flest enheter. Idealisk för spelare som uppskattar arbetet från Stella Mod-skaparen och vill stödja vidare utveckling och projektets serverinfrastruktur.',
   },
  },
- UnknownBenefit: 'Unknown benefit',
+ UnknownBenefit: 'Okänd förmån',
  prices: {
   MonthlyPrice: 'Monthly price',
   Every3Months: 'Every 3 months',
@@ -389,9 +389,9 @@ exports.subscription = {
  SubscribeNow: 'Subscribe now',
  ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
+  'Prenumerationen betraktas som frivilligt stöd, inte som ett köp av en tjänst eller produkt. De förmåner du får är enbart som ett tecken på uppskattning.',
  IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'If you wish, you can continue to use the free version at no cost. The decision is entirely up to you.',
+  'Om du vill, kan du fortsätta använda den kostnadsfria versionen utan extra kostnad. Beslutet är helt upp till dig.',
  Crypto: 'Crypto',
  IfYouWantToMakeAPaymentUsingCrypto:
   'If you want to make a payment using cryptocurrency, please contact the developer.',
@@ -419,8 +419,8 @@ exports.subscription = {
    'Vi vill uttrycka vårt uppriktiga tack till alla våra prenumeranter för deras stöd och förtroende. Innan du fortsätter med Stella Mod Plus-prenumerationen, ta gärna ett ögonblick för att bekanta dig med några viktiga riktlinjer.',
   HeaderText2: 'Benefits are intended exclusively for subscribers:',
   SubText2:
-   'Each benefit redemption token is assigned to a subscriber and should be kept confidential. Please do not share your benefits with others or distribute them online. Utilize them solely for your personal use and in accordance with our guidelines.',
-  HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
+   'Varje förmånsinlösen-token tilldelas en prenumerant och bör hållas konfidentiell. Vänligen dela inte dina förmåner med andra eller distribuera dem online. Använd dem endast för ditt personliga bruk och i enlighet med våra riktlinjer.',
+  HeaderText3: 'Att prenumerera innebär inte att köpa 3DMigoto-programvaran:',
   SubText3:
    'Genom att bli prenumerant på Stella Mod Plus förvärvar du inte 3DMigoto som en digital produkt att köpa. Istället får du som prenumerant enbart tillgång till att använda 3DMigoto inom Stella Mod Launcher-applikationen.',
   Footer:
@@ -431,6 +431,6 @@ exports.subscription = {
   SubscribingInProgress:
    'Vi behöver lite tid för att få allt klart. Vänligen stanna på denna sida och ge oss ett ögonblick!\nSnart kommer vi att omdirigera dig till en säker betalningssida där du kan slutföra din transaktion på ett säkert sätt. ^w^',
   ChangingTheTierInProgress:
-   'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+   'Vi behöver lite tid för att ändra din nivå! Ge oss ett ögonblick, och vi lovar att allt kommer att gå smidigt. ^w^',
  },
 };
