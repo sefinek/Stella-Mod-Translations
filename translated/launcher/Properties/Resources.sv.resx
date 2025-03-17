@@ -278,7 +278,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Tyvärr, en instans är redan öppen. Avsluta processen med namnet {0} och försök igen.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
-    <value>In the window with links</value>
+    <value>I fönstret med länkar</value>
   </data>
   <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -336,7 +336,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Do you want to send us anonymous log files?</value>
   </data>
   <data name="RandomImages_Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Källa</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Updating. Please wait...</value>
@@ -364,7 +364,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
-    <value>Playing Genshin Impact</value>
+    <value>Spelar Genshin Impact</value>
   </data>
   <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
     <value>Bakgrunden för launchern har ändrats. ID: {0}</value>
@@ -376,7 +376,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Den nödvändiga filen 'Configuration Window.exe' hittades inte. Installera om denna app eller gå med i vår Discord-server för hjälp.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Loaded form: {0}</value>
+    <value>Laddat formulär: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUnpacked" xml:space="preserve">
     <value>Successfully unpacked: {0}</value>
@@ -388,7 +388,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>..\Resources\icon_log.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
-    <value>Exited from WebView2 browser</value>
+    <value>Avslutade från WebView2-webbläsaren</value>
   </data>
   <data name="Default_UpdatingBenefits" xml:space="preserve">
     <value>Updating benefits...</value>
@@ -457,13 +457,13 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Tack för ditt stöd. Rekommendera Stella Mod till dina vänner. Ha en fantastisk dag!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>Bläddrar i inställningarna</value>
   </data>
   <data name="LaunchCount_TheSimultaneousOfUseRSFU3DM" xml:space="preserve">
     <value>Amtidig användning av ReShade, 3DMigoto och FPS-upplåsare är endast möjlig för Stella Mod Plus-prenumeranter.</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>En ny uppdatering av resurserna är tillgänglig från {0}.</value>
   </data>
   <data name="Default_ItLooksLikeYouAreLaunchingTheLauncherForTheFirstTime" xml:space="preserve">
     <value>Hej! Det verkar som att du startar launcher-programmet för första gången. Ta gärna en stund för att gå igenom användarvillkoren och riktlinjerna för denna modifiering i den officiella dokumentationen för att undvika eventuella problem.
@@ -476,7 +476,7 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>Jag tackar dig varmt för ditt generösa stöd! Ditt bidrag betyder mycket för mig. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>Mappen {0} hittades inte.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
     <value>Downloading resources... {0} / {1}</value>
@@ -485,16 +485,16 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>Click the 'Start game' button to inject ReShade and use FPS Unlock.</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>Laddar ner installationsfilen... {0} / {1}</value>
   </data>
   <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Closed form: {0}</value>
+    <value>Stängt formulär: {0}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Unpacking files... {0} from {1}</value>
   </data>
   <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Output: {0}</value>
+    <value>Utdata: {0}</value>
   </data>
   <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -546,10 +546,10 @@ Nuvarande förinställning:
     <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord-server</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>Är du säker på att du vill köra Stella Konfigurationsfönster igen?</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
@@ -594,7 +594,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>Stella Mod Launcher har uppdaterats framgångsrikt till version: v{0}</value>
   </data>
   <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
     <value>Failed to retrieve device identifier.</value>
@@ -612,16 +612,16 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>Du har ingen aktiv Stella Plus-prenumeration.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Mappen med Stella-loggar hittades inte i: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Important</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>Kom ihåg att inte dela loggfiler med okända personer, eftersom de kan innehålla känslig information. Dela dem endast med Stella Mod-utvecklaren.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
     <value>Videos - sefinek.net</value>
@@ -636,7 +636,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Hej! Laddar Stella Mod Launcher...</value>
   </data>
   <data name="Default_ToggleMinimizeRestore" xml:space="preserve">
-    <value>Toggle minimize/restore</value>
+    <value>Växla minimera/återställ</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
     <value>Reload window</value>
@@ -654,7 +654,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Leave your feedback</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>Donationer</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
     <value>Quit</value>
@@ -666,10 +666,10 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Authorization, please wait...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
-    <value>Debugging this application is not possible due to lack of permissions.</value>
+    <value>Det går inte att felsöka denna applikation på grund av bristande behörigheter.</value>
   </data>
   <data name="Default_StartingTheStellaModLauncherIsCurrentlyNotPossibleBecauseTheServerIsInMaintenanceMode" xml:space="preserve">
-    <value>Starting the Stella Mod Launcher is currently not possible because the server is in maintenance mode. We are doing this for you, to improve the application. Try again later.</value>
+    <value>Att starta Stella Mod Launcher är för närvarande inte möjligt eftersom servern är i underhållsläge. Vi gör detta för att förbättra applikationen. Försök igen senare.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
     <value>Stella Mod Plus Launcher</value>
@@ -678,16 +678,16 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Checking for updates and other required data...</value>
   </data>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
-    <value>The application has been successfully updated, checking the changelog...</value>
+    <value>Applikationen har uppdaterats framgångsrikt, kollar ändringsloggen...</value>
   </data>
   <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Uhh, it looks like the changelog isn't available for this version yet...</value>
+    <value>Uhh, det ser ut som att ändringsloggen inte är tillgänglig för den här versionen ännu...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Checking news...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
-    <value>Approving application launch (this may take a moment)...</value>
+    <value>Odkänner applikationsstart (detta kan ta ett ögonblick)...</value>
   </data>
   <data name="Default_EstablishingConnectionWithTheWebSocketServer" xml:space="preserve">
     <value>Establishing connection with the WebSocket server...</value>
@@ -699,13 +699,13 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Successfully reconnected with the WS server</value>
   </data>
   <data name="ExceededTheMaximumNumberOfReconnectionAttempts_WithTheWebSocket" xml:space="preserve">
-    <value>Exceeded the maximum number of reconnection attempts ({0}) with the WebSocket</value>
+    <value>Överskred det maximala antalet återanslutningsförsök ({0}) med WebSocket</value>
   </data>
   <data name="NotificationFromTheServer" xml:space="preserve">
     <value>Notification from the server</value>
   </data>
   <data name="YouHaveReceivedANotificationFromTheRemoteServerPleaseCheckIt" xml:space="preserve">
-    <value>You have received a notification from the remote server. Please check it.</value>
+    <value>Du har mottagit en notifikation från den fjärrservern. Vänligen kontrollera den.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
     <value>Stella Mod Plus Subscribers</value>
@@ -721,13 +721,13 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Although this process may seem dead, it is still running. Please be patient...</value>
   </data>
   <data name="UploadLogs_ItSTakingLongerThanUsualPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>It's taking longer than usual. Please check your internet connection.</value>
+    <value>Det tar längre än vanligt. Vänligen kontrollera din internetanslutning.</value>
   </data>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Requesting agreement to upload logs...</value>
   </data>
   <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>The remote server did not grant you permission to send the logs. You will find more details below.
+    <value>Den fjärrservern gav dig inte behörighet att skicka loggarna. Du hittar fler detaljer nedan.
 
 {0}</value>
   </data>
@@ -738,7 +738,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Copying log, cfg and ini files...</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
-    <value>Waiting for DxDiag...</value>
+    <value>Väntar på DxDiag...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Compressing collected files...</value>
@@ -747,45 +747,43 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Gathering and encrypting additional data...</value>
   </data>
   <data name="UploadLogs_UploadingFilesToASecureServer" xml:space="preserve">
-    <value>Uploading files to a secure server...</value>
+    <value>Laddar upp filer till en säker server...</value>
   </data>
   <data name="UploadLogs_FinishingAndPerformingCleanup" xml:space="preserve">
-    <value>Finishing and performing cleanup...</value>
+    <value>Avslutar och utför städning...</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch3YouCanCloseThisWindow" xml:space="preserve">
-    <value>Logs upload complete! Thank you very much &lt;3. You can close this window.</value>
+    <value>Logguppdatering slutförd! Stort tack &lt;3. Du kan stänga det här fönstret.</value>
   </data>
   <data name="UploadLogs_AsTheOwnerOfTheSubmittedLogsYouHaveFullRightsToThemIfYouWouldLikeUsToRemoveThemFromOurDatabasePleaseContactTheDeveloperAndProvideTheFollowingIdentifier_" xml:space="preserve">
-    <value>As the owner of the submitted logs, you have full rights to them. If you would like us to remove them from our database, please contact the developer and provide the following identifier: {0}</value>
+    <value>Som ägare av de inlämnade loggarna har du fullständiga rättigheter till dem. Om du vill att vi ska ta bort dem från vår databas, vänligen kontakta utvecklaren och ange följande identifierare: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong ):</value>
+    <value>Förlåt, men något gick fel ):</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
-    <value>Unfortunately, something went wrong during the file upload. Please accept our apologies.
-
-{0}</value>
+    <value>Tyvärr, något gick fel under filuppladdningen. Vi ber om ursäkt för detta.</value>
   </data>
   <data name="UploadLogs_ForSecurityReasonsTheReasonForTheServerSRejectionOfTheRequestCannotBeDisclosedPleaseContactTheAdministratorIfYouBelieveItIsNecessary" xml:space="preserve">
-    <value>For security reasons, the reason for the server's rejection of the request cannot be disclosed. Please contact the administrator if you believe it is necessary.</value>
+    <value>Av säkerhetsskäl kan orsaken till serverns avslag av begäran inte avslöjas. Vänligen kontakta administratören om du anser att det är nödvändigt.</value>
   </data>
   <data name="UploadLogs_BelowAreTheDetailsOfWhatReallyHappened_" xml:space="preserve">
-    <value>Below are the details of what really happened:
+    <value>Nedan finns detaljer om vad som verkligen hände:
 {0}</value>
   </data>
   <data name="UploadLogs_AnErrorOccurred_" xml:space="preserve">
-    <value>An error occurred.
+    <value>"Ett fel uppstod.
 
 {0}</value>
   </data>
   <data name="UploadLogs_FileSizeExceedsTheMaximumLimit" xml:space="preserve">
-    <value>File size exceeds the maximum limit.</value>
+    <value>Filstorleken överskrider den maximala gränsen.</value>
   </data>
   <data name="UploadLogs_FileNotFound_" xml:space="preserve">
-    <value>File not found: {0}</value>
+    <value>Fil hittades inte: {0}</value>
   </data>
   <data name="UploadLogs_LogsUploadCompleteThankYouVeryMuch" xml:space="preserve">
-    <value>Logs upload complete. Thank you very much!</value>
+    <value>Logguppdatering slutförd. Stort tack!</value>
   </data>
   <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
     <value>Okänt fel. Status {0}</value>
@@ -798,18 +796,18 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in:
+    <value>Mappen med Stella-loggar hittades inte i:
 
 {0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
+    <value>Detta är redan {0} gången du startar den här appen på denna enhet. Tack!</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Stella Mod resources were not found on your hard drive.</value>
   </data>
   <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Change of the launcher path</value>
+    <value>Ändring av launcherns sökväg</value>
   </data>
   <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
     <value>Vi har upptäckt en trolig förändring i platsen för Stella Mod-launchern. Vissa genvägar har uppdaterats.</value>
