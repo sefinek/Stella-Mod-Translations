@@ -203,7 +203,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Plik nie został znaleziony.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Przepraszam. Tło {0} nie zostało odnalezione.</value>
+    <value>Wybacz. Tło {0} nie zostało znalezione.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>Tło aplikacji zostało zmienione na domyślne. Identyfikator: {0}</value>
@@ -230,7 +230,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
-    <value>To tylko tekst. Czego chcesz więcej?</value>
+    <value>To tylko tekst. Czego więcej chcesz?</value>
   </data>
   <data name="icons8_recycle_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_recycle-bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -301,7 +301,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Przegląda narzędzia</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>Dostępna nowa aktualizacja</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>W grze: {0}</value>
@@ -341,7 +341,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Źródło</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Trwa aktualizowanie...</value>
+    <value>Aktualizacja, proszę czekać...</value>
   </data>
   <data name="icons8_animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_layers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -375,7 +375,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Kliknij przycisk 'Uruchom grę', aby użyć ReShade, FPS Unlock i 3DMigoto.</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Nie znaleziono wymaganego pliku "Configuration Window.exe". Proszę ponownie zainstalować tę aplikację lub dołączyć do naszego serwera Discord, aby uzyskać pomoc.</value>
+    <value>Nie znaleziono wymaganego pliku 'Configuration Window.exe'. Proszę ponownie zainstalować tę aplikację lub dołączyć do naszego serwera Discord, aby uzyskać pomoc.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Załadowano okno: {0}</value>
