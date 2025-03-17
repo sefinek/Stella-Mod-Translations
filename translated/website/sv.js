@@ -110,13 +110,13 @@ exports.home = {
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
  GalleryPage: 'Galleri – Sidnummer',
- GalleryCompareReleases: 'Gallery - Compare releases:',
+ GalleryCompareReleases: 'Galleri - Jämför versioner:',
  ScreenshotsAreAvailableInHighQuality:
   'Skärmbilder finns tillgängliga i hög kvalitet. Det kan ta en stund att ladda dem.',
  WebsiteIsNotSupportedOnMobileDevices: 'Den här webbplatsen är inte kompatibel med mobila enheter.',
  SomeImageCanBeOutdated: 'Observera att vissa bilder kan vara föråldrade!',
- SeeComparesFromTheOtherVersions: 'See compares from the other versions',
- SeeTheComparisonBetween: 'See the comparison between...',
+ SeeComparesFromTheOtherVersions: 'Se jämförelser från de andra versionerna',
+ SeeTheComparisonBetween: 'Se jämförelsen mellan...',
  ThePageYouAreCurrentlyOnDisplaysAComparison: 'På den här sidan kan du jämföra olika versioner av Stella mod.',
  OldVersion: 'Gammal version',
  NewVersion: 'Ny version',
@@ -124,7 +124,7 @@ exports.gallery = {
  WithoutMod: 'Utan mod',
  BonusScreenshot: 'Bonus skärmdump',
  tooltips: {
-  GoBackToMainGalleryPage: 'Go back to main gallery page',
+  GoBackToMainGalleryPage: 'Gå tillbaka till huvudsidan för galleriet',
  },
 };
 
@@ -132,16 +132,16 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Share your opinion',
  IfYouLikeThisProjectSupportMe:
-  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+  'Om du gillar det här projektet, överväg att {1}prenumerera{/1} på min YouTube-kanal, ge {2} ge projektet en stjärna {/2} på GitHub eller {3}stötta mig{/3} på ett annat sät.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
-  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
+  'Om du dessutom har några kommentarer eller förslag, tveka inte att gå med i vår Discord-server och dela dem med oss.',
  btn: {
-  BelowYTVideo: 'Below my YouTube video',
-  OnTheDiscordServer: 'On the Discord server',
+  BelowYTVideo: 'Under min YouTube-video',
+  OnTheDiscordServer: 'På Discord-servern',
  },
  tooltips: {
-  ClickHereToGoToTheYTPage: 'Click here to go to the YouTube page.',
-  GiveAStarToMyReposOnGitHub: 'Give a star to my repositories on GitHub, the ones you like.',
+  ClickHereToGoToTheYTPage: 'Klicka här för att gå till YouTube-sidan.',
+  GiveAStarToMyReposOnGitHub: 'Ge en stjärna till mina GitHub-repositorier som du gillar.',
  },
 };
 
@@ -399,9 +399,9 @@ exports.subscription = {
  CloseModal: 'Close modal',
  PaymentSystem: {
   Header: 'Payment system',
-  1: 'We are delighted to announce that our secure payment system is powered by {0}. With Stripe, you can confidently make payments, knowing that your financial information is handled with the highest level of security.',
-  2: "Stripe is a well-trusted and globally recognized payment processing platform that guarantees smooth and secure transactions for our customers. Whether you're buying products, subscribing to services, or making donations, Stripe's robust infrastructure ensures a dependable and trouble-free payment experience.",
-  3: 'Please be assured that your sensitive payment details are encrypted and safeguarded throughout the entire payment process. Your privacy and security are our top priorities.',
+  1: 'Vi är glada att meddela att vårt säkra betalningssystem drivs av {0}. Med Stripe kan du tryggt genomföra betalningar, med vetskapen om att din finansiella information hanteras med högsta säkerhetsnivå.',
+  2: 'Stripe är en välrenommerad och globalt erkänd betalningsplattform som garanterar smidiga och säkra transaktioner för våra kunder. Oavsett om du köper produkter, prenumererar på tjänster eller gör donationer, säkerställer Stripes robusta infrastruktur en pålitlig och problemfri betalningsupplevelse.',
+  3: 'Var säker på att dina känsliga betalningsuppgifter är krypterade och skyddade under hela betalningsprocessen. Din integritet och säkerhet är vår högsta prioritet.',
  },
  AcceptedPaymentMethods: 'Accepted payment methods',
  IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
