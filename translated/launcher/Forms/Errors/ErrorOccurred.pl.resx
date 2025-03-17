@@ -169,7 +169,7 @@
     <value>6</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Wszelkie błędy należy zgłaszać na moim serwerze Discord lub przez e-mail.
+    <value>Wszelkie błędy należy zgłaszać na naszym serwerze Discord lub przez e-mail.
 Discord: {0} ┃ E-mail: {1}</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">

@@ -300,8 +300,8 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Araçlara göz atıyor</value>
   </data>
-  <data name="NormalRelease_WeFoundNewUpdates" xml:space="preserve">
-    <value>Yeni güncellemeler bulduk</value>
+  <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
+    <value>Yeni güncelleme mevcut</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Oynuyor: {0}</value>
