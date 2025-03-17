@@ -184,7 +184,7 @@ exports.stats = {
  NumberOfGameLaunches: 'Number of game launches',
  FullDate: 'Full date',
  Version: 'Version',
- NumberOfDownloads: 'Number of downloads',
+ NumberOfDownloads: 'Antal nedladdningar',
  DownloadsPerCountry: 'Downloads per country',
  DownloadsPerCountryAll: 'Downloads per country [All]',
  DownloadsPerVersionAll: 'Downloads per version [All]',
@@ -427,7 +427,7 @@ exports.subscription = {
    'Vi uppskattar din närvaro i vår gemenskap och ditt stöd för vårt arbete. Om du har några frågor eller funderingar, vänligen {a}kontakta oss{/a}. Din delaktighet och förståelse för dessa regler är oerhört viktig för vårt projekt.',
  },
  request: {
-  WeAreProcessingYourRequest: 'We are processing your request...',
+  WeAreProcessingYourRequest: 'Vi behandlar din förfrågan...',
   SubscribingInProgress:
    'Vi behöver lite tid för att få allt klart. Vänligen stanna på denna sida och ge oss ett ögonblick!\nSnart kommer vi att omdirigera dig till en säker betalningssida där du kan slutföra din transaktion på ett säkert sätt. ^w^',
   ChangingTheTierInProgress:
