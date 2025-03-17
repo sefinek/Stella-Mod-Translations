@@ -284,7 +284,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>Tråkigt... Misslyckades med att ladda ner ReShade.ini. Försök igen.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
     <value>Tyvärr. Något gick fel med WebView2.</value>
@@ -299,7 +299,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Bläddrar bland verktyg</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>Ny uppdatering tillgänglig</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Spelar: {0}</value>
@@ -330,7 +330,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
-    <value>File download has been canceled by the user.</value>
+    <value>Filnedladdningen har avbrutits av användaren.</value>
   </data>
   <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
     <value>Do you want to send us anonymous log files?</value>
@@ -358,7 +358,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>New release is available. Download now!</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
-    <value>Successfully downloaded the ReShade.ini file!</value>
+    <value>ReShade.ini-filen har laddats ner framgångsrikt!</value>
   </data>
   <data name="icons8_shortcut" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -367,7 +367,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Playing Genshin Impact</value>
   </data>
   <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
-    <value>Changed the launcher background. ID: {0}</value>
+    <value>Bakgrunden för launchern har ändrats. ID: {0}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeFPSUnlockAnd3DMigoto" xml:space="preserve">
     <value>Klicka på knappen 'Starta spelet' för att använda ReShade, FPS Unlock och 3DMigoto.</value>
@@ -418,16 +418,16 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Skulle du kunna dela din åsikt om Stella Mod på trustpilot.com? Jag skulle vara väldigt tacksam.</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>Konfigurationsfilen (unlocker.config.json) för FPS-upplåsaren har laddats ner</value>
   </data>
   <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>Ohh, something went wrong</value>
+    <value>Ohh, något gick fel</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Tog bort den gamla installationsfilen från temp-mappen.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Just chilling</value>
+    <value>Bara chillar</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Preparing... If process is stuck, reopen launcher.</value>
@@ -454,7 +454,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>Tack för ditt stöd. Rekommendera Stella Mod till dina vänner. Ha en fantastisk dag!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Browsing settings</value>
@@ -466,14 +466,14 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>New update of the resources is available from {0}.</value>
   </data>
   <data name="Default_ItLooksLikeYouAreLaunchingTheLauncherForTheFirstTime" xml:space="preserve">
-    <value>Hello! It looks like you're launching the launcher for the first time. Please take a moment to review the terms of use and guidelines for this modification in the official documentation to avoid any potential issues.
+    <value>Hej! Det verkar som att du startar launcher-programmet för första gången. Ta gärna en stund för att gå igenom användarvillkoren och riktlinjerna för denna modifiering i den officiella dokumentationen för att undvika eventuella problem.
 
-The software is continuously supported by the developer thanks to Stella Plus subscribers. Subscription revenues cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, ensuring that the local administrator is the sole owner of the data. This guarantees the security of your device's hardware data, which is processed according to the highest privacy standards. Stella Mod Launcher prioritizes privacy and security. No analytical data is sent to the server without your consent.
+Programvaran stöds kontinuerligt av utvecklaren tack vare Stella Plus-prenumeranter. Prenumerationsintäkterna täcker kostnaderna för fiberoptiskt internet och elräkningar. API-servern är värd på en privat bostad i Polen, vilket säkerställer att den lokala administratören är den enda ägaren av datan. Detta garanterar säkerheten för din enhets hårdvarudata, som behandlas enligt de högsta sekretessstandarderna. Stella Mod Launcher prioriterar integritet och säkerhet. Ingen analytisk data skickas till servern utan ditt samtycke.
 
-Stella Mod is safe software, so you don't need to worry about anything. Just remember not to use cheats. If you need help, join our Discord server or send an email to contact@sefinek.net. Have fun!</value>
+Stella Mod är säker programvara, så du behöver inte oroa dig för något. Kom bara ihåg att inte använda fusk. Om du behöver hjälp, gå med i vår Discord-server eller skicka ett mejl till contact@sefinek.net. Ha kul!</value>
   </data>
   <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>I sincerely thank you for your generous support! Your contribution means a lot to me. ~ Sefinek</value>
+    <value>Jag tackar dig varmt för ditt generösa stöd! Ditt bidrag betyder mycket för mig. ~ Sefinek</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Directory {0} was not found.</value>
@@ -515,7 +515,7 @@ Stella Mod is safe software, so you don't need to worry about anything. Just rem
     <value>Background file was not found in '{0}'; ID: {1};</value>
   </data>
   <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>The best and completely safe mod for Genshin Impact that enhances graphics and more!</value>
+    <value>Den bästa och helt säkra modden för Genshin Impact som förbättrar grafik och mer!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>This feature is only available to players with a Stella Mod Plus subscription.
@@ -788,13 +788,13 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Logs upload complete. Thank you very much!</value>
   </data>
   <data name="UploadLogs_UnknownErrorStatus_" xml:space="preserve">
-    <value>Unknown error. Status {0}</value>
+    <value>Okänt fel. Status {0}</value>
   </data>
   <data name="UploadLogs_ErrorSendingRequestPleaseCheckYourInternetConnection_" xml:space="preserve">
-    <value>Error sending request. Please check your Internet connection. {0}</value>
+    <value>Fel vid skickande av begäran. Vänligen kontrollera din internetanslutning. {0}</value>
   </data>
   <data name="UploadLogs_ErrorReadingFile_" xml:space="preserve">
-    <value>Error reading file!
+    <value>Fel vid läsning av fil!
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
@@ -812,7 +812,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Change of the launcher path</value>
   </data>
   <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>We have detected a probable change in the location of the Stella Mod launcher. Some shortcuts have been updated.</value>
+    <value>Vi har upptäckt en trolig förändring i platsen för Stella Mod-launchern. Vissa genvägar har uppdaterats.</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
@@ -826,16 +826,16 @@ New version: v{2}</value>
     <value>3DMigoto Update - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
-    <value>A new version of the mod pack for Stella Plus subscribers has been detected. Your custom mods will not be removed, provided they are located in folder number 3. The software creator is not responsible for any accidental deletion of mods.
+    <value>En ny version av mod-paketet för Stella Plus-prenumeranter har upptäckts. Dina anpassade mods kommer inte att tas bort, förutsatt att de finns i mapp nummer 3. Programvarans skapare ansvarar inte för någon oavsiktlig borttagning av mods.
 
-If, after the update, character models appear incorrect (this applies to custom mods you have added), remove the duplicate mod from the provided pack. Each character can have only one active mod at a time. If you encounter any issues, visit the Genshin Stella Mod Discord server or submit a ticket on the Sefinek Patron Center website for assistance.
+Om karaktärsmodellerna verkar felaktiga efter uppdateringen (detta gäller anpassade mods du har lagt till), ta bort den duplicerade modden från det tillhandahållna paketet. Varje karaktär kan endast ha en aktiv mod åt gången. Om du stöter på några problem, besök Genshin Stella Mod Discord-servern eller skicka in en supportbiljett på Sefinek Patron Center-webbplatsen.
 
-If you do not wish to receive mod pack updates, delete the mods-version.json file from the Stella Mod resources.
+Om du inte vill ta emot uppdateringar av mod-paketet, ta bort filen mods-version.json från Stella Mod-resurserna.
 
-Click the OK button to continue.
+Klicka på OK-knappen för att fortsätta.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+Din version: v{0} från {1}
+Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
     <value>Mods Update - v{0}.zip</value>
