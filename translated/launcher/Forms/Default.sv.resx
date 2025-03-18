@@ -271,7 +271,7 @@
     <value>76</value>
   </data>
   <data name="close_Panel.ToolTip" xml:space="preserve">
-    <value>Avsluta startprogrammet</value>
+    <value>Avsluta launchen</value>
   </data>
   <data name="&gt;&gt;close_Panel.Name" xml:space="preserve">
     <value>close_Panel</value>
@@ -980,7 +980,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>130</value>
   </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
-    <value>Skuggningseffekter</value>
+    <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
     <value>ReShade introducerar grafiska förbättringar (våra färdiga förinställningar) och mer! Tryck på Home i spelet och skapa dina egna förinställningar!</value>
