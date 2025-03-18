@@ -409,7 +409,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Misslyckades med att uppdatera. Programvaran nekades åtkomst till en plats, vilket förhindrade den från att spara, kopiera, öppna eller ladda filer.</value>
   </data>
   <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Log files was sent to developer.</value>
+    <value>Loggfilerna har skickats till utvecklaren.</value>
   </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Raderar den tidigare versionen av mod-paketet...</value>
@@ -479,7 +479,7 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>Mappen {0} hittades inte.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>Laddar ner data... {0} / {1}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
     <value>Klicka på knappen 'Starta spel' för att injicera ReShade och använda FPS-upplåsning.</value>
@@ -491,7 +491,7 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>Stängt formulär: {0}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1}</value>
+    <value>Packar upp filer... {0} från {1}</value>
   </data>
   <data name="NormalRelease_Output_" xml:space="preserve">
     <value>Utdata: {0}</value>
@@ -509,7 +509,7 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>Något gick fel</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Background file was not found in '{0}'; ID: {1};</value>
@@ -535,7 +535,7 @@ Nuvarande förinställning:
 {0}</value>
   </data>
   <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher file does not exist.
+    <value>Launcher-filen existerar inte.
 
 {0}</value>
   </data>
@@ -576,13 +576,13 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Anime-namn</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Tittar på gameplay</value>
   </data>
   <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Spellaunchen hittades inte i: {0}</value>
   </data>
   <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -597,7 +597,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Stella Mod Launcher har uppdaterats framgångsrikt till version: v{0}</value>
   </data>
   <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
+    <value>Misslyckades med att hämta enhetsidentifierare.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Välj Evergreen Standalone Installer.</value>
@@ -630,7 +630,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Dokumentation - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Gallery - sefinek.net</value>
+    <value>Galleri - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Hej! Laddar Stella Mod Launcher...</value>
@@ -663,7 +663,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Verifierar nödvändiga filer, pågår...</value>
   </data>
   <data name="Default_AuthorizationPleaseWait" xml:space="preserve">
-    <value>Authorization, please wait...</value>
+    <value>Autentisering, vänligen vänta...</value>
   </data>
   <data name="DebuggingThisApplicationIsNotPossibleDueToLackOfPermissions" xml:space="preserve">
     <value>Det går inte att felsöka denna applikation på grund av bristande behörigheter.</value>
@@ -684,7 +684,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Uhh, det ser ut som att ändringsloggen inte är tillgänglig för den här versionen ännu...</value>
   </data>
   <data name="Default_CheckingNews" xml:space="preserve">
-    <value>Checking news...</value>
+    <value>Kollar nyheter...</value>
   </data>
   <data name="Default_ApprovingApplicationLaunchThisMayTakeAMoment" xml:space="preserve">
     <value>Odkänner applikationsstart (detta kan ta ett ögonblick)...</value>
@@ -693,7 +693,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Upprättar anslutning med WebSocket-servern...</value>
   </data>
   <data name="Default_InitializingWebView2PleaseWait" xml:space="preserve">
-    <value>Initializing WebView2, please wait...</value>
+    <value>Initierar WebView2, vänligen vänta...</value>
   </data>
   <data name="SuccessfullyReconnectedWithTheWSServer" xml:space="preserve">
     <value>Återanslutning till WS-servern lyckades</value>
@@ -708,10 +708,10 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Du har mottagit en notifikation från den fjärrservern. Vänligen kontrollera den.</value>
   </data>
   <data name="Default_StellaModPlusSubscribers" xml:space="preserve">
-    <value>Stella Mod Plus Subscribers</value>
+    <value>Stella Mod Plus-prenumeranter</value>
   </data>
   <data name="NormalRelease_FileSizeReadyForDownload" xml:space="preserve">
-    <value>File size ready for download: {0}</value>
+    <value>Filstorlek redo för nedladdning: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
     <value>Notis från utvecklaren ({0}):
@@ -732,7 +732,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
 {0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Preparing temporary directory...</value>
+    <value>Förbereder temporär mapp...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
     <value>Kopierar logg-, cfg- och ini-filer...</value>
@@ -847,7 +847,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Addons - v{0}.zip</value>
+    <value>ReShade Tillägg - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>En ny uppdatering för ReShade-inställningarna har hittats! Befintliga inställningar kan skrivas över. Det rekommenderas att du gör en säkerhetskopia innan du uppdaterar
@@ -858,7 +858,7 @@ Your version: v{0} from {1}
 New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Presets - v{0}.zip</value>
+    <value>ReShade-profiler - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>En ny version av ReShade-shaders är tillgänglig! Tidigare shaders kan bli överskrivna.
