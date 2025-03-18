@@ -482,7 +482,7 @@ Stella Mod är säker programvara, så du behöver inte oroa dig för något. Ko
     <value>Downloading resources... {0} / {1}</value>
   </data>
   <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
-    <value>Click the 'Start game' button to inject ReShade and use FPS Unlock.</value>
+    <value>Klicka på knappen 'Starta spel' för att injicera ReShade och använda FPS-upplåsning.</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Laddar ner installationsfilen... {0} / {1}</value>
@@ -573,7 +573,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="AnimeName" xml:space="preserve">
-    <value>Anime name</value>
+    <value>Anime-namn</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
@@ -600,7 +600,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Failed to retrieve device identifier.</value>
   </data>
   <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
+    <value>Välj Evergreen Standalone Installer.</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Ojdå, ett fel inträffade</value>
@@ -618,7 +618,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Mappen med Stella-loggar hittades inte i: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Viktigt</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
     <value>Kom ihåg att inte dela loggfiler med okända personer, eftersom de kan innehålla känslig information. Dela dem endast med Stella Mod-utvecklaren.</value>
@@ -627,7 +627,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Videos - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Documentation - sefinek.net</value>
+    <value>Dokumentation - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
     <value>Gallery - sefinek.net</value>
@@ -639,7 +639,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Växla minimera/återställ</value>
   </data>
   <data name="Default_ReloadWindow" xml:space="preserve">
-    <value>Reload window</value>
+    <value>Ladda om fönstret</value>
   </data>
   <data name="Default_StellaModPlus" xml:space="preserve">
     <value>Stella Mod Plus</value>
@@ -672,7 +672,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Att starta Stella Mod Launcher är för närvarande inte möjligt eftersom servern är i underhållsläge. Vi gör detta för att förbättra applikationen. Försök igen senare.</value>
   </data>
   <data name="Default_StellaModPlusLauncher" xml:space="preserve">
-    <value>Stella Mod Plus Launcher</value>
+    <value>Stella Mod Plus-Launchen</value>
   </data>
   <data name="Default_CheckingForUpdatesAndOtherRequiredData" xml:space="preserve">
     <value>Kontrollerar uppdateringar och annan nödvändig data...</value>
@@ -714,7 +714,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>File size ready for download: {0}</value>
   </data>
   <data name="Default_NoteFromTheDeveloper__" xml:space="preserve">
-    <value>Note from the developer ({0}):
+    <value>Notis från utvecklaren ({0}):
 {1}</value>
   </data>
   <data name="UploadLogs_AlthoughThisProcessMaySeemDeadItIsStillRunningPleaseBePatient" xml:space="preserve">
@@ -804,7 +804,7 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
     <value>Detta är redan {0} gången du startar den här appen på denna enhet. Tack!</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
-    <value>Stella Mod resources were not found on your hard drive.</value>
+    <value>Stella Mod-filer hittades inte på din hårddisk.</value>
   </data>
   <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
     <value>Ändring av launcherns sökväg</value>
@@ -850,7 +850,7 @@ Ny version: v{2}</value>
     <value>ReShade Addons - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
-    <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
+    <value>En ny uppdatering för ReShade-inställningarna har hittats! Befintliga inställningar kan skrivas över. Det rekommenderas att du gör en säkerhetskopia innan du uppdaterar
 
 Click the OK button to proceed with the update.
 
