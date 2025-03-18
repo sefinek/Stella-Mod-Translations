@@ -204,7 +204,7 @@ exports.stats = {
  StellaModLauncherStatsHeader: '😻 Stella Mod Launcher stats',
  StellaModLauncherStatsText:
   'I den här kategorin presenterar vi detaljerad statistik om hur många gånger Stella Mod Launcher-programmet har startats. Detta inkluderar data om hur ofta applikationen startas.',
- AllStellaLauncherOpens: 'All Stella Launcher opens',
+ AllStellaLauncherOpens: 'Alla öppningar av Stella Launchern',
  UniqueStellaLauncherOpens: 'Unika öppningar av Stella Launcher',
  OpensPerCountry: 'Öppningar per land',
  OpensPerVersion: 'Öppningar per version',
@@ -239,7 +239,7 @@ exports.stats = {
  PerOneHour: 'Per hour',
  PerOneDay: 'Per dag',
  PerOneMonth: 'Per månad',
- PerOneYear: 'Per year',
+ PerOneYear: 'Per år',
  ErrorRatePerDay: 'Felfrekvens per dag',
 };
 
