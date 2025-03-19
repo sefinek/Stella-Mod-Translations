@@ -983,7 +983,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade introduit des améliorations graphiques (notre preset prêt à l'emploi)!</value>
+    <value>ReShade provides graphical enhancements (our ready-made presets) and more! Press the Home key on your keyboard in-game to create your own presets!</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
