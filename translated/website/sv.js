@@ -130,7 +130,7 @@ exports.gallery = {
 
 // GET /genshin-stella-mod/feedback
 exports.feedback = {
- LeaveYourFeedback: 'Share your opinion',
+ LeaveYourFeedback: 'Dela din åsikt',
  IfYouLikeThisProjectSupportMe:
   'Om du gillar det här projektet, överväg att {1}prenumerera{/1} på min YouTube-kanal, ge {2} ge projektet en stjärna {/2} på GitHub eller {3}stötta mig{/3} på ett annat sät.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
@@ -147,13 +147,13 @@ exports.feedback = {
 
 // GET /genshin-stella-mod/videos
 exports.videos = {
- WatchVideosOnYT: 'Watch videos on YouTube',
+ WatchVideosOnYT: 'Titta på videor på YouTube',
  IfYouWantToRecordNewVideo:
-  'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
- DeprecatedMovies: 'Deprecated movies',
+  'Om du vill spela in och ladda upp en video om Stella Mod på YouTube, vänligen kontakta mig. Länken till din video kommer att läggas till på denna sida.',
+ DeprecatedMovies: 'Föråldrade filmer',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
-  'The movies are from previous versions of Stella Mod and are already considered outdated.',
- FirstModRelease: 'First mod release',
+  'Filmerna kommer från tidigare versioner av Stella Mod och anses redan vara föråldrade.',
+ FirstModRelease: 'Första mod-utgåvan',
  Gameplay: 'Gameplay',
 };
 
@@ -163,91 +163,91 @@ exports.stats = {
  ToggleShadows: 'Toggle shadows',
  ToggleBorder: 'Toggle border',
  ToggleBackground: 'Toggle background',
- LiveStats: 'Live stats',
- OnlineNow: 'Online now',
- Playing: 'Playing',
- AllDownloadsNow: 'All downloads now',
- Player: 'player',
- Players: 'players',
+ LiveStats: 'Statistik i realtid',
+ OnlineNow: 'Online nu',
+ Playing: 'Spelar',
+ AllDownloadsNow: 'Alla nedladdningar nu',
+ Player: 'spelare',
+ Players: 'spelare (plural)',
  BelowYouFindTheStatsOfStellaMod:
-  'Below you will find the statistics of Stella Mod. Timezone: Europe/Warsaw GMT+01:00 (Poland). Have a nice day!',
- PerCountry: 'Per country',
- PerHour: 'Per hour',
- PerDay: 'Per day',
- PerMonth: 'Per month',
- PerYear: 'Per year',
- All: 'All',
- Unique: 'Unique',
+  'Nedanför hittar du statistiken för Stella Mod. Tidszon: Europa/Warszawa GMT+01:00 (Polen). Ha en trevlig dag!',
+ PerCountry: 'Per land',
+ PerHour: 'Per timme',
+ PerDay: 'Per dag',
+ PerMonth: 'Per månad',
+ PerYear: 'Per år',
+ All: 'Alla',
+ Unique: 'Unik',
  FirstOpens: 'First opens',
  Peak: 'Peak',
  Connections: 'Connections',
  NumberOfGameLaunches: 'Number of game launches',
- FullDate: 'Full date',
+ FullDate: 'Fullständigt datum',
  Version: 'Version',
- NumberOfDownloads: 'Number of downloads',
- DownloadsPerCountry: 'Downloads per country',
- DownloadsPerCountryAll: 'Downloads per country [All]',
- DownloadsPerVersionAll: 'Downloads per version [All]',
- DownloadsPerVersionUnique: 'Downloads per version [Unique]',
- DownloadsPerDayAll: 'Downloads per day [All]',
- DownloadsPerDayUnique: 'Downloads per day [Unique]',
- DownloadsPerMonthAll: 'Downloads per month [All]',
- DownloadsPerMonthUnique: 'Downloads per month [Unique]',
- DownloadsPerYearAll: 'Downloads per year [All]',
- DownloadsPerYearUnique: 'Downloads per year [Unique]',
- StellaModDownloadsHeader: '📥 Stella Mod downloads',
+ NumberOfDownloads: 'Antal nedladdningar',
+ DownloadsPerCountry: 'Nedladdningar per land',
+ DownloadsPerCountryAll: 'Nedladdningar per land [Alla]',
+ DownloadsPerVersionAll: 'Nedladdningar per version [Alla]',
+ DownloadsPerVersionUnique: 'Nedladdningar per version [Unika]',
+ DownloadsPerDayAll: 'Nedladdningar per dag [Alla]',
+ DownloadsPerDayUnique: 'Nedladdningar per dag [Unika]',
+ DownloadsPerMonthAll: 'Nedladdningar per månad [Alla]',
+ DownloadsPerMonthUnique: 'Nedladdningar per månad [Unika]',
+ DownloadsPerYearAll: 'Nedladdningar per månad [Unika]',
+ DownloadsPerYearUnique: 'Nedladdningar per år [Unika]',
+ StellaModDownloadsHeader: 'Stella Mod-nedladdningar',
  StellaModDownloadsText:
-  'Here are the download statistics for Stella Mod directly from our official website. Please note that some historical data may be incomplete, as we began collecting statistics a significant time after the global release of Stella Mod.<br>Always ensure that you download Stella Mod from a trusted source, such as <a href="https://sefinek.net">sefinek.net</a>.',
- TotalDownloads: '🔢 Total downloads',
- LastDownload: '⏰ Last download',
- YourTimezone: '🪐 Your timezone',
+  'Här är nedladdningsstatistiken för Stella Mod direkt från vår officiella webbplats. Vänligen notera att viss historisk data kan vara ofullständig, eftersom vi började samla statistik en betydande tid efter den globala lanseringen av Stella Mod.<br>Se alltid till att du laddar ner Stella Mod från en betrodd källa, som <a href="https://sefinek.net">sefinek.net</a>.',
+ TotalDownloads: '🔢 Totala nedladdningar',
+ LastDownload: '⏰ Senaste nedladdning',
+ YourTimezone: '🪐 Din tidszon',
  StellaModLauncherStatsHeader: '😻 Stella Mod Launcher stats',
  StellaModLauncherStatsText:
-  'In this category, we present detailed statistics on how many times the Stella Mod Launcher program has been initiated. This includes data on how often the application is launched.',
- AllStellaLauncherOpens: 'All Stella Launcher opens',
- UniqueStellaLauncherOpens: 'Unique Stella Launcher opens',
- OpensPerCountry: 'Opens per country',
- OpensPerVersion: 'Opens per version',
- OpensPerSysVersion: 'Opens per system version',
- OpensPerSysBuild: 'Opens per system build',
- OnlineUsersWSHeader: '🌍 Online users - WebSocket',
+  'I den här kategorin presenterar vi detaljerad statistik om hur många gånger Stella Mod Launcher-programmet har startats. Detta inkluderar data om hur ofta applikationen startas.',
+ AllStellaLauncherOpens: 'Alla öppningar av Stella Launchern',
+ UniqueStellaLauncherOpens: 'Unika öppningar av Stella Launcher',
+ OpensPerCountry: 'Öppningar per land',
+ OpensPerVersion: 'Öppningar per version',
+ OpensPerSysVersion: 'Öppningar per systemversion',
+ OpensPerSysBuild: 'Öppningar per systemversion',
+ OnlineUsersWSHeader: '🌍 Online-användare - WebSocket',
  OnlineUsersWSText:
-  'This section provides a comprehensive overview of user connectivity through our WebSocket server, offering real-time insights into active users. Explore dynamic statistics that reveal the current online user count, peak concurrency levels, and the geographical distribution of users.',
+  'Denna sektion ger en omfattande översikt över användarkopplingar via vår WebSocket-server, och erbjuder realtidsinsikter om aktiva användare. Utforska dynamiska statistik som visar det aktuella antalet onlineanvändare, toppkonkurrensnivåer och användarnas geografiska fördelning.',
  Online: '🔑 Online',
  Peak1: '🍭 Peak',
  OnlinePerCountry: 'Online per country',
- OnlinePerHour: 'Online per hour',
- OnlinePerDay: 'Online per day',
- OnlinePerMonth: 'Online per month',
- OnlinePerYear: 'Online per year',
+ OnlinePerHour: 'Online per timme',
+ OnlinePerDay: 'Online per dag',
+ OnlinePerMonth: 'Online per månad',
+ OnlinePerYear: 'Online per år',
  PlayersInTheGameHeader: '🎮 Players in the game',
  PlayersInTheGameText:
-  'See how many players are currently using Stella Mod in Genshin Impact. The Stella Mod Launcher runs transparently, with no background actions happening without your knowledge, ensuring a smooth experience that enhances Genshin Impact with added features, all while upholding high standards of privacy and security. Some data may be inaccurate.',
+  'Se hur många spelare som för närvarande använder Stella Mod i Genshin Impact. Stella Mod Launcher körs transparent, utan några bakgrundsåtgärder som sker utan din vetskap, vilket garanterar en smidig upplevelse som förbättrar Genshin Impact med extra funktioner, samtidigt som höga standarder för integritet och säkerhet upprätthålls. Viss data kan vara inaktuell.',
  PlayingNow: '💙 Playing now',
  Peak2: '⬆️ Peak',
  WsConnectionsHeader: '🌍 WebSocket connections and operations',
  WsConnectionsText:
-  'In this section, familiarize yourself with WebSocket metrics, including charts that display the frequency of messages and heartbeats on an hourly, daily, monthly, and yearly basis.',
+  'I denna sektion kan du bekanta dig med WebSocket-mätvärden, inklusive diagram som visar frekvensen av meddelanden och hjärtslag på en timme-, dag-, månad- och årsbas.',
  Broadcast: 'Broadcast',
  Heartbeats: 'Heartbeats',
  CryptographicOperationsHeader: '🔠 Cryptographic operations',
  CryptographicOperationsText:
-  'This section provides a comprehensive overview of cryptographic activities in our systems, presenting statistical data on encryption and decryption processes. Visitors can explore charts displaying the frequency and success rates of cryptographic operations over various timeframes. Cryptography plays a crucial role in securing applications and communications by ensuring data confidentiality, integrity, and authenticity, thus protecting against unauthorized access and cyber threats. It is vital for safeguarding digital transactions and maintaining the privacy of sensitive information.',
+  'Denna sektion ger en omfattande översikt över kryptografiska aktiviteter i våra system och presenterar statistiska data om krypterings- och dekrypteringsprocesser. Besökare kan utforska diagram som visar frekvensen och framgångsraten för kryptografiska operationer under olika tidsperioder. Kryptografi spelar en avgörande roll för att säkra applikationer och kommunikationer genom att säkerställa datasekretess, integritet och äkthet, vilket skyddar mot obehörig åtkomst och cyberhot. Det är avgörande för att skydda digitala transaktioner och upprätthålla integriteten för känslig information.',
  Encryption: '🧶 Encryption',
  Decryption: '🔧 Decryption',
  Misc: '🧵 Misc',
  PerOneHour: 'Per hour',
- PerOneDay: 'Per day',
- PerOneMonth: 'Per month',
- PerOneYear: 'Per year',
- ErrorRatePerDay: 'Error rate per day',
+ PerOneDay: 'Per dag',
+ PerOneMonth: 'Per månad',
+ PerOneYear: 'Per år',
+ ErrorRatePerDay: 'Felfrekvens per dag',
 };
 
 // GET /genshin-stella-mod/docs
 exports.docs = {
- TableOfContents: 'Table of Contents',
+ TableOfContents: 'Innehållsförteckning',
  1: {
-  Introduction: '{0}. {1} Introduction',
+  Introduction: '{0}. {1} Introduktion',
   Requirements: '{0}. {1} Requirements',
   WhatIs: '{0}. {1} What is...',
   FAQ: '{0}. {1} FAQ',
@@ -291,40 +291,40 @@ exports.github = {
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Choose your subscription tier',
+ ChooseYourSubscriptionTier: 'Välj din prenumerationsnivå',
  IfYouAreInterestedInTheBenefits:
-  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
+  'Om du är intresserad av fördelarna, vänligen utforska alla tillgängliga nivåer för att se vilken som passar dina preferenser. Förhoppningsvis hittar du en som väcker ditt intresse!',
  IfYouHaveAnyQuestions:
-  "Do you have any questions? Don't hesitate to join our Discord server or contact us via email. You can find the contact information on the main page of this website.",
+  'Har du några frågor? Tveka inte att gå med i vår Discord-server eller kontakta oss via e-post. Du hittar kontaktinformation på huvudsidan på denna webbplats.',
  Recommended: 'Recommended',
  tiers: {
   1: {
    name: 'Little Kitten',
    description:
-    'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
+    'Grundnivå för de som bara vill stödja projektet. Detta är en bra lösning, till exempel om du slutade spela Genshin Impact och inte längre behöver förmånerna från spelet, men fortfarande vill stödja projektet frivilligt.',
   },
   2: {
    name: 'Favorite Cat',
    description:
-    'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
+    'Mellannivå som erbjuder de flesta av de grundläggande förmånerna kopplade till spelet Genshin Impact. Idealisk för spelare som vill njuta av ytterligare modifieringar och förbättringar i spelet.',
   },
   3: {
    name: 'Safety Kitten',
    description:
-    'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
+    'Avancerad nivå för betrodda användare, som erbjuder särskilda förmåner såsom system för att skydda mot ban, giveaways för Genshin Impact-konton och en anpassad utseende för Windows Terminal-gränssnittet.',
   },
   4: {
    name: 'Keyboard Cat',
    description:
-    'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
+    '"För spelare som vill maximera sina enheters kapabiliteter och njuta av spelet utan störningar. Denna alternativ erbjuder datoroptimeringstjänster (via TeamViewer eller AnyDesk), teknisk support och möjlighet att använda batchfiler i Stella Mod Launcher.',
   },
   5: {
    name: 'Cute Kitty',
    description:
-    'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.',
+    'Ger åtkomst till alla förmåner som erbjuds i lägre nivåer och tillåter även aktivering på flest enheter. Idealisk för spelare som uppskattar arbetet från Stella Mod-skaparen och vill stödja vidare utveckling och projektets serverinfrastruktur.',
   },
  },
- UnknownBenefit: 'Unknown benefit',
+ UnknownBenefit: 'Okänd förmån',
  prices: {
   MonthlyPrice: 'Monthly price',
   Every3Months: 'Every 3 months',
@@ -341,11 +341,11 @@ exports.subscription = {
   RoleOnTheDiscordServer: 'Role on the Discord server',
   VisibilityOnTheSubscriberList: 'Visibility on the subscriber list',
   NoAdsOnTheWebsiteForPatrons: 'No ads on the website for patrons (SPC)',
-  PrivateClipsFromCSGO: 'Private clips from CS:GO and CS2',
+  PrivateClipsFromCSGO: 'Privata klipp från CS:GO och CS2',
   CompletePostArchive: 'Complete post archive',
   RayTracingForGenshin: 'Ray Tracing for Genshin',
   AbilityToUseMods: 'Ability to use mods in the game (more fun)',
-  BigCollectionOfShadersMods: 'Big collection of shaders & mods without any bugs',
+  BigCollectionOfShadersMods: 'Stort urval av shaders och mods utan några buggar',
   GameUIWithoutVisibleShaders: 'Game UI without visible shaders',
   HideYourUIDInTheGame: 'Hide your UID in the game',
   PresetsFromPreviousVersions: 'Presets from previous versions',
@@ -354,10 +354,10 @@ exports.subscription = {
   CarefullyDesignedSecuritySystem: 'Carefully designed security system',
   MuchGreaterPrivacy: 'Much greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
-  NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-  ImagesAndInterestingVideosOfTheDevsCats: "Photos and interesting videos of the developer's cats",
-  OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
-  AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
+  NewWindowsTerminalAppearance: 'Ny Windows Terminal (WT) utseende',
+  ImagesAndInterestingVideosOfTheDevsCats: 'Foton och intressanta videor på utvecklarens katter',
+  OptimizationOfYourComputerForBestPerformance: 'Optimering av din PC för den bästa prestanda',
+  AssistanceRelatedToPCsOrLaptops: '"Hjälp relaterad till PC eller bärbara datorer',
   ActivationPossibleOn: 'Activation possible on {u}{0} devices{/u}',
  },
  CompareAvailablePlans: 'Compare available plans',
@@ -365,9 +365,9 @@ exports.subscription = {
   IntDevice: '{0} device',
   IntDevices: '{0} devices',
   RoleOnTheDiscordServer: 'Role on the Discord server',
-  VisibilityOnTheSubscriberList: 'Visibility on the subscriber list',
+  VisibilityOnTheSubscriberList: 'Synlighet på prenumerantlistan',
   NoAdsOnTheWebsiteForPatrons: 'No ads on the website for patrons',
-  PrivateClipsFromCSGO: 'Private clips from CS:GO and CS2',
+  PrivateClipsFromCSGO: 'Privata klipp från CS:GO och CS2',
   CompletePostArchive: 'Complete post archive',
   RayTracingForGenshin: 'Ray Tracing for Genshin',
   BigCollectionOfShadersMods: 'Big collection of shaders & mods',
@@ -389,16 +389,15 @@ exports.subscription = {
  SubscribeNow: 'Subscribe now',
  ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
+  'Prenumerationen betraktas som frivilligt stöd, inte som ett köp av en tjänst eller produkt. De förmåner du får är enbart som ett tecken på uppskattning.',
  IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'If you wish, you can continue to use the free version at no cost. The decision is entirely up to you.',
+  'Om du vill, kan du fortsätta använda den kostnadsfria versionen utan extra kostnad. Beslutet är helt upp till dig.',
  Crypto: 'Crypto',
- IfYouWantToMakeAPaymentUsingCrypto:
-  'If you want to make a payment using cryptocurrency, please contact the developer.',
- IAcceptPaymentsOnlyOnBinance: 'I accept payments only on Binance.',
+ IfYouWantToMakeAPaymentUsingCrypto: 'Om du vill göra en betalning med kryptovaluta, vänligen kontakta utvecklaren.',
+ IAcceptPaymentsOnlyOnBinance: 'Jag accepterar endast gireringar på Binance.',
  CloseModal: 'Close modal',
  PaymentSystem: {
-  Header: 'Payment system',
+  Header: 'Betalningssystem',
   1: 'Vi är glada att meddela att vårt säkra betalningssystem drivs av {0}. Med Stripe kan du tryggt genomföra betalningar, med vetskapen om att din finansiella information hanteras med högsta säkerhetsnivå.',
   2: 'Stripe är en välrenommerad och globalt erkänd betalningsplattform som garanterar smidiga och säkra transaktioner för våra kunder. Oavsett om du köper produkter, prenumererar på tjänster eller gör donationer, säkerställer Stripes robusta infrastruktur en pålitlig och problemfri betalningsupplevelse.',
   3: 'Var säker på att dina känsliga betalningsuppgifter är krypterade och skyddade under hela betalningsprocessen. Din integritet och säkerhet är vår högsta prioritet.',
@@ -412,25 +411,25 @@ exports.subscription = {
  IBAN: 'IBAN:',
  AskTheAdministratorForIt: 'Ask the administrator for it',
  PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Please note that the buyer is responsible for covering any bank fees associated with any transaction.',
+  'Vänligen notera att köparen är ansvarig för att täcka eventuella bankavgifter kopplade till transaktionen.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Rules for using our benefits and patronage',
   SubText1:
-   'We would like to express our heartfelt gratitude to all our subscribers for their support and trust. Before proceeding with the Stella Mod Plus subscription, please take a moment to familiarize yourself with a few important guidelines.',
-  HeaderText2: 'Benefits are intended exclusively for subscribers:',
+   'Vi vill uttrycka vårt uppriktiga tack till alla våra prenumeranter för deras stöd och förtroende. Innan du fortsätter med Stella Mod Plus-prenumerationen, ta gärna ett ögonblick för att bekanta dig med några viktiga riktlinjer.',
+  HeaderText2: 'Förmånerna är avsedda enbart för prenumeranter:',
   SubText2:
-   'Each benefit redemption token is assigned to a subscriber and should be kept confidential. Please do not share your benefits with others or distribute them online. Utilize them solely for your personal use and in accordance with our guidelines.',
-  HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
+   'Varje förmånsinlösen-token tilldelas en prenumerant och bör hållas konfidentiell. Vänligen dela inte dina förmåner med andra eller distribuera dem online. Använd dem endast för ditt personliga bruk och i enlighet med våra riktlinjer.',
+  HeaderText3: 'Att prenumerera innebär inte att köpa 3DMigoto-programvaran:',
   SubText3:
-   'By becoming a subscriber to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product for purchase. Instead, as our subscriber, you solely gain access to use 3DMigoto within the Stella Mod Launcher application.',
+   'Genom att bli prenumerant på Stella Mod Plus förvärvar du inte 3DMigoto som en digital produkt att köpa. Istället får du som prenumerant enbart tillgång till att använda 3DMigoto inom Stella Mod Launcher-applikationen.',
   Footer:
-   'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.',
+   'Vi uppskattar din närvaro i vår gemenskap och ditt stöd för vårt arbete. Om du har några frågor eller funderingar, vänligen {a}kontakta oss{/a}. Din delaktighet och förståelse för dessa regler är oerhört viktig för vårt projekt.',
  },
  request: {
-  WeAreProcessingYourRequest: 'We are processing your request...',
+  WeAreProcessingYourRequest: 'Vi behandlar din förfrågan...',
   SubscribingInProgress:
-   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction. ^w^',
+   'Vi behöver lite tid för att få allt klart. Vänligen stanna på denna sida och ge oss ett ögonblick!\nSnart kommer vi att omdirigera dig till en säker betalningssida där du kan slutföra din transaktion på ett säkert sätt. ^w^',
   ChangingTheTierInProgress:
-   'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+   'Vi behöver lite tid för att ändra din nivå! Ge oss ett ögonblick, och vi lovar att allt kommer att gå smidigt. ^w^',
  },
 };
