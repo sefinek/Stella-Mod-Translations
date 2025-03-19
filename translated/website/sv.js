@@ -279,10 +279,10 @@ exports.docs = {
 exports.github = {
  AllReposOnGithub: 'All repositories on GitHub',
  IfYouWantToBecomeContributor:
-  'If you want to become contributor, just create a new {a}Pull Request{/a}. Thank you very much and happy coding!',
- Translations: 'Translations',
- Resources: 'Resources',
- Documentation: 'Documentation',
+  'Om du vill bli bidragsgivare, skapa bara en ny {a}Ändringsförfrågan{/a}. Stort tack och glad kodning!',
+ Translations: 'Översättningar',
+ Resources: 'Resurser',
+ Documentation: 'Dokumentation',
  More: 'More »',
  Deprecated: 'Deprecated',
  InstallationWizard: 'Installation wizard',
