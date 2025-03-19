@@ -522,7 +522,7 @@ Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. P
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>Ta funkcja jest dostępna wyłącznie dla graczy z subskrypcją Stella Mod Plus.
 
-Czy chcesz odwiedzić oficjalną stronę i dokonać subskrybcji? Zyskasz dostęp do wielu korzyści, w tym możliwość jednoczesnego korzystania z ReShade, 3DMigoto i FPS Unlockera.</value>
+Czy chcesz odwiedzić oficjalną stronę i dokonać subskrypcji? Zyskasz dostęp do wielu korzyści, w tym możliwość jednoczesnego korzystania z ReShade, 3DMigoto i FPS Unlockera.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Pomyślnie zaktualizowano shadery do najnowszej wersji dla subskrybentów Stella Plus.</value>
