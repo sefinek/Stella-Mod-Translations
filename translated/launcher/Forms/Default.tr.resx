@@ -983,7 +983,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>Gölgelendiriciler</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-made presets) and more! Press the Home key on your keyboard in-game to create your own presets!</value>
+    <value>ReShade grafiksel iyileştirmeler (hazır ön setlerimiz) ve daha fazlasını sağlar! Kendi ön ayarlarınızı oluşturmak için oyun içinde klavyenizdeki Home tuşuna basabilirsiniz!</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
