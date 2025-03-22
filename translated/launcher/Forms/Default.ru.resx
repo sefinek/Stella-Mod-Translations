@@ -983,7 +983,7 @@
     <value>Шейдеры</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade делает графику круче! Используйте наши пресеты или создавайте свои, нажав Home в игре.</value>
+    <value>ReShade делает графику круче! Используйте наши пресеты или создавайте свои, нажав Home в игре!</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
