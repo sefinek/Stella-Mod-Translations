@@ -622,16 +622,16 @@
     <value>66, 219</value>
   </data>
   <data name="CreateShortcut.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 24</value>
+    <value>230, 24</value>
   </data>
   <data name="CreateShortcut.TabIndex" type="System.Int32, mscorlib">
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Skapa genväg på skrivbordet</value>
+    <value>Create or update shortcuts</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Skapa en genväg för Stella Mod Launcher på ditt skrivbord. Detta är användbart om du av misstag har raderat Stella Mod Launcher-ikonen.</value>
+    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>

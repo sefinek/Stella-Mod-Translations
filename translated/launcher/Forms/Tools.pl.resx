@@ -622,16 +622,16 @@
     <value>66, 219</value>
   </data>
   <data name="CreateShortcut.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 24</value>
+    <value>230, 24</value>
   </data>
   <data name="CreateShortcut.TabIndex" type="System.Int32, mscorlib">
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Utwórz skrót na pulpicie</value>
+    <value>Stwórz lub zaktualizuj skróty</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Utwórz skrót do Stella Mod Launcher na pulpicie. Przydatne, jeśli przypadkowo usunąłeś ikonę.</value>
+    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
