@@ -2,13 +2,13 @@ source_language: "en"
 
 files:
   - source: "/launcher/**/*.resx"
-    ignore:
-      - "/.github/**"
-      - "**/*.md"
+    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+
+  - source: "/genshin-stella-mod/**/*.resx"
+    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+
+  - source: "/configuration-window/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
 
   - source: "/website/**/*.js"
-    ignore:
-      - "/.github/**"
-      - "**/*.md"
     translation: "/translated/%original_path%/%two_letters_code%.%file_extension%"
