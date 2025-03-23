@@ -208,8 +208,8 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>Le fond de l'application a été modifié par défaut. ID : {0}</value>
   </data>
-  <data name="Tools_TheShortcutHasBeenSuccessfullyCreated" xml:space="preserve">
-    <value>Le raccourci a été créé avec succès.</value>
+  <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
+    <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Le fichier {0} n'a pas été trouvé.</value>
