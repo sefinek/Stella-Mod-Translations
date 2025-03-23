@@ -175,7 +175,7 @@
     <value>78</value>
   </data>
   <data name="MadeBySefinek.Text" xml:space="preserve">
-    <value>made by Sefinek</value>
+    <value>Sefinek tarafından yapılmıştır</value>
   </data>
   <data name="MadeBySefinek.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -253,7 +253,7 @@
     <value>82</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Create shortcut on the desktop and in the Start Menu *</value>
+    <value>Masaüstüne ve Başlat Menüsüne bir kısayol oluşturun *</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -286,7 +286,7 @@
     <value>83</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Create shortcuts to official websites in the Start Menu</value>
+    <value>Başlat menüsüne resmi web siteleri için kısayollar oluşturun</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
