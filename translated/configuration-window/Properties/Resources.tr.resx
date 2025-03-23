@@ -133,11 +133,11 @@ Please reinstall this app or join our Discord server.</value>
     <value>The Stella resources directory was not found on your computer, so you cannot uncheck the checkbox.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-	  <value>Sorry, but something went wrong. Please report this issue.
+	  <value>Üzgünüm ama bir şeyler ters gitti. Lütfen bu sorunu rapor edin.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-	  <value>Fatal error</value>
+	  <value>Kritik Hata</value>
   </data>
 </root>
