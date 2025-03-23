@@ -319,7 +319,7 @@
     <value>84</value>
   </data>
   <data name="checkBox4.Text" xml:space="preserve">
-    <value>Download or update ReShade config [ReShade.ini] *</value>
+    <value>ReShade yapılandırmasını indirin veya güncelleyin [ReShade.ini] *</value>
   </data>
   <data name="&gt;&gt;checkBox4.Name" xml:space="preserve">
     <value>checkBox4</value>
@@ -352,7 +352,7 @@
     <value>85</value>
   </data>
   <data name="checkBox5.Text" xml:space="preserve">
-    <value>Download or update FPS Unlocker config *</value>
+    <value>FPS Unlocker yapılandırmasını indirin veya güncelleyin *</value>
   </data>
   <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
     <value>checkBox5</value>
@@ -385,7 +385,7 @@
     <value>86</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>Delete ReShade cache</value>
+    <value>ReShade önbelleğini sil</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -415,7 +415,7 @@
     <value>87</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Welcome to the configuration window</value>
+    <value>Yapılandırma penceresine hoş geldiniz</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -448,8 +448,8 @@
     <value>88</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>It seems that this is your first run or you have just successfully updated the program.
-Congratulations! Now let's proceed to complete the final steps. Please select the appropriate fields.</value>
+    <value>Görünen o ki bu ilk çalıştırmanız ya da programı başarıyla güncelleştirdiniz.
+Tebrikler! Şimdi son işlemleri tamamlamaya devam edelim. Lütfen uygun alanları seçiniz.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
