@@ -628,7 +628,7 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Kısayolları oluşturun veya güncelleyin</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
     <value>Stella Mod Başlatıcısı için kısayolları güncelleyin (görev çubuğundaki hariç). Stella Mod kısayolunu masaüstünüzden yanlışlıkla sildiyseniz ve geri yüklemek istiyorsanız yararlıdır.</value>
