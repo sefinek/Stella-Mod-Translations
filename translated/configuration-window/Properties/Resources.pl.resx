@@ -125,19 +125,19 @@
     <value>..\Resources\cat-white_52x52.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
-    <value>Required file '{0}' was not found.
+    <value>Wymagany plik '{0}' nie został znaleziony.
 
-Please reinstall this app or join our Discord server.</value>
+Zainstaluj ponownie tę aplikację lub dołącz do naszego serwera Discord.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>The Stella resources directory was not found on your computer, so you cannot uncheck the checkbox.</value>
+    <value>Katalog zasobów Stella nie został znaleziony na Twoim komputerze, dlatego nie możesz odznaczyć tego pola wyboru.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-	  <value>Sorry, but something went wrong. Please report this issue.
+	  <value>Przepraszamy, ale coś poszło nie tak. Prosimy o zgłoszenie tego błędu.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-	  <value>Fatal error</value>
+	  <value>Fatalny błąd</value>
   </data>
 </root>
