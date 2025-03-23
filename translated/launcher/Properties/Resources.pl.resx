@@ -209,7 +209,7 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Tło aplikacji zostało zmienione na domyślne. Identyfikator: {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
-    <value>The shortcuts have been successfully updated or created.</value>
+    <value>Skróty zostały pomyślnie zaktualizowane lub utworzone.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Nie znaleziono pliku {0}.</value>
