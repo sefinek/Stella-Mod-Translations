@@ -208,8 +208,8 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>Uygulama arka planı varsayılan olarak değiştirildi. ID: {0}</value>
   </data>
-  <data name="Tools_TheShortcutHasBeenSuccessfullyCreated" xml:space="preserve">
-    <value>Kısayol başarıyla oluşturuldu.</value>
+  <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
+    <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Dosya {0} bulunamadı.</value>
