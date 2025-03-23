@@ -208,8 +208,8 @@
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
     <value>Фон приложения был изменён на стандартный. Идентификатор: {0}</value>
   </data>
-  <data name="Tools_TheShortcutHasBeenSuccessfullyCreated" xml:space="preserve">
-    <value>Ярлык был успешно создан.</value>
+  <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
+    <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Файл {0} не был найден.</value>
