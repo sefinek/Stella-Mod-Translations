@@ -631,7 +631,7 @@
     <value>Stwórz lub zaktualizuj skróty</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Zaktualizuj skróty do Stella Mod Launcher (z wyjątkiem tego na pasku zadań). Przydatne, jeśli przypadkowo usunąłeś skrót Stella Mod z pulpitu i chcesz go przywrócić.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
