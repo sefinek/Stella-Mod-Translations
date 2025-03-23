@@ -136,7 +136,7 @@
     <value>0</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>&gt;&gt; I am ready to continue &lt;&lt;</value>
+    <value>&gt;&gt; Devam etmeye hazırım &lt;&lt;</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -552,7 +552,7 @@ However, your presets and other custom shaders will not be removed.</value>
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled. If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Yıldız (*) ile işaretlenmiş bölümlerin işaretlenmesi tavsiye edilir. Ne yaptığınız konusunda emin değilseniz, hiçbir alanın işaretini kaldırmayın.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
