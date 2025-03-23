@@ -485,7 +485,7 @@ Tebrikler! Şimdi son işlemleri tamamlamaya devam edelim. Lütfen uygun alanlar
     <value>89</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Download or update resources (shaders, presets, addons) *</value>
+    <value>Kaynakları yükleyin veya güncelleyin (gölgelendiriciler, hazır ayarlar, eklentiler) *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -515,8 +515,8 @@ Tebrikler! Şimdi son işlemleri tamamlamaya devam edelim. Lütfen uygun alanlar
     <value>90</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>You should keep in mind that previous configurations may be lost, including ReShade and FPS Unlocker.
-However, your presets and other custom shaders will not be removed.</value>
+    <value>ReShade ve FPS Unlocker dahil olmak üzere önceki yapılandırmaların silineceğini unutmayın.
+Ancak hazır ayarlarınız ve diğer özel gölgelendiricileriniz silinmeyecektir.</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
