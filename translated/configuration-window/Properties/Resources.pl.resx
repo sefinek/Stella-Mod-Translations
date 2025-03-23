@@ -127,10 +127,10 @@
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
     <value>Wymagany plik '{0}' nie został znaleziony.
 
-Zainstaluj ponownie tę aplikację lub dołącz do naszego serwera Discord.</value>
+Zainstaluj ponownie tę aplikację lub dołącz na nasz serwer Discord.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Katalog zasobów Stella nie został znaleziony na Twoim komputerze, dlatego nie możesz odznaczyć tego pola wyboru.</value>
+    <value>Katalog zasobów Stella nie został znaleziony na Twoim komputerze, więc nie możesz odznaczyć tego pola wyboru.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
 	  <value>Przepraszamy, ale coś poszło nie tak. Prosimy o zgłoszenie tego błędu.
