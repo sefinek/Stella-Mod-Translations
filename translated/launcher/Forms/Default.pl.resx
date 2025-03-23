@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Dołącz do naszego serwera Discord, jeśli potrzebujesz pomocy lub masz jakieś pytania</value>
+    <value>Dołącz na nasz serwer Discord, jeśli potrzebujesz pomocy lub masz jakieś pytania</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
