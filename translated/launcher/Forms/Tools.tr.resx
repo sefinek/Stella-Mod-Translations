@@ -628,10 +628,10 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Kısayolları oluşturun veya güncelleyin</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Stella Mod Başlatıcısı için kısayolları güncelleyin (görev çubuğundaki hariç). Stella Mod kısayolunu masaüstünüzden yanlışlıkla sildiyseniz ve geri yüklemek istiyorsanız yararlıdır.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
