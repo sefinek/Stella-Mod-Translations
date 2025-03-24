@@ -295,8 +295,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Full build: v{0}
-Installed version: v{1}</value>
+    <value>Tam sürüm: v{0}
+Yüklenen sürüm: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -606,7 +606,7 @@ Installed version: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Completely disable WebView2 *</value>
+    <value>WebView2'yi komple devre dışı bırak *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
