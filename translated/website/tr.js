@@ -320,7 +320,7 @@ exports.subscription = {
   5: {
    name: 'Sevimli Kedicik',
    description:
-    "Daha düşük kademelerde sunulan tüm avantajlara erişim sağlar ve ayrıca birden fazla cihazda etkinleştirmeye izin verir. Stella Mod'un yaratıcısının çalışmalarını takdir eden ve daha fazla gelişmeyi ve projenin sunucu altyapısını desteklemek isteyen oyuncular için idealdir.",
+    "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
   },
  },
  UnknownBenefit: 'Bilinmeyen avantaj',
