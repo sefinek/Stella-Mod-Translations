@@ -703,10 +703,10 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Önbelleği temizle</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>ReShade'i otomatik olarak ayarlayın ve uygun klasör yollarını yapılandırın</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -1144,7 +1144,7 @@
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Çeşitli</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
