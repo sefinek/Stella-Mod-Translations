@@ -142,6 +142,6 @@ Selected path:
 {0}</value>
   </data>
   <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Please select the correct file.</value>
+    <value>Vänligen välj rätt fil.</value>
   </data>
 </root>
