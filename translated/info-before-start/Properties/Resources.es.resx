@@ -122,7 +122,7 @@
     <value>..\Resources\angry-paimon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
-    <value>This information will disappear in {0}s...</value>
+    <value>Esta información desaparecerá en {0}s...</value>
   </data>
   <data name="paimonpeek" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paimonpeek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -131,7 +131,7 @@
     <value>Error</value>
   </data>
   <data name="Closing" xml:space="preserve">
-    <value>Closing...</value>
+    <value>Cerrando...</value>
   </data>
   <data name="partycat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\partycat.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
