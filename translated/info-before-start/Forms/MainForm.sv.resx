@@ -275,7 +275,7 @@ Genom att följa dessa regler kan du använda Stella Mod på ett säkert sätt. 
     <value>7</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>By using this software, the user agrees to comply with the guidelines.</value>
+    <value>Genom att använda denna programvara godkänner användaren att följa riktlinjerna.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -509,7 +509,7 @@ Genom att följa dessa regler kan du använda Stella Mod på ett säkert sätt. 
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>Läs innan du spelar</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
