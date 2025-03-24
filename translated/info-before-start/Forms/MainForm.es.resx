@@ -509,7 +509,7 @@ By following these rules, you can enjoy using Stella Mod safely. Have fun!</valu
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>Lee antes de jugar</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
