@@ -319,7 +319,7 @@
     <value>84</value>
   </data>
   <data name="checkBox4.Text" xml:space="preserve">
-    <value>Download or update ReShade config [ReShade.ini] *</value>
+    <value>Ladda ner eller uppdatera ReShade-konfigurationen [ReShade.ini] *</value>
   </data>
   <data name="&gt;&gt;checkBox4.Name" xml:space="preserve">
     <value>checkBox4</value>
@@ -352,7 +352,7 @@
     <value>85</value>
   </data>
   <data name="checkBox5.Text" xml:space="preserve">
-    <value>Download or update FPS Unlocker config *</value>
+    <value>Ladda ner eller uppdatera FPS-upplåsarens konfiguration *</value>
   </data>
   <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
     <value>checkBox5</value>
@@ -485,7 +485,7 @@ Grattis! Nu går vi vidare till de sista stegen. Vänligen välj de lämpliga f�
     <value>89</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Download or update resources (shaders, presets, addons) *</value>
+    <value>Ladda ner eller uppdatera resurser (shaders, förinställningar, tillägg)*</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
