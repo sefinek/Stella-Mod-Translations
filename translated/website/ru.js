@@ -322,7 +322,7 @@ exports.subscription = {
   5: {
    name: 'Милая кошечка',
    description:
-    'Предоставляет доступ ко всем преимуществам, предлагаемым на нижних уровнях, а также позволяет активировать их на большинстве устройств. Идеально подходит для игроков, которые ценят работу создателя Stella Mod и хотят поддержать дальнейшее развитие и серверную инфраструктуру проекта.',
+    "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
   },
  },
  UnknownBenefit: 'Неизвестная польза',
