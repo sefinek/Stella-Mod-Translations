@@ -235,7 +235,7 @@ exports.stats = {
   'Denna sektion ger en omfattande översikt över kryptografiska aktiviteter i våra system och presenterar statistiska data om krypterings- och dekrypteringsprocesser. Besökare kan utforska diagram som visar frekvensen och framgångsraten för kryptografiska operationer under olika tidsperioder. Kryptografi spelar en avgörande roll för att säkra applikationer och kommunikationer genom att säkerställa datasekretess, integritet och äkthet, vilket skyddar mot obehörig åtkomst och cyberhot. Det är avgörande för att skydda digitala transaktioner och upprätthålla integriteten för känslig information.',
  Encryption: '🧶Kryptering',
  Decryption: '🔧 Dekryptering',
- Misc: '🧵blandat',
+ Misc: '🧵 Misc',
  PerOneHour: 'Per timme',
  PerOneDay: 'Per dag',
  PerOneMonth: 'Per månad',
