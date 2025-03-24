@@ -321,7 +321,7 @@ exports.subscription = {
   5: {
    name: 'Söt kattunge',
    description:
-    "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
+    'Ger åtkomst till alla förmåner som erbjuds i lägre nivåer och tillåter även aktivering på flest enheter. Idealisk för spelare som uppskattar arbetet från Stella Mod-skaparen och vill stödja vidare utveckling och projektets serverinfrastruktur.',
   },
  },
  UnknownBenefit: 'Okänd förmån',
