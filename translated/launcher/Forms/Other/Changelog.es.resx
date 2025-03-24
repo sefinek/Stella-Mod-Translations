@@ -197,7 +197,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Changelog</value>
+    <value>Registro de cambios</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Changelog</value>
