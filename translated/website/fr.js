@@ -318,7 +318,7 @@ exports.subscription = {
   5: {
    name: 'Cute Kitty',
    description:
-    'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project’s server infrastructure.',
+    "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
   },
  },
  UnknownBenefit: 'Unknown benefit',
