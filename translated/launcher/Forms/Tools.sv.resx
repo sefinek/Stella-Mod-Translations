@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Verktyg och loggar &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -631,10 +631,10 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Skapa eller uppdatera genvägar</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Uppdatera genvägarna för Stella Mod Launcher (förutom den på aktivitetsfältet). Användbart om du råkat ta bort Stella Mod-genvägen från skrivbordet och vill återställa den.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
