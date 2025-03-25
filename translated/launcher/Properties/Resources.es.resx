@@ -125,13 +125,13 @@ We apologize for any inconvenience, but it is necessary to install every new upd
 If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Ejecuta el launcher oficial de Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>Buscando actualizaciones...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>¡Éxito!</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -144,13 +144,13 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
     <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Descargando actualización para los beneficios... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Directorio</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
     <value>{0} Successfully downloaded or updated file: {1}</value>
@@ -159,7 +159,7 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
     <value>Deleted old setup file from temp directory.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>Leyendo la documentación</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
@@ -179,13 +179,13 @@ Do you want to download this dependency from the Microsoft website?</value>
     <value>Major version is available</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Buscar actualizaciones</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
     <value>Current background: Default</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>Haga clic aquí para actualizar</value>
   </data>
   <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -194,13 +194,13 @@ Do you want to download this dependency from the Microsoft website?</value>
     <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>Página web oficial</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
-    <value>Online: {0}</value>
+    <value>En línea: {0}</value>
   </data>
   <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>File was not found.</value>
+    <value>No se ha encontrado el archivo.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Sorry. Background {0} was not found.</value>
@@ -212,7 +212,7 @@ Do you want to download this dependency from the Microsoft website?</value>
     <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>File {0} was not found.</value>
+    <value>No se encontró el archivo '{0}'.</value>
   </data>
   <data name="Main_ClosingForm_" xml:space="preserve">
     <value>Closing form {0}...</value>
@@ -251,7 +251,7 @@ Do you want to download this dependency from the Microsoft website?</value>
     <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Downloading update... {0} / {1}</value>
+    <value>Descargando actualización... {0} / {1}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
     <value>Browsing the gallery</value>
@@ -304,7 +304,7 @@ Do you want to download this dependency from the Microsoft website?</value>
     <value>New update available</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
-    <value>Playing: {0}</value>
+    <value>Jugando: {0}</value>
   </data>
   <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
     <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
@@ -397,9 +397,6 @@ Do you want to download this dependency from the Microsoft website?</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
     <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
-  </data>
-  <data name="NormalRelease_SomethingWentWrong" xml:space="preserve">
-    <value>Something went wrong???</value>
   </data>
   <data name="bg_donates" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bg_support-me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -874,5 +871,8 @@ New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
     <value>ReShade Shaders - v{0}.zip</value>
+  </data>
+  <data name="StellaResources_StellaResources_" xml:space="preserve">
+    <value>Stella Resources - v{0}.zip</value>
   </data>
 </root>
