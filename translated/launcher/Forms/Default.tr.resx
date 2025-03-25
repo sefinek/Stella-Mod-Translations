@@ -601,7 +601,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
+    <value>Genshin Impact'in kısa bir oynanış videosunu izleyin (ReShade, FPS Unlocker, 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -640,7 +640,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the list of Stella Plus subscribers</value>
+    <value>Stella Plus abonelerinin listesine bakın</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -725,7 +725,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the official game launcher</value>
+    <value>Resmi oyun başlatıcısını açın</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -803,7 +803,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>MiddleLeft</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
+    <value>Bazı bağlantılar. Bazıları yararlı, bazıları daha az yararlı ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -842,7 +842,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Open the folder with Stella's Resources</value>
+    <value>Stella Programının Dosyalarının bulunduğu klasörü açın</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -917,7 +917,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
+    <value>Genshin Impact'i modlarla güvenli bir şekilde çalıştırın. Stella Mod, oyunun bütünlüğünü ve kullanıcılarının güvenliğini korur.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -962,7 +962,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
+    <value>Sorularınız, önerileriniz veya yardıma gibi konuları paylaşmak isterseniz Discord sunucumuza katılın.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1001,7 +1001,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>Gölgelendiriciler</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
+    <value>ReShade grafiksel iyileştirmeler (kullanıma hazır ön ayarlar) ve daha fazlasını sağlar! Efektleri denemek için oyun içindeyken klavyenizdeki Home tuşuna basın.</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1043,7 +1043,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>FPS sınırını kaldır</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>60 FPS sınırını kaldırın ve oyununuzun her zamankinden daha akıcı olmasını sağlayın! Özellikle 60 Hz'den daha yüksek yenileme hızına sahip bir monitör kullanıyorsanız kullanışlıdır.</value>
   </data>
   <data name="unlockFps_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1085,7 +1085,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>Daha fazla mod</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
+    <value>Oyununuzdan daha fazla keyif almak ister misiniz? Her zamankinden daha heyecanlı ve daha iyi bir hale getirin! Tercihlerinize göre hazırlanmış modları tamamen güvenli bir şekilde ekleyebilirsiniz. GIMI kullanmıyoruz.</value>
   </data>
   <data name="migoto_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
