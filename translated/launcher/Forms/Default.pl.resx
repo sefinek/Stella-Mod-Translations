@@ -330,6 +330,9 @@
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
   </data>
+  <data name="githubUrl_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
     <value>Główne repozytorium GitHub. Oznacz je gwiazdką, jeśli podoba Ci się to oprogramowanie.</value>
   </data>
@@ -463,16 +466,19 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="tools_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 688</value>
+    <value>217, 688</value>
   </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="tools_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
     <value>Narzędzia</value>
+  </data>
+  <data name="tools_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
     <value>Narzędzia oraz logi</value>
@@ -580,10 +586,10 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="gameplay_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>523, 688</value>
+    <value>555, 688</value>
   </data>
   <data name="gameplay_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="gameplay_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>78</value>
@@ -591,8 +597,11 @@
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
     <value>Rozgrywka</value>
   </data>
+  <data name="gameplay_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Obejrzyj rozgrywkę</value>
+    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -631,7 +640,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Wyświetl listę subskrybentów Stella Plus</value>
+    <value>View the list of Stella Plus subscribers</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -716,7 +725,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Otwórz główny program uruchamiający grę</value>
+    <value>Open the official game launcher</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -779,10 +788,10 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="links_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>365, 688</value>
+    <value>386, 688</value>
   </data>
   <data name="links_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
@@ -790,8 +799,11 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
   <data name="links_LinkLabel.Text" xml:space="preserve">
     <value>Linki</value>
   </data>
+  <data name="links_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Linki do różnych stron</value>
+    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -815,10 +827,10 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>NoControl</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>681, 688</value>
+    <value>720, 688</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>118</value>
@@ -826,8 +838,11 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Zasoby</value>
   </data>
+  <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Przejdź do zasobów Stelli</value>
+    <value>Open the folder with Stella's Resources</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -851,16 +866,19 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>NoControl</value>
   </data>
   <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 688</value>
+    <value>48, 688</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>120</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Ustawienia</value>
+  </data>
+  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
     <value>Otwórz ustawienia</value>
@@ -899,7 +917,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Uruchom Genshin Impact z modami całkowicie bezpiecznie!</value>
+    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -944,7 +962,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Wesprzyj ten projekt. Stella Mod otrzymuje regularne aktualizacje tylko dzięki wspierającym.</value>
+    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -983,7 +1001,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Shadery</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade zapewnia ulepszenia graficzne (nasze gotowe presety) i nie tylko! Naciśnij klawisz Home na klawiaturze w grze, aby tworzyć własne ustawienia wstępne!</value>
+    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1025,7 +1043,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Odblokuj FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Odblokowuje limit 60 klatek na sekundę. Przydatne, jeśli posiadasz monitor z częstotliwością odświeżania wyższą niż 60 Hz.</value>
+    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
   </data>
   <data name="unlockFps_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1067,7 +1085,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Więcej modów</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Uczyń swoją grę jeszcze ciekawszą i lepszą! Dodaj różne mody do gry zgodnie z własnymi preferencjami. Całkowicie bezpiecznie!</value>
+    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
   </data>
   <data name="migoto_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1133,10 +1151,10 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1057, 457</value>
+    <value>1059, 462</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>223, 52</value>
+    <value>223, 49</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>124</value>
@@ -1146,7 +1164,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
 {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>BottomRight</value>
+    <value>MiddleRight</value>
   </data>
   <data name="label2.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1167,7 +1185,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Bottom, Left</value>
   </data>
   <data name="toolsIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 688</value>
+    <value>181, 688</value>
   </data>
   <data name="toolsIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1374,7 +1392,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Bottom, Left</value>
   </data>
   <data name="padIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 688</value>
+    <value>519, 688</value>
   </data>
   <data name="padIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1431,7 +1449,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Bottom, Left</value>
   </data>
   <data name="shortcutIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>329, 688</value>
+    <value>350, 688</value>
   </data>
   <data name="shortcutIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1548,7 +1566,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>645, 688</value>
+    <value>684, 688</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1578,7 +1596,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>NoControl</value>
   </data>
   <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 688</value>
+    <value>12, 688</value>
   </data>
   <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
