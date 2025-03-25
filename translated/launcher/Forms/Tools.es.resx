@@ -148,7 +148,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Cerrar</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Herramientas y registros &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -394,7 +394,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Log files</value>
+    <value>Archivos de registro</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -427,7 +427,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Config files</value>
+    <value>Archivos de configuración</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -592,10 +592,10 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Abre la ventana de configuración</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Reconfigurar el Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -631,10 +631,10 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Crear o actualizar accesos directos</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Actualiza los accesos directos para el Stella Mod Launcher (excepto el de la barra de tareas). Útil si accidentalmente eliminaste el acceso directo de Stella Mod en tu escritorio y deseas restaurarlo.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -667,10 +667,10 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Configurar ReShade</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Configura ReShade automáticamente y establece las rutas de directorio apropiadas</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -703,10 +703,10 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Borrar el caché</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Configura ReShade automáticamente y establece las rutas de directorio apropiadas</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -826,7 +826,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Ver directorio</value>
   </data>
   <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
     <value>InnoSetupLogs</value>
@@ -1048,7 +1048,7 @@
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
+    <value>Archivo d3dx.ini de 3DMigoto</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -1114,7 +1114,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>Archivo d3dx_user.ini de 3DMigoto</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -1144,7 +1144,7 @@
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Misceláneo</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1207,7 +1207,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Herramientas</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
