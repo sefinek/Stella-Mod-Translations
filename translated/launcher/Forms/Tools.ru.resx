@@ -526,7 +526,7 @@
     <value>92</value>
   </data>
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
-    <value>Разблокировщик кадров в секунду</value>
+    <value>FPS Unlocker</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
     <value>unlocker.config.json</value>
