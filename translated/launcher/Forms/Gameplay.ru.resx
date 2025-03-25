@@ -126,10 +126,10 @@
     <value>Comic Sans MS, 12pt</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>559, 70</value>
+    <value>518, 70</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>261, 28</value>
+    <value>314, 28</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
@@ -163,17 +163,17 @@
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 572</value>
+    <value>22, 567</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>790, 66</value>
+    <value>810, 66</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>93</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Если у вас возникнут какие-либо вопросы или будут предложения, присоединяйтесь к моему Discord.
-Спасибо, что используете Stella. Поддержите меня, если сочтёте это полезным. Наслаждайтесь!</value>
+    <value>If you encounter any issues or have suggestions, don't hesitate to join our Discord server.
+Thank you for using Stella Mod. Support this project voluntarily if you wish. Have fun!</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -190,9 +190,6 @@
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
@@ -200,10 +197,10 @@
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>255, 641</value>
+    <value>274, 636</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>340, 29</value>
+    <value>306, 29</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>95</value>
@@ -214,8 +211,11 @@
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Прочитать документацию</value>
+    <value>Read the documentation</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -236,10 +236,10 @@
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>601, 641</value>
+    <value>586, 636</value>
   </data>
   <data name="linkLabel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 29</value>
+    <value>246, 29</value>
   </data>
   <data name="linkLabel3.TabIndex" type="System.Int32, mscorlib">
     <value>96</value>
@@ -272,10 +272,10 @@
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 641</value>
+    <value>22, 636</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 29</value>
+    <value>246, 29</value>
   </data>
   <data name="linkLabel4.TabIndex" type="System.Int32, mscorlib">
     <value>97</value>
@@ -301,9 +301,6 @@
   <data name="&gt;&gt;linkLabel4.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -341,10 +338,10 @@
     <value>Top, Bottom, Left, Right</value>
   </data>
   <data name="webView21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 101</value>
+    <value>22, 101</value>
   </data>
   <data name="webView21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>790, 460</value>
+    <value>810, 460</value>
   </data>
   <data name="webView21.TabIndex" type="System.Int32, mscorlib">
     <value>101</value>
