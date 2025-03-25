@@ -1040,7 +1040,7 @@
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Разблокировать кадры в секунду</value>
+    <value>Снять ограничение FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
     <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
