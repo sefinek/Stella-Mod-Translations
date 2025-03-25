@@ -207,7 +207,7 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
     <value>Applikationens bakgrund har ändrats till standard. ID: {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
-    <value>The shortcuts have been successfully updated or created.</value>
+    <value>Genvägarna har uppdaterats eller skapats framgångsrikt.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Filen {0} hittades inte.</value>

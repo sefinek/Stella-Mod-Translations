@@ -125,19 +125,18 @@
     <value>..\Resources\cat-white_52x52.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
-    <value>Required file '{0}' was not found.
-
-Please reinstall this app or join our Discord server.</value>
+    <value>Den nödvändiga filen '{0}' hittades inte.
+Vänligen installera om denna app eller gå med i vår Discord-server.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>The Stella resources directory was not found on your computer, so you cannot uncheck the checkbox.</value>
+    <value>Stella-resurskatalogen hittades inte på din dator, så du kan inte avmarkera kryssrutan.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-	  <value>Sorry, but something went wrong. Please report this issue.
+	  <value>Tyvärr, något gick fel. Vänligen rapportera detta problem.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-	  <value>Fatal error</value>
+	  <value>Kritiskt fel</value>
   </data>
 </root>
