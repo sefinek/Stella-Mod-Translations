@@ -216,6 +216,9 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="changeBg_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -237,9 +240,6 @@
   <data name="changeBg_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
     <value>Change the application background</value>
   </data>
@@ -329,6 +329,9 @@
   </data>
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
     <value>github.com/sefinek/Genshin-Impact-ReShade</value>
+  </data>
+  <data name="githubUrl_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
     <value>Main GitHub repository. Star it if you like this software.</value>
@@ -453,6 +456,9 @@
   <data name="&gt;&gt;githubIco_Picturebox.ZOrder" xml:space="preserve">
     <value>37</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="tools_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
@@ -460,16 +466,19 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="tools_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 688</value>
+    <value>217, 688</value>
   </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="tools_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
     <value>Tools</value>
+  </data>
+  <data name="tools_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
     <value>Tools and logs</value>
@@ -577,10 +586,10 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="gameplay_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>523, 688</value>
+    <value>555, 688</value>
   </data>
   <data name="gameplay_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="gameplay_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>78</value>
@@ -588,8 +597,11 @@
   <data name="gameplay_LinkLabel.Text" xml:space="preserve">
     <value>Gameplay</value>
   </data>
+  <data name="gameplay_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch gameplay</value>
+    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -628,7 +640,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the subscriber list for Stella Plus</value>
+    <value>View the list of Stella Plus subscribers</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -713,7 +725,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the main game launcher</value>
+    <value>Open the official game launcher</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -776,10 +788,10 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="links_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>365, 688</value>
+    <value>386, 688</value>
   </data>
   <data name="links_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
@@ -787,8 +799,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="links_LinkLabel.Text" xml:space="preserve">
     <value>Links</value>
   </data>
+  <data name="links_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links</value>
+    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -812,10 +827,10 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>681, 688</value>
+    <value>720, 688</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>118</value>
@@ -823,8 +838,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Resources</value>
   </data>
+  <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Go to Stella's resources</value>
+    <value>Open the folder with Stella's Resources</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -848,16 +866,19 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 688</value>
+    <value>48, 688</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 30</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>120</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Settings</value>
+  </data>
+  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
     <value>Open the settings</value>
@@ -896,7 +917,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Launch Genshin Impact with mods completely safely!</value>
+    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -941,7 +962,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Support this project. Stella Mod receives regular updates only thanks to its supporters.</value>
+    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -980,7 +1001,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-made presets) and more! Press the Home key on your keyboard in-game to create your own presets!</value>
+    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
   </data>
   <data name="reshade_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1022,7 +1043,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Unlock FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlocks the 60 FPS limit. Useful if you have a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
   </data>
   <data name="unlockFps_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1064,7 +1085,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>More mods</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Make your game even more interesting and better! Add various mods to the game according to your preferences. Completely safely!</value>
+    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
   </data>
   <data name="migoto_checkBox.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1130,10 +1151,10 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1057, 457</value>
+    <value>1059, 462</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>223, 52</value>
+    <value>223, 49</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>124</value>
@@ -1143,7 +1164,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
 {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>BottomRight</value>
+    <value>MiddleRight</value>
   </data>
   <data name="label2.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1164,7 +1185,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="toolsIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 688</value>
+    <value>181, 688</value>
   </data>
   <data name="toolsIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1371,7 +1392,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="padIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>487, 688</value>
+    <value>519, 688</value>
   </data>
   <data name="padIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1428,7 +1449,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="shortcutIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>329, 688</value>
+    <value>350, 688</value>
   </data>
   <data name="shortcutIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1545,7 +1566,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>645, 688</value>
+    <value>684, 688</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1575,7 +1596,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 688</value>
+    <value>12, 688</value>
   </data>
   <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
