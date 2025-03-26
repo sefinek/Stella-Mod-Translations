@@ -334,7 +334,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Główne repozytorium GitHub. Oznacz je gwiazdką, jeśli podoba Ci się to oprogramowanie.</value>
+    <value>Główne repozytorium na GitHubie. Oznacz je gwiazdką, jeśli podoba Ci się to oprogramowanie.</value>
   </data>
   <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
     <value>githubUrl_LinkLabel</value>
@@ -1596,7 +1596,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>122</value>
   </data>
   <data name="webView21.ToolTip" xml:space="preserve">
-    <value>Number of times the Stella Mod Launcher application has been launched</value>
+    <value>Liczba uruchomień aplikacji Stella Mod Launcher</value>
   </data>
   <data name="webView21.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
