@@ -459,15 +459,15 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
     <value>Nowa aktualizacja zasobów jest dostępna z {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Cześć! Wygląda na to, że widzimy się po raz pierwszy! Poświęć chwilę na zapoznanie się z warunkami użytkowania oraz wytycznymi dotyczącymi tego oprogramowania, aby uniknąć ewentualnych problemów. Dokumentacja jest dostępna na naszej oficjalnej stronie internetowej. Korzystając ze Stella Mod, akceptujesz zasady opisane w dokumentacji.
+    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
 
-To oprogramowanie jest stale wspierane przez dewelopera dzięki subskrybentom Stella Mod Plus. Przychody pomagają pokryć koszty internetu światłowodowego oraz rachunków za prąd. Serwer API jest hostowany w prywatnym domu w Polsce, co oznacza, że lokalny administrator jest jedynym właścicielem bazy danych. Genshin Stella Mod stawia na prywatność i bezpieczeństwo użytkowników - żadne dane analityczne ani sprzętowe nie są nigdy wysyłane bez Twojej zgody.
+This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security – no analytical or hardware data is ever sent without your consent.
 
-Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. Pamiętaj tylko, aby nie używać cheatów w grze. Jeśli potrzebujesz pomocy, dołącz na nasz serwer Discord lub napisz na contact@sefinek.net.
+Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
 
-Pamiętaj również, że Stella Mod jest całkowicie niezależny i NIE jest w ŻADEN sposób powiązany z firmą HoYoverse. Jeśli podoba Ci się ten projekt, rozważ wsparcie jego dalszego rozwoju poprzez subskrypcję Stella Mod Plus.
+Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
 
-Dzięki i do zobaczenia w grze! Baw się dobrze.</value>
+Thanks, and see you in the game! Have fun.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Katalog {0} nie został odnaleziony.</value>
