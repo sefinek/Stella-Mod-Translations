@@ -606,7 +606,7 @@ Yüklenen sürüm: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Enable WebView2 *</value>
+    <value>WebView2'yi Etkinleştir *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
