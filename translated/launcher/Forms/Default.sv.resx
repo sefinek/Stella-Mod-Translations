@@ -598,7 +598,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
+    <value>Titta på ett kort gameplay från Genshin Impact med (ReShade, FPS-upplåsaren och 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -637,7 +637,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the list of Stella Plus subscribers</value>
+    <value>Visa listan över Stella Plus-prenumeranter</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -758,7 +758,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleLeft</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
+    <value>Några länkar. Vissa användbara, andra mindre så ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -797,7 +797,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Open the folder with Stella's Resources</value>
+    <value>Öppna mappen med Stellas resurser</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -878,7 +878,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
+    <value>Gå med i vår Discord-server om du behöver hjälp, har frågor eller vill dela med dig av förslag.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -920,7 +920,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
+    <value>Kör Genshin Impact med moddar på ett säkert sätt. Stella Mod säkerställer spelets integritet och användarnas säkerhet.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -956,7 +956,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the official game launcher</value>
+    <value>Öppna den officiella spellaunchern</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -992,7 +992,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Fler moddar</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
+    <value>Vill du njuta ännu mer av ditt spel? Gör det mer spännande och bättre än någonsin! Lägg till moddar anpassade efter dina preferenser – helt säkert. Vi använder inte GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
@@ -1025,7 +1025,8 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Lås upp FPS:en</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>Lås upp 60 FPS-gränsen och få spelet att flyta smidigare än någonsin tidigare!
+Särskilt användbart om du använder en skärm med en uppdateringsfrekvens högre än 60 Hz.</value>
   </data>
   <data name="&gt;&gt;unlockFps_checkBox.Name" xml:space="preserve">
     <value>unlockFps_checkBox</value>
@@ -1055,7 +1056,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
+    <value>ReShade ger grafiska förbättringar (våra färdiga förinställningar) och mer! Tryck på Home-tangenten på ditt tangentbord medan du är i spelet för att experimentera med utseendet.</value>
   </data>
   <data name="&gt;&gt;reshade_checkBox.Name" xml:space="preserve">
     <value>reshade_checkBox</value>
