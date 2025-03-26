@@ -600,13 +600,13 @@ Zainstalowana wersja: v{1}</value>
     <value>2, 2, 2, 2</value>
   </data>
   <data name="checkBox7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>244, 28</value>
+    <value>161, 28</value>
   </data>
   <data name="checkBox7.TabIndex" type="System.Int32, mscorlib">
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Całkowicie wyłącz WebView2 *</value>
+    <value>Włącz WebView2 *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
