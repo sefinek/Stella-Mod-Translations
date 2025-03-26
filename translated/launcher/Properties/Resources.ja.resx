@@ -885,7 +885,7 @@ New version: v{2}</value>
   <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
     <value>Removed {0} additional file(s), freeing up {1} of space.</value>
   </data>
-  <data name="Default_SubscribeToStellaPlusToTakeYourGameToTheNextLevel" xml:space="preserve">
-    <value>Subscribe to Stella Plus to take your game to the next level! Use ReShade, FPS Unlocker, and 3DMigoto all at once (we don't use GIMI), plus many more benefits!</value>
+  <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
+    <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don’t use GIMI), and unlock even more exclusive benefits.</value>
   </data>
 </root>
