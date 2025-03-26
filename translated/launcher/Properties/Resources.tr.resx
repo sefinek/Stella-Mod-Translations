@@ -868,15 +868,24 @@ Yeni sürüm: v{2}</value>
     <value>Stellanın Kaynakları - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
-    <value>Clearing the cache (this may take a while)...</value>
+    <value>Önbellek temizleniyor (bu biraz zaman alabilir)...</value>
   </data>
   <data name="Default_AfterEachUpdateClearingTheCacheIsRequired" xml:space="preserve">
-    <value>After each update, clearing the cache is required.</value>
+    <value>Her güncellemeden sonra önbelleğin temizlenmesi gereklidir.</value>
   </data>
   <data name="Default_Deleted_FileCountFilesSavingATotalOf_" xml:space="preserve">
-    <value>Deleted {0} file(s), saving a total of {1}.</value>
+    <value>{0} dosya(lar) ı silerek toplamda {1} alan elde edildi.</value>
   </data>
   <data name="Default_DoneFinishingUp" xml:space="preserve">
-    <value>Done! Finishing up...</value>
+    <value>Tamamdır! Sonlandırılıyor...</value>
+  </data>
+  <data name="Default_OldFilesFromAPreviousVersionOfStellaModHaveBeenDetected" xml:space="preserve">
+    <value>Old files from a previous version of Stella Mod have been detected. Would you like to remove them?</value>
+  </data>
+  <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
+    <value>Removed {0} additional file(s), freeing up {1} of space.</value>
+  </data>
+  <data name="Default_SubscribeToStellaPlusToTakeYourGameToTheNextLevel" xml:space="preserve">
+    <value>Subscribe to Stella Plus to take your game to the next level! Use ReShade, FPS Unlocker, and 3DMigoto all at once (we don't use GIMI), plus many more benefits!</value>
   </data>
 </root>
