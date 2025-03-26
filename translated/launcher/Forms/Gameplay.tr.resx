@@ -163,10 +163,10 @@
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 567</value>
+    <value>22, 564</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>810, 66</value>
+    <value>810, 69</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>93</value>
@@ -176,7 +176,7 @@
 Stella Mod'u kullandığınız için teşekkür ederiz. Dilerseniz bu projeyi gönüllü olarak destekleyebilirsiniz. İyi eğlenceler!</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
+    <value>BottomCenter</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -197,7 +197,7 @@ Stella Mod'u kullandığınız için teşekkür ederiz. Dilerseniz bu projeyi g�
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 636</value>
+    <value>274, 640</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>306, 29</value>
@@ -236,7 +236,7 @@ Stella Mod'u kullandığınız için teşekkür ederiz. Dilerseniz bu projeyi g�
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>586, 636</value>
+    <value>586, 640</value>
   </data>
   <data name="linkLabel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>246, 29</value>
@@ -272,7 +272,7 @@ Stella Mod'u kullandığınız için teşekkür ederiz. Dilerseniz bu projeyi g�
     <value>Comic Sans MS, 14.25pt</value>
   </data>
   <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 636</value>
+    <value>22, 640</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
     <value>246, 29</value>
