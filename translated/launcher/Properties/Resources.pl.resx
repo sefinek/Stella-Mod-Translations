@@ -879,4 +879,13 @@ Nowa wersja: v{2}</value>
   <data name="Default_DoneFinishingUp" xml:space="preserve">
     <value>Gotowe! Trwa kończenie...</value>
   </data>
+  <data name="Default_OldFilesFromAPreviousVersionOfStellaModHaveBeenDetected" xml:space="preserve">
+    <value>Old files from a previous version of Stella Mod have been detected. Would you like to remove them?</value>
+  </data>
+  <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
+    <value>Removed {0} additional file(s), freeing up {1} of space.</value>
+  </data>
+  <data name="Default_SubscribeToStellaPlusToTakeYourGameToTheNextLevel" xml:space="preserve">
+    <value>Subscribe to Stella Plus to take your game to the next level! Use ReShade, FPS Unlocker, and 3DMigoto all at once (we don't use GIMI), plus many more benefits!</value>
+  </data>
 </root>
