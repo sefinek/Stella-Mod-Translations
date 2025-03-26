@@ -371,9 +371,6 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
     <value>Zmieniono tło programu uruchamiającego. Identyfikator: {0}</value>
   </data>
-  <data name="Default_ClickStartGameButtonToInjectReShadeFPSUnlockAnd3DMigoto" xml:space="preserve">
-    <value>Kliknij przycisk 'Uruchom grę', aby użyć ReShade, FPS Unlock i 3DMigoto.</value>
-  </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Nie znaleziono wymaganego pliku 'Configuration Window.exe'. Proszę ponownie zainstalować tę aplikację lub dołączyć do naszego serwera Discord, aby uzyskać pomoc.</value>
   </data>
@@ -458,30 +455,25 @@ Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
     <value>Przegląda ustawienia</value>
   </data>
-  <data name="LaunchCount_TheSimultaneousOfUseRSFU3DM" xml:space="preserve">
-    <value>Jednoczesne korzystanie z ReShade, 3DMigoto i FPS Unlock jest możliwe tylko dla subskrybentów Stella Mod Plus.</value>
-  </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
     <value>Nowa aktualizacja zasobów jest dostępna z {0}.</value>
   </data>
-  <data name="Default_ItLooksLikeYouAreLaunchingTheLauncherForTheFirstTime" xml:space="preserve">
-    <value>Witaj! Wygląda na to, że uruchamiasz launcher po raz pierwszy. Prosimy o zapoznanie się z warunkami użytkowania oraz wskazówkami dotyczącymi tej modyfikacji w oficjalnej dokumentacji, aby uniknąć ewentualnych problemów.
+  <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
+    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
 
-Oprogramowanie jest ciągle wspierane przez dewelopera dzięki subskrybentom Stella Plus. Dochody z subskrypcji pokrywają koszty internetu światłowodowego oraz rachunków za prąd. Serwer API jest hostowany w prywatnym domu na terenie Polski, co zapewnia, że lokalny administrator jest jedynym właścicielem danych. Gwarantuje to bezpieczeństwo przechowywanych danych sprzętowych twojego urządzenia, które są przetwarzane zgodnie z najwyższymi standardami prywatności. Stella Mod Launcher priorytetowo traktuje prywatność i bezpieczeństwo. Żadne dane analityczne nie są wysyłane na serwer bez twojej zgody.
+This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security – no analytical or hardware data is ever sent without your consent.
 
-Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. Pamiętaj jedynie, aby nie używać cheatów. Jeśli potrzebujesz pomocy, dołącz do naszego serwera Discord lub wyślij e-mail na adres contact@sefinek.net. Miłej zabawy!</value>
-  </data>
-  <data name="LaunchCount_ThankYouForYourGenerousSupport" xml:space="preserve">
-    <value>Serdecznie dziękuję za hojne wsparcie! Twój wkład wiele dla mnie znaczy. ~ Sefinek</value>
+Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
+
+Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
+
+Thanks, and see you in the game! Have fun.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Katalog {0} nie został odnaleziony.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
     <value>Pobieranie zasobów... {0} / {1}</value>
-  </data>
-  <data name="Default_ClickStartGameButtonToInjectReShadeAndUseFPSUnlock" xml:space="preserve">
-    <value>Kliknij przycisk 'Uruchom grę', aby wstrzyknąć ReShade i użyć FPS Unlockera.</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Pobieranie pliku instalacyjnego... {0} / {1}</value>
@@ -874,5 +866,17 @@ Nowa wersja: v{2}</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
     <value>Zasoby Stelli - v{0}.zip</value>
+  </data>
+  <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
+    <value>Clearing the cache (this may take a while)...</value>
+  </data>
+  <data name="Default_AfterEachUpdateClearingTheCacheIsRequired" xml:space="preserve">
+    <value>After each update, clearing the cache is required.</value>
+  </data>
+  <data name="Default_Deleted_FileCountFilesSavingATotalOf_" xml:space="preserve">
+    <value>Deleted {0} file(s), saving a total of {1}.</value>
+  </data>
+  <data name="Default_DoneFinishingUp" xml:space="preserve">
+    <value>Done! Finishing up...</value>
   </data>
 </root>
