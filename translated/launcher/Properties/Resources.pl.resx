@@ -883,7 +883,7 @@ Nowa wersja: v{2}</value>
     <value>Wykryto stare pliki z poprzedniej wersji Stella Mod. Czy chcesz je usunąć?</value>
   </data>
   <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
-    <value>Usunięto dodatkowo {0} plików, oszczędzając przy tym {0} przestrzeni dyskowej.</value>
+    <value>Usunięto dodatkowo {0} plików, oszczędzając przy tym {1} przestrzeni dyskowej.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
     <value>Dokonaj subskrybcji Stella Plus, aby wznieść swoją rozgrywkę na wyższy poziom! Korzystaj jednocześnie z ReShade, FPS Unlockera i 3DMigoto (nie używamy GIMI) i odblokuj jeszcze więcej ekskluzywnych korzyści.</value>
