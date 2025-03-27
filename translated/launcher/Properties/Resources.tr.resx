@@ -459,15 +459,15 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
     <value>Kaynakların yeni güncellemesi {0} adresinden edinilebilir.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
+    <value>Merhaba! Görünüşe göre birbirimizle ilk kez tanışıyoruz! Olası sorunlardan kaçınmak için lütfen bu programın kullanım koşullarını ve talimatlarını gözden geçirin. Belgeler resmi web sitemizde mevcuttur. Stella Mod'u kullanarak, belgelerde belirtilen şartları kabul etmiş sayılırsınız.
 
-This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security - no analytical or hardware data is ever sent without your consent.
+Bu program, Stella Mod Plus aboneleri sayesinde geliştirici tarafından sürekli olarak desteklenmektedir. Elde edilen gelir fiber-optik internet ve elektrik faturalarının karşılanmasına yardımcı olmaktadır. API sunucusu Polonya'da özel bir evde bulunmaktadır, bu da yerel yöneticinin veritabanının tek sahibi olduğu anlamına gelmektedir. Genshin Stella Mod kullanıcı gizliliğine ve güvenliğine öncelik verir - izniniz olmadan hiçbir analitik veya donanım verisi gönderilmez.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
+Stella Mod güvenli bir programdır, bu yüzden endişelenecek bir şey yok. Sadece oyunda hile kullanmamayı unutmayın. Yardıma ihtiyacınız olursa, Discord sunucumuza katılmaktan çekinmeyin veya contact@sefinek.net adresinden bizimle iletişime geçebilirsiniz.
 
-Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
+Ayrıca Stella Mod'un tamamen bağımsız olduğunu ve HoYoverse ile HİÇBİR şekilde bağlantılı OLMADIĞINI lütfen unutmayın. Bu projeyi beğendiyseniz, Stella Mod Plus'a abone olarak projenin daha fazla gelişmesine destek olabilirsiniz.
 
-Thanks, and see you in the game! Have fun.</value>
+Teşekkürler ve oyunda görüşmek üzere! İyi eğlenceler.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Klasör {0} bulunamadı.</value>
