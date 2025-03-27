@@ -886,6 +886,6 @@ Yeni sürüm: v{2}</value>
     <value>{0} ek dosya(lar) silinerek {1} alan boşaltıldı.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don't use GIMI), and unlock even more exclusive benefits.</value>
+    <value>Oyununuzu iyileştirmek için Stella Plus'a abone olun! ReShade, FPS Unlocker ve 3DMigoto'yu aynı anda kullanın (GIMI kullanmıyoruz) ve daha da özel faydaların kilidini açabilirsiniz.</value>
   </data>
 </root>
