@@ -131,10 +131,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="Default_Success" xml:space="preserve">
     <value>Lyckat!</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Vi har bytt namn på din resursmapp genom att lägga till '{0}' i slutet.</value>
   </data>
@@ -170,9 +166,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>I huvudfönstret</value>
   </data>
-  <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
     <value>En större version är tillgänglig</value>
   </data>
@@ -184,12 +177,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Klicka här för att uppdatera</value>
-  </data>
-  <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
     <value>Officiell webbplats</value>
@@ -215,23 +202,14 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="Main_ClosingForm_" xml:space="preserve">
     <value>Stänger formulär {0}...</value>
   </data>
-  <data name="icons8_github" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Tittar på andra videor</value>
   </data>
-  <data name="paimon_error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
     <value>Det är bara text. Vad mer vill du ha?</value>
-  </data>
-  <data name="icons8_recycle_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_recycle-bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
     <value>ReShade-tillägg har uppdaterats framgångsrikt för Stella Plus-prenumeranter.</value>
@@ -244,9 +222,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>Den nya versionen v{0} från {1} är tillgänglig! Vänligen uppdatera.</value>
-  </data>
-  <data name="icons8_notepad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
     <value>Laddar ner uppdatering... {0} / {1}</value>
@@ -262,12 +237,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Uppdateringsstorlek: {0}</value>
   </data>
-  <data name="bg_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_tools.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_gameplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_gameplay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Resurser har uppdaterats framgångsrikt.</value>
   </data>
@@ -279,9 +248,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
     <value>I fönstret med länkar</value>
-  </data>
-  <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Tråkigt... Misslyckades med att ladda ner ReShade.ini. Försök igen.</value>
@@ -317,18 +283,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
     <value>Laddar ner ny uppdatering... {0} MB av {1} MB / {2} MB/s</value>
   </data>
-  <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons_tools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
     <value>Filnedladdningen har avbrutits av användaren.</value>
   </data>
@@ -340,12 +294,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Uppdaterar. Vänligen vänta...</value>
-  </data>
-  <data name="icons8_animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_layers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_info_squared" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_squared.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Main_PleaseWait" xml:space="preserve">
     <value>Vänligen vänta...</value>
@@ -359,9 +307,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
     <value>ReShade.ini-filen har laddats ner framgångsrikt!</value>
-  </data>
-  <data name="icons8_shortcut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Spelar Genshin Impact</value>
@@ -381,9 +326,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="Default_FailedToDownload" xml:space="preserve">
     <value>Misslyckades med att ladda ner...</value>
   </data>
-  <data name="flaticon_log" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_log.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Avslutade från WebView2-webbläsaren</value>
   </data>
@@ -392,9 +334,6 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
     <value>3DMigoto har uppdaterats framgångsrikt för Stella Plus-prenumeranter.</value>
-  </data>
-  <data name="bg_donates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_support-me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
     <value>Du har den senaste versionen</value>
@@ -432,20 +371,11 @@ Vill du ladda ner denna beroende från Microsofts webbplats?</value>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
     <value>Loggar har laddats upp framgångsrikt</value>
   </data>
-  <data name="icons8_gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_gear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Allt är okej! Startar installationen...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
     <value>Den begärda åtgärden lyckades, men din dator behöver startas om.</value>
-  </data>
-  <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Tack för ditt stöd. Rekommendera Stella Mod till dina vänner. Ha en fantastisk dag!</value>
@@ -485,18 +415,6 @@ Tack, och vi ses i spelet – ha så kul!</value>
   <data name="NormalRelease_Output_" xml:space="preserve">
     <value>Utdata: {0}</value>
   </data>
-  <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
     <value>Något gick fel</value>
   </data>
@@ -514,9 +432,6 @@ Would you like to visit the official website and subscribe? You'll gain access t
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Shaderna har uppdaterats framgångsrikt till den senaste versionen för Stella Plus-prenumeranter.</value>
   </data>
-  <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
     <value>ReShade.ini-filen har uppdaterats framgångsrikt. Sökvägar till resursplatser har uppdaterats, och liknande ändringar har genomförts.
 
@@ -530,9 +445,6 @@ Nuvarande förinställning:
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
-  </data>
-  <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
     <value>Discord-server</value>
@@ -555,32 +467,14 @@ Nuvarande förinställning:
 
 Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
   </data>
-  <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="AnimeName" xml:space="preserve">
     <value>Anime-namn</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Tittar på gameplay</value>
   </data>
-  <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
     <value>Spellaunchen hittades inte i: {0}</value>
-  </data>
-  <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_open_folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Launcher har uppdaterats framgångsrikt till version: v{0}</value>
@@ -596,9 +490,6 @@ Vill du konfigurera om Stella Mod i konfigurationsfönstret?</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
     <value>Omstart krävs</value>
-  </data>
-  <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>Du har ingen aktiv Stella Plus-prenumeration.</value>
@@ -885,5 +776,8 @@ Ny version: v{2}</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
     <value>Prenumerera på Stella Plus för att lyfta din spelupplevelse! Använd ReShade, FPS-upplåsaren och 3DMigoto samtidigt (vi använder inte GIMI), och lås upp ännu fler exklusiva förmåner.</value>
+  </data>
+  <data name="Background_CurrentBackground_" xml:space="preserve">
+    <value>Current background: {0}</value>
   </data>
 </root>
