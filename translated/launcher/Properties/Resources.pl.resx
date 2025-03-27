@@ -780,6 +780,6 @@ Nowa wersja: v{2}</value>
     <value>Dokonaj subskrybcji Stella Plus, aby wznieść swoją rozgrywkę na wyższy poziom! Korzystaj jednocześnie z ReShade, FPS Unlockera i 3DMigoto (nie używamy GIMI) i odblokuj jeszcze więcej ekskluzywnych korzyści.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Obecne tło: {0}</value>
   </data>
 </root>
