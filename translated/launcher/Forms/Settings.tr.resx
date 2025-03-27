@@ -369,7 +369,7 @@ Yüklenen sürüm: v{1}</value>
     <value>132</value>
   </data>
   <data name="checkBox1.Text" xml:space="preserve">
-    <value>Background music on startup</value>
+    <value>Başlangıçta arkaplan müziği</value>
   </data>
   <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
     <value>checkBox1</value>
