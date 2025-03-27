@@ -780,6 +780,6 @@ Yeni sürüm: v{2}</value>
     <value>Oyununuzu iyileştirmek için Stella Plus'a abone olun! ReShade, FPS Unlocker ve 3DMigoto'yu aynı anda kullanın (GIMI kullanmıyoruz) ve daha da özel faydaların kilidini açabilirsiniz.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Mevcut arka plan: {0}</value>
   </data>
 </root>
