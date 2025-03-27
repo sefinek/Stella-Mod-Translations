@@ -456,9 +456,6 @@
   <data name="tools_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="tools_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="tools_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -466,7 +463,7 @@
     <value>217, 688</value>
   </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 28</value>
+    <value>127, 30</value>
   </data>
   <data name="tools_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
@@ -579,9 +576,6 @@
   <data name="gameplay_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="gameplay_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="gameplay_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -589,7 +583,7 @@
     <value>555, 688</value>
   </data>
   <data name="gameplay_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 28</value>
+    <value>127, 30</value>
   </data>
   <data name="gameplay_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>78</value>
@@ -742,9 +736,6 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
   <data name="links_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="links_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="links_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -752,7 +743,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>386, 688</value>
   </data>
   <data name="links_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 28</value>
+    <value>127, 30</value>
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
@@ -781,9 +772,6 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
   <data name="linkLabel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="linkLabel1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="linkLabel1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -794,7 +782,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>720, 688</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 28</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>118</value>
@@ -823,9 +811,6 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
   <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="linkLabel2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="linkLabel2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -836,7 +821,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>48, 688</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 28</value>
+    <value>127, 30</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>120</value>
@@ -1512,7 +1497,7 @@ Serás capaz de usar mods y disfrutar del juego aún más, ¡y todo de forma seg
     <value>NoControl</value>
   </data>
   <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 688</value>
+    <value>12, 688</value>
   </data>
   <data name="progressBar1.Size" type="System.Drawing.Size, System.Drawing">
     <value>915, 30</value>
