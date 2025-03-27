@@ -133,10 +133,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Default_Success" xml:space="preserve">
     <value>Başarılı!</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Kaynak klasörünüzün sonuna '{0}' ekleyerek yeniden adlandırıldı.</value>
   </data>
@@ -172,9 +168,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>Ana menüde</value>
   </data>
-  <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
     <value>Önemli versiyon mevcut</value>
   </data>
@@ -186,12 +179,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Güncellemek için tıklayınız</value>
-  </data>
-  <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
     <value>Resmi web sitesi</value>
@@ -217,23 +204,14 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Main_ClosingForm_" xml:space="preserve">
     <value>Pencere {0} kapatılıyor...</value>
   </data>
-  <data name="icons8_github" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>{0} olarak bağlandınız. Merhaba, tanıştığımıza memnun oldum! Discord'daki etkinliğinizi kontrol edin.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Diğer videoları izliyor</value>
   </data>
-  <data name="paimon_error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
     <value>Sadece yazı. Daha ne istiyorsun?</value>
-  </data>
-  <data name="icons8_recycle_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_recycle-bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
     <value>Stella Plus aboneleri için ReShade Eklentileri başarıyla güncellendi.</value>
@@ -246,9 +224,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>{1}'den yeni v{0} sürümü mevcuttur! Lütfen güncelleyin.</value>
-  </data>
-  <data name="icons8_notepad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
     <value>Güncelleme indiriliyor... {0} / {1}</value>
@@ -264,12 +239,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Güncelleme boyutu: {0}</value>
   </data>
-  <data name="bg_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_tools.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_gameplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_gameplay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Kaynaklar başarıyla güncellendi.</value>
   </data>
@@ -281,9 +250,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
     <value>Bağlantıların bulunduğu pencerede</value>
-  </data>
-  <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Üzücü... ReShade.ini indirilemedi. Tekrar deneyin.</value>
@@ -319,18 +285,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
     <value>Yeni güncelleme indiriliyor... {1}'in {0} MB'ı MB / {2} MB/s</value>
   </data>
-  <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons_tools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
     <value>Dosya indirme işlemi kullanıcı tarafından iptal edildi.</value>
   </data>
@@ -342,12 +296,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Güncelleniyor. Lütfen bekleyin...</value>
-  </data>
-  <data name="icons8_animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_layers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_info_squared" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_squared.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Main_PleaseWait" xml:space="preserve">
     <value>Lütfen bekleyin...</value>
@@ -361,9 +309,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
     <value>ReShade.ini dosyası başarıyla indirildi!</value>
-  </data>
-  <data name="icons8_shortcut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Genshin Impact Oynuyor</value>
@@ -383,9 +328,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_FailedToDownload" xml:space="preserve">
     <value>İndirme başarısız oldu...</value>
   </data>
-  <data name="flaticon_log" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_log.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>WebView2 tarayıcısından çıkıldı</value>
   </data>
@@ -394,9 +336,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
     <value>Stella Plus aboneleri için 3DMigoto başarıyla güncellendi.</value>
-  </data>
-  <data name="bg_donates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_support-me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
     <value>En son sürüme sahipsiniz</value>
@@ -434,20 +373,11 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
     <value>Çıktılar başarıyla yüklendi</value>
   </data>
-  <data name="icons8_gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_gear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Her şey yolunda! Kurulum başlıyor...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
     <value>İstenen işlem başarılı oldu, ancak bilgisayarınızın yeniden başlatılması gerekiyor.</value>
-  </data>
-  <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Desteğiniz için teşekkür ederiz. Stella Mod'u arkadaşlarınıza tavsiye edin. İyi günler dilerim!</value>
@@ -487,18 +417,6 @@ Teşekkürler ve oyunda görüşmek üzere! İyi eğlenceler.</value>
   <data name="NormalRelease_Output_" xml:space="preserve">
     <value>Çıktı: {0}</value>
   </data>
-  <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
     <value>Bir şeyler ters gitti</value>
   </data>
@@ -516,9 +434,6 @@ Resmi web sitesini ziyaret etmek ve abone olmak ister misiniz? ReShade, 3DMigoto
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Stella Plus aboneleri için gölgelendiriciler en son sürüme başarıyla güncellendi.</value>
   </data>
-  <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
     <value>ReShade.ini dosyası başarıyla güncellendi. Kaynak konumlarına giden yollar güncel olarak değiştirildi ve benzer değişiklikler yapıldı.
 
@@ -532,9 +447,6 @@ Mevcut ön ayar:
   </data>
   <data name="Error" xml:space="preserve">
     <value>Hata</value>
-  </data>
-  <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
     <value>Discord sunucusu</value>
@@ -557,32 +469,14 @@ Mevcut ön ayar:
 
 Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz?</value>
   </data>
-  <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="AnimeName" xml:space="preserve">
     <value>Anime Adı</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Oynanışı izliyor</value>
   </data>
-  <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
     <value>Oyun başlatıcısı bulunamadı: {0}</value>
-  </data>
-  <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_open_folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Başlatıcısı başarıyla şu sürüme güncellendi: v{0}</value>
@@ -598,9 +492,6 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
     <value>Yeniden başlatma gerekiyor</value>
-  </data>
-  <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
@@ -887,5 +778,8 @@ Yeni sürüm: v{2}</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
     <value>Oyununuzu iyileştirmek için Stella Plus'a abone olun! ReShade, FPS Unlocker ve 3DMigoto'yu aynı anda kullanın (GIMI kullanmıyoruz) ve daha da özel faydaların kilidini açabilirsiniz.</value>
+  </data>
+  <data name="Background_CurrentBackground_" xml:space="preserve">
+    <value>Current background: {0}</value>
   </data>
 </root>

@@ -133,10 +133,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Default_Success" xml:space="preserve">
     <value>Succès!</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_web.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Nous avons renommé votre dossier de ressources en ajoutant « {0} » à la fin.</value>
   </data>
@@ -172,9 +168,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="DiscordRPC_Details" xml:space="preserve">
     <value>Dans la fenêtre principale</value>
   </data>
-  <data name="flaticon_controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
     <value>Une mise-à-jour est disponible</value>
   </data>
@@ -186,12 +179,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Cliquez ici pour mettre à jour</value>
-  </data>
-  <data name="icons8_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_available-updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_edit-property.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
     <value>Site officiel</value>
@@ -217,23 +204,14 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Main_ClosingForm_" xml:space="preserve">
     <value>Fermeture du formulaire {0}...</value>
   </data>
-  <data name="icons8_github" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_github.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Vous êtes connecté en tant que {0}. Bonjour, ravi de vous rencontrer ! Vérifiez votre activité sur Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
     <value>Regarder d'autres vidéos</value>
   </data>
-  <data name="paimon_error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error_paimon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
     <value>C'est juste du texte. Que voulez-vous de plus ?</value>
-  </data>
-  <data name="icons8_recycle_bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_recycle-bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
     <value>Mise à jour réussie des modules complémentaires ReShade pour les abonnés de Stella Plus.</value>
@@ -246,9 +224,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>La nouvelle version v{0} de {1} est disponible ! Veuillez mettre à jour.</value>
-  </data>
-  <data name="icons8_notepad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_notepad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
     <value>Téléchargement de la mise à jour... {0} / {1}</value>
@@ -264,12 +239,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Taille de la mise à jour : {0}</value>
   </data>
-  <data name="bg_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_tools.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_gameplay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_gameplay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Ressources mises à jour avec succès.</value>
   </data>
@@ -281,9 +250,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
     <value>Dans la fenêtre avec des liens</value>
-  </data>
-  <data name="paimon_new_release" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon_not-compatible.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Sad... Failed to download ReShade.ini. Try again.</value>
@@ -319,18 +285,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
     <value>Downloading new update... {0} MB of {1} MB / {2} MB/s</value>
   </data>
-  <data name="bg_links" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_links.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons_tools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_party_popper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_party-popper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
     <value>File download has been canceled by the user.</value>
   </data>
@@ -342,12 +296,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Updating. Please wait...</value>
-  </data>
-  <data name="icons8_animated" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_layers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_info_squared" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_squared.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Main_PleaseWait" xml:space="preserve">
     <value>Please wait...</value>
@@ -361,9 +309,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
     <value>Successfully downloaded the ReShade.ini file!</value>
-  </data>
-  <data name="icons8_shortcut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_shortcut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Playing Genshin Impact</value>
@@ -383,9 +328,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_FailedToDownload" xml:space="preserve">
     <value>Failed to download...</value>
   </data>
-  <data name="flaticon_log" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_log.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Exited from WebView2 browser</value>
   </data>
@@ -394,9 +336,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
     <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
-  </data>
-  <data name="bg_donates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_support-me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
     <value>You have the latest version</value>
@@ -434,20 +373,11 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
     <value>Successfully uploaded logs</value>
   </data>
-  <data name="icons8_gear" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_gear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Everything is okay! Starting setup...</value>
   </data>
   <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
     <value>L'opération demandée a réussi, mais votre ordinateur doit être redémarré.</value>
-  </data>
-  <data name="icons8_available_updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_download-from-the-cloud.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="stella_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stella_150x150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
@@ -487,18 +417,6 @@ Thanks, and see you in the game! Have fun.</value>
   <data name="NormalRelease_Output_" xml:space="preserve">
     <value>Sortie : {0}</value>
   </data>
-  <data name="paimon_gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\paimon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8_web" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_heart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_heart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bleh_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_bleh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Log_SomethingWentWrong" xml:space="preserve">
     <value>Quelque chose s'est mal passé</value>
   </data>
@@ -516,9 +434,6 @@ Would you like to visit the official website and subscribe? You'll gain access t
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
     <value>Les shaders ont été mis à jour avec succès vers la dernière version pour les abonnés Stella Plus.</value>
   </data>
-  <data name="flaticon_config" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
     <value>Mise à jour réussie du fichier ReShade.ini. Les chemins d'accès aux emplacements des ressources ont été modifiés en fonction des emplacements actuels et des modifications similaires ont été apportées.
 
@@ -532,9 +447,6 @@ Préréglage actuel :
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
-  </data>
-  <data name="icons8_support" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_support.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
     <value>Discord server</value>
@@ -557,32 +469,14 @@ Préréglage actuel :
 
 Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
-  <data name="icons8_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="AnimeName" xml:space="preserve">
     <value>Anime name</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
   </data>
-  <data name="flaticon_redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
     <value>Game launcher was not found in: {0}</value>
-  </data>
-  <data name="sefinek_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_karmelcia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bg_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg_settings.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flaticon_open_folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icon_open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Launcher a été mis à jour avec succès vers la version : v{0}</value>
@@ -598,9 +492,6 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   </data>
   <data name="RebootIsRequired" xml:space="preserve">
     <value>Reboot is required</value>
-  </data>
-  <data name="xd_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\oDuYMpK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>You do not have an active Stella Plus subscription.</value>
@@ -887,5 +778,8 @@ New version: v{2}</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
     <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don't use GIMI), and unlock even more exclusive benefits.</value>
+  </data>
+  <data name="Background_CurrentBackground_" xml:space="preserve">
+    <value>Current background: {0}</value>
   </data>
 </root>
