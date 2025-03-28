@@ -642,7 +642,7 @@ Installerad version: v{1}</value>
     <value>140</value>
   </data>
   <data name="checkBox8.Text" xml:space="preserve">
-    <value>Dispose WebView2 when launching the game</value>
+    <value>Avsluta WebView2 vid start av spelet</value>
   </data>
   <data name="&gt;&gt;checkBox8.Name" xml:space="preserve">
     <value>checkBox8</value>
