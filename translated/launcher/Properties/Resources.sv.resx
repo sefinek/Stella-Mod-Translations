@@ -778,6 +778,6 @@ Ny version: v{2}</value>
     <value>Prenumerera på Stella Plus för att lyfta din spelupplevelse! Använd ReShade, FPS-upplåsaren och 3DMigoto samtidigt (vi använder inte GIMI), och lås upp ännu fler exklusiva förmåner.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Nuvarande bakgrund: {0}</value>
   </data>
 </root>
