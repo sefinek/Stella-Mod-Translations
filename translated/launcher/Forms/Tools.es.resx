@@ -127,9 +127,6 @@
   <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="panel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
@@ -147,6 +144,9 @@
   <data name="panel2.TabIndex" type="System.Int32, mscorlib">
     <value>76</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
     <value>Cerrar</value>
   </data>
@@ -184,7 +184,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>36</value>
+    <value>40</value>
   </data>
   <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
@@ -220,7 +220,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>35</value>
+    <value>39</value>
   </data>
   <data name="label3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
@@ -256,7 +256,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>34</value>
+    <value>38</value>
   </data>
   <data name="ReShadeLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -279,6 +279,9 @@
   <data name="ReShadeLogs.Text" xml:space="preserve">
     <value>ReShade</value>
   </data>
+  <data name="ReShadeLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;ReShadeLogs.Name" xml:space="preserve">
     <value>ReShadeLogs</value>
   </data>
@@ -289,7 +292,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ReShadeLogs.ZOrder" xml:space="preserve">
-    <value>33</value>
+    <value>37</value>
   </data>
   <data name="pictureBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -316,7 +319,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>32</value>
+    <value>36</value>
   </data>
   <data name="LauncherLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -339,6 +342,9 @@
   <data name="LauncherLogs.Text" xml:space="preserve">
     <value>Launcher</value>
   </data>
+  <data name="LauncherLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;LauncherLogs.Name" xml:space="preserve">
     <value>LauncherLogs</value>
   </data>
@@ -349,7 +355,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LauncherLogs.ZOrder" xml:space="preserve">
-    <value>31</value>
+    <value>35</value>
   </data>
   <data name="pictureBox2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -376,7 +382,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>30</value>
+    <value>34</value>
   </data>
   <data name="LogFiles.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -409,7 +415,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;LogFiles.ZOrder" xml:space="preserve">
-    <value>29</value>
+    <value>33</value>
   </data>
   <data name="ConfigFiles.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -442,7 +448,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ConfigFiles.ZOrder" xml:space="preserve">
-    <value>28</value>
+    <value>32</value>
   </data>
   <data name="SeeReShadeConfig.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -465,6 +471,9 @@
   <data name="SeeReShadeConfig.Text" xml:space="preserve">
     <value>ReShade</value>
   </data>
+  <data name="SeeReShadeConfig.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
     <value>ReShade.ini</value>
   </data>
@@ -478,7 +487,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.ZOrder" xml:space="preserve">
-    <value>27</value>
+    <value>31</value>
   </data>
   <data name="pictureBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -505,7 +514,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
-    <value>26</value>
+    <value>30</value>
   </data>
   <data name="SeeFPSUnlockerConfig.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -528,6 +537,9 @@
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
     <value>FPS Unlocker</value>
   </data>
+  <data name="SeeFPSUnlockerConfig.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
     <value>unlocker.config.json</value>
   </data>
@@ -541,7 +553,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.ZOrder" xml:space="preserve">
-    <value>25</value>
+    <value>29</value>
   </data>
   <data name="pictureBox5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -568,11 +580,8 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
-    <value>24</value>
+    <value>28</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="linkLabel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
@@ -597,6 +606,9 @@
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>Abre la ventana de configuración</value>
   </data>
+  <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
     <value>Reconfigurar el Stella Mod</value>
   </data>
@@ -610,7 +622,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>20</value>
   </data>
   <data name="CreateShortcut.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -636,6 +648,9 @@
   <data name="CreateShortcut.Text" xml:space="preserve">
     <value>Crear o actualizar accesos directos</value>
   </data>
+  <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
     <value>Actualiza los accesos directos para el Stella Mod Launcher (excepto el de la barra de tareas). Útil si accidentalmente eliminaste el acceso directo de Stella Mod en tu escritorio y deseas restaurarlo.</value>
   </data>
@@ -649,7 +664,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>23</value>
   </data>
   <data name="linkLabel3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -672,6 +687,9 @@
   <data name="linkLabel3.Text" xml:space="preserve">
     <value>Configurar ReShade</value>
   </data>
+  <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Configura ReShade automáticamente y establece las rutas de directorio apropiadas</value>
   </data>
@@ -685,7 +703,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel3.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>17</value>
   </data>
   <data name="linkLabel5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -708,6 +726,9 @@
   <data name="linkLabel5.Text" xml:space="preserve">
     <value>Borrar el caché</value>
   </data>
+  <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
     <value>Configura ReShade automáticamente y establece las rutas de directorio apropiadas</value>
   </data>
@@ -721,7 +742,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel5.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>10</value>
   </data>
   <data name="pictureBox9.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -748,7 +769,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox9.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>26</value>
   </data>
   <data name="InstallationLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -771,6 +792,9 @@
   <data name="InstallationLogs.Text" xml:space="preserve">
     <value>Genshin Stella Mod</value>
   </data>
+  <data name="InstallationLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;InstallationLogs.Name" xml:space="preserve">
     <value>InstallationLogs</value>
   </data>
@@ -781,7 +805,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;InstallationLogs.ZOrder" xml:space="preserve">
-    <value>23</value>
+    <value>27</value>
   </data>
   <data name="pictureBox10.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -808,7 +832,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox10.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>24</value>
   </data>
   <data name="InnoSetupLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -831,6 +855,9 @@
   <data name="InnoSetupLogs.Text" xml:space="preserve">
     <value>Ver directorio</value>
   </data>
+  <data name="InnoSetupLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
     <value>InnoSetupLogs</value>
   </data>
@@ -841,7 +868,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;InnoSetupLogs.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>25</value>
   </data>
   <data name="pictureBox15.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -871,7 +898,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox15.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>19</value>
   </data>
   <data name="Launcher.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -907,7 +934,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Launcher.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>21</value>
   </data>
   <data name="pictureBox7.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -937,7 +964,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox7.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>22</value>
   </data>
   <data name="pictureBox13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -964,7 +991,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox13.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>16</value>
   </data>
   <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15.75pt</value>
@@ -997,7 +1024,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>18</value>
   </data>
   <data name="pictureBox3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1027,7 +1054,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>14</value>
   </data>
   <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1053,6 +1080,9 @@
   <data name="linkLabel2.Text" xml:space="preserve">
     <value>Archivo d3dx.ini de 3DMigoto</value>
   </data>
+  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
   </data>
@@ -1063,7 +1093,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel2.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>15</value>
   </data>
   <data name="pictureBox6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1093,7 +1123,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>12</value>
   </data>
   <data name="linkLabel4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1119,6 +1149,9 @@
   <data name="linkLabel4.Text" xml:space="preserve">
     <value>Archivo d3dx_user.ini de 3DMigoto</value>
   </data>
+  <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
   </data>
@@ -1129,7 +1162,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel4.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>13</value>
   </data>
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15.75pt</value>
@@ -1162,7 +1195,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>11</value>
   </data>
   <data name="pictureBox8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1189,7 +1222,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox8.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>9</value>
   </data>
   <data name="pictureBox11.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1219,7 +1252,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox11.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>7</value>
   </data>
   <data name="linkLabel6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1245,6 +1278,9 @@
   <data name="linkLabel6.Text" xml:space="preserve">
     <value>View app data</value>
   </data>
+  <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
   </data>
@@ -1255,7 +1291,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel6.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>8</value>
   </data>
   <data name="linkLabel7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1278,6 +1314,9 @@
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>Path validation</value>
   </data>
+  <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
   </data>
@@ -1288,7 +1327,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel7.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>6</value>
   </data>
   <data name="pictureBox12.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1318,28 +1357,34 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox12.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>5</value>
   </data>
   <data name="label5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
   <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12.75pt</value>
+    <value>Segoe UI, 11.25pt</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>866, 674</value>
+    <value>882, 555</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>392, 27</value>
+    <value>376, 146</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>All launches of this app: {0}</value>
+    <value>Total Stella Mod launches: {0}
+Game channel: {1}
+Environment: {2}
+HYP version: {3}
+GameBiz: {4}
+Language: {5}
+Region: {6}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+    <value>BottomRight</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -1351,7 +1396,139 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pictureBox14.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
+  </data>
+  <data name="pictureBox14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>370, 330</value>
+  </data>
+  <data name="pictureBox14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 24</value>
+  </data>
+  <data name="pictureBox14.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox14.TabIndex" type="System.Int32, mscorlib">
+    <value>143</value>
+  </data>
+  <data name="&gt;&gt;pictureBox14.Name" xml:space="preserve">
+    <value>pictureBox14</value>
+  </data>
+  <data name="&gt;&gt;pictureBox14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox14.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="linkLabel8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12.75pt</value>
+  </data>
+  <data name="linkLabel8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 330</value>
+  </data>
+  <data name="linkLabel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="linkLabel8.TabIndex" type="System.Int32, mscorlib">
+    <value>142</value>
+  </data>
+  <data name="linkLabel8.Text" xml:space="preserve">
+    <value>Open main game folder</value>
+  </data>
+  <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;linkLabel8.Name" xml:space="preserve">
+    <value>linkLabel8</value>
+  </data>
+  <data name="&gt;&gt;linkLabel8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel8.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pictureBox16.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
+  </data>
+  <data name="pictureBox16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>370, 358</value>
+  </data>
+  <data name="pictureBox16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 24</value>
+  </data>
+  <data name="pictureBox16.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox16.TabIndex" type="System.Int32, mscorlib">
+    <value>145</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Name" xml:space="preserve">
+    <value>pictureBox16</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="linkLabel9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12.75pt</value>
+  </data>
+  <data name="linkLabel9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 358</value>
+  </data>
+  <data name="linkLabel9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="linkLabel9.TabIndex" type="System.Int32, mscorlib">
+    <value>144</value>
+  </data>
+  <data name="linkLabel9.Text" xml:space="preserve">
+    <value>Open game data folder</value>
+  </data>
+  <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
+    <value>linkLabel9</value>
+  </data>
+  <data name="&gt;&gt;linkLabel9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel9.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
