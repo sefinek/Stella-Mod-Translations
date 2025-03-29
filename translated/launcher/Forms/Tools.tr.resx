@@ -1336,7 +1336,7 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>All launches of this app: {0}</value>
+    <value>Bu uygulamanın tüm başlatmaları: {0}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
