@@ -1180,7 +1180,7 @@
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Çeşitli</value>
+    <value>Ekstra</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1375,13 +1375,13 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Total Stella Mod launches: {0}
-Game channel: {1}
-Environment: {2}
-HYP version: {3}
+    <value>Stella Mod Toplamda şu kadar başlatıldı: {0}
+Oyun kanalı: {1}
+Sağlayıcı: {2}
+HYP versiyonu: {3}
 GameBiz: {4}
-Language: {5}
-Region: {6}</value>
+Dil: {5}
+Bölge: {6}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomRight</value>
