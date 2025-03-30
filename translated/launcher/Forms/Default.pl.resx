@@ -367,7 +367,7 @@
     <value>74</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>autorstwa Sefinka</value>
+    <value>stworzone przez Sefinek</value>
   </data>
   <data name="madeBySefinek_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Dołącz na nasz serwer Discord, jeśli potrzebujesz pomocy lub masz jakieś pytania</value>
+    <value>Dołącz do nas na Discordzie, jeśli potrzebujesz pomocy lub masz jakieś pytania</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -671,7 +671,7 @@
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
     <value>Jeśli chcesz jeszcze bardziej poprawić swoje wrażenia z gry, zasubskrybuj Stella Plus.
-Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Całkowicie bezpiecznie!</value>
+Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - wszystko w całkowicie bezpieczny sposób!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -719,7 +719,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>MiddleRight</value>
   </data>
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Kliknij, aby wyświetlić pełny dziennik zmian.</value>
+    <value>Kliknij, aby zobaczyć pełny dziennik zmian.</value>
   </data>
   <data name="&gt;&gt;version_LinkLabel.Name" xml:space="preserve">
     <value>version_LinkLabel</value>
@@ -917,7 +917,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Uruchom Genshin Impact z modami w bezpieczny sposób. Stella Mod zapewnia integralność gry oraz bezpieczeństwo jej użytkowników.</value>
+    <value>Uruchom Genshin Impact z modami w bezpieczny sposób. Stella Mod zapewnia integralność gry oraz bezpieczeństwo użytkowników.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -989,7 +989,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Więcej modów</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Chcesz cieszyć się grą jeszcze bardziej? Uczyń ją bardziej ekscytującą i lepszą niż kiedykolwiek! Dodaj mody dopasowane do swoich preferencji - całkowicie bezpiecznie. Nie używamy GIMI.</value>
+    <value>Chcesz cieszyć się grą jeszcze bardziej? Uczyń ją bardziej ekscytującą i lepszą niż kiedykolwiek wcześniej! Dodawaj mody dopasowane do swoich preferencji - całkowicie bezpiecznie. Nie używamy GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
@@ -1052,7 +1052,7 @@ Będziesz mógł korzystać z modów i cieszyć się nią jeszcze bardziej. Cał
     <value>Shadery</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade zapewnia ulepszenia graficzne (nasze gotowe do użycia presety) i wiele więcej! Naciśnij klawisz Home na klawiaturze podczas gry, aby eksperymentować z wyglądem.</value>
+    <value>ReShade zapewnia ulepszenia graficzne (nasze gotowe do użycia presety) i wiele więcej! Naciśnij przycisk Home na klawiaturze podczas gry, aby eksperymentować z wyglądem.</value>
   </data>
   <data name="&gt;&gt;reshade_checkBox.Name" xml:space="preserve">
     <value>reshade_checkBox</value>
