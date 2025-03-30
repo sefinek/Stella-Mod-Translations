@@ -1375,12 +1375,12 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Total Stella Mod launches: {0}
-Game channel: {1}
-Environment: {2}
-HYP version: {3}
+    <value>Totalt antal starter av Stella Mod: {0}
+Spelkanal: {1}
+Miljö: {2}
+HYP-version: {3}
 GameBiz: {4}
-Language: {5}
+Språk: {5}
 Region: {6}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
@@ -1447,7 +1447,7 @@ Region: {6}</value>
     <value>142</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Open main game folder</value>
+    <value>Öppna huvudmappen för spelet</value>
   </data>
   <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1513,7 +1513,7 @@ Region: {6}</value>
     <value>144</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Open game data folder</value>
+    <value>Öppna speldatamappen</value>
   </data>
   <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
