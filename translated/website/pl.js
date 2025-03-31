@@ -101,7 +101,6 @@ exports.home = {
   NoProblem: 'Nie ma problemu',
  },
  tooltips: {
-  PageViews: 'Wyświetlenia strony. Statystyki są zbierane od 19 stycznia 2024 roku.',
   ShareYourFeedbackOnTrustpilot:
    'Podziel się z nami swoją opinią w serwisie Trustpilot! Będziemy za to bardzo wdzięczni.',
  },
