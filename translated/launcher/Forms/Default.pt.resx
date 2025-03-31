@@ -172,7 +172,7 @@
     <value>90</value>
   </data>
   <data name="viewChangelog_LinkLabel.Text" xml:space="preserve">
-    <value>View changelog</value>
+    <value>Ver changelog</value>
   </data>
   <data name="viewChangelog_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -232,7 +232,7 @@
     <value>88</value>
   </data>
   <data name="changeBg_LinkLabel.Text" xml:space="preserve">
-    <value>Change background</value>
+    <value>Alterar plano de fundo</value>
   </data>
   <data name="changeBg_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -241,7 +241,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Change the application background</value>
+    <value>Mudar o plano de fundo do programa</value>
   </data>
   <data name="&gt;&gt;changeBg_LinkLabel.Name" xml:space="preserve">
     <value>changeBg_LinkLabel</value>
@@ -271,7 +271,7 @@
     <value>76</value>
   </data>
   <data name="close_Panel.ToolTip" xml:space="preserve">
-    <value>Exit the launcher</value>
+    <value>Sair do launcher</value>
   </data>
   <data name="&gt;&gt;close_Panel.Name" xml:space="preserve">
     <value>close_Panel</value>
@@ -334,7 +334,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Main GitHub repository. Star it if you like this software.</value>
+    <value>Repositório principal no GitHub. Favorite-o se você gostar desse programa.</value>
   </data>
   <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
     <value>githubUrl_LinkLabel</value>
@@ -367,7 +367,7 @@
     <value>74</value>
   </data>
   <data name="madeBySefinek_Label.Text" xml:space="preserve">
-    <value>made by Sefinek</value>
+    <value>Criado por Sefinek</value>
   </data>
   <data name="madeBySefinek_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -439,7 +439,7 @@
     <value>76</value>
   </data>
   <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
-    <value>GitHub icon</value>
+    <value>Ícone do GitHub</value>
   </data>
   <data name="&gt;&gt;githubIco_Picturebox.Name" xml:space="preserve">
     <value>githubIco_Picturebox</value>
@@ -469,13 +469,13 @@
     <value>77</value>
   </data>
   <data name="tools_LinkLabel.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Ferramentas</value>
   </data>
   <data name="tools_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="tools_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Tools and logs</value>
+    <value>Ferramentas e registros</value>
   </data>
   <data name="&gt;&gt;tools_LinkLabel.Name" xml:space="preserve">
     <value>tools_LinkLabel</value>
@@ -514,7 +514,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need help or have any questions</value>
+    <value>Junte-se ao nosso servidor do discord se você precisar de ajuda ou tiver perguntas</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -556,7 +556,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="website_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Visit the official Stella Mod website</value>
+    <value>Visite o website oficial do Stella Mod</value>
   </data>
   <data name="website_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -595,7 +595,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
+    <value>Assista uma breve gameplay de Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -628,13 +628,13 @@
     <value>100</value>
   </data>
   <data name="donators_LinkLabel.Text" xml:space="preserve">
-    <value>Donators</value>
+    <value>Doadores</value>
   </data>
   <data name="donators_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the list of Stella Plus subscribers</value>
+    <value>Ver a lista de inscritos no Stella Plus</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -670,14 +670,14 @@
     <value>111</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
-    <value>If you want to enhance your gaming experience even further, subscribe to Stella Plus.
-You'll be able to use mods and enjoy the game even more, all in a completely safe way!</value>
+    <value>Se você quiser aprimorar sua experiência ainda mais, inscreva-se no Stella Plus.
+Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completamente segura!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Go to https://sefinek.net/genshin-stella-mod/subscription</value>
+    <value>Ir a https://sefinek.net/genshin-stella-mod/subscription</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -713,13 +713,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>85</value>
   </data>
   <data name="version_LinkLabel.Text" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>Aguardando...</value>
   </data>
   <data name="version_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
   </data>
   <data name="version_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Click to view the full changelog.</value>
+    <value>Clique para ver o changelog completo.</value>
   </data>
   <data name="&gt;&gt;version_LinkLabel.Name" xml:space="preserve">
     <value>version_LinkLabel</value>
@@ -755,7 +755,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>MiddleLeft</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
+    <value>Alguns links. Alguns úteis, alguns nem tanto ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -788,13 +788,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>118</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Resources</value>
+    <value>Recursos</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Open the folder with Stella's Resources</value>
+    <value>Abrir pasta de Recursos do Stella</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -827,13 +827,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>120</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Configurações</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open the settings</value>
+    <value>Abrir as configurações</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -869,13 +869,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>128</value>
   </data>
   <data name="support_LinkLabel.Text" xml:space="preserve">
-    <value>Support</value>
+    <value>Suporte</value>
   </data>
   <data name="support_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
+    <value>Junte-se ao nosso servidor do Discord se você precisar de assistência, tiver perguntas ou quiser compartilhar sugestões.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -911,13 +911,13 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>94</value>
   </data>
   <data name="startGame_LinkLabel.Text" xml:space="preserve">
-    <value>Start game</value>
+    <value>Iniciar jogo</value>
   </data>
   <data name="startGame_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
+    <value>Executar Genshin Impact com mods em segurança. O Stella Mod garante a integridade do jogo e a segurança dos usuários.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -953,7 +953,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the official game launcher</value>
+    <value>Abrir o launcher oficial do jogo</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -986,10 +986,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>132</value>
   </data>
   <data name="migoto_checkBox.Text" xml:space="preserve">
-    <value>More mods</value>
+    <value>Mais Mods</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
+    <value>Quer aproveitar o seu jogo ainda mais? Torne-o mais excitante e melhor do que nunca!
+Adicione mods moldados a sua preferência - completamente seguro. Não usamos GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
@@ -1019,10 +1020,11 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
-    <value>Unlock FPS</value>
+    <value>Desbloquear FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>Desbloqueie o limite de 60 FPS e faça seu jogo rodar mais suavemente!
+Útil para aqueles que usam monitores com taxa de atualização superior a 60Hz.</value>
   </data>
   <data name="&gt;&gt;unlockFps_checkBox.Name" xml:space="preserve">
     <value>unlockFps_checkBox</value>
@@ -1052,7 +1054,8 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Shaders</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
+    <value>ReShade fornece melhorias graficas (nossos presets prontos para uso) e mais!
+Pressione a tecla "Home" no seu teclado quando estiver no jogo para experimentar os visuais.</value>
   </data>
   <data name="&gt;&gt;reshade_checkBox.Name" xml:space="preserve">
     <value>reshade_checkBox</value>
@@ -1112,7 +1115,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>116</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Click me ^w^</value>
+    <value>Clique aqui ^w^</value>
   </data>
   <data name="clickMe_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1151,8 +1154,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>124</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Logged in as
-{0}</value>
+    <value>Conectado como {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1275,7 +1277,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>85</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
-    <value>Loading data...</value>
+    <value>Carregando dados...</value>
   </data>
   <data name="checkForUpdates_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1533,7 +1535,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>115</value>
   </data>
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
-    <value>Waiting for UI stabilization...</value>
+    <value>Aguardando estabilização da IU...</value>
   </data>
   <data name="PreparingPleaseWait.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
