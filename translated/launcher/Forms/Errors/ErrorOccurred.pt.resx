@@ -311,7 +311,7 @@ Discord: {0} ┃ E-mail: {1}</value>
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Something went wrong</value>
+    <value>Algo deu errado</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ErrorOccurred</value>
