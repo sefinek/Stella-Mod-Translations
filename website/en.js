@@ -112,7 +112,6 @@ exports.home = {
 	},
 
 	tooltips: {
-		PageViews: 'Page views. Statistics have been collected since January 19, 2024.',
 		ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
 	},
 };
