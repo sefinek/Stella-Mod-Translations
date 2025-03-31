@@ -280,7 +280,7 @@
     <value>Bottom, Left, Right</value>
   </data>
   <data name="release_Label.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12pt</value>
+    <value>Consolas, 12pt</value>
   </data>
   <data name="release_Label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -295,8 +295,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Fullständig version: v{0}
-Installerad version: v{1}</value>
+    <value>Build: v{0}
+Installed version: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>

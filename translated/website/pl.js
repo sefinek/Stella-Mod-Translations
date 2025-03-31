@@ -292,7 +292,7 @@ exports.github = {
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Wybierz swój tier subskrypcji',
+ ChooseYourSubscriptionTier: 'Wybierz tier subskrypcji',
  IfYouAreInterestedInTheBenefits:
   'Jeśli jesteś zainteresowany korzyściami, zapoznaj się ze wszystkimi dostępnymi poziomami, aby sprawdzić, który z nich najlepiej odpowiada Twoim preferencjom. Mam nadzieję, że znajdziesz coś, co Cię zainteresuje!',
  IfYouHaveAnyQuestions:
@@ -356,7 +356,7 @@ exports.subscription = {
   MuchGreaterPrivacy: 'Znacznie większa prywatność',
   VariousGenshinImpactAccountGiveaways: 'Różne eventy na konta do Genshin Impact',
   NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
-  ImagesAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmy z kotami dewelopera',
+  ImagesAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmiki kotów dewelopera',
   OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera lub laptopa',
   AssistanceRelatedToPCsOrLaptops: 'Pomoc dotycząca komputerów PC lub laptopów',
   ActivationPossibleOn: 'Aktywacja możliwa na {u}{0} urządzeniach{/u}',
@@ -432,6 +432,6 @@ exports.subscription = {
   SubscribingInProgress:
    'Potrzebujemy chwili, aby wszystko przygotować. Proszę, pozostań na tej stronie i daj nam chwilę!\nWkrótce przekierujemy Cię na bezpieczną stronę płatności, gdzie możesz bezpiecznie dokonać transakcji. ^w^',
   ChangingTheTierInProgress:
-   'Potrzebujemy trochę czasu, aby zmienić Twój Tier subskrypcji! Daj nam chwilę, a obiecujemy, że wszystko pójdzie gładko. ^w^',
+   'Potrzebujemy trochę czasu, aby zmienić Twój tier! Daj nam chwilę, a obiecujemy, że wszystko pójdzie gładko. ^w^',
  },
 };

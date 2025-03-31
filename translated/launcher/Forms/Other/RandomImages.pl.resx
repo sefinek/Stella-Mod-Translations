@@ -325,13 +325,13 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Lisica</value>
+    <value>Lisia</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Lisie anime dziewczynki</value>
+    <value>Lisie anime dziewczyny</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -361,10 +361,10 @@
     <value>6</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Kocica</value>
+    <value>Kicia</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
-    <value>Koto anime dziewczynki</value>
+    <value>Kocie anime dziewczyny</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -1582,7 +1582,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Odwiedź nasze booru, aby zobaczyć więcej uroczych zdjęć! Kliknij tutaj.</value>
+    <value>Odwiedź najsłodsze anime booru, aby zobaczyć więcej uroczych zdjęć! Wszystko SFW. Kliknij tutaj.</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
