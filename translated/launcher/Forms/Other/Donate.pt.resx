@@ -545,7 +545,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Support the creator</value>
+    <value>Ajude o desenvolvedor</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
