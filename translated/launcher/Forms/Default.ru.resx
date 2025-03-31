@@ -595,7 +595,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="gameplay_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Watch a short gameplay of Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
+    <value>Посмотрите короткий геймплей Genshin Impact (ReShade, FPS Unlocker, 3DMigoto)</value>
   </data>
   <data name="&gt;&gt;gameplay_LinkLabel.Name" xml:space="preserve">
     <value>gameplay_LinkLabel</value>
@@ -634,7 +634,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>View the list of Stella Plus subscribers</value>
+    <value>Посмотреть список Stella Plus подписчиков</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -755,7 +755,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="links_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Some links. Some useful, some less so ( ͡° ͜ʖ ͡°)</value>
+    <value>Несколько ссылок. Некоторые полезные, а некоторые не очень ( ͡° ͜ʖ ͡°)</value>
   </data>
   <data name="&gt;&gt;links_LinkLabel.Name" xml:space="preserve">
     <value>links_LinkLabel</value>
@@ -794,7 +794,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Open the folder with Stella's Resources</value>
+    <value>Откройте папку с ресурсами Stella</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -875,7 +875,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
+    <value>Присоединяйтесь к нашему Дискорд серверу, если Вам нужна помощь, имеются вопросы или Вы хотите поделиться предложениями.</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -917,7 +917,7 @@
     <value>MiddleCenter</value>
   </data>
   <data name="startGame_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Safely run Genshin Impact with mods. Stella Mod ensures the integrity of the game and the safety of its users.</value>
+    <value>Безопасный запуск Genshin Impact с модами. Stella Mod обеспечивает целостность игры и ее безопасность для пользователей.</value>
   </data>
   <data name="startGame_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -953,7 +953,7 @@
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Open the official game launcher</value>
+    <value>Откройте официальный игровой лаунчер.</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -989,7 +989,7 @@
     <value>Больше модов</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
+    <value>Хотите получать еще больше удовольствия от игры? Сделай ее более привлекательной и лучше! Добавлять моды в соответствии с Вашими предпочтениями - совершенно безопасно. Мы не используем GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
@@ -1022,7 +1022,7 @@
     <value>Разблокировщик FPS</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
-    <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
+    <value>Разблокируй ограничение в 60 FPS и сделай свою игру более плавной, чем когда-либо! Особенно полезно, если Вы используете монитор с частотой выше 60 Гц.</value>
   </data>
   <data name="&gt;&gt;unlockFps_checkBox.Name" xml:space="preserve">
     <value>unlockFps_checkBox</value>
@@ -1052,7 +1052,7 @@
     <value>Шейдеры</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
-    <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
+    <value>ReShade обеспечивает графические улучшения (наши готовые пресеты) и многое другое! Нажмите клавишу Home на клавиатуре в игре, чтобы поэкспериментировать с визуальными эффектами.</value>
   </data>
   <data name="&gt;&gt;reshade_checkBox.Name" xml:space="preserve">
     <value>reshade_checkBox</value>
