@@ -634,7 +634,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="donators_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Ver a lista de inscritos no Stella Plus</value>
+    <value>Ver a lista de assinantes do Stella Plus</value>
   </data>
   <data name="donators_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -670,7 +670,7 @@
     <value>111</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
-    <value>Se você quiser aprimorar sua experiência ainda mais, inscreva-se no Stella Plus.
+    <value>Se você quiser aprimorar sua experiência ainda mais, assine o Stella Plus.
 Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completamente segura!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
