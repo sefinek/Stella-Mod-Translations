@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Инструменты и логи &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -649,13 +649,13 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Создайте или обновите ярлыки</value>
   </data>
   <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Обновите ярлыки для Stella Mod Launcher (кроме того, что находится на панели задач). Пригодится, если Вы случайно удалили ярлык Stella Mod с рабочего стола и хотите его восстановить.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -727,7 +727,7 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Очистить кэш</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
