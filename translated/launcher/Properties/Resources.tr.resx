@@ -130,9 +130,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Default_CheckingForUpdates" xml:space="preserve">
     <value>Güncellemeler kontrol ediliyor...</value>
   </data>
-  <data name="Default_Success" xml:space="preserve">
-    <value>Başarılı!</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Kaynak klasörünüzün sonuna '{0}' ekleyerek yeniden adlandırıldı.</value>
   </data>
@@ -145,22 +142,11 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
-  <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Çalışma yolu</value>
-  </data>
-  <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Dosya başarıyla indirildi veya güncellendi: {1}</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Eski kurulum dosyası geçici klasörden silindi.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Belgeleri okuyun</value>
-  </data>
-  <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
-    <value>{0}
-
-Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Stella çıktıları yükleniyor</value>
@@ -174,9 +160,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_CheckForUpdates" xml:space="preserve">
     <value>Güncellemeleri kontrol et</value>
   </data>
-  <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Geçerli arka plan: Varsayılan</value>
-  </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Güncellemek için tıklayınız</value>
   </data>
@@ -186,23 +169,14 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_Online_" xml:space="preserve">
     <value>Çevrimiçi: {0}</value>
   </data>
-  <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>Dosya bulunamadı.</value>
-  </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Üzgünüm. Arka plan {0} bulunamadı.</value>
-  </data>
-  <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>Uygulama arka planı varsayılan olarak değiştirildi. ID: {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>Kısayollar başarılı bir şekilde güncelleştirildi veya oluşturuldu.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Dosya {0} bulunamadı.</value>
-  </data>
-  <data name="Main_ClosingForm_" xml:space="preserve">
-    <value>Pencere {0} kapatılıyor...</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>{0} olarak bağlandınız. Merhaba, tanıştığımıza memnun oldum! Discord'daki etkinliğinizi kontrol edin.</value>
@@ -225,25 +199,14 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>{1}'den yeni v{0} sürümü mevcuttur! Lütfen güncelleyin.</value>
   </data>
-  <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Güncelleme indiriliyor... {0} / {1}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
     <value>Galeriye göz atıyor</value>
-  </data>
-  <data name="Default_SomethingWentWrongWhileCheckingForNewUpdates" xml:space="preserve">
-    <value>Yeni güncellemeleri kontrol ederken bir şeyler ters gitti.
-
-{0}</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Güncelleme boyutu: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Kaynaklar başarıyla güncellendi.</value>
-  </data>
-  <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>Bekleniyor {0}s...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
     <value>Üzgünüz, şu anda bir örnek açık. Adı {0} olan işlemden çıkın ve tekrar deneyin.</value>
@@ -254,15 +217,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Üzücü... ReShade.ini indirilemedi. Tekrar deneyin.</value>
   </data>
-  <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
-    <value>Özür dilerim. WebView2'de bir şeyler ters gitti.</value>
-  </data>
-  <data name="StellaResources_UnpackingFiles" xml:space="preserve">
-    <value>Dosyalar açılıyor...</value>
-  </data>
-  <data name="Default_CurrentBackground" xml:space="preserve">
-    <value>Geçerli arka plan: {0}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Araçlara göz atıyor</value>
   </data>
@@ -272,9 +226,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Default_Playing_" xml:space="preserve">
     <value>Oynuyor: {0}</value>
   </data>
-  <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>Gerekli kaynaklar başarıyla yüklendi, ancak bilgisayarınızın yeniden başlatılması gerekiyor.</value>
-  </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
     <value>Oyun başlatıcısı bulunamadı.</value>
   </data>
@@ -282,23 +233,11 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
     <value>ReShade çıktı dosyasının içinde bulunamadı:
 {0}</value>
   </data>
-  <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Yeni güncelleme indiriliyor... {1}'in {0} MB'ı MB / {2} MB/s</value>
-  </data>
-  <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
-    <value>Dosya indirme işlemi kullanıcı tarafından iptal edildi.</value>
-  </data>
-  <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
-    <value>Bize anonim olarak çıktı dosyalarını göndermek istiyor musunuz?</value>
-  </data>
   <data name="RandomImages_Source" xml:space="preserve">
     <value>Kaynak</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Güncelleniyor. Lütfen bekleyin...</value>
-  </data>
-  <data name="Main_PleaseWait" xml:space="preserve">
-    <value>Lütfen bekleyin...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade yapılandırma dosyası içinde bulunamadı:
@@ -313,20 +252,11 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Genshin Impact Oynuyor</value>
   </data>
-  <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
-    <value>Başlatıcı arka planı değiştirildi. ID: {0}</value>
-  </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Gerekli dosya 'Configuration Window.exe' bulunamadı. Lütfen bu uygulamayı yeniden yükleyin veya yardım için Discord sunucumuza katılın.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Pencere yüklendi: {0}</value>
-  </data>
-  <data name="StellaResources_SuccessfullyUnpacked" xml:space="preserve">
-    <value>Başarıyla paketten çıkarıldı: {0}</value>
-  </data>
-  <data name="Default_FailedToDownload" xml:space="preserve">
-    <value>İndirme başarısız oldu...</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>WebView2 tarayıcısından çıkıldı</value>
@@ -343,9 +273,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Güncelleme başarısız oldu. Yazılımın bir konuma erişimi reddedildi, bu da dosyaları kaydetmesini, kopyalamasını, açmasını veya yüklemesini engelledi.</value>
   </data>
-  <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Çıktı dosyaları geliştiriciye gönderildi.</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Mod paketinin önceki sürümü siliniyor...</value>
   </data>
@@ -354,9 +281,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>FPS Unlocker için yapılandırma dosyası (unlocker.config.json) indirildi</value>
-  </data>
-  <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>Ohh, bir şeyler ters gitti</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Eski kurulum dosyası geçici klasörden silindi.</value>
@@ -375,9 +299,6 @@ Bu kaynakları Microsoft web sitesinden indirmek istiyor musunuz?</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Her şey yolunda! Kurulum başlıyor...</value>
-  </data>
-  <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>İstenen işlem başarılı oldu, ancak bilgisayarınızın yeniden başlatılması gerekiyor.</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Desteğiniz için teşekkür ederiz. Stella Mod'u arkadaşlarınıza tavsiye edin. İyi günler dilerim!</value>
@@ -414,17 +335,8 @@ Teşekkürler ve oyunda görüşmek üzere! İyi eğlenceler.</value>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Dosyalar açılıyor... {1}'den {0}</value>
   </data>
-  <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Çıktı: {0}</value>
-  </data>
-  <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Bir şeyler ters gitti</value>
-  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
-  </data>
-  <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>Genshin Impact için grafikleri ve daha fazlasını geliştiren en iyi ve tamamen güvenli mod!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>Bu özellik yalnızca Stella Mod Plus aboneliği olan oyuncular tarafından kullanılabilir.
@@ -457,20 +369,8 @@ Mevcut ön ayar:
   <data name="Version" xml:space="preserve">
     <value>Sürüm:{0}</value>
   </data>
-  <data name="Downloading" xml:space="preserve">
-    <value>İndiriliyor...</value>
-  </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
     <value>Görseli varsayılan tarayıcıda aç</value>
-  </data>
-  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>Oyun dosyası önceden belirtilen konumda bulunamadı:
-{0}
-
-Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz?</value>
-  </data>
-  <data name="AnimeName" xml:space="preserve">
-    <value>Anime Adı</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Oynanışı izliyor</value>
@@ -481,17 +381,8 @@ Stella Mod'u Yapılandırma Penceresinde yeniden yapılandırmak istiyor musunuz
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Başlatıcısı başarıyla şu sürüme güncellendi: v{0}</value>
   </data>
-  <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Cihaz tanımlayıcı verisi alınamadı.</value>
-  </data>
-  <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Evergreen'in Bağımsız Yükleyicisini seçin.</value>
-  </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, bir hata oluştu</value>
-  </data>
-  <data name="RebootIsRequired" xml:space="preserve">
-    <value>Yeniden başlatma gerekiyor</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>

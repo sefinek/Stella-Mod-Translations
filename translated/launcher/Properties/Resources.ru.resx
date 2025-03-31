@@ -130,9 +130,6 @@
   <data name="Default_CheckingForUpdates" xml:space="preserve">
     <value>Проверяю наличие обновлений...</value>
   </data>
-  <data name="Default_Success" xml:space="preserve">
-    <value>Успешно!</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Мы переименовали вашу папку ресурсов, добавив в конец '{0}'.</value>
   </data>
@@ -145,22 +142,11 @@
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Успешно обновлены моды 3DMigoto для подписчиков Stella Plus.</value>
   </data>
-  <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Рабочий каталог</value>
-  </data>
-  <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Успешно загруженный или обновленный файл: {1}</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>Удалён старый установочный файл из временного каталога.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Читает документацию</value>
-  </data>
-  <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
-    <value>{0}
-
-Вы хотите загрузить эту зависимость с веб-сайта Microsoft?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Загрузка журналов Stella</value>
@@ -174,9 +160,6 @@
   <data name="Default_CheckForUpdates" xml:space="preserve">
     <value>Проверка наличия обновлений</value>
   </data>
-  <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Текущий фон: По умолчанию</value>
-  </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Нажмите здесь, чтобы обновить</value>
   </data>
@@ -186,23 +169,14 @@
   <data name="Default_Online_" xml:space="preserve">
     <value>Онлайн: {0}</value>
   </data>
-  <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>Файл не был найден.</value>
-  </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Извините. Фон {0} не найден.</value>
-  </data>
-  <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>Фон приложения был изменён на стандартный. Идентификатор: {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Файл {0} не был найден.</value>
-  </data>
-  <data name="Main_ClosingForm_" xml:space="preserve">
-    <value>Закрытие формы {0}...</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Вы зарегистрированы как {0}. Привет, приятно познакомиться! Проверьте свою активность в Discord.</value>
@@ -225,25 +199,14 @@
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>Доступна новая версия v{0} из {1}! Пожалуйста, обновите её.</value>
   </data>
-  <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Загружаю обновление... {0} / {1}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
     <value>Просмотр галереи</value>
-  </data>
-  <data name="Default_SomethingWentWrongWhileCheckingForNewUpdates" xml:space="preserve">
-    <value>Что-то пошло не так при проверке наличия новых обновлений.
-
-{0}</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Размер обновления: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Успешно обновлённые ресурсы.</value>
-  </data>
-  <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>Ожидание {0}с...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
     <value>Извините, в данный момент открыт только один экземпляр. Завершите процесс с именем {0} и повторите попытку.</value>
@@ -254,15 +217,6 @@
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
-  <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
-    <value>Извините. Что-то пошло не так с WebView2.</value>
-  </data>
-  <data name="StellaResources_UnpackingFiles" xml:space="preserve">
-    <value>Распаковка файлов...</value>
-  </data>
-  <data name="Default_CurrentBackground" xml:space="preserve">
-    <value>Текущий фон: {0}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Инструменты для просмотра</value>
   </data>
@@ -272,9 +226,6 @@
   <data name="Default_Playing_" xml:space="preserve">
     <value>Игра: {0}</value>
   </data>
-  <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>Необходимые зависимости были успешно установлены, но ваш компьютер необходимо перезагрузить.</value>
-  </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
     <value>Программа запуска игры не найдена.</value>
   </data>
@@ -282,23 +233,11 @@
     <value>Файл журнала ReShade не найден в:
 {0}</value>
   </data>
-  <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Загрузка нового обновления... {0} МБ из {1} МБ / {2} МБ/с</value>
-  </data>
-  <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
-    <value>Загрузка файла была отменена пользователем.</value>
-  </data>
-  <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
-    <value>Хотите ли вы отправлять нам анонимные файлы журналов?</value>
-  </data>
   <data name="RandomImages_Source" xml:space="preserve">
     <value>Исходный код</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Обновление. Пожалуйста, подождите...</value>
-  </data>
-  <data name="Main_PleaseWait" xml:space="preserve">
-    <value>Пожалуйста, подождите...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Файл конфигурации ReShade не найден в:
@@ -313,20 +252,11 @@
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Играет в Genshin Impact</value>
   </data>
-  <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
-    <value>Изменён фон лаунчера. Идентификатор: {0}</value>
-  </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Необходимый файл 'Configuration Window.exe' не найден. Пожалуйста, переустановите это приложение или присоединитесь к нашему серверу Discord для получения помощи.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Загруженная форма: {0}</value>
-  </data>
-  <data name="StellaResources_SuccessfullyUnpacked" xml:space="preserve">
-    <value>Успешно распаковано: {0}</value>
-  </data>
-  <data name="Default_FailedToDownload" xml:space="preserve">
-    <value>Не удалось загрузить...</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Выход из браузера WebView2</value>
@@ -343,9 +273,6 @@
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Не удалось обновить. Программе было отказано в доступе к местоположению, что не позволило ей сохранить, скопировать, открыть или загрузить файлы.</value>
   </data>
-  <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Файлы журнала были отправлены разработчику.</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Удаление предыдущей версии мод-пака...</value>
   </data>
@@ -354,9 +281,6 @@
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Загрузите файл конфигурации (unlocker.config.json) для FPS Unlocker</value>
-  </data>
-  <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>О, что-то пошло не так</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Удалён старый установочный файл из временного каталога.</value>
@@ -375,9 +299,6 @@
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Всё в порядке! Начинаю настройку...</value>
-  </data>
-  <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>Запрошенная операция была выполнена успешно, но ваш компьютер необходимо перезагрузить.</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Спасибо за поддержку. Порекомендуйте Stella Mod своим друзьям. Хорошего дня!</value>
@@ -414,17 +335,8 @@ Thanks, and see you in the game! Have fun.</value>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Распаковка файлов... {0} из {1}</value>
   </data>
-  <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Результат: {0}</value>
-  </data>
-  <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Что-то пошло не так</value>
-  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
-  </data>
-  <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>Лучший и абсолютно безопасный мод для Genshin Impact, улучшающий графику и многое другое!</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>Эта функция доступна только игрокам с подпиской Stella Mod Plus.
@@ -457,20 +369,8 @@ Thanks, and see you in the game! Have fun.</value>
   <data name="Version" xml:space="preserve">
     <value>Версия: {0}</value>
   </data>
-  <data name="Downloading" xml:space="preserve">
-    <value>Скачивание...</value>
-  </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
     <value>Открыть изображение в браузере по умолчанию</value>
-  </data>
-  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>Файл игры не найден в ранее указанном расположении:
-{0}
-
-Хотите перенастроить Stella Mod в окне конфигурации?</value>
-  </data>
-  <data name="AnimeName" xml:space="preserve">
-    <value>Название аниме</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
@@ -481,17 +381,8 @@ Thanks, and see you in the game! Have fun.</value>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Программа запуска Stella Mod была успешно обновлена до версии: v{0}</value>
   </data>
-  <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Не удалось получить идентификатор устройства.</value>
-  </data>
-  <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Выбрать автономный установщик Evergreen.</value>
-  </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Упс, произошла ошибка</value>
-  </data>
-  <data name="RebootIsRequired" xml:space="preserve">
-    <value>Требуется перезагрузка</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>У вас нет активной подписки Stella Plus.</value>

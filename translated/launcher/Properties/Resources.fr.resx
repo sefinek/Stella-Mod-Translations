@@ -130,9 +130,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Default_CheckingForUpdates" xml:space="preserve">
     <value>Checking for updates...</value>
   </data>
-  <data name="Default_Success" xml:space="preserve">
-    <value>Succès!</value>
-  </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Nous avons renommé votre dossier de ressources en ajoutant « {0} » à la fin.</value>
   </data>
@@ -145,22 +142,11 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Les mods 3DMigoto pour les abonnés Stella Plus ont été mis à jour avec succès.</value>
   </data>
-  <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
-  </data>
-  <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Fichier téléchargé ou mis à jour avec succès : {1}</value>
-  </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
     <value>J'ai supprimé l'ancien fichier d'installation du répertoire temporaire.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Lire la documentation</value>
-  </data>
-  <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
-    <value>{0}
-
-Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Téléchargement des Stella Logs</value>
@@ -174,9 +160,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_CheckForUpdates" xml:space="preserve">
     <value>Vérifier les mises à jour</value>
   </data>
-  <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Fond actuel : Par défaut</value>
-  </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
     <value>Cliquez ici pour mettre à jour</value>
   </data>
@@ -186,23 +169,14 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_Online_" xml:space="preserve">
     <value>En ligne : {0}</value>
   </data>
-  <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>Le fichier n'a pas été trouvé.</value>
-  </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Désolé. Le fond {0} n'a pas été trouvé.</value>
-  </data>
-  <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>Le fond de l'application a été modifié par défaut. ID : {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>The shortcuts have been successfully updated or created.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
     <value>Le fichier {0} n'a pas été trouvé.</value>
-  </data>
-  <data name="Main_ClosingForm_" xml:space="preserve">
-    <value>Fermeture du formulaire {0}...</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Vous êtes connecté en tant que {0}. Bonjour, ravi de vous rencontrer ! Vérifiez votre activité sur Discord.</value>
@@ -225,25 +199,14 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>La nouvelle version v{0} de {1} est disponible ! Veuillez mettre à jour.</value>
   </data>
-  <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Téléchargement de la mise à jour... {0} / {1}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
     <value>Parcourir la galerie</value>
-  </data>
-  <data name="Default_SomethingWentWrongWhileCheckingForNewUpdates" xml:space="preserve">
-    <value>Une erreur s'est produite lors de la recherche de nouvelles mises à jour.
-
-{0}</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
     <value>Taille de la mise à jour : {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
     <value>Ressources mises à jour avec succès.</value>
-  </data>
-  <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>En attente de {0} s...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
     <value>Désolé, une instance est actuellement ouverte. Quittez le processus avec le nom {0} et réessayez.</value>
@@ -254,15 +217,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
     <value>Sad... Failed to download ReShade.ini. Try again.</value>
   </data>
-  <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
-    <value>Sorry. Something went wrong with WebView2.</value>
-  </data>
-  <data name="StellaResources_UnpackingFiles" xml:space="preserve">
-    <value>Unpacking files...</value>
-  </data>
-  <data name="Default_CurrentBackground" xml:space="preserve">
-    <value>Current background: {0}</value>
-  </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
     <value>Browsing tools</value>
   </data>
@@ -272,9 +226,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Default_Playing_" xml:space="preserve">
     <value>Playing: {0}</value>
   </data>
-  <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
-  </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
     <value>Game launcher was not found.</value>
   </data>
@@ -282,23 +233,11 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
     <value>ReShade log file was not found in:
 {0}</value>
   </data>
-  <data name="NormalRelease_DownloadingNewUpdate_" xml:space="preserve">
-    <value>Downloading new update... {0} MB of {1} MB / {2} MB/s</value>
-  </data>
-  <data name="Default_FileDownloadHasBeenCanceledByTheUser" xml:space="preserve">
-    <value>File download has been canceled by the user.</value>
-  </data>
-  <data name="Program_DoYouWantToSendUsAnonymousLogFiles" xml:space="preserve">
-    <value>Do you want to send us anonymous log files?</value>
-  </data>
   <data name="RandomImages_Source" xml:space="preserve">
     <value>Source</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Updating. Please wait...</value>
-  </data>
-  <data name="Main_PleaseWait" xml:space="preserve">
-    <value>Please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade config file was not found in:
@@ -313,20 +252,11 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
     <value>Playing Genshin Impact</value>
   </data>
-  <data name="Default_ChangedTheLauncherBackground_ID" xml:space="preserve">
-    <value>Changed the launcher background. ID: {0}</value>
-  </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
     <value>Loaded form: {0}</value>
-  </data>
-  <data name="StellaResources_SuccessfullyUnpacked" xml:space="preserve">
-    <value>Successfully unpacked: {0}</value>
-  </data>
-  <data name="Default_FailedToDownload" xml:space="preserve">
-    <value>Failed to download...</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Exited from WebView2 browser</value>
@@ -343,9 +273,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
   </data>
-  <data name="Telemetry_LogFilesWasSentToDeveloper" xml:space="preserve">
-    <value>Log files was sent to developer.</value>
-  </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
     <value>Deleting the previous version of the mod pack...</value>
   </data>
@@ -354,9 +281,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
     <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
-  </data>
-  <data name="Default_OhhSomethingWentWrong" xml:space="preserve">
-    <value>Ohh, something went wrong</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Deleted old setup file from temp directory.</value>
@@ -375,9 +299,6 @@ Voulez-vous télécharger cette dépendance depuis le site Web de Microsoft ?</
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
     <value>Everything is okay! Starting setup...</value>
-  </data>
-  <data name="Cmd_TheRequestOperationWasSuccessfulButYourPCNeedsToBeRebooted" xml:space="preserve">
-    <value>L'opération demandée a réussi, mais votre ordinateur doit être redémarré.</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
     <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
@@ -414,17 +335,8 @@ Thanks, and see you in the game! Have fun.</value>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Déballage des fichiers... {0} de {1}</value>
   </data>
-  <data name="NormalRelease_Output_" xml:space="preserve">
-    <value>Sortie : {0}</value>
-  </data>
-  <data name="Log_SomethingWentWrong" xml:space="preserve">
-    <value>Quelque chose s'est mal passé</value>
-  </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Le fichier d'arrière-plan n'a pas été trouvé dans '{0}' ; ID : {1} ;</value>
-  </data>
-  <data name="DiscordRPC_LargeImageText" xml:space="preserve">
-    <value>Le meilleur mod totalement sûr pour Genshin Impact qui améliore les graphismes et plus encore !</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>This feature is only available to players with a Stella Mod Plus subscription.
@@ -457,20 +369,8 @@ Préréglage actuel :
   <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
   </data>
-  <data name="Downloading" xml:space="preserve">
-    <value>Downloading...</value>
-  </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
     <value>Open image in default browser</value>
-  </data>
-  <data name="Utils_TheGameFileWasNotFoundInThePreviouslySpecifiedLocation" xml:space="preserve">
-    <value>The game file was not found in the previously specified location:
-{0}
-
-Do you want to reconfigure Stella Mod in the Configuration Window?</value>
-  </data>
-  <data name="AnimeName" xml:space="preserve">
-    <value>Anime name</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>
@@ -481,17 +381,8 @@ Do you want to reconfigure Stella Mod in the Configuration Window?</value>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
     <value>Stella Mod Launcher a été mis à jour avec succès vers la version : v{0}</value>
   </data>
-  <data name="FailedToRetrieveDeviceIdentifier" xml:space="preserve">
-    <value>Failed to retrieve device identifier.</value>
-  </data>
-  <data name="ChooseEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Select Evergreen Standalone Installer.</value>
-  </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
     <value>Oops, an error occurred</value>
-  </data>
-  <data name="RebootIsRequired" xml:space="preserve">
-    <value>Reboot is required</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
     <value>You do not have an active Stella Plus subscription.</value>
