@@ -139,7 +139,7 @@
     <value>0</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>READ BEFORE PLAYING</value>
+    <value>LEIA ANTES DE JOGAR</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -275,7 +275,7 @@ Ao seguir essas regras, você pode aproveitar o Stella Mod com segurança. Se di
     <value>7</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>By using this software, the user agrees to comply with the guidelines.</value>
+    <value>Ao usar esse programa, o usuário concorda em cumprir as diretrizes.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -437,7 +437,7 @@ Ao seguir essas regras, você pode aproveitar o Stella Mod com segurança. Se di
     <value>13</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Click here to view the documentation and explore more detailed information &gt;&gt;</value>
+    <value>Clique aqui para ver a documentação e explorar informações mais detalhadas &gt;&gt;</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -473,7 +473,7 @@ Ao seguir essas regras, você pode aproveitar o Stella Mod com segurança. Se di
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2025 © by Sefinek. All Rights Reserved.</value>
+    <value>Direitos autorais 2025 © por Sefinek. Todos os direitos reservados.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -509,7 +509,7 @@ Ao seguir essas regras, você pode aproveitar o Stella Mod com segurança. Se di
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>Leia antes de jogar</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
