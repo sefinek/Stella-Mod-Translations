@@ -231,130 +231,130 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
     <value>Launcher do jogo não encontrado.</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade log file was not found in:
+    <value>Arquivo de registro ReShade não encontrado em:
 {0}</value>
   </data>
   <data name="RandomImages_Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Origem</value>
   </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating. Please wait...</value>
+    <value>Atualizando... aguarde...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
-    <value>ReShade config file was not found in:
+    <value>Arquivo de configuração ReShade não encontrado em:
 {0}</value>
   </data>
   <data name="NormalRelease_NewReleaseIsAvailableDownloadNow" xml:space="preserve">
-    <value>New release is available. Download now!</value>
+    <value>Nova versão disponível. Baixe agora!</value>
   </data>
   <data name="Default_SuccessfullyDownloadedReShadeCfg" xml:space="preserve">
-    <value>Successfully downloaded the ReShade.ini file!</value>
+    <value>Reshade.ini baixado com sucesso!</value>
   </data>
   <data name="DiscordRPC_Status_PlayingGenshinImpact" xml:space="preserve">
-    <value>Playing Genshin Impact</value>
+    <value>Jogando Genshin Impact</value>
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
-    <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
+    <value>Arquivo necessário 'Configuration Window.exe' não encontrado. Por favor, reinstale o programa ou junte-se ao nosso servidor do Discord.</value>
   </data>
   <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Loaded form: {0}</value>
+    <value>Formulário carregado: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
-    <value>Exited from WebView2 browser</value>
+    <value>Saiu do navegador WebView2</value>
   </data>
   <data name="Default_UpdatingBenefits" xml:space="preserve">
-    <value>Updating benefits...</value>
+    <value>Atualizando benefícios...</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigoto" xml:space="preserve">
-    <value>Successfully updated 3DMigoto for Stella Plus subscribers.</value>
+    <value>Mods 3DMigoto dos assinantes Stella Plus atualizados com sucesso.</value>
   </data>
   <data name="Default_YouHaveTheLatestVersion" xml:space="preserve">
-    <value>You have the latest version</value>
+    <value>Você tem a última versão</value>
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
-    <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
+    <value>Falha ao atualizar. Acesso à localização foi negada ao aplicativo, prevenindo-o de salvar, copiar, abrir ou carregar arquivos.</value>
   </data>
   <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Deleting the previous version of the mod pack...</value>
+    <value>Deletando versões anteriores do pacote de mods...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
-    <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
+    <value>Você poderia deixar sua opinião sobre o Stella Mod no trustpilot.com? Eu ficaria muito grato.</value>
   </data>
   <data name="Default_DownloadedConfigFileForFPSUnlocker" xml:space="preserve">
-    <value>Downloaded the configuration file (unlocker.config.json) for FPS Unlocker</value>
+    <value>Baixado o arquivo de configuração (unlocker.config.json) para o FPS Unlocker</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Arquivo de instalação antigo deletado do diretório temporário.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Just chilling</value>
+    <value>Relaxando</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparing... If process is stuck, reopen launcher.</value>
+    <value>Preparando... se o processo estiver parado, abra o launcher novamente.</value>
   </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
-    <value>Audio file ({0}) was not found.</value>
+    <value>Arquivo de áudio ({0}) não encontrado.</value>
   </data>
   <data name="DiscordRPC_Status_SuccessfullyUploadedLogs" xml:space="preserve">
-    <value>Successfully uploaded logs</value>
+    <value>Arquivos de registro atualizados com sucesso</value>
   </data>
   <data name="NormalRelease_EverythingIsOkay_StartingSetup" xml:space="preserve">
-    <value>Everything is okay! Starting setup...</value>
+    <value>Tudo Ok! Inicializando setup...</value>
   </data>
   <data name="LaunchCount_ThankYouForYourSupport" xml:space="preserve">
-    <value>Thank you for your support. Recommend Stella Mod to your friends. Have a great day!</value>
+    <value>Obrigado pelo seu suporte. Recomende o Stella Mod para seus amigos. Tenha um ótimo dia!</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingSettings" xml:space="preserve">
-    <value>Browsing settings</value>
+    <value>Navegando nas configurações</value>
   </data>
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
-    <value>New update of the resources is available from {0}.</value>
+    <value>Nova atualização de recursos disponível {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
+    <value>Olá! Parece que essa é a primeira vez que nos vemos. Por favor, reserve um momento para ler os termos de uso e diretrizes desse softawre para evitar qualquer tipo de problema. A documentação está disponível no nosso site oficial. Ao usar o Stella Mod, você concorda com os termos destacados na documentação.
 
-This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security - no analytical or hardware data is ever sent without your consent.
+Esse software é continuamente apoiado pelo desenvolvedor graças aos inscritos do Stella Mod Plus. Essa receita ajuda a cobrir os custos com a internet de fibra óptica e contas de eletricidade. O servidor da API é hospedado em uma casa privada na Polônia, ou seja, o administrador local é o único dono do banco de dados. Genshin Stella Mod prioriza a privacidade e segurança do usuário. Nenhum dado de análise ou de hardware é mandado sem seu consentimento.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
+Stella Mod é um software seguro, então não há com oque se preocupar. Lembre-se, porém, de não usar trapaças dentro do jogo. Se você precisar de ajuda, sinta-se livre para se juntar ao nosso servidor do Discord ou nos contatar através do email contact@sefinek.net.
 
-Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
+Por favor note que o Stella Mod é completamente independente e NÃO é afiliado a Hoyoverse de NENHUMA forma. Se você gosta do projeto, considere apoiá-lo ao se inscrever-se ao Stella Mod Plus.
 
-Thanks, and see you in the game! Have fun.</value>
+Obrigado, te vejo no jogo! Divirta-se.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Directory {0} was not found.</value>
+    <value>Diretório {0} não encontrado.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
-    <value>Downloading resources... {0} / {1}</value>
+    <value>Baixando recursos... {0} / {1}</value>
   </data>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
-    <value>Downloading the installer file... {0} / {1}</value>
+    <value>Baixando o instalador... {0} / {1}</value>
   </data>
   <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Closed form: {0}</value>
+    <value>Formulário fechado: {0}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1}</value>
+    <value>Descompactando arquivos... {0} de {1}</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>Arquivo de plano de fundo não encontrado em '{0}'; ID: {1};</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
-    <value>This feature is only available to players with a Stella Mod Plus subscription.
+    <value>Esse recurso só está disponível para os assinantes do Stella Mod Plus.
 
-Would you like to visit the official website and subscribe? You'll gain access to numerous benefits, including the ability to use ReShade, 3DMigoto, and FPS Unlocker simultaneously.</value>
+Você gostaria de visitar o site oficial e assinar? Você ganhará acesso a vários benefícios, incluindo usar ReShade, 3DMigoto e o FPS Unlocker simultaneamente.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedShaders" xml:space="preserve">
-    <value>Successfully updated shaders to the latest version for Stella Plus subscribers.</value>
+    <value>Shaders dos assinantes do Stella Plus foram atualizados com sucesso para a última versão.</value>
   </data>
   <data name="Settings_SuccessfullyUpdatedTheReShadeIniFile" xml:space="preserve">
-    <value>Successfully updated the ReShade.ini file. Paths to resource locations have been changed to current, and similar changes have been made.
+    <value>Arquivo ReShade.ini atualizado com sucesso. O caminho para os recursos foram alterados para o atual, e mudanças similares foram feitas.
 
-Current preset:
+Preset atual:
 {0}</value>
   </data>
   <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher file does not exist.
+    <value>Launcher não existe.
 
 {0}</value>
   </data>
@@ -362,43 +362,43 @@ Current preset:
     <value>Error</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Servidor do Discord</value>
   </data>
   <data name="Tools_AreYouSureToRunStellaConfigurationWindowAgain" xml:space="preserve">
-    <value>Are you sure to run Stella Configuration Window again?</value>
+    <value>Tem certeza que deseja executar a janela de configuração do Stella novamente?</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version: {0}</value>
+    <value>Versão: {0}</value>
   </data>
   <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
+    <value>Abrir imagem no navegador padrão</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Assistindo gameplay</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
-    <value>Game launcher was not found in: {0}</value>
+    <value>Launcher do jogo não encontrado em: {0}</value>
   </data>
   <data name="Default_SMLSuccessfullyUpdatedToVersion_" xml:space="preserve">
-    <value>Stella Mod Launcher has been successfully updated to version: v{0}</value>
+    <value>O launcher do Stella mod foi atualizado com sucesso para a versão: v{0}</value>
   </data>
   <data name="Utils_OopsAnErrorOccurred" xml:space="preserve">
-    <value>Oops, an error occurred</value>
+    <value>Ops, ocorreu um erro</value>
   </data>
   <data name="Tools_YouDoNotHaveAnActiveStellaPlusSubscription" xml:space="preserve">
-    <value>You do not have an active Stella Plus subscription.</value>
+    <value>Você não tem uma assinatura ativa do Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Diretório contendo os registros do Stella Mod não foi encontrado em: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
-    <value>Important</value>
+    <value>Importante</value>
   </data>
   <data name="Tools_RememberNotToShareLogFilesWithUnfamiliarIndividualsAsTheyMightContainSensitiveDataShareThemOnlyWithTheStellaModDeveloper" xml:space="preserve">
-    <value>Remember not to share log files with unfamiliar individuals, as they might contain sensitive data. Share them only with the Stella Mod developer.</value>
+    <value>Lembre-se de não compartilhar os arquivos de registro com pessoas que você não conhece. Tais arquivos podem conter dados sensíveis. Compartilhe somente com o desenvolvedor do Stella Mod.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videos - sefinek.net</value>
+    <value>Vídeos - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
     <value>Documentation - sefinek.net</value>
