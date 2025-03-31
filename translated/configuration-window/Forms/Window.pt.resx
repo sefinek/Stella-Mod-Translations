@@ -175,7 +175,7 @@
     <value>78</value>
   </data>
   <data name="MadeBySefinek.Text" xml:space="preserve">
-    <value>made by Sefinek</value>
+    <value>Criado por Sefinek</value>
   </data>
   <data name="MadeBySefinek.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
