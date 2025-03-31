@@ -102,7 +102,6 @@ exports.home = {
   NoProblem: 'Inga problem',
  },
  tooltips: {
-  PageViews: 'Sidvisningar. Statistik har samlats in sedan 19 januari 2024.',
   ShareYourFeedbackOnTrustpilot: 'Dela din feedback på Trustpilot! Vi skulle verkligen uppskatta det.',
  },
 };
