@@ -1551,12 +1551,12 @@ Region: {5}</value>
     <value>146</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Keyboard Shortcuts:
-ALT + 1: Minimize Stella Mod
-ALT + 2: Refresh all active application windows
-ALT + 3: Restart the application
+    <value>Skróty klawiszowe:
+ALT + 1: Zminimalizuj Stella Mod
+ALT + 2: Odśwież wszystkie aktywne okna aplikacji
+ALT + 3: Uruchom ponownie aplikację
 
-You can also press ESC to close the dialog window.</value>
+Możesz również nacisnąć ESC, aby zamknąć okno dialogowe.</value>
   </data>
   <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
