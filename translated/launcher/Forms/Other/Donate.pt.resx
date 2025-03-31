@@ -136,9 +136,9 @@
     <value>17</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Esse programa recebe atualizações regulares graças ao suporte dos usuarios do Stella Mod Plus. Ao se inscrever, você desbloqueará varias melhorias dentro do jogo, incluindo acesso a mods, add-ons, shaderes confiaveis, novos presets, coleções de mods e muito mais!
+    <value>Esse programa recebe atualizações regulares graças ao suporte dos usuários do Stella Mod Plus. Ao assinar, você desbloqueará varias melhorias dentro do jogo, incluindo acesso a mods, add-ons, shaderes confiáveis, novos presets, coleções de mods e muito mais!
 Eleve sua experiencia hoje mesmo!
-Note que a inscrição ao Stella Plus é considerada voluntaria e não um produto a venda. É importante notar que não usamos GIMI!</value>
+Note que sua assinatura ao Stella Plus é considerada voluntaria e não um produto a venda. É importante notar que não usamos GIMI!</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -480,7 +480,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Você deseja se inscrever no Stella Mod Plus? &lt;&lt;</value>
+    <value>&gt;&gt; Você deseja assinar o Stella Mod Plus? &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
