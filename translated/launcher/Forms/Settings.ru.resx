@@ -295,8 +295,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Build: v{0}
-Installed version: v{1}</value>
+    <value>Билд: v{0}
+Загруженная версия: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -606,7 +606,7 @@ Installed version: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Enable WebView2 *</value>
+    <value>Включить WebView2 *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -642,7 +642,7 @@ Installed version: v{1}</value>
     <value>140</value>
   </data>
   <data name="checkBox8.Text" xml:space="preserve">
-    <value>Dispose WebView2 when launching the game</value>
+    <value>Удалите WebView2 когда игра запустится</value>
   </data>
   <data name="&gt;&gt;checkBox8.Name" xml:space="preserve">
     <value>checkBox8</value>
