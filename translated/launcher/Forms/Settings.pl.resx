@@ -280,7 +280,7 @@
     <value>Bottom, Left, Right</value>
   </data>
   <data name="release_Label.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12pt</value>
+    <value>Consolas, 12pt</value>
   </data>
   <data name="release_Label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
