@@ -148,7 +148,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Fechar</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
+    <value>&gt;&gt; Ferramentas e registros &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -400,7 +400,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Log files</value>
+    <value>Arquivos de registro</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -433,7 +433,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Config files</value>
+    <value>Arquivo de configurações</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -607,13 +607,13 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open the configuration window</value>
+    <value>Abrir a janela de configurações</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Reconfigure Stella Mod again</value>
+    <value>Reconfigurar o Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -649,13 +649,14 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Create or update shortcuts</value>
+    <value>Criar ou atualizar atalhos</value>
   </data>
   <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
+    <value>Atualizar atalhos para o Stella Mod Launcher (exceto aqueles na barra de tarefas).
+Útil se você acidentalmente deletou o atalho para o Stella Mod da sua área de trabalho e quer restaura-lo.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -688,13 +689,13 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Configure ReShade</value>
+    <value>Configurar ReShade</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Configurar ReShade automaticamente e definir caminhos de diretórios apropriados</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -727,13 +728,13 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Clear the cache</value>
+    <value>Limpar o cachê</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Configurar ReShade automaticamente e definir caminhos de diretórios apropriados</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -856,7 +857,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Ver diretório</value>
   </data>
   <data name="InnoSetupLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1150,7 +1151,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
+    <value>Arquivo 3DMigoto d3dx_user.ini</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1183,7 +1184,7 @@
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Outros</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1279,7 +1280,7 @@
     <value>137</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>View app data</value>
+    <value>Ver dados do aplicativo</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1315,7 +1316,7 @@
     <value>139</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Path validation</value>
+    <value>Validação de caminho</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1378,12 +1379,12 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Stella Mod launches: {0}
-Game environment: {1}
-HYP version: {2}
+    <value>Stella Mod executado {0} vezes
+Variável de jogo: {1}
+Versão HYP: {2}
 GameBiz: {3}
-Language in the game: {4}
-Region: {5}</value>
+Lingua do jogo: {4}
+Região: {5}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1449,7 +1450,7 @@ Region: {5}</value>
     <value>142</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Open main game folder</value>
+    <value>Abrir pasta raiz do jogo</value>
   </data>
   <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1515,7 +1516,7 @@ Region: {5}</value>
     <value>144</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Open game data folder</value>
+    <value>Abrir pasta de dados do jogo</value>
   </data>
   <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1551,12 +1552,12 @@ Region: {5}</value>
     <value>146</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Keyboard Shortcuts:
-ALT + 1: Minimize Stella Mod
-ALT + 2: Refresh all active application windows
-ALT + 3: Restart the application
+    <value>Atalhos do teclado:
+ALT + 1: Minimiza o Stella Mod
+ALT + 2: Atualiza todas as janelas ativas
+ALT + 3: Reinicia o programa
 
-You can also press ESC to close the dialog window.</value>
+Você também pode apertar ESC para fechar as janelas de diálogo.</value>
   </data>
   <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1592,7 +1593,7 @@ You can also press ESC to close the dialog window.</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Tools</value>
+    <value>Ferramentas</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

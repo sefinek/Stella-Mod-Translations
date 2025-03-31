@@ -163,7 +163,7 @@
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Esperando...</value>
+    <value>Waiting...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -232,8 +232,7 @@
     <value>6</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Nós trabalhamos para fazer o Stella Mod melhor para todos.
-Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia nos mandar dados de uso anônimo do Stella Mod? Esse gesto seria de suma importância em nossos esforços para melhorar e otimizar a aplicação. Nós garantimos que nenhum dado sensível será enviado a nossos servidores, somente arquivos de registro e informações de hardware serão enviados. Oque acha? Por favor :3</value>
+    <value>We are constantly working to make Genshin Stella Mod even better for everyone. Today, we have a small but significant request for you. Would you consider sending us anonymous usage logs of Stella Mod? This gesture would play a crucial role in our ongoing efforts to improve and optimize the application. We assure you that no sensitive data will be sent to our servers. Only log files and hardware data will be uploaded to the server. What do you think? Pleaseee :3</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -266,7 +265,7 @@ Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia no
     <value>7</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>✔ Okay, vamos lá!</value>
+    <value>✔ Okay, lets go!</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -302,7 +301,7 @@ Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia no
     <value>8</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>❌ Não dessa vez...</value>
+    <value>❌ Not this time...</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -338,7 +337,7 @@ Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia no
     <value>9</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Não, e não pergunte de novo</value>
+    <value>No, don't ask me again</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -398,7 +397,7 @@ Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia no
     <value>11</value>
   </data>
   <data name="showMeUploadedFiles.Text" xml:space="preserve">
-    <value>Me mostre os arquivos enviados</value>
+    <value>Show me uploaded files</value>
   </data>
   <data name="showMeUploadedFiles.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -428,7 +427,7 @@ Hoje nós temos um pedido pequeno porém significativo a todos. Você poderia no
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Enviar arquivos de registro</value>
+    <value>Upload logs</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>UploadLogs</value>

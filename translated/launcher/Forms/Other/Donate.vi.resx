@@ -136,9 +136,8 @@
     <value>17</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Esse programa recebe atualizações regulares graças ao suporte dos usuarios do Stella Mod Plus. Ao se inscrever, você desbloqueará varias melhorias dentro do jogo, incluindo acesso a mods, add-ons, shaderes confiaveis, novos presets, coleções de mods e muito mais!
-Eleve sua experiencia hoje mesmo!
-Note que a inscrição ao Stella Plus é considerada voluntaria e não um produto a venda. É importante notar que não usamos GIMI!</value>
+    <value>This software receives regular updates thanks to the support of Stella Mod Plus users. By subscribing, you unlock various game enhancements, including access to mods, add-ons, reliable shaders, new presets, mod collections, and much more! Elevate your Genshin Impact experience today!
+Please note that a Stella Plus subscription is considered voluntary support and not a product purchase. It is also important to be aware that we do not use GIMI!</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -168,7 +167,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>16</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>❌ Não desta vez</value>
+    <value>❌ Not this time</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -198,7 +197,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>❤ Sim, eu posso</value>
+    <value>❤ Yes, I can</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -234,7 +233,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>10</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Se você gosta do projeto, por favor...</value>
+    <value>If you like this project, please...</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -273,7 +272,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>22</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>» Inscreva-se no meu canal do YouTube</value>
+    <value>» Subscribe my YouTube channel</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Sefinek - YouTube</value>
@@ -309,10 +308,10 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>23</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>» Favorite o repositório no GitHub</value>
+    <value>» Star the repository on GitHub</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Repositórios - Genshin Stella Mod</value>
+    <value>Repositories - Genshin Stella Mod</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -348,10 +347,10 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Deixe uma avaliação no Trustpilot.com</value>
+    <value>» Leave a review on Trustpilot.com</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
-    <value>Avaliações do Stella Mod Launcher | Leia as avaliações de atendimento ao cliente de stella.sefinek.net</value>
+    <value>Stella Mod Launcher Reviews | Read Customer Service Reviews of stella.sefinek.net</value>
   </data>
   <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
     <value>linkLabel10</value>
@@ -384,7 +383,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Fechar</value>
+    <value>Close</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -417,7 +416,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>24</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>» Junte-se ao servidor do Discord</value>
+    <value>» Join our Discord server</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -450,7 +449,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>21</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>» Ajude o projeto clicando aqui</value>
+    <value>» Support this project by clicking here</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -480,7 +479,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Você deseja se inscrever no Stella Mod Plus? &lt;&lt;</value>
+    <value>&gt;&gt; Do you want to subscribe to Stella Mod Plus? &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -546,7 +545,7 @@ Note que a inscrição ao Stella Plus é considerada voluntaria e não um produt
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Ajude o desenvolvedor</value>
+    <value>Support the creator</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

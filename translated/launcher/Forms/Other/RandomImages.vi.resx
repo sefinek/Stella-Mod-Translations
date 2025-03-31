@@ -136,7 +136,7 @@
     <value>1</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Kedi</value>
+    <value>Cat</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -169,7 +169,7 @@
     <value>2</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>» Hayvanlar</value>
+    <value>» Animals</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -199,7 +199,7 @@
     <value>3</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Köpek</value>
+    <value>Dog</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -229,7 +229,7 @@
     <value>4</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Tilki</value>
+    <value>Fox</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -325,13 +325,13 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Tilki Kız</value>
+    <value>Foxgirl</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime tilki kızlar</value>
+    <value>Anime foxgirls</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -361,10 +361,10 @@
     <value>6</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Kedi kız</value>
+    <value>Catgirl</value>
   </data>
   <data name="linkLabel6.ToolTip" xml:space="preserve">
-    <value>Anime kedi kızları</value>
+    <value>Anime cat girls</value>
   </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
@@ -397,7 +397,7 @@
     <value>9</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Kahveli</value>
+    <value>Coffee</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -535,7 +535,7 @@
     <value>47</value>
   </data>
   <data name="linkLabel43.Text" xml:space="preserve">
-    <value>Kuyruklu</value>
+    <value>Tail</value>
   </data>
   <data name="&gt;&gt;linkLabel43.Name" xml:space="preserve">
     <value>linkLabel43</value>
@@ -598,7 +598,7 @@
     <value>50</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>» YouTube videoları</value>
+    <value>» YouTube videos</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -628,7 +628,7 @@
     <value>51</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
-    <value>Half-Life kedisi</value>
+    <value>Half-Life cat</value>
   </data>
   <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
     <value>linkLabel45</value>
@@ -661,7 +661,7 @@
     <value>54</value>
   </data>
   <data name="poweredBy_Label.Text" xml:space="preserve">
-    <value>Tarafından desteklenmektedir: {0}</value>
+    <value>Powered by: {0}</value>
   </data>
   <data name="poweredBy_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -724,7 +724,7 @@
     <value>58</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Şirin</value>
+    <value>Cute</value>
   </data>
   <data name="&gt;&gt;linkLabel8.Name" xml:space="preserve">
     <value>linkLabel8</value>
@@ -757,7 +757,7 @@
     <value>59</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Üniformalı</value>
+    <value>Uniform</value>
   </data>
   <data name="&gt;&gt;linkLabel9.Name" xml:space="preserve">
     <value>linkLabel9</value>
@@ -790,7 +790,7 @@
     <value>60</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>Kurdeleli kuyruk</value>
+    <value>Tail with ribbon</value>
   </data>
   <data name="&gt;&gt;linkLabel10.Name" xml:space="preserve">
     <value>linkLabel10</value>
@@ -823,7 +823,7 @@
     <value>61</value>
   </data>
   <data name="linkLabel11.Text" xml:space="preserve">
-    <value>Sanal YouTuber</value>
+    <value>VTuber</value>
   </data>
   <data name="&gt;&gt;linkLabel11.Name" xml:space="preserve">
     <value>linkLabel11</value>
@@ -856,7 +856,7 @@
     <value>62</value>
   </data>
   <data name="linkLabel12.Text" xml:space="preserve">
-    <value>Denizci kıyafetli</value>
+    <value>Sailor uniform</value>
   </data>
   <data name="&gt;&gt;linkLabel12.Name" xml:space="preserve">
     <value>linkLabel12</value>
@@ -889,7 +889,7 @@
     <value>63</value>
   </data>
   <data name="linkLabel13.Text" xml:space="preserve">
-    <value>Kız öğrenci</value>
+    <value>Schoolgirl</value>
   </data>
   <data name="&gt;&gt;linkLabel13.Name" xml:space="preserve">
     <value>linkLabel13</value>
@@ -922,7 +922,7 @@
     <value>64</value>
   </data>
   <data name="linkLabel14.Text" xml:space="preserve">
-    <value>Diz çöküp-oturuyor</value>
+    <value>W-sitting</value>
   </data>
   <data name="&gt;&gt;linkLabel14.Name" xml:space="preserve">
     <value>linkLabel14</value>
@@ -955,7 +955,7 @@
     <value>65</value>
   </data>
   <data name="linkLabel15.Text" xml:space="preserve">
-    <value>Yere uzanıyor</value>
+    <value>Lying down</value>
   </data>
   <data name="&gt;&gt;linkLabel15.Name" xml:space="preserve">
     <value>linkLabel15</value>
@@ -988,7 +988,7 @@
     <value>66</value>
   </data>
   <data name="linkLabel16.Text" xml:space="preserve">
-    <value>Etekli</value>
+    <value>Skirt</value>
   </data>
   <data name="&gt;&gt;linkLabel16.Name" xml:space="preserve">
     <value>linkLabel16</value>
@@ -1021,7 +1021,7 @@
     <value>67</value>
   </data>
   <data name="linkLabel17.Text" xml:space="preserve">
-    <value>Uzun saçlı</value>
+    <value>Long hair</value>
   </data>
   <data name="&gt;&gt;linkLabel17.Name" xml:space="preserve">
     <value>linkLabel17</value>
@@ -1054,7 +1054,7 @@
     <value>68</value>
   </data>
   <data name="linkLabel18.Text" xml:space="preserve">
-    <value>Gülümseyen</value>
+    <value>Smile</value>
   </data>
   <data name="&gt;&gt;linkLabel18.Name" xml:space="preserve">
     <value>linkLabel18</value>
@@ -1087,7 +1087,7 @@
     <value>69</value>
   </data>
   <data name="linkLabel19.Text" xml:space="preserve">
-    <value>Hizmetçi</value>
+    <value>Maid</value>
   </data>
   <data name="&gt;&gt;linkLabel19.Name" xml:space="preserve">
     <value>linkLabel19</value>
@@ -1120,7 +1120,7 @@
     <value>70</value>
   </data>
   <data name="linkLabel20.Text" xml:space="preserve">
-    <value>Uzun saydam çoraplı</value>
+    <value>Thigh high socks</value>
   </data>
   <data name="&gt;&gt;linkLabel20.Name" xml:space="preserve">
     <value>linkLabel20</value>
@@ -1153,7 +1153,7 @@
     <value>71</value>
   </data>
   <data name="linkLabel21.Text" xml:space="preserve">
-    <value>Diz altı çoraplı</value>
+    <value>Knee high socks</value>
   </data>
   <data name="&gt;&gt;linkLabel21.Name" xml:space="preserve">
     <value>linkLabel21</value>
@@ -1186,7 +1186,7 @@
     <value>72</value>
   </data>
   <data name="linkLabel22.Text" xml:space="preserve">
-    <value>Melez</value>
+    <value>Heterochromia</value>
   </data>
   <data name="&gt;&gt;linkLabel22.Name" xml:space="preserve">
     <value>linkLabel22</value>
@@ -1219,7 +1219,7 @@
     <value>73</value>
   </data>
   <data name="linkLabel23.Text" xml:space="preserve">
-    <value>Göz kırpıyor</value>
+    <value>Wink</value>
   </data>
   <data name="&gt;&gt;linkLabel23.Name" xml:space="preserve">
     <value>linkLabel23</value>
@@ -1252,7 +1252,7 @@
     <value>74</value>
   </data>
   <data name="linkLabel24.Text" xml:space="preserve">
-    <value>Elbise</value>
+    <value>Dress</value>
   </data>
   <data name="&gt;&gt;linkLabel24.Name" xml:space="preserve">
     <value>linkLabel24</value>
@@ -1285,7 +1285,7 @@
     <value>75</value>
   </data>
   <data name="linkLabel25.Text" xml:space="preserve">
-    <value>Kurdeleli</value>
+    <value>Ribbons</value>
   </data>
   <data name="&gt;&gt;linkLabel25.Name" xml:space="preserve">
     <value>linkLabel25</value>
@@ -1318,7 +1318,7 @@
     <value>76</value>
   </data>
   <data name="linkLabel26.Text" xml:space="preserve">
-    <value>Kapüşonlu</value>
+    <value>Hoodie</value>
   </data>
   <data name="&gt;&gt;linkLabel26.Name" xml:space="preserve">
     <value>linkLabel26</value>
@@ -1351,7 +1351,7 @@
     <value>77</value>
   </data>
   <data name="linkLabel27.Text" xml:space="preserve">
-    <value>Gündelik giyimli</value>
+    <value>Casual wear</value>
   </data>
   <data name="&gt;&gt;linkLabel27.Name" xml:space="preserve">
     <value>linkLabel27</value>
@@ -1384,7 +1384,7 @@
     <value>78</value>
   </data>
   <data name="linkLabel28.Text" xml:space="preserve">
-    <value>Siyah taytlı</value>
+    <value>Black tights</value>
   </data>
   <data name="&gt;&gt;linkLabel28.Name" xml:space="preserve">
     <value>linkLabel28</value>
@@ -1417,7 +1417,7 @@
     <value>79</value>
   </data>
   <data name="linkLabel29.Text" xml:space="preserve">
-    <value>Beyaz saçlı</value>
+    <value>White hair</value>
   </data>
   <data name="&gt;&gt;linkLabel29.Name" xml:space="preserve">
     <value>linkLabel29</value>
@@ -1450,7 +1450,7 @@
     <value>80</value>
   </data>
   <data name="linkLabel30.Text" xml:space="preserve">
-    <value>Pembe saçlı</value>
+    <value>Pink hair</value>
   </data>
   <data name="&gt;&gt;linkLabel30.Name" xml:space="preserve">
     <value>linkLabel30</value>
@@ -1483,7 +1483,7 @@
     <value>81</value>
   </data>
   <data name="linkLabel31.Text" xml:space="preserve">
-    <value>Mavi saçlı</value>
+    <value>Blue hair</value>
   </data>
   <data name="&gt;&gt;linkLabel31.Name" xml:space="preserve">
     <value>linkLabel31</value>
@@ -1516,7 +1516,7 @@
     <value>82</value>
   </data>
   <data name="linkLabel32.Text" xml:space="preserve">
-    <value>Sevgililer Günü</value>
+    <value>Valentine</value>
   </data>
   <data name="&gt;&gt;linkLabel32.Name" xml:space="preserve">
     <value>linkLabel32</value>
@@ -1582,7 +1582,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Daha fazla tatlı resim görmek için en sevimli anime booru'yu ziyaret edin! Tüm içerik SFW'dir. Buraya tıklayınız.</value>
+    <value>Visit the sweetest anime booru to see more cute pictures! All content is SFW. Click here.</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1618,7 +1618,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Rastgele anime resimleri</value>
+    <value>Random anime pictures</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

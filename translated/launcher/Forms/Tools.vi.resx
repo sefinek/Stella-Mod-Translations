@@ -148,7 +148,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Kapat</value>
+    <value>Close</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -205,7 +205,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Başlatıcısı 2025</value>
+    <value>Genshin Stella Mod Launcher 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -241,7 +241,7 @@
     <value>82</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Araçlar ve çıktılar &lt;&lt;</value>
+    <value>&gt;&gt; Tools and logs &lt;&lt;</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -340,7 +340,7 @@
     <value>85</value>
   </data>
   <data name="LauncherLogs.Text" xml:space="preserve">
-    <value>Başlatıcı</value>
+    <value>Launcher</value>
   </data>
   <data name="LauncherLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -400,7 +400,7 @@
     <value>88</value>
   </data>
   <data name="LogFiles.Text" xml:space="preserve">
-    <value>Çıktı dosyaları</value>
+    <value>Log files</value>
   </data>
   <data name="LogFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -433,7 +433,7 @@
     <value>89</value>
   </data>
   <data name="ConfigFiles.Text" xml:space="preserve">
-    <value>Yapılandırma dosyaları</value>
+    <value>Config files</value>
   </data>
   <data name="ConfigFiles.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -535,7 +535,7 @@
     <value>92</value>
   </data>
   <data name="SeeFPSUnlockerConfig.Text" xml:space="preserve">
-    <value>FPS Sınır Kaldırıcı</value>
+    <value>FPS Unlocker</value>
   </data>
   <data name="SeeFPSUnlockerConfig.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -607,13 +607,13 @@
     <value>124</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Yapılandırma penceresini aç</value>
+    <value>Open the configuration window</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel1.ToolTip" xml:space="preserve">
-    <value>Stella Mod'u yeniden yapılandır</value>
+    <value>Reconfigure Stella Mod again</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
@@ -649,13 +649,13 @@
     <value>121</value>
   </data>
   <data name="CreateShortcut.Text" xml:space="preserve">
-    <value>Kısayolları oluşturun veya güncelleyin</value>
+    <value>Create or update shortcuts</value>
   </data>
   <data name="CreateShortcut.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="CreateShortcut.ToolTip" xml:space="preserve">
-    <value>Stella Mod Başlatıcısı için kısayolları güncelleyin (görev çubuğundaki hariç). Stella Mod kısayolunu masaüstünüzden yanlışlıkla sildiyseniz ve geri yüklemek istiyorsanız yararlıdır.</value>
+    <value>Update the shortcuts for Stella Mod Launcher (except the one on the taskbar). Useful if you accidentally deleted the Stella Mod shortcut from your desktop and want to restore it.</value>
   </data>
   <data name="&gt;&gt;CreateShortcut.Name" xml:space="preserve">
     <value>CreateShortcut</value>
@@ -688,13 +688,13 @@
     <value>128</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>ReShade'i Yapılandır</value>
+    <value>Configure ReShade</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>ReShade'i otomatik olarak yapılandır ve doğru klasör yollarını belirle</value>
+    <value>Automatically configure ReShade and set the appropriate directory paths</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -727,13 +727,13 @@
     <value>135</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Önbelleği temizle</value>
+    <value>Clear the cache</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>ReShade'i otomatik olarak ayarlayın ve uygun klasör yollarını yapılandırın</value>
+    <value>Automatically configure ReShade and set the appropriate directory paths</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -856,7 +856,7 @@
     <value>107</value>
   </data>
   <data name="InnoSetupLogs.Text" xml:space="preserve">
-    <value>Klasörleri görüntüle</value>
+    <value>View directory</value>
   </data>
   <data name="InnoSetupLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1081,7 +1081,7 @@
     <value>130</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini Dosyası</value>
+    <value>3DMigoto d3dx.ini file</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1150,7 +1150,7 @@
     <value>132</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini Dosyası</value>
+    <value>3DMigoto d3dx_user.ini file</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1183,7 +1183,7 @@
     <value>134</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Ekstra</value>
+    <value>Miscellaneous</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1279,7 +1279,7 @@
     <value>137</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Uygulama verilerini görüntüle</value>
+    <value>View app data</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1315,7 +1315,7 @@
     <value>139</value>
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Yol Doğrulaması</value>
+    <value>Path validation</value>
   </data>
   <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1378,12 +1378,12 @@
     <value>141</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Stella Mod başlatılmıştır: {0}
-Oyun alanı: {1}
-HYP versiyonu: {2}
+    <value>Stella Mod launches: {0}
+Game environment: {1}
+HYP version: {2}
 GameBiz: {3}
-Oyundaki dil: {4}
-Bölge: {5}</value>
+Language in the game: {4}
+Region: {5}</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1449,7 +1449,7 @@ Bölge: {5}</value>
     <value>142</value>
   </data>
   <data name="linkLabel8.Text" xml:space="preserve">
-    <value>Ana oyunun klasörünü açın</value>
+    <value>Open main game folder</value>
   </data>
   <data name="linkLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1515,7 +1515,7 @@ Bölge: {5}</value>
     <value>144</value>
   </data>
   <data name="linkLabel9.Text" xml:space="preserve">
-    <value>Oyun verilerinin klasörünü açın</value>
+    <value>Open game data folder</value>
   </data>
   <data name="linkLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1551,12 +1551,12 @@ Bölge: {5}</value>
     <value>146</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Klavye Kısayolları:
-ALT + 1: Stella Mod'u simge durumuna küçültür
-ALT + 2: Tüm etkin uygulama pencerelerini yeniler
-ALT + 3: Uygulamayı yeniden başlatır
+    <value>Keyboard Shortcuts:
+ALT + 1: Minimize Stella Mod
+ALT + 2: Refresh all active application windows
+ALT + 3: Restart the application
 
-İletişim penceresini kapatmak için ESC tuşuna basabilirsiniz.</value>
+You can also press ESC to close the dialog window.</value>
   </data>
   <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1592,7 +1592,7 @@ ALT + 3: Uygulamayı yeniden başlatır
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Araçlar</value>
+    <value>Tools</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

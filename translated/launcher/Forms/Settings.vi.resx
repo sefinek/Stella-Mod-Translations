@@ -139,7 +139,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Başlatıcısı 2025</value>
+    <value>Genshin Stella Mod Launcher 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -172,7 +172,7 @@
     <value>82</value>
   </data>
   <data name="SettingsAndUtils.Text" xml:space="preserve">
-    <value>&gt;&gt; Ayarlar &lt;&lt;</value>
+    <value>&gt;&gt; Settings &lt;&lt;</value>
   </data>
   <data name="SettingsAndUtils.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -208,7 +208,7 @@
     <value>76</value>
   </data>
   <data name="panel2.ToolTip" xml:space="preserve">
-    <value>Kapat</value>
+    <value>Close</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -238,7 +238,7 @@
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Stella Mod yazılımında dilinizi değiştirin</value>
+    <value>Change language in Stella Mod</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -295,8 +295,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Yapı: v{0}
-Yüklü sürüm: v{1}</value>
+    <value>Build: v{0}
+Installed version: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -369,7 +369,7 @@ Yüklü sürüm: v{1}</value>
     <value>132</value>
   </data>
   <data name="checkBox1.Text" xml:space="preserve">
-    <value>Başlangıçta arkaplan müziği</value>
+    <value>Background music on startup</value>
   </data>
   <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
     <value>checkBox1</value>
@@ -405,7 +405,7 @@ Yüklü sürüm: v{1}</value>
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Başlatıcıdaki sesler</value>
+    <value>Sounds in the launcher</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -441,7 +441,7 @@ Yüklü sürüm: v{1}</value>
     <value>134</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Başlatıcı başlatılırken ses</value>
+    <value>Sound during launcher startup</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
@@ -477,7 +477,7 @@ Yüklü sürüm: v{1}</value>
     <value>135</value>
   </data>
   <data name="checkBox5.Text" xml:space="preserve">
-    <value>Sevimlilik Sayacı *</value>
+    <value>Moe Counter *</value>
   </data>
   <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
     <value>checkBox5</value>
@@ -513,7 +513,7 @@ Yüklü sürüm: v{1}</value>
     <value>136</value>
   </data>
   <data name="checkBox6.Text" xml:space="preserve">
-    <value>DWM Efektleri *</value>
+    <value>DWM Effects *</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -543,7 +543,7 @@ Yüklü sürüm: v{1}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Ayarların değiştirilmesi uygulamanın yeniden başlamasına sebep olabilir.</value>
+    <value>* Changing the settings may require restarting the application.</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -606,7 +606,7 @@ Yüklü sürüm: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>WebView2'yi Etkinleştir *</value>
+    <value>Enable WebView2 *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
@@ -642,7 +642,7 @@ Yüklü sürüm: v{1}</value>
     <value>140</value>
   </data>
   <data name="checkBox8.Text" xml:space="preserve">
-    <value>Oyun başlatılırken WebView2'yi etkisizleştirin</value>
+    <value>Dispose WebView2 when launching the game</value>
   </data>
   <data name="&gt;&gt;checkBox8.Name" xml:space="preserve">
     <value>checkBox8</value>
@@ -675,7 +675,7 @@ Yüklü sürüm: v{1}</value>
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Ayarlar</value>
+    <value>Settings</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

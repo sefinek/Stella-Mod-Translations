@@ -325,13 +325,13 @@
     <value>7</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>Foxgirl</value>
+    <value>Лисодевочка</value>
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Anime foxgirls</value>
+    <value>Аниме лисодевочки</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -1582,7 +1582,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Visit the sweetest anime booru to see more cute pictures! All content is SFW. Click here.</value>
+    <value>Посетите самый милый аниме-буру, чтобы увидеть больше милых картинок! Все содержимое является SFW. Нажмите здесь.</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
