@@ -405,7 +405,7 @@ Zainstalowana wersja: v{1}</value>
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Dźwięki w aplikacji</value>
+    <value>Dźwięki w launcherze</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
