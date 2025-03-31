@@ -449,7 +449,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>21</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>» Wesprzyj moją pracę, klikając tutaj</value>
+    <value>» Wesprzyj ten projekt, klikając tutaj</value>
   </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
