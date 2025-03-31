@@ -118,165 +118,166 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>An update is required.
+    <value>Uma atualização é necessária.
 
-We apologize for any inconvenience, but it is necessary to install every new update. These updates may include quality improvements, and some may even contain critical security fixes.
+Pedimos desculpas pelo inconveniente, porém é necessário instalar todas as novas atualizações.
+Elas incluem melhorias de qualidade de vida e algumas podem incluir até correções criticas de segurança.
 
-If, for any reason, you are unable to update Stella Mod using the Launcher, please uninstall the current version and install the new one from the official website.</value>
+Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o launcher, por favor desinstale a versão atual e baixe a mais recente do nosso site oficial.</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Executar o launcher oficial do Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>Checando por atualizações...</value>
   </data>
   <data name="Default_Success" xml:space="preserve">
-    <value>Success!</value>
+    <value>Sucesso!</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
-    <value>We've renamed your resource folder by adding '{0}' to the end.</value>
+    <value>Nós renomeamos sua pasta de recursos ao adicionar '{0}' ao fim.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Resource directory not found. In newer versions of Stella Mod, saving paths has been moved to the registry. If you have just updated the software, click OK. The configuration window will be launched.</value>
+    <value>Diretório de recursos não encontrado. Nas novas versões do Stella Mod, salvar os caminhos foi movido ao registro de sistema. Se você acabou de atualizar o programa, clique OK. A janela de configurações será iniciada.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
-    <value>Downloading benefits update... {0} / {1}</value>
+    <value>Baixando a atualização dos benefícios... {0} / {1}</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
-    <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
+    <value>Mods 3DMigoto dos inscritos Stella Plus atualizados com sucesso.</value>
   </data>
   <data name="Cmd_WorkingDirectory" xml:space="preserve">
-    <value>Working directory</value>
+    <value>Pasta padrão</value>
   </data>
   <data name="DownloadCmd_SuccessfullyDownloadedOrUpdatedFile_" xml:space="preserve">
-    <value>{0} Successfully downloaded or updated file: {1}</value>
+    <value>{0} Arquivos baixados ou atualizados com sucesso: {1}</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
+    <value>Arquivo de instalação antigo deletado do diretório temporário.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
-    <value>Reading the documentation</value>
+    <value>Lendo a documentação</value>
   </data>
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
 
-Do you want to download this dependency from the Microsoft website?</value>
+Você deseja baixar essa dependência do site da Microsoft?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
-    <value>Uploading Stella Logs</value>
+    <value>Enviando arquivos de registro Stella</value>
   </data>
   <data name="DiscordRPC_Details" xml:space="preserve">
-    <value>In the main window</value>
+    <value>Na tela principal</value>
   </data>
   <data name="MajorRelease_MajorVersionIsAvailable" xml:space="preserve">
-    <value>Major version is available</value>
+    <value>Atualização importante disponível</value>
   </data>
   <data name="Default_CheckForUpdates" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Buscar atualizações</value>
   </data>
   <data name="Default_CurrentBackground_Default" xml:space="preserve">
-    <value>Current background: Default</value>
+    <value>Plano de fundo atual: Padrão</value>
   </data>
   <data name="NormalRelease_ClickHereToUpdate" xml:space="preserve">
-    <value>Click here to update</value>
+    <value>Clique aqui para atualizar</value>
   </data>
   <data name="DiscordRPC_OfficialWebsite" xml:space="preserve">
-    <value>Official website</value>
+    <value>Site oficial</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
   <data name="Default_FileWasNotFound" xml:space="preserve">
-    <value>File was not found.</value>
+    <value>Arquivo não encontrado.</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
-    <value>Sorry. Background {0} was not found.</value>
+    <value>Desculpe, plano de fundo {0} não encontrado.</value>
   </data>
   <data name="Default_TheApplicationBackgroundHasBeenChangedToDefault_ID" xml:space="preserve">
-    <value>The application background has been changed to default. ID: {0}</value>
+    <value>O plano de fundo do aplicativo mudou para o padrão. ID: {0}</value>
   </data>
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
-    <value>The shortcuts have been successfully updated or created.</value>
+    <value>Os atalhos foram criados ou atualizados com sucesso.</value>
   </data>
   <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>File {0} was not found.</value>
+    <value>Arquivo {0} não encontrado.</value>
   </data>
   <data name="Main_ClosingForm_" xml:space="preserve">
-    <value>Closing form {0}...</value>
+    <value>Fechando formulario {0}...</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>You are connected as {0}. Hi, nice to meet you! Check your activity on Discord.</value>
+    <value>Você está conectado como {0}. Prazer em te conhecer! Cheque sua atividade no Discord.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
-    <value>Watching other videos</value>
+    <value>Assistindo outros vídeos</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
-    <value>It's just text. What more do you want?</value>
+    <value>É só texto. Oque mais você quer?</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedAddons" xml:space="preserve">
-    <value>Successfully updated ReShade Addons for Stella Plus subscribers.</value>
+    <value>Addons do ReShade atualizados com sucesso para inscritos do Stella Plus.</value>
   </data>
   <data name="UpdateBenefits_SuccessfullyUpdatedPresets" xml:space="preserve">
-    <value>Successfully updated presets for Stella Plus subscribers.</value>
+    <value>Presets atualizados com sucesso para inscritos Stella Plus.</value>
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
-    <value>Do you want to join our Discord server?</value>
+    <value>Você quer se juntar ao nosso servidor do Discord?</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
-    <value>The new version v{0} from {1} is available! Please update.</value>
+    <value>A nova versão v{0} (antes {1}) está disponível! Por favor, atualize.</value>
   </data>
   <data name="NormalRelease_DownloadingUpdate_" xml:space="preserve">
-    <value>Downloading update... {0} / {1}</value>
+    <value>Baixando atualização... {0} / {1}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTheGallery" xml:space="preserve">
-    <value>Browsing the gallery</value>
+    <value>Navegando na galeria</value>
   </data>
   <data name="Default_SomethingWentWrongWhileCheckingForNewUpdates" xml:space="preserve">
-    <value>Something went wrong while checking for new updates.
+    <value>Algo deu errado ao checar por novas atualizações.
 
 {0}</value>
   </data>
   <data name="StellaResources_UpdateSize" xml:space="preserve">
-    <value>Update size: {0}</value>
+    <value>Tamanho da atualização: {0}</value>
   </data>
   <data name="StellaResources_SuccessfullyUpdatedResources" xml:space="preserve">
-    <value>Successfully updated resources.</value>
+    <value>Recursos atualizados com sucesso.</value>
   </data>
   <data name="NormalRelease_Waiting_" xml:space="preserve">
-    <value>Waiting {0}s...</value>
+    <value>Aguardando {0} segundos...</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Sorry, one instance is currently open. Quit the process with name {0} and try again.</value>
+    <value>Desculpe, uma instância já está aberta. Feche o processo chamado {0} e tente novamente.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
-    <value>In the window with links</value>
+    <value>Na janela de links</value>
   </data>
   <data name="Default_SadFailedToDownloadReShadeIni_TryAgain" xml:space="preserve">
-    <value>Sad... Failed to download ReShade.ini. Try again.</value>
+    <value>Triste... Falhou em baixar ReShade.ini. Tente novamente.</value>
   </data>
   <data name="WebView2Handler_OhhSorrySomethingWentWrongWithWV2" xml:space="preserve">
-    <value>Sorry. Something went wrong with WebView2.</value>
+    <value>Desculpe, algo deu errado com o WebView2.</value>
   </data>
   <data name="StellaResources_UnpackingFiles" xml:space="preserve">
-    <value>Unpacking files...</value>
+    <value>Descompactando arquivos...</value>
   </data>
   <data name="Default_CurrentBackground" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Plano de fundo atual: {0}</value>
   </data>
   <data name="DiscordRPC_Status_BrowsingTools" xml:space="preserve">
-    <value>Browsing tools</value>
+    <value>Navegando nas ferramentas</value>
   </data>
   <data name="NormalRelease_NewUpdateAvailable" xml:space="preserve">
-    <value>New update available</value>
+    <value>Nova atualização disponível</value>
   </data>
   <data name="Default_Playing_" xml:space="preserve">
-    <value>Playing: {0}</value>
+    <value>Jogando: {0}</value>
   </data>
   <data name="Cmd_TheRequiredDependencyHasBeenSuccessfullyInstalledButYourPCNeedsToBeRestart" xml:space="preserve">
-    <value>The required dependency has been successfully installed, but your computer needs to be restarted.</value>
+    <value>As dependências necessárias foram instaladas corretamente, porém seu computador precisa ser reiniciado.</value>
   </data>
   <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Game launcher was not found.</value>
+    <value>Launcher do jogo não encontrado.</value>
   </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade log file was not found in:
