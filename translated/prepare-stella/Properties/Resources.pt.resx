@@ -122,26 +122,26 @@
     <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Run the official launcher for Genshin Stella Mod.</value>
+    <value>Executar o launcher oficial do Stella Mod.</value>
   </data>
   <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Select a folder for Stella Mod resources.</value>
+    <value>Selecione a pasta para os recursos do Stella Mod.</value>
   </data>
   <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
-    <value>That's not the right place.</value>
+    <value>Esse não é o lugar correto.</value>
   </data>
   <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
-    <value>Please select the game exe.
-* GenshinImpact.exe for OS version (main)
-* YuanShen.exe for CN (Chinese) version</value>
+    <value>Por favor, selecione o executável do jogo.
+* GenshinImpact.exe para a versão global
+*YuanShen.exe para a versão chinesa</value>
   </data>
   <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
-    <value>The specified location does not appear to be valid.
+    <value>O local especificado não parece ser valido.
 
-Selected path:
+Caminho selecionado:
 {0}</value>
   </data>
   <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Please select the correct file.</value>
+    <value>Por favor, selecione o arquivo correto.</value>
   </data>
 </root>
