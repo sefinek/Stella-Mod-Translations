@@ -101,7 +101,6 @@ exports.home = {
   NoProblem: 'De acuerdo',
  },
  tooltips: {
-  PageViews: 'Número de visitas. Las estadísticas se han recopilado desde el 19 de enero de 2024.',
   ShareYourFeedbackOnTrustpilot: '¡Comparte tu opinión en Trustpilot! Lo agradeceríamos mucho.',
  },
 };

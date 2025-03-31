@@ -102,7 +102,6 @@ exports.home = {
   NoProblem: 'Нет проблем',
  },
  tooltips: {
-  PageViews: 'Просмотры страниц. Статистика ведется с 19 января 2024 года.',
   ShareYourFeedbackOnTrustpilot: 'Поделитесь своим отзывом на Trustpilot! Мы будем вам очень признательны.',
  },
 };

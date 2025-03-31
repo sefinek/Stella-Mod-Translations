@@ -101,7 +101,6 @@ exports.home = {
   NoProblem: 'Sorun değil',
  },
  tooltips: {
-  PageViews: 'Site ziyaretleri. İstatistikler 19 Ocak 2024 tarihinden itibaren toplanmıştır.',
   ShareYourFeedbackOnTrustpilot: "Görüşlerinizi Trustpilot'ta paylaşın! Çok memnun oluruz.",
  },
 };
