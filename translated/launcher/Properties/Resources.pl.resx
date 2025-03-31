@@ -160,7 +160,7 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="WebView2Handler_DoYouWantToDownloadThisDependencyFromMStore" xml:space="preserve">
     <value>{0}
 
-Czy chcesz pobrać tę zależność z witryny firmy Microsoft?</value>
+Chcesz pobrać tę zależność ze strony internetowej Microsoftu?</value>
   </data>
   <data name="DiscordRPC_Status_UploadingStellaLogs" xml:space="preserve">
     <value>Przesyła logi Stella Mod</value>
