@@ -122,15 +122,15 @@
     <value>..\Resources\angry-paimon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
-    <value>This information will disappear in {0}s...</value>
+    <value>Эта информация исчезнет через {0}...</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Ошибка</value>
   </data>
   <data name="Closing" xml:space="preserve">
-    <value>Closing...</value>
+    <value>Закрытие...</value>
   </data>
   <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
-    <value>Take a moment to review the contents of this information. The documentation has been opened in your default browser.</value>
+    <value>Ознакомьтесь с представленной информацией. Документация открыта в вашем браузере по умолчанию.</value>
   </data>
 </root>
