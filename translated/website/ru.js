@@ -349,7 +349,7 @@ exports.subscription = {
   GameUIWithoutVisibleShaders: 'Игровой интерфейс без видемости шейдеров',
   HideYourUIDInTheGame: 'Скрыть свой UID в игре',
   PresetsFromPreviousVersions: 'Пресеты из предыдущих версий',
-  EarlyAccessToStellaMod: 'Ранний доступ к Stella ModFAQ',
+  EarlyAccessToStellaMod: 'Ранний доступ к Stella Mod',
   FasterDownloadServers: 'Быстрые сервера загрузки',
   CarefullyDesignedSecuritySystem: 'Тщательно продуманная система безопасности',
   MuchGreaterPrivacy: 'Гораздо большая конфиденциальность',
