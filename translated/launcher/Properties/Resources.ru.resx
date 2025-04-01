@@ -310,15 +310,15 @@
     <value>Новое обновление ресурсов доступно с {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
+    <value>Привет! Похоже, мы впервые видим друг друга! Чтобы избежать возможных проблем, пожалуйста, ознакомьтесь с условиями использования и рекомендациями по работе с данным программным обеспечением. Документация доступна на нашем официальном сайте. Используя Stella Mod, вы соглашаетесь с условиями, изложенными в документации.
 
-This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security - no analytical or hardware data is ever sent without your consent.
+Это программное обеспечение постоянно поддерживается разработчиком благодаря подписчикам Stella Mod Plus. Доходы помогают покрывать расходы на оптоволоконный интернет и счета за электричество. Сервер API размещен в частном доме в Польше, что означает, что местный администратор является единственным владельцем базы данных. Genshin Stella Mod ставит во главу угла конфиденциальность и безопасность пользователей - никакие аналитические или аппаратные данные никогда не отправляются без вашего согласия.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
+Stella Mod - безопасное программное обеспечение, поэтому беспокоиться не о чем. Просто помните, что нельзя использовать читы в игре. Если вам нужна помощь, присоединяйтесь к нашему серверу Discord или пишите нам на contact@sefinek.net.
 
-Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
+Пожалуйста, обратите внимание, что Stella Mod полностью независим и НЕ связан с HoYoverse. Если вам нравится этот проект, поддержите его дальнейшее развитие, подписавшись на Stella Mod Plus.
 
-Thanks, and see you in the game! Have fun.</value>
+Спасибо, и до встречи в игре! Приятного времяпрепровождения.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Каталог {0} не был найден.</value>
@@ -373,7 +373,7 @@ Thanks, and see you in the game! Have fun.</value>
     <value>Открыть изображение в браузере по умолчанию</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
-    <value>Watching gameplay</value>
+    <value>Смотреть игровой процесс</value>
   </data>
   <data name="GameLauncherWasNotFoundIn_" xml:space="preserve">
     <value>Лаунчер игры не найден в: {0}</value>
@@ -388,7 +388,7 @@ Thanks, and see you in the game! Have fun.</value>
     <value>У вас нет активной подписки Stella Plus.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Directory with the Stella Logs was not found in: {0}</value>
+    <value>Директория с Логами Stella не была найдена в: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Важно</value>
@@ -421,16 +421,16 @@ Thanks, and see you in the game! Have fun.</value>
     <value>Посетить сервер Discord</value>
   </data>
   <data name="Default_Support" xml:space="preserve">
-    <value>Support</value>
+    <value>Поддержка</value>
   </data>
   <data name="Default_LeaveYourFeedback" xml:space="preserve">
     <value>Оставить свой отзыв</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>Донаты</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Quit</value>
+    <value>Выйти</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Идёт проверка необходимых файлов...</value>
@@ -576,16 +576,16 @@ Thanks, and see you in the game! Have fun.</value>
 {0}</value>
   </data>
   <data name="Default_ThisIsAlreadyThe_ThTimeYouAreLaunchingThisAppOnThisDeviceThankYou" xml:space="preserve">
-    <value>This is already the {0}th time you are launching this app on this device. Thank you!</value>
+    <value>Вы уже в {0}-й раз запускаете это приложение на данном устройстве. Спасибо!</value>
   </data>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
-    <value>Stella Mod resources were not found on your hard drive.</value>
+    <value>Ресурсы Stella Mod не были найдены на Вашем диске.</value>
   </data>
   <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Change of the launcher path</value>
+    <value>Изменить патч лаунчера</value>
   </data>
   <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>We have detected a probable change in the location of the Stella Mod launcher. Some shortcuts have been updated.</value>
+    <value>Мы обнаружили вероятное изменение в расположении лаунчера Stella Mod. Некоторые ярлыки были обновлены.</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
