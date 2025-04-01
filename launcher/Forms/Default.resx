@@ -460,7 +460,7 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="tools_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 688</value>
+    <value>222, 688</value>
   </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>127, 30</value>
@@ -580,7 +580,7 @@
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="gameplay_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>555, 688</value>
+    <value>570, 688</value>
   </data>
   <data name="gameplay_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>127, 30</value>
@@ -740,7 +740,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="links_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>386, 688</value>
+    <value>396, 688</value>
   </data>
   <data name="links_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>127, 30</value>
@@ -779,7 +779,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>720, 688</value>
+    <value>740, 688</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>127, 30</value>
@@ -1176,7 +1176,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="toolsIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>181, 688</value>
+    <value>186, 688</value>
   </data>
   <data name="toolsIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1383,7 +1383,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="padIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>519, 688</value>
+    <value>534, 688</value>
   </data>
   <data name="padIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1440,7 +1440,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>Bottom, Left</value>
   </data>
   <data name="shortcutIco_PictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>350, 688</value>
+    <value>360, 688</value>
   </data>
   <data name="shortcutIco_PictureBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
@@ -1557,7 +1557,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>684, 688</value>
+    <value>704, 688</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 30</value>
