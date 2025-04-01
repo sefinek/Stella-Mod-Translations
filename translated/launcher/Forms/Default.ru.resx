@@ -953,7 +953,7 @@
     <value>MiddleCenter</value>
   </data>
   <data name="runGiLauncher_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Откройте официальный игровой лаунчер.</value>
+    <value>Откройте официальный игровой лаунчер</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
