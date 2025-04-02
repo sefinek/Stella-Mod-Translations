@@ -118,45 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SetupForm_Searching" xml:space="preserve">
-    <value>Searching...</value>
+    <value>Aranıyor...</value>
   </data>
   <data name="SetupForm_CurrentPath" xml:space="preserve">
-    <value>Current path: {0}</value>
+    <value>Geçerli yol: {0}</value>
   </data>
   <data name="SetupForm_FailedToFindProcessPath" xml:space="preserve">
-    <value>Failed to find process path. Please use "Browse" instead.</value>
+    <value>İşleme yolu bulunamadı. Lütfen bunun yerine “Gözat” ı kullanın.</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Hata</value>
   </data>
   <data name="Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Başarılı</value>
   </data>
   <data name="SetupForm_GameFound" xml:space="preserve">
-    <value>Game found!
+    <value>Oyun bulundu!
 {0}</value>
   </data>
   <data name="SetupForm_Found_0_installationOfTheGame" xml:space="preserve">
-    <value>Found {0} installation of the game</value>
+    <value>Oyunun {0} adet yüklemesi bulundu</value>
   </data>
   <data name="SetupForm_PleaseSelectTheGameExe" xml:space="preserve">
-    <value>Please select the game exe.
-GenshinImpact.exe or YuanShen.exe.</value>
+    <value>Lütfen oyun exe'sini seçin.
+GenshinImpact.exe veya YuanShen.exe.</value>
   </data>
   <data name="SetupForm_ThatsNotTheRightPlace" xml:space="preserve">
-    <value>That's not the right place.</value>
+    <value>Burası doğru yer değil.</value>
   </data>
   <data name="MainForm_GenshinFPSUnlocker_CurrentLimit" xml:space="preserve">
-    <value>Genshin FPS Unlocker (current limit: {0})</value>
+    <value>Genshin FPS Sınır kaldırıcı (geçerli limit: {0})</value>
   </data>
   <data name="MainForm_TheRegistryKeyStellaPathWasNotFound" xml:space="preserve">
-    <value>The registry key 'StellaPath' was not found. Are you sure Genshin Stella Mod is installed?</value>
+    <value>'StellaPath' kayıt defteri anahtarı bulunamadı. Genshin Stella Mod'un yüklü olduğundan emin misiniz?</value>
   </data>
   <data name="MainForm_AnErrorOccurred" xml:space="preserve">
-    <value>An error occurred: {0}</value>
+    <value>Bir hata oluştu: {0}</value>
   </data>
   <data name="ConfigService_TheConfigurationFileAppearsToBeCorrupted" xml:space="preserve">
-    <value>The configuration file appears to be corrupted. We will attempt to repair it. If this message continues to appear, please delete the configuration file (unlocker.config.json).
+    <value>Yapılandırma dosyası bozuk görünüyor. Onarmaya çalışacağız. Bu mesaj gözükmeye devam ederse, lütfen yapılandırma dosyasını (unlocker.config.json dosyasını) silin.
 
 {0}</value>
   </data>
@@ -165,13 +165,13 @@ GenshinImpact.exe or YuanShen.exe.</value>
     <value>..\Resources\icon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Program_AnotherUnlockerIsAlreadyRunning" xml:space="preserve">
-    <value>Another unlocker is already running.</value>
+    <value>Başka bir Sınır kaldırıcı zaten çalışıyor.</value>
   </data>
   <data name="MainForm_ViewCfg_TheUnlockerConfigJsonFileWasNotFound" xml:space="preserve">
-    <value>The unlocker.config.json file was not found.</value>
+    <value>Unlocker.config.json dosyası bulunamadı.</value>
   </data>
   <data name="MainForm_ViewCfg_FileNotFound" xml:space="preserve">
-    <value>File not found</value>
+    <value>Dosya bulunamadı</value>
   </data>
   <data name="fps_unlocker" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fps_unlocker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
