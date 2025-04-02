@@ -137,7 +137,7 @@
 {0}</value>
   </data>
   <data name="SetupForm_Found_0_installationOfTheGame" xml:space="preserve">
-    <value>Found {0} installation of the game</value>
+    <value>Oyunun {0} adet yüklemesi bulundu</value>
   </data>
   <data name="SetupForm_PleaseSelectTheGameExe" xml:space="preserve">
     <value>Lütfen oyun exe'sini seçin.
