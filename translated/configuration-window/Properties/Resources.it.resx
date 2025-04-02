@@ -117,13 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cat_white_52x52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat-white_52x52.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
     <value>Il file richiesto '{0}' non è stato trovato.
 
@@ -133,11 +126,11 @@ Per favore reinstalla quest'app o unisciti al nostro server Discord.</value>
     <value>La cartella delle risorse di Stella non è stata trovata nel tuo computer, quindi non puoi deselezionare la casella di spunta.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-	  <value>Spiacenti, ma qualcosa è andato storto. Si prega di segnalare questo problema.
+    <value>Spiacenti, ma qualcosa è andato storto. Si prega di segnalare questo problema.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-	  <value>Errore fatale</value>
+    <value>Errore fatale</value>
   </data>
 </root>

@@ -128,7 +128,7 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Uruchom oficjalny program uruchamiający dla Genshin Stella Mod.</value>
   </data>
   <data name="Default_CheckingForUpdates" xml:space="preserve">
-    <value>Sprawdzanie aktualizacji...</value>
+    <value>Wyszukiwanie aktualizacji...</value>
   </data>
   <data name="NotCompatible_WeveRenamedYourResourceFolderByAdding__ToTheEnd" xml:space="preserve">
     <value>Zmieniliśmy nazwę folderu zasobów, dodając '{0}' na końcu.</value>
