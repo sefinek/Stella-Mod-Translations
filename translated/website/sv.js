@@ -42,7 +42,7 @@ exports.errors = {
 exports.home = {
  Header: 'Kliv in i en ny värld med förbättrad grafik för Genshin Impact',
  Text1:
-  'Förbättrad grafik, noggrant skapade shaders, imponerande FPSupplåsning och moddar ger spelare en ännu bättre spelupplevelse än någonsin tidigare!',
+  'Förbättrad grafik, noggrant skapade shaders, imponerande FPS-upplåsning och moddar ger spelare en ännu bättre spelupplevelse än någonsin tidigare!',
  Text2:
   'Återupptäck världen av Teyvat med ny grafik som gör ditt spelande mer realistiskt. En dedikerad launcher förenklar hela processen och låter spelare hoppa in i äventyret snabbt och smidigt.',
  FinalText:
