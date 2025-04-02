@@ -16,5 +16,8 @@ files:
   - source: "/info-before-start/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
 
+  - source: "/fps-unlocker/**/*.resx"
+    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+
   - source: "/website/**/*.js"
     translation: "/translated/%original_path%/%two_letters_code%.%file_extension%"
