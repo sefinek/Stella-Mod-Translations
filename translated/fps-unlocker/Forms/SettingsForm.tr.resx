@@ -136,7 +136,7 @@
     <value>0</value>
   </data>
   <data name="LabelAutoSave.Text" xml:space="preserve">
-    <value>All settings will be saved automatically.</value>
+    <value>Tüm ayarlar otomatik olarak kaydedilir.</value>
   </data>
   <data name="LabelAutoSave.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -160,22 +160,22 @@
     <value>None</value>
   </data>
   <data name="ComboPriority.Items" xml:space="preserve">
-    <value>Realtime</value>
+    <value>Gerçek Zamanlı</value>
   </data>
   <data name="ComboPriority.Items1" xml:space="preserve">
-    <value>High</value>
+    <value>Yüksek</value>
   </data>
   <data name="ComboPriority.Items2" xml:space="preserve">
-    <value>Above Normal</value>
+    <value>Normalin Üzerinde</value>
   </data>
   <data name="ComboPriority.Items3" xml:space="preserve">
     <value>Normal</value>
   </data>
   <data name="ComboPriority.Items4" xml:space="preserve">
-    <value>Below Normal</value>
+    <value>Normalin Altında</value>
   </data>
   <data name="ComboPriority.Items5" xml:space="preserve">
-    <value>Low</value>
+    <value>Düşük</value>
   </data>
   <data name="ComboPriority.Location" type="System.Drawing.Point, System.Drawing">
     <value>153, 82</value>
@@ -217,7 +217,7 @@
     <value>4</value>
   </data>
   <data name="LabelPriority.Text" xml:space="preserve">
-    <value>Game process priority</value>
+    <value>Oyunun işlem önceliği</value>
   </data>
   <data name="&gt;&gt;LabelPriority.Name" xml:space="preserve">
     <value>LabelPriority</value>
@@ -247,13 +247,13 @@
     <value>3</value>
   </data>
   <data name="CBPowerSave.Text" xml:space="preserve">
-    <value>Power Saving</value>
+    <value>Güç Tasarrufu</value>
   </data>
   <metadata name="ToolTipSettings.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="CBPowerSave.ToolTip" xml:space="preserve">
-    <value>Sets fps to 10 and low process priority upon losing focus (e.g. tabbing out of game)</value>
+    <value>Ekran Odağı kaybettikten sonra fps'yi 10'a ve düşük işlem önceliğine ayarlar (örn. oyunun penceresinden ayrılma)</value>
   </data>
   <data name="&gt;&gt;CBPowerSave.Name" xml:space="preserve">
     <value>CBPowerSave</value>
