@@ -140,7 +140,7 @@ exports.feedback = {
  },
  tooltips: {
   ClickHereToGoToTheYTPage: 'YouTube sayfasına gitmek için buraya tıklayın.',
-  GiveAStarToMyReposOnGitHub: "GitHub'daki projelerimden beğendiklerinize bir yıldız verin.",
+  GiveAStarToMyReposOnGitHub: "GitHub'daki depolarımdan beğendiklerinize bir yıldız verin.",
  },
 };
 
@@ -276,7 +276,7 @@ exports.docs = {
 
 // GET /genshin-stella-mod/repositories
 exports.github = {
- AllReposOnGithub: "GitHub'daki tüm projeler",
+ AllReposOnGithub: 'GitHub üzerindeki tüm depolar',
  IfYouWantToBecomeContributor: 'Katkıda bulunmak istiyorsanız, yeni bir {a}Talep{/a} oluşturmanız yeterlidir!',
  Translations: 'Çeviriler',
  Resources: 'Kaynaklar',
@@ -284,7 +284,7 @@ exports.github = {
  More: 'Dahası',
  Deprecated: 'Kullanım dışı',
  InstallationWizard: 'Kurulum sihirbazı',
- UnlockedReShade: 'Kilidi Kaldırılmış ReShade',
+ UnlockedReShade: 'Sınırı kaldırılmış ReShade',
 };
 
 // GET /genshin-stella-mod/subscription
