@@ -552,7 +552,7 @@ Comunque, i tuoi predefiniti e altre shaders personalizzate non saranno rimossi.
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled. If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Si consiglia di selezionare campi contrassegnati con un asterisco (*). Se non sei sicuro di cosa stai facendo non deselezionare nulla.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -585,7 +585,7 @@ Comunque, i tuoi predefiniti e altre shaders personalizzate non saranno rimossi.
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Prepare Genshin Stella Mod</value>
+    <value>Prepara la Genshin Stella Mod</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Window</value>
