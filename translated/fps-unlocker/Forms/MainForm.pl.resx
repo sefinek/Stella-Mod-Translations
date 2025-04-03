@@ -152,7 +152,7 @@
     <value>Otwórz</value>
   </data>
   <data name="viewConfigToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>136, 22</value>
   </data>
   <data name="viewConfigToolStripMenuItem.Text" xml:space="preserve">
     <value>Wyświetl konfigurację</value>
@@ -164,13 +164,13 @@
     <value>Konfiguracja</value>
   </data>
   <data name="officialWebsiteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>155, 22</value>
   </data>
   <data name="officialWebsiteToolStripMenuItem.Text" xml:space="preserve">
-    <value>Oficjalna strona WWW</value>
+    <value>Oficjalna strona www</value>
   </data>
   <data name="youTubeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>155, 22</value>
   </data>
   <data name="youTubeToolStripMenuItem.Text" xml:space="preserve">
     <value>YouTube</value>
@@ -200,7 +200,7 @@
     <value>Profil Sefinka</value>
   </data>
   <data name="gitHubToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>155, 22</value>
   </data>
   <data name="gitHubToolStripMenuItem.Text" xml:space="preserve">
     <value>GitHub</value>
@@ -212,19 +212,19 @@
     <value>Linki</value>
   </data>
   <data name="SettingsMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>116, 22</value>
   </data>
   <data name="SettingsMenuItem.Text" xml:space="preserve">
     <value>Ustawienia</value>
   </data>
   <data name="SetupMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>116, 22</value>
   </data>
   <data name="SetupMenuItem.Text" xml:space="preserve">
     <value>Konfiguracja</value>
   </data>
   <data name="AboutMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>116, 22</value>
   </data>
   <data name="AboutMenuItem.Text" xml:space="preserve">
     <value>O programie</value>
@@ -244,9 +244,6 @@
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="OptionsMenuStrip.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
-  </data>
-  <data name="OptionsMenuStrip.Text" xml:space="preserve">
-    <value>menuStrip1</value>
   </data>
   <data name="&gt;&gt;OptionsMenuStrip.Name" xml:space="preserve">
     <value>OptionsMenuStrip</value>
