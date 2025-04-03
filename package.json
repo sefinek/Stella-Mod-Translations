@@ -1,0 +1,29 @@
+{
+  "name": "stella-mod-translations",
+  "version": "1.0.0",
+  "description": "This repository contains translations for the Stella Mod Launcher and stella.sefinek.net.",
+  "homepage": "https://github.com/sefinek/Stella-Mod-Translations#readme",
+  "bugs": {
+    "url": "https://github.com/sefinek/Stella-Mod-Translations/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefinek/Stella-Mod-Translations.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "author": "Sefinek <contact@sefinek.net> (https://sefinek.net)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "cleanup": "node scripts/cleanup-resx.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node scripts/update-resx.js"
+  },
+  "dependencies": {
+    "resx-cleanup": "file:C:/Users/Sefinek/Desktop/resx-cleanup"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "globals": "^16.0.0"
+  }
+}
