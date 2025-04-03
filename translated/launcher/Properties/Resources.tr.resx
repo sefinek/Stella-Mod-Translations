@@ -175,8 +175,10 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>Kısayollar başarılı bir şekilde güncelleştirildi veya oluşturuldu.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Dosya {0} bulunamadı.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>File not found:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>{0} olarak bağlandınız. Merhaba, tanıştığımıza memnun oldum! Discord'daki etkinliğinizi kontrol edin.</value>
