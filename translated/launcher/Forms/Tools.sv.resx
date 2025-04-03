@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>Open ReShade.ini</value>
+    <value>Oppna ReShade.ini</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -810,7 +810,7 @@ Region: {5}</value>
     <value>MiddleCenter</value>
   </data>
   <data name="label5.ToolTip" xml:space="preserve">
-    <value>Game data from the system registry</value>
+    <value>Speldata från systemregistret</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -1061,7 +1061,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>107</value>
   </data>
   <data name="logDir_Label.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Visa katalog</value>
   </data>
   <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
