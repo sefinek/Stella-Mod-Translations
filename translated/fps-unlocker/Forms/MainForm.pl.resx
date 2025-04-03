@@ -152,7 +152,7 @@
     <value>Otwórz</value>
   </data>
   <data name="viewConfigToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="viewConfigToolStripMenuItem.Text" xml:space="preserve">
     <value>Wyświetl konfigurację</value>
@@ -164,13 +164,13 @@
     <value>Konfiguracja</value>
   </data>
   <data name="officialWebsiteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="officialWebsiteToolStripMenuItem.Text" xml:space="preserve">
     <value>Oficjalna strona WWW</value>
   </data>
   <data name="youTubeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="youTubeToolStripMenuItem.Text" xml:space="preserve">
     <value>YouTube</value>
@@ -200,7 +200,7 @@
     <value>Profil Sefinka</value>
   </data>
   <data name="gitHubToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="gitHubToolStripMenuItem.Text" xml:space="preserve">
     <value>GitHub</value>
@@ -212,19 +212,19 @@
     <value>Linki</value>
   </data>
   <data name="SettingsMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="SettingsMenuItem.Text" xml:space="preserve">
     <value>Ustawienia</value>
   </data>
   <data name="SetupMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="SetupMenuItem.Text" xml:space="preserve">
     <value>Konfiguracja</value>
   </data>
   <data name="AboutMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 22</value>
+    <value>180, 22</value>
   </data>
   <data name="AboutMenuItem.Text" xml:space="preserve">
     <value>O programie</value>
@@ -271,7 +271,7 @@
     <value>Segoe UI, 9.75pt</value>
   </data>
   <data name="LabelFPS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>137, 53</value>
+    <value>137, 52</value>
   </data>
   <data name="LabelFPS.Size" type="System.Drawing.Size, System.Drawing">
     <value>56, 17</value>
@@ -298,10 +298,10 @@
     <value>Top, Bottom, Right</value>
   </data>
   <data name="InputFPS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>197, 50</value>
+    <value>210, 50</value>
   </data>
   <data name="InputFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>231, 23</value>
+    <value>217, 23</value>
   </data>
   <data name="InputFPS.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
