@@ -160,9 +160,9 @@
     <value>3</value>
   </data>
   <data name="LabelHint.Text" xml:space="preserve">
-    <value>If your game is not listed above, you can either:
-1. Open the game now and the unlocker will try to find it's location.
-2. Use the browse button below.</value>
+    <value>Jeśli Twoja gra nie została wymieniona powyżej, możesz:
+1. Uruchomić grę teraz, a unlocker spróbuje odnaleźć jej lokalizację.
+2. Skorzystać z przycisku Przeglądaj poniżej.</value>
   </data>
   <data name="&gt;&gt;LabelHint.Name" xml:space="preserve">
     <value>LabelHint</value>
