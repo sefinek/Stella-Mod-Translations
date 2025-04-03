@@ -175,8 +175,10 @@
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>The shortcuts have been successfully updated or created.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Файл {0} не был найден.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>File not found:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Вы зарегистрированы как {0}. Привет, приятно познакомиться! Проверьте свою активность в Discord.</value>
