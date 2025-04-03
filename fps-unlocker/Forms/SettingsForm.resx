@@ -602,13 +602,13 @@
     <value>6, 113</value>
   </data>
   <data name="LabelCustomRes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 15</value>
+    <value>66, 15</value>
   </data>
   <data name="LabelCustomRes.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="LabelCustomRes.Text" xml:space="preserve">
-    <value>Resolution: </value>
+    <value>Resolution:</value>
   </data>
   <data name="&gt;&gt;LabelCustomRes.Name" xml:space="preserve">
     <value>LabelCustomRes</value>
