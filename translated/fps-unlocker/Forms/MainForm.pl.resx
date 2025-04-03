@@ -361,7 +361,7 @@
     <value>168, 17</value>
   </metadata>
   <data name="CBAutoStart.ToolTip" xml:space="preserve">
-    <value>This will take effect on subsequent launch. Not recommended!</value>
+    <value>To będzie miało efekt przy kolejnym uruchomieniu. Niezalecane!</value>
   </data>
   <data name="&gt;&gt;CBAutoStart.Name" xml:space="preserve">
     <value>CBAutoStart</value>
@@ -406,7 +406,7 @@
     <value>287, 17</value>
   </metadata>
   <data name="NotifyIconMain.BalloonTipText" xml:space="preserve">
-    <value>The program has been minimized to the system tray. You can change the FPS limit even during the game.</value>
+    <value>Program został zminimalizowany do zasobnika systemowego. Możesz zmieniać limit FPS nawet podczas gry.</value>
   </data>
   <data name="NotifyIconMain.BalloonTipTitle" xml:space="preserve">
     <value>Genshin FPS Unlocker</value>
