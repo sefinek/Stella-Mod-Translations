@@ -340,7 +340,7 @@
     <value>85</value>
   </data>
   <data name="launcherLogs_Label.Text" xml:space="preserve">
-    <value>Launcher</value>
+    <value>Başlatıcı</value>
   </data>
   <data name="launcherLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>Open ReShade.ini</value>
+    <value>ReShade.ini yi aç</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>Open unlocker.config.json</value>
+    <value>unlocker.config.json u aç</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -691,7 +691,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>ReShade'i otomatik olarak yapılandır ve doğru klasör yollarını belirle</value>
+    <value>ReShade'i otomatik olarak yapılandır ve doğru dizin yollarını belirle</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -730,7 +730,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
+    <value>ReShade önbelleğini, 3DMigoto'yu, geçici dosyaları, WebView2 önbelleğini ve %temp%' i Temizle</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -769,7 +769,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the correctness of the paths. This tool does not check for the presence of launcher files - it only verifies Stella Mod dependencies.</value>
+    <value>Yolların doğruluğunu kontrol edin. Bu araç başlatıcı dosyalarının olup olmadığını kontrol etmez - sadece Stella Mod bağımlı dosyalarını doğrular.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -810,7 +810,7 @@ Bölge: {5}</value>
     <value>MiddleCenter</value>
   </data>
   <data name="label5.ToolTip" xml:space="preserve">
-    <value>Game data from the system registry</value>
+    <value>Sistem kayıt defterinden alınan oyun verileri</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -854,7 +854,7 @@ ALT + 3: Uygulamayı yeniden başlatır
     <value>MiddleCenter</value>
   </data>
   <data name="label6.ToolTip" xml:space="preserve">
-    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+    <value>Stella Mod Başlatıcısında bulunan klavye kısayolları</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
@@ -896,7 +896,7 @@ ALT + 3: Uygulamayı yeniden başlatır
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open d3dx.ini</value>
+    <value>d3dx.ini yi aç</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -938,7 +938,7 @@ ALT + 3: Uygulamayı yeniden başlatır
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Open d3dx_user.ini</value>
+    <value>d3dx_user.ini yi aç</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
@@ -1061,7 +1061,7 @@ ALT + 3: Uygulamayı yeniden başlatır
     <value>107</value>
   </data>
   <data name="logDir_Label.Text" xml:space="preserve">
-    <value>View directory</value>
+    <value>Dizini görüntüle</value>
   </data>
   <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
