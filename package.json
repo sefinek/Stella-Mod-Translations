@@ -1,7 +1,7 @@
 {
   "name": "stella-mod-translations",
   "version": "1.0.0",
-  "description": "This repository contains translations for the Stella Mod Launcher and stella.sefinek.net.",
+  "description": "Utils for Genshin Stella Mod.",
   "homepage": "https://github.com/sefinek/Stella-Mod-Translations#readme",
   "bugs": {
     "url": "https://github.com/sefinek/Stella-Mod-Translations/issues"

@@ -1,10 +1,10 @@
 # ✨ Translations for Genshin Stella Mod
-This repository contains translations for the [Stella Mod Launcher](launcher) and [stella.sefinek.net](website).
+This repository contains translation files for Genshin Stella Mod and for [stella.sefinek.net](https://stella.sefinek.net).
 
 [![Crowdin](https://badges.crowdin.net/genshin-stella-mod/localized.svg)](https://crowdin.com/project/genshin-stella-mod)
 
 ## 📁 How to Contribute?
-https://crowdin.com/project/genshin-stella-mod
+Visit: https://crowdin.com/project/genshin-stella-mod
 
 ## 💙 Acknowledgments
 We would like to thank all our collaborators who have contributed to translating our software and website into various languages around the world.
