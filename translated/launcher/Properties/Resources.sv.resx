@@ -173,8 +173,10 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>Genvägarna har uppdaterats eller skapats framgångsrikt.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Filen {0} hittades inte.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>File not found:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
