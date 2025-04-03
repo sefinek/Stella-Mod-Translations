@@ -1,4 +1,4 @@
-const resxCleanup = require('resx-cleanup');
+const { resxCleanup } = require('resx-cleanup');
 
 resxCleanup([
 	'D:\\Projects\\stella\\Genshin-Impact-ReShade\\Stella.Launcher',

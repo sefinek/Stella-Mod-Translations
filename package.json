@@ -18,10 +18,11 @@
     "cleanup": "node scripts/cleanup-resx.js",
     "full": "npm run cleanup && npm run update",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "up": "ncu -u && npm install && npm update && npm audit fix",
     "update": "node scripts/update-resx.js"
   },
   "dependencies": {
-    "resx-cleanup": "file:C:/Users/Sefinek/Desktop/resx-cleanup"
+    "resx-cleanup": "^0.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.23.0",
