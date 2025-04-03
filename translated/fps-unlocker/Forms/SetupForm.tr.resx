@@ -160,9 +160,9 @@
     <value>3</value>
   </data>
   <data name="LabelHint.Text" xml:space="preserve">
-    <value>Eğer oyununuz yukarıda yer almıyorsa, şunları yapabilirsiniz:
-1. Oyunu şu anda açın ve sınır kaldırıcı konumunu bulmaya çalışacaktır.
-2. Aşağıdaki gözat düğmesini kullanın.</value>
+    <value>If your game is not listed above, you can either:
+1. Open the game now and the unlocker will try to find it's location.
+2. Use the Browse button below.</value>
   </data>
   <data name="&gt;&gt;LabelHint.Name" xml:space="preserve">
     <value>LabelHint</value>

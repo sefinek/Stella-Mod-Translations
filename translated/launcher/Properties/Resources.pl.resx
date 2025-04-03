@@ -175,8 +175,10 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>Skróty zostały pomyślnie zaktualizowane lub utworzone.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Nie znaleziono pliku {0}.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>Nie znaleziono pliku:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Połączono się jako {0}. Witaj, miło Cię poznać! Sprawdź swoją aktywność na Discordzie.</value>
