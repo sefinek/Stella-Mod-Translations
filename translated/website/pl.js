@@ -381,7 +381,7 @@ exports.subscription = {
   MuchGreaterPrivacy: 'Znacznie większa prywatność',
   VariousGenshinImpactAccountGiveaways: 'Różne rozdania kont Genshin Impact',
   NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
-  ImagesAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmy z kotami deweloperów',
+  ImagesAndInterestingVideosOfTheDevsCats: 'Zdjęcia i ciekawe filmiki kotów dewa',
   OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera',
   AssistanceRelatedToPCsOrLaptops: 'Pomoc dot. komputerów PC lub laptopów',
   ActivationPossibleOn: 'Aktywacja możliwa na',
