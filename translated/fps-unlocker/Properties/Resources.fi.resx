@@ -136,7 +136,7 @@
     <value>Game found!
 {0}</value>
   </data>
-  <data name="SetupForm_Found_0_installationOfTheGame" xml:space="preserve">
+  <data name="SetupForm_Found_InstallationOfTheGame" xml:space="preserve">
     <value>Found {0} installation of the game</value>
   </data>
   <data name="SetupForm_PleaseSelectTheGameExe" xml:space="preserve">
@@ -154,11 +154,6 @@ GenshinImpact.exe or YuanShen.exe.</value>
   </data>
   <data name="MainForm_AnErrorOccurred" xml:space="preserve">
     <value>An error occurred: {0}</value>
-  </data>
-  <data name="ConfigService_TheConfigurationFileAppearsToBeCorrupted" xml:space="preserve">
-    <value>The configuration file appears to be corrupted. We will attempt to repair it. If this message continues to appear, please delete the configuration file (unlocker.config.json).
-
-{0}</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
