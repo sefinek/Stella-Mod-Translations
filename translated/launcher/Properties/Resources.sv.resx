@@ -118,7 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cmd_UpdateIsRequired" xml:space="preserve">
-    <value>Vi ber om ursäkt för eventuella besvär, men det är nödvändigt att installera varje ny uppdatering. Dessa uppdateringar kan innehålla kvalitetsförbättringar och vissa kan även inkludera kritiska säkerhetsfixar.
+    <value>En uppdatering krävs.
+
+Vi ber om ursäkt för eventuella besvär, men det är nödvändigt att installera varje ny uppdatering. Dessa uppdateringar kan innehålla kvalitetsförbättringar och vissa kan även inkludera kritiska säkerhetsfixar.
 
 Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstallera den nuvarande versionen och installera den nya från den officiella webbplatsen.</value>
   </data>
@@ -174,9 +176,7 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>Genvägarna har uppdaterats eller skapats framgångsrikt.</value>
   </data>
   <data name="Default_FileNotFound_" xml:space="preserve">
-    <value>File not found:
-
-{0}</value>
+    <value>Fil hittades inte: {0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Du är ansluten som {0}. Hej, trevligt att träffas! Kolla din aktivitet på Discord.</value>
