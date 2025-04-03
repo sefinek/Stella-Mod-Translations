@@ -253,7 +253,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="CBPowerSave.ToolTip" xml:space="preserve">
-    <value>Sets fps to 10 and low process priority upon losing focus (e.g. tabbing out of game)</value>
+    <value>Sets the FPS limit to 10 and lowers the process priority after losing focus (e.g. minimizing or leaving the game window)</value>
   </data>
   <data name="&gt;&gt;CBPowerSave.Name" xml:space="preserve">
     <value>CBPowerSave</value>
