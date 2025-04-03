@@ -319,7 +319,7 @@
     <value>Küçültülmüş Olarak Başlat (Sınır kaldırıcı)</value>
   </data>
   <data name="CBStartMinimized.ToolTip" xml:space="preserve">
-    <value>Sınır kaldırıcı başlatıldığında simge durumuna küçültülecektir</value>
+    <value>Unlocker will minimized to tray on startup</value>
   </data>
   <data name="&gt;&gt;CBStartMinimized.Name" xml:space="preserve">
     <value>CBStartMinimized</value>
