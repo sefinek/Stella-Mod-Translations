@@ -175,8 +175,10 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>The shortcuts have been successfully updated or created.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Le fichier {0} n'a pas été trouvé.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>File not found:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Vous êtes connecté en tant que {0}. Bonjour, ravi de vous rencontrer ! Vérifiez votre activité sur Discord.</value>
