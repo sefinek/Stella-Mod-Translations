@@ -176,8 +176,10 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   <data name="Tools_TheShortcutsHaveBeenSuccessfullyUpdatedOrCreated" xml:space="preserve">
     <value>Os atalhos foram criados ou atualizados com sucesso.</value>
   </data>
-  <data name="Default_File_WasNotFound" xml:space="preserve">
-    <value>Arquivo {0} não encontrado.</value>
+  <data name="Default_FileNotFound_" xml:space="preserve">
+    <value>File not found:
+
+{0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
     <value>Você está conectado como {0}. Prazer em te conhecer! Cheque sua atividade no Discord.</value>
