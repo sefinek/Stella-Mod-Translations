@@ -606,7 +606,7 @@ Versione installata: v{1}</value>
     <value>139</value>
   </data>
   <data name="checkBox7.Text" xml:space="preserve">
-    <value>Abilita WebView2</value>
+    <value>Abilita WebView2 *</value>
   </data>
   <data name="&gt;&gt;checkBox7.Name" xml:space="preserve">
     <value>checkBox7</value>
