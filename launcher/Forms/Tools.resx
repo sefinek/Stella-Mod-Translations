@@ -127,9 +127,6 @@
   <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="panel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
@@ -147,6 +144,9 @@
   <data name="panel2.TabIndex" type="System.Int32, mscorlib">
     <value>76</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="panel2.ToolTip" xml:space="preserve">
     <value>Close</value>
   </data>
@@ -258,40 +258,40 @@
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>39</value>
   </data>
-  <data name="ReShadeLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="reshadeLogs_Label.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="ReShadeLogs.AutoSize" type="System.Boolean, mscorlib">
+  <data name="reshadeLogs_Label.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="ReShadeLogs.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="reshadeLogs_Label.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 12.75pt</value>
   </data>
-  <data name="ReShadeLogs.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="reshadeLogs_Label.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 594</value>
   </data>
-  <data name="ReShadeLogs.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="reshadeLogs_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>81, 24</value>
   </data>
-  <data name="ReShadeLogs.TabIndex" type="System.Int32, mscorlib">
+  <data name="reshadeLogs_Label.TabIndex" type="System.Int32, mscorlib">
     <value>83</value>
   </data>
-  <data name="ReShadeLogs.Text" xml:space="preserve">
+  <data name="reshadeLogs_Label.Text" xml:space="preserve">
     <value>ReShade</value>
   </data>
-  <data name="ReShadeLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="reshadeLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="&gt;&gt;ReShadeLogs.Name" xml:space="preserve">
-    <value>ReShadeLogs</value>
+  <data name="&gt;&gt;reshadeLogs_Label.Name" xml:space="preserve">
+    <value>reshadeLogs_Label</value>
   </data>
-  <data name="&gt;&gt;ReShadeLogs.Type" xml:space="preserve">
+  <data name="&gt;&gt;reshadeLogs_Label.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;ReShadeLogs.Parent" xml:space="preserve">
+  <data name="&gt;&gt;reshadeLogs_Label.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;ReShadeLogs.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;reshadeLogs_Label.ZOrder" xml:space="preserve">
     <value>38</value>
   </data>
   <data name="pictureBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -321,40 +321,40 @@
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
     <value>37</value>
   </data>
-  <data name="LauncherLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="launcherLogs_Label.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="LauncherLogs.AutoSize" type="System.Boolean, mscorlib">
+  <data name="launcherLogs_Label.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="LauncherLogs.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="launcherLogs_Label.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 12.75pt</value>
   </data>
-  <data name="LauncherLogs.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="launcherLogs_Label.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 534</value>
   </data>
-  <data name="LauncherLogs.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="launcherLogs_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>82, 24</value>
   </data>
-  <data name="LauncherLogs.TabIndex" type="System.Int32, mscorlib">
+  <data name="launcherLogs_Label.TabIndex" type="System.Int32, mscorlib">
     <value>85</value>
   </data>
-  <data name="LauncherLogs.Text" xml:space="preserve">
+  <data name="launcherLogs_Label.Text" xml:space="preserve">
     <value>Launcher</value>
   </data>
-  <data name="LauncherLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="launcherLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="&gt;&gt;LauncherLogs.Name" xml:space="preserve">
-    <value>LauncherLogs</value>
+  <data name="&gt;&gt;launcherLogs_Label.Name" xml:space="preserve">
+    <value>launcherLogs_Label</value>
   </data>
-  <data name="&gt;&gt;LauncherLogs.Type" xml:space="preserve">
+  <data name="&gt;&gt;launcherLogs_Label.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;LauncherLogs.Parent" xml:space="preserve">
+  <data name="&gt;&gt;launcherLogs_Label.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;LauncherLogs.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;launcherLogs_Label.ZOrder" xml:space="preserve">
     <value>36</value>
   </data>
   <data name="pictureBox2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -475,7 +475,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeReShadeConfig.ToolTip" xml:space="preserve">
-    <value>ReShade.ini</value>
+    <value>Open ReShade.ini</value>
   </data>
   <data name="&gt;&gt;SeeReShadeConfig.Name" xml:space="preserve">
     <value>SeeReShadeConfig</value>
@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>unlocker.config.json</value>
+    <value>Open unlocker.config.json</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -582,9 +582,6 @@
   <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
     <value>29</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="linkLabel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
@@ -733,7 +730,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -746,6 +743,214 @@
   </data>
   <data name="&gt;&gt;linkLabel5.ZOrder" xml:space="preserve">
     <value>11</value>
+  </data>
+  <data name="linkLabel7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12.75pt</value>
+  </data>
+  <data name="linkLabel7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 300</value>
+  </data>
+  <data name="linkLabel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 24</value>
+  </data>
+  <data name="linkLabel7.TabIndex" type="System.Int32, mscorlib">
+    <value>139</value>
+  </data>
+  <data name="linkLabel7.Text" xml:space="preserve">
+    <value>Path validation</value>
+  </data>
+  <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="linkLabel7.ToolTip" xml:space="preserve">
+    <value>Validate the correctness of the paths. This tool does not check for the presence of launcher files - it only verifies Stella Mod dependencies.</value>
+  </data>
+  <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
+    <value>linkLabel7</value>
+  </data>
+  <data name="&gt;&gt;linkLabel7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel7.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>959, 576</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>299, 125</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>141</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Stella Mod launches: {0}
+Game environment: {1}
+HYP version: {2}
+GameBiz: {3}
+Language in the game: {4}
+Region: {5}</value>
+  </data>
+  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label5.ToolTip" xml:space="preserve">
+    <value>Game data from the system registry</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>510, 576</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>438, 125</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>146</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Keyboard Shortcuts:
+ALT + 1: Minimize Stella Mod
+ALT + 2: Refresh all active application windows
+ALT + 3: Restart the application
+
+You can also press ESC to close the dialog window.</value>
+  </data>
+  <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="label6.ToolTip" xml:space="preserve">
+    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
+  </data>
+  <data name="linkLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12.75pt</value>
+  </data>
+  <data name="linkLabel2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 388</value>
+  </data>
+  <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>187, 24</value>
+  </data>
+  <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>130</value>
+  </data>
+  <data name="linkLabel2.Text" xml:space="preserve">
+    <value>3DMigoto d3dx.ini file</value>
+  </data>
+  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="linkLabel2.ToolTip" xml:space="preserve">
+    <value>Open d3dx.ini</value>
+  </data>
+  <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
+    <value>linkLabel2</value>
+  </data>
+  <data name="&gt;&gt;linkLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel2.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="linkLabel4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
+  </data>
+  <data name="linkLabel4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12.75pt</value>
+  </data>
+  <data name="linkLabel4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>66, 418</value>
+  </data>
+  <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 24</value>
+  </data>
+  <data name="linkLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>132</value>
+  </data>
+  <data name="linkLabel4.Text" xml:space="preserve">
+    <value>3DMigoto d3dx_user.ini file</value>
+  </data>
+  <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="linkLabel4.ToolTip" xml:space="preserve">
+    <value>Open d3dx_user.ini</value>
+  </data>
+  <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
+    <value>linkLabel4</value>
+  </data>
+  <data name="&gt;&gt;linkLabel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel4.ZOrder" xml:space="preserve">
+    <value>14</value>
   </data>
   <data name="pictureBox9.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -774,40 +979,40 @@
   <data name="&gt;&gt;pictureBox9.ZOrder" xml:space="preserve">
     <value>27</value>
   </data>
-  <data name="InstallationLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="gsmLogs_Label.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="InstallationLogs.AutoSize" type="System.Boolean, mscorlib">
+  <data name="gsmLogs_Label.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="InstallationLogs.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="gsmLogs_Label.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 12.75pt</value>
   </data>
-  <data name="InstallationLogs.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="gsmLogs_Label.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 564</value>
   </data>
-  <data name="InstallationLogs.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="gsmLogs_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>165, 24</value>
   </data>
-  <data name="InstallationLogs.TabIndex" type="System.Int32, mscorlib">
+  <data name="gsmLogs_Label.TabIndex" type="System.Int32, mscorlib">
     <value>105</value>
   </data>
-  <data name="InstallationLogs.Text" xml:space="preserve">
+  <data name="gsmLogs_Label.Text" xml:space="preserve">
     <value>Genshin Stella Mod</value>
   </data>
-  <data name="InstallationLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="gsmLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="&gt;&gt;InstallationLogs.Name" xml:space="preserve">
-    <value>InstallationLogs</value>
+  <data name="&gt;&gt;gsmLogs_Label.Name" xml:space="preserve">
+    <value>gsmLogs_Label</value>
   </data>
-  <data name="&gt;&gt;InstallationLogs.Type" xml:space="preserve">
+  <data name="&gt;&gt;gsmLogs_Label.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;InstallationLogs.Parent" xml:space="preserve">
+  <data name="&gt;&gt;gsmLogs_Label.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;InstallationLogs.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;gsmLogs_Label.ZOrder" xml:space="preserve">
     <value>28</value>
   </data>
   <data name="pictureBox10.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -837,40 +1042,40 @@
   <data name="&gt;&gt;pictureBox10.ZOrder" xml:space="preserve">
     <value>25</value>
   </data>
-  <data name="InnoSetupLogs.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="logDir_Label.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="InnoSetupLogs.AutoSize" type="System.Boolean, mscorlib">
+  <data name="logDir_Label.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="InnoSetupLogs.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="logDir_Label.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 12.75pt</value>
   </data>
-  <data name="InnoSetupLogs.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="logDir_Label.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 504</value>
   </data>
-  <data name="InnoSetupLogs.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="logDir_Label.Size" type="System.Drawing.Size, System.Drawing">
     <value>129, 24</value>
   </data>
-  <data name="InnoSetupLogs.TabIndex" type="System.Int32, mscorlib">
+  <data name="logDir_Label.TabIndex" type="System.Int32, mscorlib">
     <value>107</value>
   </data>
-  <data name="InnoSetupLogs.Text" xml:space="preserve">
+  <data name="logDir_Label.Text" xml:space="preserve">
     <value>View directory</value>
   </data>
-  <data name="InnoSetupLogs.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="logDir_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="&gt;&gt;InnoSetupLogs.Name" xml:space="preserve">
-    <value>InnoSetupLogs</value>
+  <data name="&gt;&gt;logDir_Label.Name" xml:space="preserve">
+    <value>logDir_Label</value>
   </data>
-  <data name="&gt;&gt;InnoSetupLogs.Type" xml:space="preserve">
+  <data name="&gt;&gt;logDir_Label.Type" xml:space="preserve">
     <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;InnoSetupLogs.Parent" xml:space="preserve">
+  <data name="&gt;&gt;logDir_Label.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;InnoSetupLogs.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;logDir_Label.ZOrder" xml:space="preserve">
     <value>26</value>
   </data>
   <data name="pictureBox15.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -1059,45 +1264,6 @@
   <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
     <value>15</value>
   </data>
-  <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="linkLabel2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="linkLabel2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12.75pt</value>
-  </data>
-  <data name="linkLabel2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="linkLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 388</value>
-  </data>
-  <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 24</value>
-  </data>
-  <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
-    <value>130</value>
-  </data>
-  <data name="linkLabel2.Text" xml:space="preserve">
-    <value>3DMigoto d3dx.ini file</value>
-  </data>
-  <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
-    <value>linkLabel2</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel2.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
   <data name="pictureBox6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
@@ -1127,45 +1293,6 @@
   </data>
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
     <value>13</value>
-  </data>
-  <data name="linkLabel4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="linkLabel4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="linkLabel4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12.75pt</value>
-  </data>
-  <data name="linkLabel4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 418</value>
-  </data>
-  <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 24</value>
-  </data>
-  <data name="linkLabel4.TabIndex" type="System.Int32, mscorlib">
-    <value>132</value>
-  </data>
-  <data name="linkLabel4.Text" xml:space="preserve">
-    <value>3DMigoto d3dx_user.ini file</value>
-  </data>
-  <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
-    <value>linkLabel4</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel4.ZOrder" xml:space="preserve">
-    <value>14</value>
   </data>
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15.75pt</value>
@@ -1296,42 +1423,6 @@
   <data name="&gt;&gt;linkLabel6.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="linkLabel7.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="linkLabel7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 12.75pt</value>
-  </data>
-  <data name="linkLabel7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="linkLabel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>400, 300</value>
-  </data>
-  <data name="linkLabel7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 24</value>
-  </data>
-  <data name="linkLabel7.TabIndex" type="System.Int32, mscorlib">
-    <value>139</value>
-  </data>
-  <data name="linkLabel7.Text" xml:space="preserve">
-    <value>Path validation</value>
-  </data>
-  <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
-    <value>linkLabel7</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;linkLabel7.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="pictureBox12.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
@@ -1361,44 +1452,6 @@
   </data>
   <data name="&gt;&gt;pictureBox12.ZOrder" xml:space="preserve">
     <value>6</value>
-  </data>
-  <data name="label5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
-  </data>
-  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Calibri, 12pt</value>
-  </data>
-  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>959, 576</value>
-  </data>
-  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>299, 125</value>
-  </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>141</value>
-  </data>
-  <data name="label5.Text" xml:space="preserve">
-    <value>Stella Mod launches: {0}
-Game environment: {1}
-HYP version: {2}
-GameBiz: {3}
-Language in the game: {4}
-Region: {5}</value>
-  </data>
-  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;label5.Name" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="&gt;&gt;label5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>5</value>
   </data>
   <data name="pictureBox14.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
@@ -1531,47 +1584,6 @@ Region: {5}</value>
   </data>
   <data name="&gt;&gt;linkLabel9.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="label6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
-  </data>
-  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Calibri, 12pt</value>
-  </data>
-  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>510, 576</value>
-  </data>
-  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>438, 125</value>
-  </data>
-  <data name="label6.TabIndex" type="System.Int32, mscorlib">
-    <value>146</value>
-  </data>
-  <data name="label6.Text" xml:space="preserve">
-    <value>Keyboard Shortcuts:
-ALT + 1: Minimize Stella Mod
-ALT + 2: Refresh all active application windows
-ALT + 3: Restart the application
-
-You can also press ESC to close the dialog window.</value>
-  </data>
-  <data name="label6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;label6.Name" xml:space="preserve">
-    <value>label6</value>
-  </data>
-  <data name="&gt;&gt;label6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
