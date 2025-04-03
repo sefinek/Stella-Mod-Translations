@@ -456,6 +456,9 @@
   <data name="tools_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
+  <data name="tools_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="tools_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -463,7 +466,7 @@
     <value>222, 688</value>
   </data>
   <data name="tools_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 30</value>
+    <value>63, 28</value>
   </data>
   <data name="tools_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>77</value>
@@ -576,6 +579,9 @@
   <data name="gameplay_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
+  <data name="gameplay_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="gameplay_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -583,7 +589,7 @@
     <value>570, 688</value>
   </data>
   <data name="gameplay_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 30</value>
+    <value>98, 28</value>
   </data>
   <data name="gameplay_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>78</value>
@@ -736,6 +742,9 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
   <data name="links_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
+  <data name="links_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="links_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -743,7 +752,7 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
     <value>396, 688</value>
   </data>
   <data name="links_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 30</value>
+    <value>60, 28</value>
   </data>
   <data name="links_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>104</value>
@@ -772,6 +781,9 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
   <data name="linkLabel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
+  <data name="linkLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="linkLabel1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -782,7 +794,7 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
     <value>740, 688</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 30</value>
+    <value>108, 28</value>
   </data>
   <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>118</value>
@@ -811,6 +823,9 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
   <data name="linkLabel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
+  <data name="linkLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="linkLabel2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Comic Sans MS, 15pt</value>
   </data>
@@ -821,7 +836,7 @@ Você poderá usar mods e aproveitar ainda mais do jogo, tudo de forma completam
     <value>48, 688</value>
   </data>
   <data name="linkLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 30</value>
+    <value>90, 28</value>
   </data>
   <data name="linkLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>120</value>
