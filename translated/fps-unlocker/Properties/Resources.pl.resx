@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SetupForm_Searching" xml:space="preserve">
-    <value>Searching...</value>
+    <value>Wyszukiwanie...</value>
   </data>
   <data name="SetupForm_CurrentPath" xml:space="preserve">
-    <value>Current path: {0}</value>
+    <value>Bieżąca ścieżka: {0}</value>
   </data>
   <data name="SetupForm_FailedToFindProcessPath" xml:space="preserve">
-    <value>Failed to find process path. Please use "Browse" instead.</value>
+    <value>Nie udało się odnaleźć ścieżki procesu. Proszę użyć opcji "Przeglądaj".</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Błąd</value>
   </data>
   <data name="Success" xml:space="preserve">
     <value>Success</value>
