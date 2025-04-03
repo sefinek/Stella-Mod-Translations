@@ -181,10 +181,10 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
 {0}</value>
   </data>
   <data name="Tools_YoureConnectedAs__HiNiceToMeetYou_CheckYourDiscordActivity" xml:space="preserve">
-    <value>Połączono się jako {0}. Witaj, miło Cię poznać! Sprawdź swoją aktywność na Discordzie.</value>
+    <value>Połączono się jako {0}. Hej, miło Cię poznać! Sprawdź swoją aktywność na Discordzie.</value>
   </data>
   <data name="DiscordRPC_Status_WatchingOtherVideos" xml:space="preserve">
-    <value>Ogląda inne widea</value>
+    <value>Ogląda inne filmy</value>
   </data>
   <data name="Default_ItsJustText_WhatMoreDoYouWant" xml:space="preserve">
     <value>To tylko tekst. Czego więcej chcesz?</value>
