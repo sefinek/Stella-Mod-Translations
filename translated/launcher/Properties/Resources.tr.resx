@@ -134,7 +134,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Kaynak klasörünüzün sonuna '{0}' ekleyerek yeniden adlandırıldı.</value>
   </data>
   <data name="Default_ResourceDirNotFound" xml:space="preserve">
-    <value>Kaynak klasörü bulunamadı. Stella Mod'un daha yeni sürümlerinde, kayıt yolları kayıt defterine taşınmıştır. Yazılımı yeni güncellediyseniz, Tamam'a tıklayın. Yapılandırma penceresi başlatılacaktır.</value>
+    <value>Kaynak dizini bulunamadı. Stella Mod'un daha yeni sürümlerinde, kayıt yolları kayıt defterine taşınmıştır. Yazılımı yeni güncellediyseniz, Tamam'a tıklayın. Yapılandırma penceresi başlatılacaktır.</value>
   </data>
   <data name="UpdateBenefits_DownloadingBenefitsUpdate" xml:space="preserve">
     <value>Özel ayrıcalıklar güncellemesi indiriliyor... {0} / {1}</value>
@@ -143,7 +143,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
   <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Eski kurulum dosyası geçici klasörden silindi.</value>
+    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
   </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Belgeleri okuyun</value>
@@ -176,7 +176,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Kısayollar başarılı bir şekilde güncelleştirildi veya oluşturuldu.</value>
   </data>
   <data name="Default_FileNotFound_" xml:space="preserve">
-    <value>File not found:
+    <value>Dosya bulunamadı:
 
 {0}</value>
   </data>
@@ -285,7 +285,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>FPS Unlocker için yapılandırma dosyası (unlocker.config.json) indirildi</value>
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
-    <value>Eski kurulum dosyası geçici klasörden silindi.</value>
+    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
   </data>
   <data name="RandomImages_JustChilling" xml:space="preserve">
     <value>Sadece takılıyor</value>
@@ -323,7 +323,7 @@ Ayrıca Stella Mod'un tamamen bağımsız olduğunu ve HoYoverse ile HİÇBİR �
 Teşekkürler ve oyunda görüşmek üzere! İyi eğlenceler.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
-    <value>Klasör {0} bulunamadı.</value>
+    <value>Dizin {0} bulunamadı.</value>
   </data>
   <data name="StellaResources_DownloadingResources" xml:space="preserve">
     <value>Kaynaklar indiriliyor... {0} / {1}</value>
@@ -390,7 +390,7 @@ Mevcut ön ayar:
     <value>Aktif bir Stella Plus aboneliğin bulunmuyor.</value>
   </data>
   <data name="Tools_DirectoryWithTheStellaLogsWasNotFoundInLogFolder" xml:space="preserve">
-    <value>Stella Çıktılarının bulunduğu klasör bulunamadı: {0}</value>
+    <value>Stella Çıktılarının bulunduğu dizin bulunamadı: {0}</value>
   </data>
   <data name="Tools_Important" xml:space="preserve">
     <value>Önemli</value>
@@ -507,7 +507,7 @@ Mevcut ön ayar:
 {0}</value>
   </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
-    <value>Geçici klasör hazırlanıyor...</value>
+    <value>Geçici dizin hazırlanıyor...</value>
   </data>
   <data name="UploadLogs_CopyingLogCfgAndIniFiles" xml:space="preserve">
     <value>Çıktılar, cfg ve ini dosyaları kopyalanıyor...</value>
@@ -573,7 +573,7 @@ Mevcut ön ayar:
 {0}</value>
   </data>
   <data name="UploadLogs_DirectoryWithTheStellaLogsWasNotFoundIn_" xml:space="preserve">
-    <value>Stella Çıktılarının bulunduğu klasör şu konumda bulunamadı:
+    <value>Stella Çıktılarının bulunduğu dizin şu konumda bulunamadı:
 
 {0}</value>
   </data>
