@@ -286,7 +286,7 @@
     <value>Auto zamykanie</value>
   </data>
   <data name="CBAutoClose.ToolTip" xml:space="preserve">
-    <value>Unlocker zamknie się po wyłączeniu gry.</value>
+    <value>Unlocker zamknie się po wyłączeniu gry</value>
   </data>
   <data name="&gt;&gt;CBAutoClose.Name" xml:space="preserve">
     <value>CBAutoClose</value>
