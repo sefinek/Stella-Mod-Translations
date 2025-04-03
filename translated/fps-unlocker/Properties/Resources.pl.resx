@@ -137,7 +137,7 @@
 {0}</value>
   </data>
   <data name="SetupForm_Found_InstallationOfTheGame" xml:space="preserve">
-    <value>Znaleziono {0} instalacje gry.</value>
+    <value>Znaleziono {0} instalacje gry</value>
   </data>
   <data name="SetupForm_PleaseSelectTheGameExe" xml:space="preserve">
     <value>Proszę wybrać exe gry.
