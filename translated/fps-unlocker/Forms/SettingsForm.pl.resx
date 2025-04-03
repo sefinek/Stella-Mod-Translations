@@ -253,7 +253,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="CBPowerSave.ToolTip" xml:space="preserve">
-    <value>Sets fps to 10 and low process priority upon losing focus (e.g. tabbing out of game)</value>
+    <value>Ustawia limit 10 FPS i niski priorytet procesu po utracie fokusu (np. po zminimalizowaniu lub opuszczeniu okna gry)</value>
   </data>
   <data name="&gt;&gt;CBPowerSave.Name" xml:space="preserve">
     <value>CBPowerSave</value>
@@ -319,7 +319,7 @@
     <value>Uruchom zminimalizowany (Unlocker)</value>
   </data>
   <data name="CBStartMinimized.ToolTip" xml:space="preserve">
-    <value>Unlocker will minimized to tray on startup</value>
+    <value>Unlocker zostanie zminimalizowany do zasobnika przy starcie</value>
   </data>
   <data name="&gt;&gt;CBStartMinimized.Name" xml:space="preserve">
     <value>CBStartMinimized</value>
