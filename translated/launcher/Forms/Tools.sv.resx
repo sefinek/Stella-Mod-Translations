@@ -896,7 +896,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel2.ToolTip" xml:space="preserve">
-    <value>Open d3dx.ini</value>
+    <value>Öppna d3dx.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel2.Name" xml:space="preserve">
     <value>linkLabel2</value>
@@ -938,7 +938,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
-    <value>Open d3dx_user.ini</value>
+    <value>Öppna d3dx_user.ini</value>
   </data>
   <data name="&gt;&gt;linkLabel4.Name" xml:space="preserve">
     <value>linkLabel4</value>
