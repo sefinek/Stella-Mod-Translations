@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "cleanup": "node scripts/cleanup-resx.js",
-    "full": "npm run cleanup && npm run update",
+    "full": "git pull && npm run cleanup && npm run update",
     "test": "echo \"Error: no test specified\" && exit 1",
     "up": "ncu -u && npm install && npm update && npm audit fix",
     "update": "node scripts/update-resx.js"
