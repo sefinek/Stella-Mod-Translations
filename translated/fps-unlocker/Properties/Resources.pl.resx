@@ -120,9 +120,6 @@
   <data name="SetupForm_Searching" xml:space="preserve">
     <value>Wyszukiwanie...</value>
   </data>
-  <data name="SetupForm_CurrentPath" xml:space="preserve">
-    <value>Bieżąca ścieżka: {0}</value>
-  </data>
   <data name="SetupForm_FailedToFindProcessPath" xml:space="preserve">
     <value>Nie udało się odnaleźć ścieżki procesu. Proszę użyć opcji "Przeglądaj".</value>
   </data>

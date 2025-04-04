@@ -120,9 +120,6 @@
   <data name="SetupForm_Searching" xml:space="preserve">
     <value>Aranıyor...</value>
   </data>
-  <data name="SetupForm_CurrentPath" xml:space="preserve">
-    <value>Geçerli yol: {0}</value>
-  </data>
   <data name="SetupForm_FailedToFindProcessPath" xml:space="preserve">
     <value>İşleme yolu bulunamadı. Lütfen bunun yerine “Gözat” ı kullanın.</value>
   </data>
