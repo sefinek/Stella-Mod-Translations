@@ -352,7 +352,7 @@
     <value>168, 17</value>
   </metadata>
   <data name="CBAutoStart.ToolTip" xml:space="preserve">
-    <value>This will take effect on subsequent launch. Not recommended!</value>
+    <value>Detta kommer att träda i kraft vid nästa start. Inte rekommenderat!</value>
   </data>
   <data name="&gt;&gt;CBAutoStart.Name" xml:space="preserve">
     <value>CBAutoStart</value>
