@@ -699,13 +699,13 @@ Yüklü sürüm: v{1}</value>
     <value>26, 404</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 20</value>
+    <value>171, 20</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>MoeCounter appearance</value>
+    <value>Moecounter appearance</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
