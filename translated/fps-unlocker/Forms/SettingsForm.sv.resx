@@ -767,7 +767,7 @@
     <value>151, 17</value>
   </metadata>
   <data name="DllAddDialog.Filter" xml:space="preserve">
-    <value>DLL (*.dll)|*.dll|All files (*.*)|*.*</value>
+    <value>DLL (*.dll)|*.dll|Alla filer (*.*)|*.*</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -782,7 +782,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Inställningar</value>
   </data>
   <data name="&gt;&gt;ToolTipSettings.Name" xml:space="preserve">
     <value>ToolTipSettings</value>
