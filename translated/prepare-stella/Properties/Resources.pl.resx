@@ -120,9 +120,6 @@
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
     <value>Uruchom oficjalny launcher Genshin Stella Mod.</value>
   </data>
-  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Wybierz folder dla zasobów Stella Mod.</value>
-  </data>
   <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
     <value>To nie jest właściwe miejsce.</value>
   </data>
