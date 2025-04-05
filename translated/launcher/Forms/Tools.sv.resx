@@ -541,7 +541,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="SeeFPSUnlockerConfig.ToolTip" xml:space="preserve">
-    <value>Open unlocker.config.json</value>
+    <value>Öppna unlocker.config.json</value>
   </data>
   <data name="&gt;&gt;SeeFPSUnlockerConfig.Name" xml:space="preserve">
     <value>SeeFPSUnlockerConfig</value>
@@ -730,7 +730,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel5.ToolTip" xml:space="preserve">
-    <value>Clear ReShade cache, 3DMigoto, temporary files, WebView2 cache, and %temp%</value>
+    <value>Rensa ReShade-cache, 3DMigoto, temporära filer, WebView2-cache och %temp%-mappen</value>
   </data>
   <data name="&gt;&gt;linkLabel5.Name" xml:space="preserve">
     <value>linkLabel5</value>
@@ -769,7 +769,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the correctness of the paths. This tool does not check for the presence of launcher files - it only verifies Stella Mod dependencies.</value>
+    <value>Validera korrektheten av sökvägarna. Det här verktyget kontrollerar inte om launcher-filer finns – det verifierar endast Stella Mod-beroenden.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -854,7 +854,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>MiddleCenter</value>
   </data>
   <data name="label6.ToolTip" xml:space="preserve">
-    <value>Keyboard shortcuts available in Stella Mod Launcher</value>
+    <value>Kortkommandon finns tillgängliga i Stella-Mod-Launchern</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
