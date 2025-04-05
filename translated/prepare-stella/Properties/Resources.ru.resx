@@ -120,9 +120,6 @@
   <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
     <value>Запустить официальный лаунчер для Genshin Stella Mod.</value>
   </data>
-  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Выберите папку для ресурсов Stella Mod.</value>
-  </data>
   <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
     <value>Это неверный путь.</value>
   </data>
