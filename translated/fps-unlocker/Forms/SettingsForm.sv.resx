@@ -163,16 +163,16 @@
     <value>Realtime</value>
   </data>
   <data name="ComboPriority.Items1" xml:space="preserve">
-    <value>High</value>
+    <value>Hög</value>
   </data>
   <data name="ComboPriority.Items2" xml:space="preserve">
-    <value>Above Normal</value>
+    <value>Över normala</value>
   </data>
   <data name="ComboPriority.Items3" xml:space="preserve">
     <value>Normalt</value>
   </data>
   <data name="ComboPriority.Items4" xml:space="preserve">
-    <value>Below Normal</value>
+    <value>Under normal</value>
   </data>
   <data name="ComboPriority.Items5" xml:space="preserve">
     <value>Låg</value>
@@ -283,7 +283,7 @@
     <value>2</value>
   </data>
   <data name="CBAutoClose.Text" xml:space="preserve">
-    <value>Auto Close</value>
+    <value>Automatisk avstängning</value>
   </data>
   <data name="CBAutoClose.ToolTip" xml:space="preserve">
     <value>Unlocker will automatically close when the game exits</value>
@@ -377,7 +377,7 @@
     <value>11</value>
   </data>
   <data name="CBUseMobileUI.Text" xml:space="preserve">
-    <value>Use Mobile UI</value>
+    <value>Använd mobilt UI</value>
   </data>
   <data name="&gt;&gt;CBUseMobileUI.Name" xml:space="preserve">
     <value>CBUseMobileUI</value>
