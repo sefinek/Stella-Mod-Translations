@@ -670,7 +670,7 @@ Stella Mod - безопасное программное обеспечение,
     <value>Удалено {0} дополнительных файлов, освобождено {1} места.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Stella Plus - твой ключ к крутому геймплею! Используй ReShade, FPS Unlocker и 3DMigoto вместе (мы не используем GIMI) и получи эксклюзивные фишки!</value>
+    <value>Stella Plus - твой ключ к крутому геймплею! Используй ReShade, FPS Unlocker и 3DMigoto вместе (мы не используем GIMI) и получи эксклюзивные фишки.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
     <value>Текущий фон: {0}</value>
