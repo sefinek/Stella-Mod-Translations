@@ -741,7 +741,7 @@ Zainstalowana wersja: v{1}</value>
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>Uruchom grę zaraz po uruchomieniu launchera</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
