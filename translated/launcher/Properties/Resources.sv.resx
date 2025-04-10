@@ -674,12 +674,10 @@ Ny version: v{2}</value>
     <value>Nuvarande bakgrund: {0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 does not appear to be installed on your device. Would you like to download and install this dependency now?
-
-{0}</value>
+    <value>WebView2 verkar inte vara installerat på din enhet. Vill du ladda ner och installera det nu?</value>
   </data>
-  <data name="WebViewHelper_WebViewInstallation" xml:space="preserve">
-    <value>WebView installeras</value>
+  <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
+    <value>WebView2 Installation</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Vänligen välj 'Evergreen Standalone Installer'.</value>
@@ -688,7 +686,7 @@ Ny version: v{2}</value>
     <value>Något gick fel vid initieringen av WebView2. Försök igen. {0}</value>
   </data>
   <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Game path not found. Is the game installed on your device? If the path has changed, reconfiguring Stella Mod is required.</value>
+    <value>Spelsökvägen kunde inte hittas. Är spelet installerat på din enhet? Om sökvägen har ändrats måste Stella Mod konfigureras om.</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Något gick fel vid läsning av registret. {0}</value>
