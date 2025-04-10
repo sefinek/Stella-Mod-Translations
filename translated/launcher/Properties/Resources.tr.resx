@@ -676,26 +676,26 @@ Yeni sürüm: v{2}</value>
     <value>Mevcut arka plan: {0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 does not appear to be installed on your device. Would you like to download and install this dependency now?
+    <value>WebView2 cihazınızda yüklü görünmüyor. Bu eklentiyi şimdi indirmek ve kurmak ister misiniz?
 
 {0}</value>
   </data>
-  <data name="WebViewHelper_WebViewInstallation" xml:space="preserve">
-    <value>WebView Installation</value>
+  <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
+    <value>WebView2 Installation</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Please select 'Evergreen Standalone Installer'.</value>
+    <value>Lütfen 'Evergreen Bağımsız Yükleyicisi'ni seçin.</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Something went wrong during the initialization of WebView2. Please try again.
+    <value>WebView2'nin başlatılması sırasında bir şeyler ters gitti. Lütfen tekrar deneyin.
 
 {0}</value>
   </data>
   <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Game path not found. Is the game installed on your device? If the path has changed, reconfiguring Stella Mod is required.</value>
+    <value>Oyunun yolu bulunamadı. Oyun bilgisayarınızda yüklü mü? Eğer yol değiştiyse, Stella Mod'un yeniden ayarlanması gerekir.</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Something went wrong while reading the registry.
+    <value>Kayıt defteri incelenirken bir şeyler yanlış gitti.
 
 {0}</value>
   </data>
