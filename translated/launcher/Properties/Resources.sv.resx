@@ -679,22 +679,18 @@ Ny version: v{2}</value>
 {0}</value>
   </data>
   <data name="WebViewHelper_WebViewInstallation" xml:space="preserve">
-    <value>WebView Installation</value>
+    <value>WebView installeras</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Please select 'Evergreen Standalone Installer'.</value>
+    <value>Vänligen välj 'Evergreen Standalone Installer'.</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Something went wrong during the initialization of WebView2. Please try again.
-
-{0}</value>
+    <value>Något gick fel vid initieringen av WebView2. Försök igen. {0}</value>
   </data>
   <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
     <value>Game path not found. Is the game installed on your device? If the path has changed, reconfiguring Stella Mod is required.</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Something went wrong while reading the registry.
-
-{0}</value>
+    <value>Något gick fel vid läsning av registret. {0}</value>
   </data>
 </root>
