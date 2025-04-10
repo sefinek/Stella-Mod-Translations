@@ -216,6 +216,9 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="changeBg_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -237,9 +240,6 @@
   <data name="changeBg_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
     <value>Changer le fond d'application</value>
   </data>
@@ -453,6 +453,9 @@
   <data name="&gt;&gt;githubIco_Picturebox.ZOrder" xml:space="preserve">
     <value>35</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="tools_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
@@ -517,7 +520,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Rejoins notre serveur Discord si tu as besoin d'aide ou si tu as des suggestions</value>
+    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that this server is strictly for discussions related to the mod - it is not a general community hub.</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -890,7 +893,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need assistance, have questions, or want to share suggestions.</value>
+    <value>Enjoying this project? Support it to keep it alive!</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -953,7 +956,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>Consolas, 12.75pt</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 369</value>
+    <value>101, 368</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>492, 20</value>
@@ -985,6 +988,9 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
   <data name="&gt;&gt;runGiLauncher_LinkLabel.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="migoto_checkBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="migoto_checkBox.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 12pt</value>
   </data>
@@ -995,13 +1001,16 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>331, 3</value>
   </data>
   <data name="migoto_checkBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 26</value>
+    <value>158, 27</value>
   </data>
   <data name="migoto_checkBox.TabIndex" type="System.Int32, mscorlib">
     <value>132</value>
   </data>
   <data name="migoto_checkBox.Text" xml:space="preserve">
     <value>Plus de mods</value>
+  </data>
+  <data name="migoto_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
     <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences - completely safely. We don't use GIMI.</value>
@@ -1018,6 +1027,9 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
   <data name="&gt;&gt;migoto_checkBox.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="unlockFps_checkBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="unlockFps_checkBox.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 12pt</value>
   </data>
@@ -1028,13 +1040,16 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>167, 3</value>
   </data>
   <data name="unlockFps_checkBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 26</value>
+    <value>158, 27</value>
   </data>
   <data name="unlockFps_checkBox.TabIndex" type="System.Int32, mscorlib">
     <value>131</value>
   </data>
   <data name="unlockFps_checkBox.Text" xml:space="preserve">
     <value>FPS débloqueur</value>
+  </data>
+  <data name="unlockFps_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
   </data>
   <data name="unlockFps_checkBox.ToolTip" xml:space="preserve">
     <value>Unlock the 60 FPS limit and make your game run smoother than ever before! Especially useful if you're using a monitor with a refresh rate higher than 60 Hz.</value>
@@ -1051,6 +1066,9 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
   <data name="&gt;&gt;unlockFps_checkBox.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="reshade_checkBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
   <data name="reshade_checkBox.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 12pt</value>
   </data>
@@ -1058,13 +1076,16 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>3, 3</value>
   </data>
   <data name="reshade_checkBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 26</value>
+    <value>158, 27</value>
   </data>
   <data name="reshade_checkBox.TabIndex" type="System.Int32, mscorlib">
     <value>130</value>
   </data>
   <data name="reshade_checkBox.Text" xml:space="preserve">
     <value>Shaders</value>
+  </data>
+  <data name="reshade_checkBox.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
   </data>
   <data name="reshade_checkBox.ToolTip" xml:space="preserve">
     <value>ReShade provides graphical enhancements (our ready-to-use presets) and more! Press the Home key on your keyboard while in-game to experiment with the visuals.</value>
@@ -1721,9 +1742,6 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
   <data name="tableLayoutPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="tableLayoutPanel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="tableLayoutPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
@@ -1731,7 +1749,7 @@ Vous serez capable d'utiliser les mods et apprécier le jeu encore plus, le tout
     <value>3</value>
   </data>
   <data name="tableLayoutPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 340</value>
+    <value>121, 339</value>
   </data>
   <data name="tableLayoutPanel.RowCount" type="System.Int32, mscorlib">
     <value>1</value>

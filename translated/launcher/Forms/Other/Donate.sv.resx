@@ -170,6 +170,9 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   <data name="linkLabel6.Text" xml:space="preserve">
     <value>❌ Inte den här gången</value>
   </data>
+  <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
   </data>
@@ -198,7 +201,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>❤ Ja, jag kan</value>
+    <value>✔️ Sure, I can</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -264,7 +267,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 211</value>
+    <value>23, 236</value>
   </data>
   <data name="linkLabel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>317, 28</value>
@@ -274,6 +277,9 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
     <value>» Prenumerera på min YouTube-kanal</value>
+  </data>
+  <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Sefinek - YouTube</value>
@@ -300,7 +306,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 273</value>
+    <value>23, 177</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
     <value>311, 28</value>
@@ -310,6 +316,9 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
     <value>» Stjärnmarkera repositoriet på GitHub</value>
+  </data>
+  <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
     <value>Repositorier – Genshin Stella Mod</value>
@@ -339,16 +348,19 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>NoControl</value>
   </data>
   <data name="linkLabel10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 180</value>
+    <value>23, 205</value>
   </data>
   <data name="linkLabel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>333, 28</value>
+    <value>293, 28</value>
   </data>
   <data name="linkLabel10.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Lämna en recension på Trustpilot.com</value>
+    <value>» Leave a review on Trustpilot</value>
+  </data>
+  <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Launcher Recensioner | Läs kundrecensioner på stella.sefinek.net</value>
@@ -408,7 +420,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 242</value>
+    <value>23, 267</value>
   </data>
   <data name="linkLabel7.Size" type="System.Drawing.Size, System.Drawing">
     <value>254, 28</value>
@@ -418,6 +430,9 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>» Gå med i våran Dicord-server</value>
+  </data>
+  <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -452,6 +467,9 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>» Stöd detta projekt genom att klicka här</value>
   </data>
+  <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
   </data>
@@ -471,7 +489,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>Microsoft Sans Serif, 24.75pt</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 601</value>
+    <value>12, 605</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>1246, 38</value>
@@ -480,7 +498,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Vill du prenumerera på Stella Mod Plus? &lt;&lt;</value>
+    <value>Do you want to subscribe to Stella Mod Plus?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
