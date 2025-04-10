@@ -675,4 +675,28 @@ Nowa wersja: v{2}</value>
   <data name="Background_CurrentBackground_" xml:space="preserve">
     <value>Obecne tło: {0}</value>
   </data>
+  <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
+    <value>WebView2 wydaje się nie być zainstalowany na Twoim urządzeniu. Czy chcesz pobrać i zainstalować tę zależność teraz?
+
+{0}</value>
+  </data>
+  <data name="WebViewHelper_WebViewInstallation" xml:space="preserve">
+    <value>Instalacja WebView</value>
+  </data>
+  <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
+    <value>Wybierz 'Evergreen standalone Installer'.</value>
+  </data>
+  <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
+    <value>Coś poszło nie tak podczas inicjowania WebView2. Spróbuj ponownie.
+
+{0}</value>
+  </data>
+  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
+    <value>Nie znaleziono ścieżki do gry. Czy aby na pewno gra jest zainstalowana na Twoim urządzeniu? Jeśli ścieżka uległa zmianie, wymagana jest ponowna konfiguracja Stella Mod.</value>
+  </data>
+  <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
+    <value>Coś poszło nie tak podczas odczytu rejestru.
+
+{0}</value>
+  </data>
 </root>
