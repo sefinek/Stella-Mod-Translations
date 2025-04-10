@@ -680,8 +680,8 @@ Nowa wersja: v{2}</value>
 
 {0}</value>
   </data>
-  <data name="WebViewHelper_WebViewInstallation" xml:space="preserve">
-    <value>Instalacja WebView</value>
+  <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
+    <value>WebView2 Installation</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Wybierz 'Evergreen standalone Installer'.</value>
