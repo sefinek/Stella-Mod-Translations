@@ -169,6 +169,9 @@ Please note that a Stella Plus subscription is considered voluntary support and 
   <data name="linkLabel6.Text" xml:space="preserve">
     <value>❌ Not this time</value>
   </data>
+  <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel6.Name" xml:space="preserve">
     <value>linkLabel6</value>
   </data>
@@ -197,7 +200,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>❤ Yes, I can</value>
+    <value>✔️ Sure, I can</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -263,7 +266,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 211</value>
+    <value>23, 236</value>
   </data>
   <data name="linkLabel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>317, 28</value>
@@ -273,6 +276,9 @@ Please note that a Stella Plus subscription is considered voluntary support and 
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
     <value>» Subscribe my YouTube channel</value>
+  </data>
+  <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Sefinek - YouTube</value>
@@ -299,7 +305,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 273</value>
+    <value>23, 177</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
     <value>311, 28</value>
@@ -309,6 +315,9 @@ Please note that a Stella Plus subscription is considered voluntary support and 
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
     <value>» Star the repository on GitHub</value>
+  </data>
+  <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel4.ToolTip" xml:space="preserve">
     <value>Repositories - Genshin Stella Mod</value>
@@ -338,16 +347,19 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>NoControl</value>
   </data>
   <data name="linkLabel10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 180</value>
+    <value>23, 205</value>
   </data>
   <data name="linkLabel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>333, 28</value>
+    <value>293, 28</value>
   </data>
   <data name="linkLabel10.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot.com</value>
+    <value>» Leave a review on Trustpilot</value>
+  </data>
+  <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="linkLabel10.ToolTip" xml:space="preserve">
     <value>Stella Mod Launcher Reviews | Read Customer Service Reviews of stella.sefinek.net</value>
@@ -407,7 +419,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>Comic Sans MS, 15pt</value>
   </data>
   <data name="linkLabel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 242</value>
+    <value>23, 267</value>
   </data>
   <data name="linkLabel7.Size" type="System.Drawing.Size, System.Drawing">
     <value>254, 28</value>
@@ -417,6 +429,9 @@ Please note that a Stella Plus subscription is considered voluntary support and 
   </data>
   <data name="linkLabel7.Text" xml:space="preserve">
     <value>» Join our Discord server</value>
+  </data>
+  <data name="linkLabel7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -451,6 +466,9 @@ Please note that a Stella Plus subscription is considered voluntary support and 
   <data name="linkLabel1.Text" xml:space="preserve">
     <value>» Support this project by clicking here</value>
   </data>
+  <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
   <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
     <value>linkLabel1</value>
   </data>
@@ -470,7 +488,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>Microsoft Sans Serif, 24.75pt</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 601</value>
+    <value>12, 605</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>1246, 38</value>
@@ -479,7 +497,7 @@ Please note that a Stella Plus subscription is considered voluntary support and 
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>&gt;&gt; Do you want to subscribe to Stella Mod Plus? &lt;&lt;</value>
+    <value>Do you want to subscribe to Stella Mod Plus?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
