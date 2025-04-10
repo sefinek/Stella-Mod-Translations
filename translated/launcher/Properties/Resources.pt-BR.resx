@@ -700,4 +700,7 @@ Nova versão: v{2}</value>
 
 {0}</value>
   </data>
+  <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
+    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+  </data>
 </root>
