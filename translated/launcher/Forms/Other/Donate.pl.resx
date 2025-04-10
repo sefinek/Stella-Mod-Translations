@@ -200,7 +200,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>✔️ Sure, I can</value>
+    <value>✔️ Pewnie, mogę</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -356,7 +356,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot</value>
+    <value>» Zostaw opinię na Trustpilot</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -497,7 +497,7 @@ Prosimy pamiętać, że subskrypcja Stella Plus jest uznawana za dobrowolne wspa
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Do you want to subscribe to Stella Mod Plus?</value>
+    <value>Chcesz dokonać subskrypcji Stella Mod Plus?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
