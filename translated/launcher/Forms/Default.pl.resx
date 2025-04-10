@@ -520,7 +520,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that this server is strictly for discussions related to the mod - it is not a general community hub.</value>
+    <value>Dołącz do naszego serwera Discord, jeśli potrzebujesz wsparcia, masz pytania lub chcesz podzielić się swoją opinią na temat Stella Mod. Pamiętaj, że ten serwer jest przeznaczony wyłącznie do dyskusji związanych z modem, nie jest to ogólne centrum społeczności.</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -893,7 +893,7 @@ Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - ws
     <value>MiddleLeft</value>
   </data>
   <data name="support_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Enjoying this project? Support it to keep it alive!</value>
+    <value>Podoba Ci się ten projekt? Wesprzyj go, aby utrzymać go przy życiu!</value>
   </data>
   <data name="support_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
