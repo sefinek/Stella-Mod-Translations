@@ -547,13 +547,13 @@
     <value>76, 544</value>
   </data>
   <data name="linkLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>419, 24</value>
+    <value>424, 24</value>
   </data>
   <data name="linkLabel4.TabIndex" type="System.Int32, mscorlib">
     <value>111</value>
   </data>
   <data name="linkLabel4.Text" xml:space="preserve">
-    <value>Application programming interface (api.sefinek.net)</value>
+    <value>Application Programming Interface (api.sefinek.net)</value>
   </data>
   <data name="linkLabel4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
