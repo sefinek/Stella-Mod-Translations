@@ -196,7 +196,7 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Pomyślnie zaktualizowano ustawienia wstępne dla subskrybentów Stella Plus.</value>
   </data>
   <data name="Program_DoYouWantToJoinOurDiscord" xml:space="preserve">
-    <value>Czy chcesz dołączyć na nasz serwer Discord?</value>
+    <value>Chcesz dołączyć na nasz serwer Discord?</value>
   </data>
   <data name="NormalRelease_TheNewVersion_From_IsAvailable" xml:space="preserve">
     <value>Nowa wersja v{0} z {1} jest dostępna! Proszę dokonać aktualizacji.</value>
