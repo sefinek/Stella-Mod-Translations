@@ -216,9 +216,6 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="changeBg_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -240,6 +237,9 @@
   <data name="changeBg_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="changeBg_LinkLabel.ToolTip" xml:space="preserve">
     <value>Ändra bakgrunden i applikationen</value>
   </data>
@@ -453,9 +453,6 @@
   <data name="&gt;&gt;githubIco_Picturebox.ZOrder" xml:space="preserve">
     <value>35</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="tools_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
@@ -1134,16 +1131,16 @@ Särskilt användbart om du använder en skärm med en uppdateringsfrekvens hög
     <value>Bottom, Right</value>
   </data>
   <data name="clickMe_Label.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Comic Sans MS, 14.25pt</value>
+    <value>Calibri, 12.75pt</value>
   </data>
   <data name="clickMe_Label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="clickMe_Label.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1035, 570</value>
+    <value>1131, 575</value>
   </data>
   <data name="clickMe_Label.Size" type="System.Drawing.Size, System.Drawing">
-    <value>243, 25</value>
+    <value>153, 21</value>
   </data>
   <data name="clickMe_Label.TabIndex" type="System.Int32, mscorlib">
     <value>116</value>
