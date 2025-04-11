@@ -286,10 +286,10 @@
     <value>NoControl</value>
   </data>
   <data name="release_Label.Location" type="System.Drawing.Point, System.Drawing">
-    <value>344, 634</value>
+    <value>334, 634</value>
   </data>
   <data name="release_Label.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 67</value>
+    <value>604, 67</value>
   </data>
   <data name="release_Label.TabIndex" type="System.Int32, mscorlib">
     <value>130</value>
@@ -320,7 +320,7 @@ Installed version: v{1}</value>
     <value>Segoe UI, 11.25pt</value>
   </data>
   <data name="checkBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 258</value>
+    <value>30, 260</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
   <data name="checkBox4.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
@@ -357,7 +357,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 180</value>
+    <value>30, 182</value>
   </data>
   <data name="checkBox1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -393,7 +393,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 206</value>
+    <value>30, 208</value>
   </data>
   <data name="checkBox2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -429,7 +429,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 232</value>
+    <value>30, 234</value>
   </data>
   <data name="checkBox3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -465,7 +465,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 309</value>
+    <value>30, 311</value>
   </data>
   <data name="checkBox5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -501,7 +501,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 361</value>
+    <value>30, 363</value>
   </data>
   <data name="checkBox6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -537,7 +537,7 @@ Installed version: v{1}</value>
     <value>Segoe UI, 11.25pt</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 593</value>
+    <value>26, 589</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>419, 20</value>
@@ -547,6 +547,9 @@ Installed version: v{1}</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>* Changing the settings may require restarting the application.</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -597,7 +600,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 283</value>
+    <value>30, 285</value>
   </data>
   <data name="checkBox7.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -633,7 +636,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 335</value>
+    <value>30, 337</value>
   </data>
   <data name="checkBox8.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -669,7 +672,7 @@ Installed version: v{1}</value>
     <value>Moebooru</value>
   </data>
   <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 443</value>
+    <value>31, 445</value>
   </data>
   <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 23</value>
@@ -696,7 +699,7 @@ Installed version: v{1}</value>
     <value>Segoe UI, 11.25pt</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>27, 419</value>
+    <value>27, 421</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>171, 20</value>
@@ -729,7 +732,7 @@ Installed version: v{1}</value>
     <value>NoControl</value>
   </data>
   <data name="checkBox9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 386</value>
+    <value>30, 388</value>
   </data>
   <data name="checkBox9.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
