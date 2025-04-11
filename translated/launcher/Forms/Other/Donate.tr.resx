@@ -200,7 +200,7 @@ Stella Plus aboneliğinin gönüllü destek olarak kabul edildiğini ve herhangi
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>✔️ Sure, I can</value>
+    <value>✔️ Tabiki, yapabilirim</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -356,7 +356,7 @@ Stella Plus aboneliğinin gönüllü destek olarak kabul edildiğini ve herhangi
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot</value>
+    <value>" Trustpilot'ta bir yorum bırakın</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -497,7 +497,7 @@ Stella Plus aboneliğinin gönüllü destek olarak kabul edildiğini ve herhangi
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Do you want to subscribe to Stella Mod Plus?</value>
+    <value>Stella Mod Plus'a abone olmak ister misiniz?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
