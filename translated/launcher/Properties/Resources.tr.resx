@@ -681,7 +681,7 @@ Yeni sürüm: v{2}</value>
 {0}</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
-    <value>WebView2 Installation</value>
+    <value>WebView2 Yüklemesi</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Lütfen 'Evergreen Bağımsız Yükleyicisi'ni seçin.</value>
@@ -700,6 +700,6 @@ Yeni sürüm: v{2}</value>
 {0}</value>
   </data>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
-    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+    <value>Stella Mod aboneleri için Sefinek Patron Merkezi internet sitesini ziyaret edin</value>
   </data>
 </root>
