@@ -699,4 +699,7 @@ Nowa wersja: v{2}</value>
 
 {0}</value>
   </data>
+  <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
+    <value>Odwiedź stronę Sefinek Patron Center dla subskrybentów Stella Mod</value>
+  </data>
 </root>

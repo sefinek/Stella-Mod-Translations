@@ -691,4 +691,7 @@ Ny version: v{2}</value>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Något gick fel vid läsning av registret. {0}</value>
   </data>
+  <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
+    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+  </data>
 </root>
