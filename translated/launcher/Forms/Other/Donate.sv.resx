@@ -201,7 +201,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>15</value>
   </data>
   <data name="linkLabel5.Text" xml:space="preserve">
-    <value>✔️ Sure, I can</value>
+    <value>✔️ Visst, det kan jag</value>
   </data>
   <data name="linkLabel5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -357,7 +357,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Leave a review on Trustpilot</value>
+    <value>» Lämna en recension på Trustpilot</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -498,7 +498,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>27</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Do you want to subscribe to Stella Mod Plus?</value>
+    <value>Vill du prenumerera på Stella Mod Plus?</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
