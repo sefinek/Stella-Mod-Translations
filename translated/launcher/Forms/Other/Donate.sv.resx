@@ -357,7 +357,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
     <value>29</value>
   </data>
   <data name="linkLabel10.Text" xml:space="preserve">
-    <value>» Lämna en recension på Trustpilot. com</value>
+    <value>» Lämna en recension på Trustpilot</value>
   </data>
   <data name="linkLabel10.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
