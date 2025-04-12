@@ -677,7 +677,7 @@ Ny version: v{2}</value>
     <value>WebView2 verkar inte vara installerat på din enhet. Vill du ladda ner och installera det nu?</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
-    <value>WebView2 Installation</value>
+    <value>Installation av WebView2</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
     <value>Vänligen välj 'Evergreen Standalone Installer'.</value>
@@ -692,6 +692,6 @@ Ny version: v{2}</value>
     <value>Något gick fel vid läsning av registret. {0}</value>
   </data>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
-    <value>Visit the Sefinek Patron Center website for Stella Mod subscribers</value>
+    <value>Besök Sefinek Patron Centers webbplats för Stella Mod-prenumeranter</value>
   </data>
 </root>
