@@ -616,7 +616,7 @@
     <value>115</value>
   </data>
   <data name="linkLabel6.Text" xml:space="preserve">
-    <value>Official status page (status.sefinek.net)</value>
+    <value>Resmi sunucu durumu sayfası (status.sefinek.net)</value>
   </data>
   <data name="linkLabel6.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
