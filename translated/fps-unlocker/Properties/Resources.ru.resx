@@ -166,6 +166,6 @@ GenshinImpact.exe или YuanShen.exe.</value>
     <value>Файл не найден</value>
   </data>
   <data name="Program_DoNotPlaceThisToolInTheGameFolder" xml:space="preserve">
-    <value>Do not place this tool in the game folder!</value>
+    <value>Не помещайте этот инструмент в папку с игрой!</value>
   </data>
 </root>
