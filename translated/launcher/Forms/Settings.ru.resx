@@ -744,7 +744,7 @@
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>Запустить игру сразу после запуска лаунчера</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
