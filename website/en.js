@@ -93,9 +93,10 @@ exports.home = {
 	},
 
 	mirrorModal: {
-		SelectDownloadServer: 'Select the download server',
-		Companies: 'Companies',
-		Countries: 'Countries',
+		SelectADownloadSource: 'Select a download source',
+		ByCompany: 'By company',
+		ByLocation: 'By location',
+		InstallViaWinGet: 'Install via WinGet',
 		LauncherVersion: 'Launcher version:',
 		MirrorsAreCurrentlyUnavailable: 'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
 		ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
