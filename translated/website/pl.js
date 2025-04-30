@@ -80,9 +80,10 @@ exports.home = {
    'Coś poszło nie tak podczas weryfikacji captchy (kod statusu: {0}). Odśwież stronę i spróbuj ponownie.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Wybierz serwer pobierania',
-  Companies: 'Firmy',
-  Countries: 'Kraje',
+  SelectADownloadSource: 'Select a download source',
+  ByCompany: 'By company',
+  ByLocation: 'By location',
+  InstallViaWinGet: 'Install via WinGet',
   LauncherVersion: 'Wersja launchera:',
   MirrorsAreCurrentlyUnavailable: 'Serwery lustrzane są obecnie niedostępne dla tej kategorii.',
   ChecksumHasBeenSuccessfullyCopied: 'Suma kontrolna {0} została pomyślnie skopiowana do schowka!',
