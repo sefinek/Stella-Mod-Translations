@@ -80,9 +80,10 @@ exports.home = {
    'Error al verificar el captcha (código: {0}). Recarga la página y vuelve a intentarlo.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Selecciona el servidor de descarga',
-  Companies: 'Compañías',
-  Countries: 'Países',
+  SelectADownloadSource: 'Select a download source',
+  ByCompany: 'By company',
+  ByLocation: 'By location',
+  InstallViaWinGet: 'Install via WinGet',
   LauncherVersion: 'Versión del launcher:',
   MirrorsAreCurrentlyUnavailable:
    'Los mirrors están actualmente deshabilitados o no disponibles para esta categoría. Por favor, revisa más tarde o contacta al administrador.',
