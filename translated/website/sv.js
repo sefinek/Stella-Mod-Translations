@@ -80,9 +80,10 @@ exports.home = {
    'Misslyckades med att verifiera captcha (statuskod: {0}). Ladda om webbplatsen och försök igen.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Välj nedladdningsserver',
-  Companies: 'Företag',
-  Countries: 'Länder',
+  SelectADownloadSource: 'Select a download source',
+  ByCompany: 'By company',
+  ByLocation: 'By location',
+  InstallViaWinGet: 'Install via WinGet',
   LauncherVersion: 'Launcher-version:',
   MirrorsAreCurrentlyUnavailable:
    'Spegelservrar är för tillfället avstängda eller otillgängliga för denna kategori. Försök igen senare eller kontakta administratören.',
