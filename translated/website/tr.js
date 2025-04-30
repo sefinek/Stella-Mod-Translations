@@ -80,9 +80,10 @@ exports.home = {
    'Captcha doğrulanamadı (hata kodu: {0}). Web sitesini yeniden yükleyin ve tekrar deneyin.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'İndirme kaynağını seçin',
-  Companies: 'Kaynaklar',
-  Countries: 'Sunucular',
+  SelectADownloadSource: 'Select a download source',
+  ByCompany: 'By company',
+  ByLocation: 'By location',
+  InstallViaWinGet: 'Install via WinGet',
   LauncherVersion: 'Başlatıcı sürümü:',
   MirrorsAreCurrentlyUnavailable:
    'Sunucular şu anda bu kategori için devre dışı veya kullanılamıyor. Lütfen daha sonra tekrar kontrol edin veya yöneticiyle iletişime geçin.',
