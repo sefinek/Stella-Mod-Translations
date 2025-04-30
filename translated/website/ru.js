@@ -80,9 +80,10 @@ exports.home = {
    'Не удалось проверить капчу (код состояния: {0}). Перезагрузите сайт и повторите попытку.',
  },
  mirrorModal: {
-  SelectDownloadServer: 'Выберите сервер для загрузки',
-  Companies: 'Компании',
-  Countries: 'Страны',
+  SelectADownloadSource: 'Select a download source',
+  ByCompany: 'By company',
+  ByLocation: 'By location',
+  InstallViaWinGet: 'Install via WinGet',
   LauncherVersion: 'Версия лаунчера:',
   MirrorsAreCurrentlyUnavailable:
    'Зеркала в настоящее время отключены или недоступны для этой категории. Пожалуйста, проверьте это позже или свяжитесь с администратором.',
