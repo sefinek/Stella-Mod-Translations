@@ -81,9 +81,9 @@ exports.home = {
  },
  mirrorModal: {
   SelectADownloadSource: 'Bir indirme kaynağı seçiniz',
-  ByCompany: 'By company',
-  ByLocation: 'By location',
-  InstallViaWinGet: 'Install via WinGet',
+  ByCompany: 'Şirket tarafından',
+  ByLocation: 'Konuma göre',
+  InstallViaWinGet: 'WinGet aracılığıyla yükleyin',
   LauncherVersion: 'Başlatıcı sürümü:',
   MirrorsAreCurrentlyUnavailable:
    'Sunucular şu anda bu kategori için devre dışı veya kullanılamıyor. Lütfen daha sonra tekrar kontrol edin veya yöneticiyle iletişime geçin.',
