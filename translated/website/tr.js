@@ -80,7 +80,7 @@ exports.home = {
    'Captcha doğrulanamadı (hata kodu: {0}). Web sitesini yeniden yükleyin ve tekrar deneyin.',
  },
  mirrorModal: {
-  SelectADownloadSource: 'Select a download source',
+  SelectADownloadSource: 'Bir indirme kaynağı seçiniz',
   ByCompany: 'By company',
   ByLocation: 'By location',
   InstallViaWinGet: 'Install via WinGet',
