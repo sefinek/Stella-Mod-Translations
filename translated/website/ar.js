@@ -13,15 +13,15 @@ exports.default = {
  YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
  tooltips: {
   OfficialDiscordServer: 'سيرفر ديسكورد الرسمي',
-  SupportThisProject: 'Support this project voluntarily',
-  GitHubRepositories: 'GitHub repositories',
+  SupportThisProject: 'دعم هذا المشروع طوعا',
+  GitHubRepositories: 'مستودعات غيت هاب',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: Bad Request',
+  BadRequest: 'خطأ 400: طلب خاطئ',
   InvalidURL: 'The return URL is invalid.',
   ReferrerURL: 'Your referrer URL',
   CorrectRefURL: 'Correct URL',
