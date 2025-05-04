@@ -136,7 +136,7 @@
     <value>7</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Sorry, something went wrong</value>
+    <value>عذرا، حدث خطأ ما</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>

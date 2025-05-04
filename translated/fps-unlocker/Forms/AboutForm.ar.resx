@@ -275,7 +275,7 @@ v{0}</value>
     <value>6</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you need help or have any suggestions, please visit the official website:</value>
+    <value>إذا كنت بحاجة إلى مساعدة أو لديك أي اقتراحات، يرجى زيارة الموقع الرسمي:</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -305,7 +305,7 @@ v{0}</value>
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>عن</value>
+    <value>حول</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>AboutForm</value>
