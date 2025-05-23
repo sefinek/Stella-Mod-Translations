@@ -709,17 +709,17 @@ Nowa wersja: v{2}</value>
     <value>Autoryzacja nie powiodła się. Włączono tryb offline, aktualizacje nie mogą zostać sprawdzone.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
+    <value>Wybacz, główny serwer jest obecnie niedostępny lub wystąpił nieoczekiwany błąd (kod błędu: {0}). Tryb offline zostanie włączony automatycznie. Niektóre funkcje mogą być ograniczone lub niedostępne.
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via https://patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>Autoryzacja nie powiodła się (kod błędu {0}). Serwer odrzucił żądanie — prawdopodobnie z powodu nieudanej walidacji lub wygasłego tokena uwierzytelniającego. Upewnij się, że korzystasz z najnowszej wersji launchera. Jeśli nie wiesz, co mogło spowodować ten problem, skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net lub mailowo contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>Nie udało się przetworzyć odpowiedzi z serwera. Może to oznaczać problem po stronie serwera lub niekompatybilną wersję launchera. Skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net mailowo contact@sefinek.net.
 
-Details:
+Szczegóły:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
