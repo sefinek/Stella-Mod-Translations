@@ -703,37 +703,37 @@ Yeni sürüm: v{2}</value>
     <value>Stella Mod aboneleri için Sefinek Patron Merkezi internet sitesini ziyaret edin</value>
   </data>
   <data name="OfflineMode" xml:space="preserve">
-    <value>Offline Mode</value>
+    <value>Çevrimdışı Mod</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode enabled — updates cannot be checked.</value>
+    <value>Yetkilendirme başarısız oldu. Çevrimdışı mod etkin - güncellemeler kontrol edilemiyor.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
+    <value>Üzgünüz, ana sunucu şu anda kullanılamıyor veya beklenmedik bir sorun oluştu (hata kodu: {0}). Çevrimdışı Mod otomatik olarak etkinleştirilecektir. Bazı özellikler sınırlı olabilir veya kullanılamayabilir.
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek ister misiniz?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>Yetkilendirme başarısız oldu (hata kodu {0}). Sunucu, muhtemelen başarısız doğrulama veya süresi dolmuş bir kimlik doğrulama belirteci nedeniyle isteği reddetti. Lütfen başlatıcının en son sürümünü kullandığınızdan emin olun. Bu hataya neyin neden olduğundan emin değilseniz, patrons.sefinek.net adresinden veya contact@sefinek.net e-posta adresinden geliştiriciyle iletişime geçebilirsiniz.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>Sunucudan gelen yanıt çözümlenemedi. Bu, sunucu tarafında bir sorun olduğunu veya başlatıcı sürümünün uyumsuz olduğunu gösteriyor olabilir. Lütfen geliştiriciyle patrons.sefinek.net üzerinden veya contact@sefinek.net adresine e-posta göndererek iletişime geçebilirsiniz.
 
-Details:
+Ayrıntılar:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>Ana sunucuya bağlanılamıyor. Lütfen internet bağlantınızı, DNS yapılandırmanızı, VPN/proxy ayarlarınızı ve güvenlik duvarınızı kontrol edin. Yardıma ihtiyacınız olursa, patrons.sefinek.net üzerinden geliştiriciyle iletişime geçin veya contact@sefinek.net adresine e-posta gönderebilirsiniz.
 
-Details:
+Ayrıntılar:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Kimlik doğrulama sırasında önemli bir hata oluştu. Lütfen Sefinek Patrons Center'da (https://patrons.sefinek.net) bir destek talebi göndererek veya contact@sefinek.net adresine bir e-posta göndererek geliştiriciyle iletişime geçebilirsiniz.
 
-Details:
+Ayrıntılar:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek ister misiniz?</value>
   </data>
 </root>
