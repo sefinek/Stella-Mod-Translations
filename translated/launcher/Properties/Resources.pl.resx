@@ -702,4 +702,38 @@ Nowa wersja: v{2}</value>
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
     <value>Odwiedź stronę Sefinek Patron Center dla subskrybentów Stella Mod</value>
   </data>
+  <data name="OfflineMode" xml:space="preserve">
+    <value>Tryb Offline</value>
+  </data>
+  <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
+    <value>Autoryzacja nie powiodła się. Włączono tryb offline, aktualizacje nie mogą zostać sprawdzone.</value>
+  </data>
+  <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
+    <value>Wybacz, główny serwer jest obecnie niedostępny lub wystąpił nieoczekiwany błąd (kod błędu: {0}). Tryb offline zostanie włączony automatycznie. Niektóre funkcje mogą być ograniczone lub niedostępne.
+
+Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
+  </data>
+  <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
+    <value>Autoryzacja nie powiodła się (kod błędu {0}). Serwer odrzucił żądanie — prawdopodobnie z powodu nieudanej walidacji lub wygasłego tokena uwierzytelniającego. Upewnij się, że korzystasz z najnowszej wersji launchera. Jeśli nie wiesz, co mogło spowodować ten problem, skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net lub mailowo contact@sefinek.net.</value>
+  </data>
+  <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
+    <value>Nie udało się przetworzyć odpowiedzi z serwera. Może to oznaczać problem po stronie serwera lub niekompatybilną wersję launchera. Skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net mailowo contact@sefinek.net.
+
+Szczegóły:
+{0}</value>
+  </data>
+  <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
+    <value>Nie można połączyć się z głównym serwerem. Sprawdź swoje połączenie internetowe, konfigurację DNS, ustawienia VPN/proxy oraz zaporę sieciową. Jeśli potrzebujesz pomocy, skontaktuj się z deweloperem za pomocą patrons.sefinek.net lub mailowo contact@sefinek.net.
+
+Szczegóły:
+{0}</value>
+  </data>
+  <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
+    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając ticket w Sefinek Patrons Center (https://patrons.sefinek.net) lub wysyłając e-mail na adres contact@sefinek.net.
+
+Szczegóły:
+{0}
+
+Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
+  </data>
 </root>
