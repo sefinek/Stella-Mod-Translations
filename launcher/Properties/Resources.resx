@@ -714,7 +714,7 @@ New version: v{2}</value>
 Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via https://patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via patrons.sefinek.net or email contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
     <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
