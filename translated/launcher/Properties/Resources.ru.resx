@@ -702,4 +702,25 @@ Stella Mod - безопасное программное обеспечение,
   <data name="Default_VisitTheSefinekPatronCenterWebsiteForStellaModSubscribers" xml:space="preserve">
     <value>Посетите сайт Sefinek Patron Center для подписчиков Stella Mod.</value>
   </data>
+  <data name="OfflineMode" xml:space="preserve">
+    <value>Offline Mode</value>
+  </data>
+  <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
+    <value>Authorization failed. Offline mode enabled — updates cannot be checked.</value>
+  </data>
+  <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
+    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.\n\nWould you like to check the status page now at status.sefinek.net?</value>
+  </data>
+  <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
+    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via https://patrons.sefinek.net or email contact@sefinek.net.</value>
+  </data>
+  <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
+    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.\n\nDetails:\n{0}</value>
+  </data>
+  <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
+    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.\n\nDetails:\n{0}</value>
+  </data>
+  <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.\n\nDetails:\n{0}\n\nWould you like to check the status page now at status.sefinek.net?</value>
+  </data>
 </root>
