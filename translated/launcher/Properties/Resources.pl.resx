@@ -723,17 +723,17 @@ Szczegóły:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>Nie można połączyć się z głównym serwerem. Sprawdź swoje połączenie internetowe, konfigurację DNS, ustawienia VPN/proxy oraz zaporę sieciową. Jeśli potrzebujesz pomocy, skontaktuj się z deweloperem za pomocą patrons.sefinek.net lub mailowo contact@sefinek.net.
 
-Details:
+Szczegóły:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając ticket w Sefinek Patrons Center (https://patrons.sefinek.net) lub wysyłając e-mail na adres contact@sefinek.net.
 
-Details:
+Szczegóły:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
   </data>
 </root>
