@@ -211,7 +211,7 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Pomyślnie zaktualizowano zasoby.</value>
   </data>
   <data name="Program_SorryOneInstanceIsCurrentlyOpen_" xml:space="preserve">
-    <value>Wybacz, obecnie jest uruchomiona jedna instancja. Zamknij proces o nazwie {0} i spróbuj ponownie.</value>
+    <value>Wybacz, jedna instancja jest już obecnie otwarta. Zamknij proces o nazwie {0} i spróbuj ponownie.</value>
   </data>
   <data name="DiscordRPC_Status_InTheWindowWithLinks" xml:space="preserve">
     <value>W oknie z linkami</value>
