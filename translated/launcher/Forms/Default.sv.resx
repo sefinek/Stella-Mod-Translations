@@ -660,17 +660,14 @@
   <data name="becomeASubscriber_LinkLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left</value>
   </data>
-  <data name="becomeASubscriber_LinkLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="becomeASubscriber_LinkLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic UI, 12.75pt, style=Bold</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 436</value>
+    <value>18, 416</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 46</value>
+    <value>682, 111</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>111</value>
