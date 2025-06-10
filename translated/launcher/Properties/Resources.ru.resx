@@ -717,23 +717,23 @@ Stella Mod - безопасное программное обеспечение,
     <value>Не удалось выполнить авторизацию (код ошибки {0}). Сервер отклонил запрос, вероятно, из-за неудачной проверки подлинности или истечения срока действия токена аутентификации. Пожалуйста, убедитесь, что вы используете последнюю версию программы запуска. Если вы не уверены, что вызвало эту ошибку, свяжитесь с разработчиком по электронной почте patrons.sefinek.net или по электронной почте contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>Не удалось проанализировать ответ от сервера. Это может указывать на проблему на стороне сервера или несовместимую версию программы запуска. Пожалуйста, свяжитесь с разработчиком по электронной почте patrons.sefinek.net или по электронной почте по адресу contact@sefinek.net.
 
-Details:
+Подробности:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>Не удаётся подключиться к главному серверу. Пожалуйста, проверьте своё интернет-соединение, конфигурацию DNS, настройки VPN/прокси-сервера и брандмауэр. Если вам нужна помощь, свяжитесь с разработчиком patrons.sefinek.net или по электронной почте contact@sefinek.net.
 
-Details:
+Подробности:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Во время аутентификации произошла критическая ошибка. Пожалуйста, свяжитесь с разработчиком, отправив заявку в Центр поддержки клиентов Sefinek (https://patrons.sefinek.net) или отправив электронное письмо по адресу contact@sefinek.net.
 
-Details:
+Подробности:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Не хотите ли проверить статус на странице status.sefinek.net?</value>
   </data>
 </root>
