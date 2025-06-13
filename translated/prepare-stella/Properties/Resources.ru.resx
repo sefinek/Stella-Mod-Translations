@@ -40,7 +40,7 @@
     ResXResourceReader how to depersist the object. This is currently not 
     extensible. For a given mimetype the value must be set accordingly:
     
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    Note - application/x-microsoft.net.object.binary.base64 is the format
     that the ResXResourceWriter will generate, however the reader can 
     read any of the formats listed below.
     
@@ -125,8 +125,8 @@
   </data>
   <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
     <value>Пожалуйста, выберите exe-файл игры.
-* GenshinImpact.exe — глобальная версия (основная)
-* YuanShen.exe — китайская версия (CN)</value>
+* GenshinImpact.exe  —  глобальная версия (основная)
+* YuanShen.exe  —  китайская версия (CN)</value>
   </data>
   <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
     <value>Ошибка: указан неверный путь к игре.

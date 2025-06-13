@@ -166,7 +166,7 @@
     <value>100</value>
   </data>
   <data name="createShortcut_Label.Text" xml:space="preserve">
-    <value>Интерактивная карта Тейвата - HoYoLAB (act.hoyolab.com)</value>
+    <value>Интерактивная карта Тейвата — HoYoLAB (act.hoyolab.com)</value>
   </data>
   <data name="createShortcut_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

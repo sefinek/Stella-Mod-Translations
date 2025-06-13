@@ -40,7 +40,7 @@
     ResXResourceReader how to depersist the object. This is currently not 
     extensible. For a given mimetype the value must be set accordingly:
     
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    Note - application/x-microsoft.net.object.binary.base64 is the format
     that the ResXResourceWriter will generate, however the reader can 
     read any of the formats listed below.
     
@@ -123,7 +123,7 @@
 Попробуйте переустановить приложение или зайдите к нам в Discord-сервер.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Каталог ресурсов Stella не найден на вашем компьютере - снятие флажка невозможно.</value>
+    <value>Каталог ресурсов Stella не найден на вашем компьютере — снятие флажка невозможно.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
     <value>Извините, произошла ошибка. Пожалуйста, сообщите о проблеме.

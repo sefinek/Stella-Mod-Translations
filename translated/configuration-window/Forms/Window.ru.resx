@@ -449,7 +449,7 @@
   </data>
   <data name="label3.Text" xml:space="preserve">
     <value>Похоже, вы здесь впервые или только что обновились!
-Давайте завершим настройку - отметьте нужные опции ниже.</value>
+Давайте завершим настройку — отметьте нужные опции ниже.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -552,7 +552,7 @@
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Поля, помеченные звёздочкой (*), рекомендуется заполнить. Если не уверены — не снимайте галочки.</value>
+    <value>Поля, помеченные звёздочкой (*), рекомендуется заполнить. Если не уверены  —  не снимайте галочки.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>

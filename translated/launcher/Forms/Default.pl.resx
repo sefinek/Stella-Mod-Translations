@@ -674,7 +674,7 @@
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
     <value>Jeśli chcesz jeszcze bardziej poprawić swoje wrażenia z gry, zasubskrybuj Stella Plus.
-Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - wszystko w całkowicie bezpieczny sposób!</value>
+Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry — wszystko w całkowicie bezpieczny sposób!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1007,7 +1007,7 @@ Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - ws
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Chcesz cieszyć się grą jeszcze bardziej? Uczyń ją bardziej ekscytującą i lepszą niż kiedykolwiek wcześniej! Dodawaj mody dopasowane do swoich preferencji - całkowicie bezpiecznie. Nie używamy GIMI.</value>
+    <value>Chcesz cieszyć się grą jeszcze bardziej? Uczyń ją bardziej ekscytującą i lepszą niż kiedykolwiek wcześniej! Dodawaj mody dopasowane do swoich preferencji — całkowicie bezpiecznie. Nie używamy GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>

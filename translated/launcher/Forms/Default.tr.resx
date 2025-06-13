@@ -517,7 +517,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Eğer desteğe ihtiyacınız veya sorunuz varsa ya da Stella Modu hakkında geri bildirimde bulunmak istiyorsanız Discord sunucumuza katılın. Lütfen bu sunucunun kesinlikle modla ilgili tartışmalar için olduğunu unutmayın - genel bir topluluk merkezi değildir.</value>
+    <value>Eğer desteğe ihtiyacınız veya sorunuz varsa ya da Stella Modu hakkında geri bildirimde bulunmak istiyorsanız Discord sunucumuza katılın. Lütfen bu sunucunun kesinlikle modla ilgili tartışmalar için olduğunu unutmayın — genel bir topluluk merkezi değildir.</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>

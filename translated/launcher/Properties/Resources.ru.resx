@@ -314,9 +314,9 @@
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
     <value>Привет! Похоже, мы впервые видим друг друга! Чтобы избежать возможных проблем, пожалуйста, ознакомьтесь с условиями использования и рекомендациями по работе с данным программным обеспечением. Документация доступна на нашем официальном сайте. Используя Stella Mod, вы соглашаетесь с условиями, изложенными в документации.
 
-Это программное обеспечение постоянно поддерживается разработчиком благодаря подписчикам Stella Mod Plus. Доходы помогают покрывать расходы на оптоволоконный интернет и счета за электричество. Сервер API размещен в частном доме в Польше, что означает, что местный администратор является единственным владельцем базы данных. Genshin Stella Mod ставит во главу угла конфиденциальность и безопасность пользователей - никакие аналитические или аппаратные данные никогда не отправляются без вашего согласия.
+Это программное обеспечение постоянно поддерживается разработчиком благодаря подписчикам Stella Mod Plus. Доходы помогают покрывать расходы на оптоволоконный интернет и счета за электричество. Сервер API размещен в частном доме в Польше, что означает, что местный администратор является единственным владельцем базы данных. Genshin Stella Mod ставит во главу угла конфиденциальность и безопасность пользователей — никакие аналитические или аппаратные данные никогда не отправляются без вашего согласия.
 
-Stella Mod - безопасное программное обеспечение, поэтому беспокоиться не о чем. Просто помните, что нельзя использовать читы в игре. Если вам нужна помощь, присоединяйтесь к нашему серверу Discord или пишите нам на contact@sefinek.net.
+Stella Mod — безопасное программное обеспечение, поэтому беспокоиться не о чем. Просто помните, что нельзя использовать читы в игре. Если вам нужна помощь, присоединяйтесь к нашему серверу Discord или пишите нам на contact@sefinek.net.
 
 Пожалуйста, обратите внимание, что Stella Mod полностью независим и НЕ связан с HoYoverse. Если вам нравится этот проект, поддержите его дальнейшее развитие, подписавшись на Stella Mod Plus.
 
@@ -598,12 +598,12 @@ Stella Mod - безопасное программное обеспечение,
 Новая версия: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>Обновление 3DMigoto - v{0}.zip</value>
+    <value>Обновление 3DMigoto — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Доступно новое обновление мод-пака для подписчиков Stella Plus! Твои пользовательские моды не будут удалены, если они находятся в папке под номером 3. Автор программы не несет ответственности за случайное удаление модов.
 
-Если после обновления модели персонажей выглядят криво (это относится к добавленным вами пользовательским модам), удалите конфликтующий мод из папки. Помни - на 1 персонажа только 1 мод!
+Если после обновления модели персонажей выглядят криво (это относится к добавленным вами пользовательским модам), удалите конфликтующий мод из папки. Помни — на 1 персонажа только 1 мод!
 
 Хочешь отключить автообновления? Удали файл mods-version.json из папки Stella Mod.
 
@@ -613,10 +613,10 @@ Stella Mod - безопасное программное обеспечение,
 Новая версия: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Обновление модов - v{0}.zip</value>
+    <value>Обновление модов — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
-    <value>Доступно новое обновление для дополнений ReShade! Имейте в виду - настройки ваших дополнений будут перезаписаны.
+    <value>Доступно новое обновление для дополнений ReShade! Имейте в виду — настройки ваших дополнений будут перезаписаны.
 
 Нажмите кнопку OK, чтобы продолжить обновление.
 
@@ -624,7 +624,7 @@ Stella Mod - безопасное программное обеспечение,
 Новая версия: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>Дополнения ReShade - v{0}.zip</value>
+    <value>Дополнения ReShade — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>Доступно новое обновление пресетов ReShade! Существующие пресеты могут быть перезаписаны. Рекомендуется создать резервную копию перед обновлением.
@@ -635,7 +635,7 @@ Stella Mod - безопасное программное обеспечение,
 Новая версия: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>Пресеты ReShade - v{0}.zip</value>
+    <value>Пресеты ReShade — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>Доступно обновление шейдеров ReShade! Текущие шейдеры могут быть перезаписаны.
@@ -646,10 +646,10 @@ Stella Mod - безопасное программное обеспечение,
 Новая версия: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>Шейдеры ReShade - v{0}.zip</value>
+    <value>Шейдеры ReShade — v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Ресурсы Stella - v{0}.zip</value>
+    <value>Ресурсы Stella — v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
     <value>Очистка кэша (это может занять некоторое время)...</value>
@@ -670,7 +670,7 @@ Stella Mod - безопасное программное обеспечение,
     <value>Удалено {0} дополнительных файлов, освобождено {1} места.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Stella Plus - твой ключ к крутому геймплею! Используй ReShade, FPS Unlocker и 3DMigoto вместе (мы не используем GIMI) и получи эксклюзивные фишки.</value>
+    <value>Stella Plus — твой ключ к крутому геймплею! Используй ReShade, FPS Unlocker и 3DMigoto вместе (мы не используем GIMI) и получи эксклюзивные фишки.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
     <value>Текущий фон: {0}</value>
@@ -706,7 +706,7 @@ Stella Mod - безопасное программное обеспечение,
     <value>Автономный режим</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Авторизация не удалась. Включён автономный режим — невозможно проверить обновления.</value>
+    <value>Авторизация не удалась. Включён автономный режим  —  невозможно проверить обновления.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>К сожалению, главный сервер в данный момент недоступен или возникла непредвиденная проблема (код ошибки: {0}). Автономный режим будет включён автоматически. Некоторые функции могут быть ограничены или недоступны.
