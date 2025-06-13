@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/sefinek/Stella-Mod-Translations.git"
   },
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "SEE LICENSE IN LICENSE",
   "author": "Sefinek <contact@sefinek.net> (https://sefinek.net)",
   "type": "commonjs",
   "main": "index.js",
