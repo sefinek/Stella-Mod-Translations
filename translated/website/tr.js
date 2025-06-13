@@ -65,7 +65,7 @@ exports.home = {
  Support: 'Destek',
  SupportTooltip: 'Yardıma ihtiyacınız varsa buraya tıklayın.',
  HomePage: 'Ana Sayfa',
- HomePageTooltip: "Ana sayfa - Sefinek'in resmi web sitesi",
+ HomePageTooltip: 'Home page — Official website of Sefinek',
  PlayMusic: 'Müziği Çal',
  FetchingData: 'Veri getiriliyor...',
  Version: 'Versiyon',
@@ -108,8 +108,8 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Galeri - Sayfa numarası',
- GalleryCompareReleases: 'Galeri - Sürümleri karşılaştırın:',
+ GalleryPage: 'Gallery — Page number',
+ GalleryCompareReleases: 'Gallery — Compare releases:',
  ScreenshotsAreAvailableInHighQuality:
   'Yüksek kalitede ekran görüntüleri mevcuttur. Bunların yüklenmesi biraz zaman alabilir.',
  WebsiteIsNotSupportedOnMobileDevices: 'Bu web sitesi mobil cihazlarda desteklenmemektedir.',
@@ -210,7 +210,7 @@ exports.stats = {
  OpensPerVersion: 'Sürüm başına başlatılma',
  OpensPerSysVersion: 'Sistem sürümü başına başlatılma',
  OpensPerSysBuild: 'Sistem yapısı başına başlatılma',
- OnlineUsersWSHeader: '🌍 Çevrimiçi kullanıcılar - WebSocket',
+ OnlineUsersWSHeader: '🌍 Online users — WebSocket',
  OnlineUsersWSText:
   'Bu bölüm, WebSocket sunucumuz aracılığıyla kullanıcı bağlantısına kapsamlı bir genel bakış sağlayarak aktif kullanıcılara ilişkin gerçek zamanlı bilgiler sunar. Mevcut çevrimiçi kullanıcı sayısını, en yüksek aktiflik seviyelerini ve kullanıcıların coğrafi dağılımını gösteren dinamik istatistikleri kontrol edin.',
  Online: '🔑 Çevrimiçi',
