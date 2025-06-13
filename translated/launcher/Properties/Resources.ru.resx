@@ -706,7 +706,7 @@ Stella Mod - безопасное программное обеспечение,
     <value>Автономный режим</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Авторизация не удалась. Включён автономный режим — невозможно проверить обновления.</value>
+    <value>Авторизация не удалась. Включён автономный режим  —  невозможно проверить обновления.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>К сожалению, главный сервер в данный момент недоступен или возникла непредвиденная проблема (код ошибки: {0}). Автономный режим будет включён автоматически. Некоторые функции могут быть ограничены или недоступны.
