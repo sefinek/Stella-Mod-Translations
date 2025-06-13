@@ -736,4 +736,10 @@ Stella Mod - безопасное программное обеспечение,
 
 Не хотите ли проверить статус на странице status.sefinek.net?</value>
   </data>
+  <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
+    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+  </data>
+  <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
+    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+  </data>
 </root>

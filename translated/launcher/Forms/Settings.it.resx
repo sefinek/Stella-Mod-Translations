@@ -662,15 +662,6 @@ Versione installata: v{1}</value>
   <data name="&gt;&gt;checkBox8.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="comboBox1.Items" xml:space="preserve">
-    <value>Default (gif)</value>
-  </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>Asoul</value>
-  </data>
-  <data name="comboBox1.Items2" xml:space="preserve">
-    <value>Moebooru</value>
-  </data>
   <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>31, 445</value>
   </data>
