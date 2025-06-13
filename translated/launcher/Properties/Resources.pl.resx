@@ -312,15 +312,15 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Dostępna jest nowa aktualizacja zasobów z {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Cześć! Wygląda na to, że widzimy się po raz pierwszy! Poświęć chwilę na zapoznanie się z warunkami użytkowania oraz wytycznymi dotyczącymi tego oprogramowania, aby uniknąć ewentualnych problemów. Dokumentacja jest dostępna na naszej oficjalnej stronie internetowej. Korzystając ze Stella Mod, akceptujesz zasady opisane w dokumentacji.
+    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
 
-To oprogramowanie jest stale wspierane przez dewelopera dzięki subskrybentom Stella Mod Plus. Przychody pomagają pokryć koszty internetu światłowodowego oraz rachunków za prąd. Serwer API jest hostowany w prywatnym domu w Polsce, co oznacza, że lokalny administrator jest jedynym właścicielem bazy danych. Genshin Stella Mod stawia na prywatność i bezpieczeństwo użytkowników - żadne dane analityczne ani sprzętowe nie są nigdy wysyłane bez Twojej zgody.
+This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security — no analytical or hardware data is ever sent without your consent.
 
-Stella Mod to bezpieczne oprogramowanie, więc nie musisz się o nic martwić. Pamiętaj tylko, aby nie używać cheatów w grze. Jeśli potrzebujesz pomocy, dołącz na nasz serwer Discord lub napisz maila na contact@sefinek.net.
+Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
 
-Pamiętaj również, że Stella Mod jest całkowicie niezależny i NIE jest w ŻADEN sposób powiązany z firmą HoYoverse. Jeśli podoba Ci się ten projekt, rozważ wsparcie jego dalszego rozwoju poprzez subskrypcję Stella Mod Plus.
+Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
 
-Dzięki i do zobaczenia w grze! Baw się dobrze.</value>
+Thanks, and see you in the game! Have fun.</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Katalog {0} nie został odnaleziony.</value>
@@ -399,13 +399,13 @@ Bieżący preset:
     <value>Pamiętaj, aby nie udostępniać plików z logami nieznajomym osobom, ponieważ mogą one zawierać wrażliwe dane. Udostępniaj je wyłącznie deweloperowi Stella Mod.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Filmy - sefinek.net</value>
+    <value>Videos — sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Dokumentacja - sefinek.net</value>
+    <value>Documentation — sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Galeria - sefinek.net</value>
+    <value>Gallery — sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Witaj! Ładowanie programu uruchamiającego Stella Mod...</value>
@@ -598,7 +598,7 @@ Twoja wersja: v{0} z {1}
 Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>Aktualizacja 3DMigoto - v{0}.zip</value>
+    <value>3DMigoto Update — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Wykryto nową wersję paczki modów dla subskrybentów Stella Plus. Twoje własne mody nie zostaną usunięte, pod warunkiem że znajdują się one w folderze numer 3. Twórca oprogramowania nie ponosi odpowiedzialności za przypadkowe usunięcie modów.
@@ -613,7 +613,7 @@ Twoja wersja: v{0} z {1}
 Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Aktualizacja modów - v{0}.zip</value>
+    <value>Mods Update — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
     <value>Dostępna jest nowa aktualizacja dodatków ReShade! Pamiętaj, że bieżące pliki konfiguracyjne dodatków zostaną nadpisane.
@@ -624,7 +624,7 @@ Twoja wersja: v{0} z {1}
 Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>Dodatki ReShade - v{0}.zip</value>
+    <value>ReShade Addons — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>Wykryto nową aktualizację presetów ReShade! Istniejące presety mogą zostać nadpisane. Zaleca się wykonanie kopii zapasowej przed aktualizacją.
@@ -635,7 +635,7 @@ Twoja wersja: v{0} z {1}
 Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>Presety ReShade - v{0}.zip</value>
+    <value>ReShade Presets — v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>Dostępna jest nowa wersja shaderów ReShade! Poprzednie shadery mogą zostać nadpisane.
@@ -646,10 +646,10 @@ Twoja wersja: v{0} z {1}
 Nowa wersja: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>Shadery ReShade - v{0}.zip</value>
+    <value>ReShade Shaders — v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Zasoby Stelli - v{0}.zip</value>
+    <value>Stella Resources — v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
     <value>Czyszczenie pamięci podręcznej (to może chwilę potrwać)...</value>
@@ -743,6 +743,6 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
     <value>Wystąpił błąd podczas uzyskiwania motywów MoeCounter. Sprawdź swoje połączenie internetowe.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>Official Website — stella.sefinek.net</value>
   </data>
 </root>
