@@ -65,7 +65,7 @@ exports.home = {
  Support: 'Suporte',
  SupportTooltip: 'Clique aqui se precisar de ajuda.',
  HomePage: 'Página inicial',
- HomePageTooltip: 'Página inicial - Site oficial do Sefinek',
+ HomePageTooltip: 'Home page — Official website of Sefinek',
  PlayMusic: 'Tocar música',
  FetchingData: 'Buscando dados...',
  Version: 'Versão',
@@ -109,8 +109,8 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Galeria - Número da página',
- GalleryCompareReleases: 'Galeria - Comparar lançamentos:',
+ GalleryPage: 'Gallery — Page number',
+ GalleryCompareReleases: 'Gallery — Compare releases:',
  ScreenshotsAreAvailableInHighQuality:
   'As capturas de tela estão disponíveis em alta qualidade. Pode levar um tempo para carregá-las.',
  WebsiteIsNotSupportedOnMobileDevices: 'Este site não é compatível com dispositivos móveis.',
@@ -211,7 +211,7 @@ exports.stats = {
  OpensPerVersion: 'Execuções por versão',
  OpensPerSysVersion: 'Execuções por versão do sistema',
  OpensPerSysBuild: 'Execuções por build do sistema',
- OnlineUsersWSHeader: '🌍 Usuários online - WebSocket',
+ OnlineUsersWSHeader: '🌍 Online users — WebSocket',
  OnlineUsersWSText:
   'Esta seção fornece uma visão geral abrangente da conectividade do usuário por meio do nosso servidor WebSocket, oferecendo insights em tempo real sobre usuários ativos. Explore estatísticas dinâmicas que revelam a contagem atual de usuários on-line, níveis de pico de simultaneidade e a distribuição geográfica dos usuários.',
  Online: '🔑 Online',
