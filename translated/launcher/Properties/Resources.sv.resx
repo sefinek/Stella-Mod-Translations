@@ -397,13 +397,13 @@ Nuvarande förinställning:
     <value>Kom ihåg att inte dela loggfiler med okända personer, eftersom de kan innehålla känslig information. Dela dem endast med Stella Mod-utvecklaren.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videos — sefinek.net</value>
+    <value>Videos - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Dokumentation — sefinek.net</value>
+    <value>Dokumentation - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Galleri — sefinek.net</value>
+    <value>Galleri - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Hej! Laddar Stella Mod Launcher...</value>
@@ -596,7 +596,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>3DMigoto Uppdatering — v{0}.zip</value>
+    <value>3DMigoto Uppdatering - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>En ny version av mod-paketet för Stella Plus-prenumeranter har upptäckts. Dina anpassade mods kommer inte att tas bort, förutsatt att de finns i mapp nummer 3. Programvarans skapare ansvarar inte för någon oavsiktlig borttagning av mods.
@@ -611,7 +611,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Mods Uppdatering — v{0}.zip</value>
+    <value>Mods Uppdatering - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
     <value>En ny uppdatering för ReShade-tillägg är tillgänglig! Vänligen notera att de nuvarande tilläggskonfigurationsfilerna kommer att överskrivas.
@@ -622,7 +622,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Tillägg — v{0}.zip</value>
+    <value>ReShade Tillägg - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>En ny uppdatering för ReShade-inställningarna har hittats! Befintliga inställningar kan skrivas över. Det rekommenderas att du gör en säkerhetskopia innan du uppdaterar
@@ -633,7 +633,7 @@ Your version: v{0} from {1}
 New version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade-profiler — v{0}.zip</value>
+    <value>ReShade-profiler - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>En ny version av ReShade-shaders är tillgänglig! Tidigare shaders kan bli överskrivna.
@@ -644,7 +644,7 @@ Din version: v{0} från {1}
 Ny version: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders — v{0}.zip</value>
+    <value>ReShade Shaders - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
     <value>Stella-resurser – v{0}.zip</value>

@@ -400,13 +400,13 @@ Preset atual:
     <value>Lembre-se de não compartilhar os arquivos de registro com pessoas que você não conhece. Tais arquivos podem conter dados sensíveis. Compartilhe somente com o desenvolvedor do Stella Mod.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Vídeos — sefinek.net</value>
+    <value>Vídeos - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Documentação — sefinek.net</value>
+    <value>Documentação - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Galeria — sefinek.net</value>
+    <value>Galeria - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Olá! Carregando o Stella Mod Launcher...</value>
@@ -599,7 +599,7 @@ Sua versão: v{0} de {1}
 Nova versão: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>3DMigoto Update — v{0}.zip</value>
+    <value>3DMigoto Update - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Uma nova versão do pacote de mods para assinantes do Stella Plus foi detectada. Seus mods personalizados não serão removidos, desde que estejam localizados na pasta número 3. O criador do software não é responsável por nenhuma exclusão acidental de mods.
@@ -614,7 +614,7 @@ Sua versão: v{0} de {1}
 Nova versão: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Mods Update — v{0}.zip</value>
+    <value>Mods Update - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
     <value>Uma nova atualização para os add-ons do ReShade está disponível! Observe que os arquivos de configuração atuais dos complementos serão substituídos.
@@ -625,7 +625,7 @@ Sua versão: v{0} de {1}
 Nova versão: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Addons — v{0}.zip</value>
+    <value>ReShade Addons - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>Uma nova atualização de preset do ReShade foi detectada! Presets existentes podem ser substituídos. É recomendável fazer um backup antes de atualizar.
@@ -636,7 +636,7 @@ Sua versão: v{0} de {1}
 Nova versão: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Presets — v{0}.zip</value>
+    <value>ReShade Presets - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>Uma nova versão dos shaders do ReShade está disponível! Os shaders anteriores podem ser substituídos.
@@ -647,10 +647,10 @@ Sua versão: v{0} de {1}
 Nova versão: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Shaders — v{0}.zip</value>
+    <value>ReShade Shaders - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Stella Resources — v{0}.zip</value>
+    <value>Stella Resources - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
     <value>Limpando o cache (isso pode demorar um pouco)...</value>

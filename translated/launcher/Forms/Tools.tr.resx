@@ -769,7 +769,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Yolların doğruluğunu kontrol edin. Bu araç başlatıcı dosyalarının olup olmadığını kontrol etmez — sadece Stella Mod bağımlı dosyalarını doğrular.</value>
+    <value>Yolların doğruluğunu kontrol edin. Bu araç başlatıcı dosyalarının olup olmadığını kontrol etmez - sadece Stella Mod bağımlı dosyalarını doğrular.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>

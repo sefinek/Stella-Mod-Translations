@@ -314,7 +314,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
     <value>Merhaba! Görünüşe göre birbirimizle ilk kez tanışıyoruz! Olası sorunlardan kaçınmak için lütfen bu programın kullanım koşullarını ve talimatlarını gözden geçirin. Belgeler resmi web sitemizde mevcuttur. Stella Mod'u kullanarak, belgelerde belirtilen şartları kabul etmiş sayılırsınız.
 
-Bu program, Stella Mod Plus aboneleri sayesinde geliştirici tarafından sürekli olarak desteklenmektedir. Elde edilen gelir fiber-optik internet ve elektrik faturalarının karşılanmasına yardımcı olmaktadır. API sunucusu Polonya'da özel bir evde bulunmaktadır, bu da yerel yöneticinin veritabanının tek sahibi olduğu anlamına gelmektedir. Genshin Stella Mod kullanıcı gizliliğine ve güvenliğine öncelik verir — izniniz olmadan hiçbir analitik veya donanım verisi gönderilmez.
+Bu program, Stella Mod Plus aboneleri sayesinde geliştirici tarafından sürekli olarak desteklenmektedir. Elde edilen gelir fiber-optik internet ve elektrik faturalarının karşılanmasına yardımcı olmaktadır. API sunucusu Polonya'da özel bir evde bulunmaktadır, bu da yerel yöneticinin veritabanının tek sahibi olduğu anlamına gelmektedir. Genshin Stella Mod kullanıcı gizliliğine ve güvenliğine öncelik verir - izniniz olmadan hiçbir analitik veya donanım verisi gönderilmez.
 
 Stella Mod güvenli bir programdır, bu yüzden endişelenecek bir şey yok. Sadece oyunda hile kullanmamayı unutmayın. Yardıma ihtiyacınız olursa, Discord sunucumuza katılmaktan çekinmeyin veya contact@sefinek.net adresinden bizimle iletişime geçebilirsiniz.
 
@@ -399,13 +399,13 @@ Mevcut ön ayar:
     <value>Hassas veriler içerebileceğinden, çıktı dosyalarını tanımadığınız kişilerle paylaşmamayı unutmayın. Bunları yalnızca Stella Mod geliştiricisi ile paylaşın.</value>
   </data>
   <data name="Gameplay_VideosSefinekNet" xml:space="preserve">
-    <value>Videolar — sefinek.net</value>
+    <value>Videolar - sefinek.net</value>
   </data>
   <data name="Gameplay_DocumentationSefinekNet" xml:space="preserve">
-    <value>Belgeler — sefinek.net</value>
+    <value>Belgeler - sefinek.net</value>
   </data>
   <data name="Gameplay_GallerySefinekNet" xml:space="preserve">
-    <value>Galeri — sefinek.net</value>
+    <value>Galeri - sefinek.net</value>
   </data>
   <data name="Default_HelloLoadingStellaModLauncher" xml:space="preserve">
     <value>Merhaba! Stella Mod başlatıcısı Yükleniyor...</value>
@@ -598,7 +598,7 @@ Sürümünüz: {1}'den v{0}
 Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_3DMigotoUpdate_" xml:space="preserve">
-    <value>3DMigoto Güncellemesi — v{0}.zip</value>
+    <value>3DMigoto Güncellemesi - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfTheModPackForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Stella Plus aboneleri için mod paketinin yeni bir sürümü bulundu. Özel modlarınız, 3 numaralı klasörde bulunmaları şartıyla kaldırılmayacaktır. Yazılımın yapımcısı modların yanlışlıkla silinmesinden sorumlu değildir.
@@ -613,7 +613,7 @@ Sürümünüz: {1}'den v{0}
 Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ModsUpdate_" xml:space="preserve">
-    <value>Mod Güncellemesi — v{0}.zip</value>
+    <value>Mod Güncellemesi - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
     <value>ReShade eklentileri için yeni bir güncelleme yayınlandı! Lütfen mevcut eklenti konfigürasyon dosyalarının üzerine yazılacağını unutmayın.
@@ -624,7 +624,7 @@ Sürümünüz: {1}'den v{0}
 Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
-    <value>ReShade Eklentileri — v{0}.zip</value>
+    <value>ReShade Eklentileri - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
     <value>Yeni bir ReShade ön ayar güncellemesi tespit edildi! Mevcut ön ayarların üzerine eklenebilir. Güncellemeden önce bir yedekleme yapmanız önerilir.
@@ -635,7 +635,7 @@ Sürümünüz: {1}'den v{0}
 Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
-    <value>ReShade Hazır Ayarları — v{0}.zip</value>
+    <value>ReShade Hazır Ayarları - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
     <value>ReShade gölgelendiricilerinin yeni bir sürümü yayınlandı! Önceki gölgelendiricilerin üzerine eklenebilir.
@@ -646,10 +646,10 @@ Sürümünüz: v{0} ' itibaren {1}
 Yeni sürüm: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
-    <value>ReShade Gölgelendiricileri — v{0}.zip</value>
+    <value>ReShade Gölgelendiricileri - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Stellanın Kaynakları — v{0}.zip</value>
+    <value>Stellanın Kaynakları - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
     <value>Önbellek temizleniyor (bu biraz zaman alabilir)...</value>
@@ -706,7 +706,7 @@ Yeni sürüm: v{2}</value>
     <value>Çevrimdışı Mod</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Yetkilendirme başarısız oldu. Çevrimdışı mod etkin — güncellemeler kontrol edilemiyor.</value>
+    <value>Yetkilendirme başarısız oldu. Çevrimdışı mod etkin - güncellemeler kontrol edilemiyor.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Üzgünüz, ana sunucu şu anda kullanılamıyor veya beklenmedik bir sorun oluştu (hata kodu: {0}). Çevrimdışı Mod otomatik olarak etkinleştirilecektir. Bazı özellikler sınırlı olabilir veya kullanılamayabilir.
