@@ -706,7 +706,7 @@ Nowa wersja: v{2}</value>
     <value>Tryb Offline</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Autoryzacja zakończona niepowodzeniem. Włączono tryb offline, aktualizacje nie mogą zostać sprawdzone.</value>
+    <value>Authorization failed. Offline mode enabled  —  updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Wybacz, główny serwer jest obecnie niedostępny lub wystąpił nieoczekiwany błąd (kod błędu: {0}). Tryb offline zostanie włączony automatycznie. Niektóre funkcje mogą być ograniczone lub niedostępne.
