@@ -714,7 +714,7 @@ Nowa wersja: v{2}</value>
 Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Autoryzacja nie powiodła się (kod błędu {0}). Serwer odrzucił żądanie  —  prawdopodobnie z powodu nieudanej walidacji lub wygasłego tokena uwierzytelniającego. Upewnij się, że korzystasz z najnowszej wersji launchera. Jeśli nie wiesz, co mogło spowodować ten problem, skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net lub mailowo contact@sefinek.net.</value>
+    <value>Autoryzacja nie powiodła się (kod błędu {0}). Serwer odrzucił żądanie - prawdopodobnie z powodu nieudanej walidacji lub wygasłego tokena uwierzytelniającego. Upewnij się, że korzystasz z najnowszej wersji launchera. Jeśli nie wiesz, co mogło spowodować ten problem, skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net lub mailowo contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
     <value>Nie udało się przetworzyć odpowiedzi z serwera. Może to oznaczać problem po stronie serwera lub niekompatybilną wersję launchera. Skontaktuj się z deweloperem za pośrednictwem patrons.sefinek.net mailowo contact@sefinek.net.
