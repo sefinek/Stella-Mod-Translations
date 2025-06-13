@@ -737,9 +737,9 @@ Szczegóły:
 Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>Nie udało się uzyskać listy motywów MoeCounter. Spróbuj ponownie później.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>Wystąpił błąd podczas uzyskiwania motywów MoeCounter. Sprawdź swoje połączenie internetowe.</value>
   </data>
 </root>
