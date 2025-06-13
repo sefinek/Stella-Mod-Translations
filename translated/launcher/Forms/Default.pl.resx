@@ -517,7 +517,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Dołącz do naszego serwera Discord, jeśli potrzebujesz wsparcia, masz pytania lub chcesz podzielić się swoją opinią na temat Stella Mod. Pamiętaj, że ten serwer jest przeznaczony wyłącznie do dyskusji związanych z modem, nie jest to ogólne centrum społeczności.</value>
+    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that this server is strictly for discussions related to the mod — it is not a general community hub.</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -965,7 +965,7 @@ Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - ws
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Chcesz cieszyć się grą jeszcze bardziej? Uczyń ją bardziej ekscytującą i lepszą niż kiedykolwiek wcześniej! Dodawaj mody dopasowane do swoich preferencji - całkowicie bezpiecznie. Nie używamy GIMI.</value>
+    <value>Want to enjoy your game even more? Make it more exciting and better than ever! Add mods tailored to your preferences — completely safely. We don't use GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
