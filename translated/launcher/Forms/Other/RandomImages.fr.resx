@@ -1573,19 +1573,22 @@
     <value>NoControl</value>
   </data>
   <data name="linkLabel34.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1381, 12</value>
+    <value>1312, 12</value>
   </data>
   <data name="linkLabel34.Size" type="System.Drawing.Size, System.Drawing">
-    <value>414, 19</value>
+    <value>483, 19</value>
   </data>
   <data name="linkLabel34.TabIndex" type="System.Int32, mscorlib">
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Visit the sweetest anime booru to see more cute pictures! All content is SFW. Click here.</value>
+    <value>Visit the sweetest anime booru to see more cute pictures. Click here!</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
+  </data>
+  <data name="linkLabel34.ToolTip" xml:space="preserve">
+    <value>Nekosia Booru SFW</value>
   </data>
   <data name="&gt;&gt;linkLabel34.Name" xml:space="preserve">
     <value>linkLabel34</value>
