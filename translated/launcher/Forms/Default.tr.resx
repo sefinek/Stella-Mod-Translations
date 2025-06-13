@@ -664,10 +664,10 @@
     <value>Yu Gothic UI, 12.75pt, style=Bold</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 416</value>
+    <value>12, 436</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 111</value>
+    <value>682, 74</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TabIndex" type="System.Int32, mscorlib">
     <value>111</value>
@@ -914,7 +914,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>NoControl</value>
   </data>
   <data name="startGame_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>65, 246</value>
+    <value>64, 246</value>
   </data>
   <data name="startGame_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>557, 95</value>
@@ -950,7 +950,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>Consolas, 12.75pt</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 368</value>
+    <value>100, 368</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>492, 20</value>
@@ -1100,10 +1100,10 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>Bottom, Left</value>
   </data>
   <data name="webView21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>285, 581</value>
+    <value>256, 570</value>
   </data>
   <data name="webView21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 104</value>
+    <value>375, 119</value>
   </data>
   <data name="webView21.TabIndex" type="System.Int32, mscorlib">
     <value>122</value>
@@ -1743,7 +1743,7 @@ Tamamen güvenli bir şekilde modları kullanabilecek ve oyunun tadını daha da
     <value>3</value>
   </data>
   <data name="tableLayoutPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 339</value>
+    <value>120, 339</value>
   </data>
   <data name="tableLayoutPanel.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
