@@ -742,4 +742,7 @@ Stella Mod - безопасное программное обеспечение,
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
     <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
   </data>
+  <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
+    <value>Official Website - stella.sefinek.net</value>
+  </data>
 </root>
