@@ -742,4 +742,7 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
     <value>Wystąpił błąd podczas uzyskiwania motywów MoeCounter. Sprawdź swoje połączenie internetowe.</value>
   </data>
+  <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
+    <value>Official Website - stella.sefinek.net</value>
+  </data>
 </root>
