@@ -706,7 +706,7 @@ Yeni sürüm: v{2}</value>
     <value>Çevrimdışı Mod</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Yetkilendirme başarısız oldu. Çevrimdışı mod etkin - güncellemeler kontrol edilemiyor.</value>
+    <value>Authorization failed. Offline mode enabled  —  updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Üzgünüz, ana sunucu şu anda kullanılamıyor veya beklenmedik bir sorun oluştu (hata kodu: {0}). Çevrimdışı Mod otomatik olarak etkinleştirilecektir. Bazı özellikler sınırlı olabilir veya kullanılamayabilir.
