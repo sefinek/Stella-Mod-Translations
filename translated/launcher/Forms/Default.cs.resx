@@ -328,7 +328,7 @@
     <value>75</value>
   </data>
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
-    <value>github.com/sefinek/Genshin-Impact-ReShade</value>
+    <value>stella.sefinek.net</value>
   </data>
   <data name="githubUrl_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -437,9 +437,6 @@
   </data>
   <data name="githubIco_Picturebox.TabIndex" type="System.Int32, mscorlib">
     <value>76</value>
-  </data>
-  <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
-    <value>GitHub icon</value>
   </data>
   <data name="&gt;&gt;githubIco_Picturebox.Name" xml:space="preserve">
     <value>githubIco_Picturebox</value>
