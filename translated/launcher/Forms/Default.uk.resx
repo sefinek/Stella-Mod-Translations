@@ -328,7 +328,7 @@
     <value>75</value>
   </data>
   <data name="githubUrl_LinkLabel.Text" xml:space="preserve">
-    <value>github.com/sefinek/Genshin-Impact-ReShade</value>
+    <value>stella.sefinek.net</value>
   </data>
   <data name="githubUrl_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
