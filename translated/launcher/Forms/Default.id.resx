@@ -438,9 +438,6 @@
   <data name="githubIco_Picturebox.TabIndex" type="System.Int32, mscorlib">
     <value>76</value>
   </data>
-  <data name="githubIco_Picturebox.ToolTip" xml:space="preserve">
-    <value>GitHub icon</value>
-  </data>
   <data name="&gt;&gt;githubIco_Picturebox.Name" xml:space="preserve">
     <value>githubIco_Picturebox</value>
   </data>
