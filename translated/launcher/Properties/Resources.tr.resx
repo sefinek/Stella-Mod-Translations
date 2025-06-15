@@ -737,12 +737,12 @@ Ayrıntılar:
 Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek ister misiniz?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>MoeCounter tema listesi alınamadı. Lütfen daha sonra tekrar deneyin.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>MoeCounter Temaları alınırken bir hata oluştu. Lütfen internet bağlantınızı kontrol edin.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>Resmi İnternet Sitesi - stella.sefinek.net</value>
   </data>
 </root>
