@@ -691,8 +691,8 @@ Nowa wersja: v{2}</value>
 
 {0}</value>
   </data>
-  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Nie znaleziono ścieżki do gry. Czy aby na pewno gra jest zainstalowana na Twoim urządzeniu? Jeśli ścieżka uległa zmianie, wymagana jest ponowna konfiguracja Stella Mod.</value>
+  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDevice" xml:space="preserve">
+    <value>Game path not found. Is the game installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Coś poszło nie tak podczas odczytu rejestru.
