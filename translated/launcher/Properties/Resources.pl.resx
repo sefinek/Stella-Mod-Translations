@@ -692,7 +692,7 @@ Nowa wersja: v{2}</value>
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>Nie znaleziono gry. Czy na pewno jest zainstalowana na Twoim urządzeniu? Jeśli ścieżka została zmieniona, konieczna jest ponowna konfiguracja Stella Mod. Czy chcesz ją teraz przeprowadzić?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Coś poszło nie tak podczas odczytu rejestru.
