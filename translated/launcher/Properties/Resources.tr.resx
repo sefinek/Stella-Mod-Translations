@@ -691,8 +691,8 @@ Yeni sürüm: v{2}</value>
 
 {0}</value>
   </data>
-  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Oyunun yolu bulunamadı. Oyun bilgisayarınızda yüklü mü? Eğer yol değiştiyse, Stella Mod'un yeniden ayarlanması gerekir.</value>
+  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDevice" xml:space="preserve">
+    <value>Game path not found. Is the game installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Kayıt defteri incelenirken bir şeyler yanlış gitti.
