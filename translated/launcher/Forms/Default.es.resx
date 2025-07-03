@@ -333,9 +333,6 @@
   <data name="githubUrl_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="githubUrl_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Repositorio principal en GitHub. Dale una estrella si te gusta este software.</value>
-  </data>
   <data name="&gt;&gt;githubUrl_LinkLabel.Name" xml:space="preserve">
     <value>githubUrl_LinkLabel</value>
   </data>
