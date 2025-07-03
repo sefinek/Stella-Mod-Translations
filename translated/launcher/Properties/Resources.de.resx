@@ -691,8 +691,8 @@ New version: v{2}</value>
 
 {0}</value>
   </data>
-  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDevice" xml:space="preserve">
-    <value>Game path not found. Is the game installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+  <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
+    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Something went wrong while reading the registry.
