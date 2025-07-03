@@ -685,8 +685,8 @@ Ny version: v{2}</value>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
     <value>Något gick fel vid initieringen av WebView2. Försök igen. {0}</value>
   </data>
-  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Spelsökvägen kunde inte hittas. Är spelet installerat på din enhet? Om sökvägen har ändrats måste Stella Mod konfigureras om.</value>
+  <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
+    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Något gick fel vid läsning av registret. {0}</value>

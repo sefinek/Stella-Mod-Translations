@@ -691,8 +691,8 @@ Stella Mod - безопасное программное обеспечение,
 
 {0}</value>
   </data>
-  <data name="Utils_GamePathNotFoundIsTheGameInstalledOnYourDeviceIfThePathHasChangedReconfiguringStellaModIsRequired" xml:space="preserve">
-    <value>Путь к игре не найден. Установлена ли игра на вашем устройстве? Если путь изменился, необходимо заново настроить Stella Mod.</value>
+  <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
+    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Что-то пошло не так во время чтения реестра.
