@@ -692,7 +692,7 @@ Yeni sürüm: v{2}</value>
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>Oyun bulunamadı. Cihazınızda yüklü olduğundan emin misiniz? Eğer yüklenen yol değiştiyse, Stella Mod'un yeniden yapılandırılması gerekir. Bunu şimdi yapmak istiyor musunuz?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Kayıt defteri incelenirken bir şeyler yanlış gitti.
