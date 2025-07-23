@@ -1094,7 +1094,7 @@
     <value>116</value>
   </data>
   <data name="clickMe_Label.Text" xml:space="preserve">
-    <value>Click me ^w^</value>
+    <value>点我 ^w^</value>
   </data>
   <data name="clickMe_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1133,8 +1133,7 @@
     <value>124</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Logged in as
-{0}</value>
+    <value>已登入为 {0}</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1257,7 +1256,7 @@
     <value>85</value>
   </data>
   <data name="checkForUpdates_LinkLabel.Text" xml:space="preserve">
-    <value>Loading data...</value>
+    <value>正在加载数据...</value>
   </data>
   <data name="checkForUpdates_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1485,7 +1484,7 @@
     <value>115</value>
   </data>
   <data name="PreparingPleaseWait.Text" xml:space="preserve">
-    <value>Waiting for UI stabilization...</value>
+    <value>正在等待用户界面稳定...</value>
   </data>
   <data name="PreparingPleaseWait.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -1713,7 +1712,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Stella Mod Launcher</value>
+    <value>Stella Mod 启动器</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
