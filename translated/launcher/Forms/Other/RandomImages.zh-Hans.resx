@@ -598,7 +598,7 @@
     <value>50</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>» YouTube videos</value>
+    <value>» YouTube 视频</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -661,7 +661,7 @@
     <value>54</value>
   </data>
   <data name="poweredBy_Label.Text" xml:space="preserve">
-    <value>Powered by: {0}</value>
+    <value>由 {0} 提供支持</value>
   </data>
   <data name="poweredBy_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -1021,7 +1021,7 @@
     <value>67</value>
   </data>
   <data name="linkLabel17.Text" xml:space="preserve">
-    <value>Long hair</value>
+    <value>长发</value>
   </data>
   <data name="&gt;&gt;linkLabel17.Name" xml:space="preserve">
     <value>linkLabel17</value>
@@ -1054,7 +1054,7 @@
     <value>68</value>
   </data>
   <data name="linkLabel18.Text" xml:space="preserve">
-    <value>Smile</value>
+    <value>微笑</value>
   </data>
   <data name="&gt;&gt;linkLabel18.Name" xml:space="preserve">
     <value>linkLabel18</value>
