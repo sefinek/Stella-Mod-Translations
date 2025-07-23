@@ -136,7 +136,7 @@
     <value>102</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Open in default browser</value>
+    <value>在默认浏览器中打开</value>
   </data>
   <data name="linkLabel1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -172,8 +172,8 @@
     <value>93</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>If you encounter any issues or have suggestions, don't hesitate to join our Discord server.
-Thank you for using Stella Mod. Support this project voluntarily if you wish. Have fun!</value>
+    <value>如果您遇到任何问题或有任何建议，请随时加入我们的 Discord 服务器。
+感谢您使用 Stella Mod。如果您愿意，请自愿支持本项目。玩得开心！</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
@@ -206,7 +206,7 @@ Thank you for using Stella Mod. Support this project voluntarily if you wish. Ha
     <value>95</value>
   </data>
   <data name="linkLabel2.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>文档</value>
   </data>
   <data name="linkLabel2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
