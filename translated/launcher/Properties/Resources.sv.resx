@@ -715,26 +715,29 @@ Details:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>Det gick inte att ansluta till huvudservern.
+Kontrollera din internetanslutning, DNS-konfiguration, VPN-/proxyinställningar och brandvägg.
+
+Om du behöver hjälp, kontakta utvecklaren via patrons.sefinek.net eller mejla contact@sefinek.net 
 
 Details:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Ett allvarligt fel inträffade under autentisering. Vänligen kontakta utvecklaren genom att skicka in ett ärende till Sefinek Patrons Center (https://patrons.sefinek.net) eller genom att skicka ett e-postmeddelande till contact@sefinek.net.
 
-Details:
+Detaljer:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>Det gick inte att hämta listan över MoeCounter-teman. Försök igen senare.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>Ett fel inträffade vid hämtning av MoeCounter-teman. Kontrollera din internetanslutning.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>Officiell webbplats – stella.sefinek.net</value>
   </data>
 </root>
