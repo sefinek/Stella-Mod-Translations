@@ -80,9 +80,9 @@ exports.home = {
    'Misslyckades med att verifiera captcha (statuskod: {0}). Ladda om webbplatsen och försök igen.',
  },
  mirrorModal: {
-  SelectADownloadSource: 'Select a download source',
-  ByCompany: 'By company',
-  ByLocation: 'By location',
+  SelectADownloadSource: 'Välj nedladdningsserver',
+  ByCompany: 'Av företaget',
+  ByLocation: 'Efter Plats',
   InstallViaWinGet: 'Installera via WinGet',
   LauncherVersion: 'Launcher-version:',
   MirrorsAreCurrentlyUnavailable:
