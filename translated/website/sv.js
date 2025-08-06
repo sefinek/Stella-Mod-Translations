@@ -83,7 +83,7 @@ exports.home = {
   SelectADownloadSource: 'Select a download source',
   ByCompany: 'By company',
   ByLocation: 'By location',
-  InstallViaWinGet: 'Install via WinGet',
+  InstallViaWinGet: 'Installera via WinGet',
   LauncherVersion: 'Launcher-version:',
   MirrorsAreCurrentlyUnavailable:
    'Spegelservrar är för tillfället avstängda eller otillgängliga för denna kategori. Försök igen senare eller kontakta administratören.',
