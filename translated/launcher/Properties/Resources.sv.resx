@@ -686,7 +686,8 @@ Ny version: v{2}</value>
     <value>Något gick fel vid initieringen av WebView2. Försök igen. {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>Spelet hittades inte. Är du säker på att det är installerat på din enhet?
+Om sökvägen har ändrats behöver Stella Mod konfigureras om. Vill du göra det nu?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
     <value>Något gick fel vid läsning av registret. {0}</value>
@@ -695,46 +696,57 @@ Ny version: v{2}</value>
     <value>Besök Sefinek Patron Centers webbplats för Stella Mod-prenumeranter</value>
   </data>
   <data name="OfflineMode" xml:space="preserve">
-    <value>Offline Mode</value>
+    <value>Offline-läge</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
     <value>Authorization failed. Offline mode enabled - updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
-    <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
+    <value>Tyvärr är huvudservern för närvarande otillgänglig, eller så har ett oväntat fel inträffat (felkod: {0}).
+Offline-läge aktiveras automatiskt. Vissa funktioner kan vara begränsade eller otillgängliga.
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Vill du kontrollera driftstatusen nu på status.sefinek.net?</value>
   </data>
   <data name="AuthorizationFailedErrorCode_TheServerRejectedTheRequestLikelyDueToFailedValidationOrAnExpiredAuthenticationTokenPleaseEnsureYouReUsingTheLatestVersionOfTheLauncher" xml:space="preserve">
-    <value>Authorization failed (error code {0}). The server rejected the request, likely due to failed validation or an expired authentication token. Please ensure you're using the latest version of the launcher. If you're unsure what caused this error, contact the developer via patrons.sefinek.net or email contact@sefinek.net.</value>
+    <value>Auktorisering misslyckades (felkod {0}).
+Servern avvisade begäran, troligen på grund av misslyckad validering eller en utgången autentiseringstoken.
+Kontrollera att du använder den senaste versionen av launchern.
+
+Om du är osäker på vad som orsakat felet, kontakta gärna utvecklaren via patrons.sefinek.net eller e-post: contact@sefinek.net.</value>
   </data>
   <data name="FailedToParseTheResponseFromTheServerThisMayIndicateAServerSideIssueOrIncompatibleLauncherVersion" xml:space="preserve">
-    <value>Failed to parse the response from the server. This may indicate a server-side issue or incompatible launcher version. Please contact the developer via patrons.sefinek.net or by email at contact@sefinek.net.
+    <value>Det gick inte att uttyda svaret från servern.
+Detta kan tyda på ett serverfel eller att du använder en inkompatibel version av Stella Mod Launcher.
 
-Details:
+Om du behöver hjälp, kontakta gärna utvecklaren via patrons.sefinek.net eller via e-post: contact@sefinek.net.
+
+Detaljer:
 {0}</value>
   </data>
   <data name="UnableToConnectToTheMainServerPleaseCheckYourInternetConnectionDNSConfigurationVPNProxySettingsAndFirewall" xml:space="preserve">
-    <value>Unable to connect to the main server. Please check your internet connection, DNS configuration, VPN/proxy settings, and firewall. If you need assistance, contact the developer via patrons.sefinek.net or email contact@sefinek.net.
+    <value>Det gick inte att ansluta till huvudservern.
+Kontrollera din internetanslutning, DNS-konfiguration, VPN-/proxyinställningar och brandvägg.
+
+Om du behöver hjälp, kontakta utvecklaren via patrons.sefinek.net eller mejla contact@sefinek.net 
 
 Details:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Ett allvarligt fel inträffade under autentisering. Vänligen kontakta utvecklaren genom att skicka in ett ärende till Sefinek Patrons Center (https://patrons.sefinek.net) eller genom att skicka ett e-postmeddelande till contact@sefinek.net.
 
-Details:
+Detaljer:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
-    <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>
+    <value>Det gick inte att hämta listan över MoeCounter-teman. Försök igen senare.</value>
   </data>
   <data name="AnErrorOccurredWhileFetchingMoeCounterThemesPleaseCheckYourInternetConnection" xml:space="preserve">
-    <value>An error occurred while fetching MoeCounter themes. Please check your internet connection.</value>
+    <value>Ett fel inträffade vid hämtning av MoeCounter-teman. Kontrollera din internetanslutning.</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
-    <value>Official Website - stella.sefinek.net</value>
+    <value>Officiell webbplats – stella.sefinek.net</value>
   </data>
 </root>
