@@ -616,86 +616,86 @@ Nuova versione: v{2}</value>
     <value>Mods Update - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewUpdateForReShadeAddOnsIsAvailable_" xml:space="preserve">
-    <value>A new update for ReShade add-ons is available! Please note that the current add-on configuration files will be overwritten.
+    <value>È disponibile un nuovo aggiornamento per gli add-on di ReShade! Tieni presente che i file di configurazione degli add-on attuali verranno sovrascritti.
 
-Click the OK button to proceed with the update.
+Clicca sul pulsante OK per procedere con l'aggiornamento.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+La tua versione: v{0} da {1}
+Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeAddons_" xml:space="preserve">
     <value>ReShade Addons - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewReShadePresetUpdateHasBeenDetected_" xml:space="preserve">
-    <value>A new ReShade preset update has been detected! Existing presets may be overwritten. It is recommended to make a backup before updating.
+    <value>È stato rilevato un nuovo aggiornamento dei preset di ReShade! I preset esistenti potrebbero essere sovrascritti. Si consiglia di effettuare un backup prima di aggiornare.
 
-Click the OK button to proceed with the update.
+Clicca sul pulsante OK per procedere con l'aggiornamento.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+La tua versione: v{0} da {1}
+Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadePresets_" xml:space="preserve">
     <value>ReShade Presets - v{0}.zip</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ANewVersionOfReShadeShadersIsAvailablePreviousShadersMayBeOverwritten_" xml:space="preserve">
-    <value>A new version of ReShade shaders is available! Previous shaders may be overwritten.
+    <value>È disponibile una nuova versione degli shader di ReShade! Gli shader precedenti potrebbero essere sovrascritti.
 
-Click the OK button to proceed with the update.
+Clicca sul pulsante OK per procedere con l'aggiornamento.
 
-Your version: v{0} from {1}
-New version: v{2}</value>
+La tua versione: v{0} da {1}
+Nuova versione: v{2}</value>
   </data>
   <data name="CheckForUpdatesOfBenefits_ReShadeShaders_" xml:space="preserve">
     <value>ReShade Shaders - v{0}.zip</value>
   </data>
   <data name="StellaResources_StellaResources_" xml:space="preserve">
-    <value>Stella Resources - v{0}.zip</value>
+    <value>Stella Risorse - v{0}.zip</value>
   </data>
   <data name="Default_ClearingTheCacheThisMayTakeAWhile" xml:space="preserve">
-    <value>Clearing the cache (this may take a while)...</value>
+    <value>Cancellazione della cache (potrebbe volerci un po' di tempo)...</value>
   </data>
   <data name="Default_AfterEachUpdateClearingTheCacheIsRequired" xml:space="preserve">
-    <value>After each update, clearing the cache is required.</value>
+    <value>Dopo ogni aggiornamento è necessario cancellare la cache.</value>
   </data>
   <data name="Default_Deleted_FileCountFilesSavingATotalOf_" xml:space="preserve">
-    <value>Deleted {0} file(s), saving a total of {1}.</value>
+    <value>Eliminati {0} file, salvandone un totale di {1}.</value>
   </data>
   <data name="Default_DoneFinishingUp" xml:space="preserve">
-    <value>Done! Finishing up...</value>
+    <value>Fatto! Conclusione...</value>
   </data>
   <data name="Default_OldFilesFromAPreviousVersionOfStellaModHaveBeenDetected" xml:space="preserve">
-    <value>Old files from a previous version of Stella Mod have been detected. Would you like to remove them?</value>
+    <value>Sono stati rilevati vecchi file di una versione precedente di Stella Mod. Vuoi rimuoverli?</value>
   </data>
   <data name="Default_Removed_AdditionalFilesFreeingUp_OfSpace" xml:space="preserve">
-    <value>Removed {0} additional file(s), freeing up {1} of space.</value>
+    <value>Rimosso {0} file aggiuntivi, liberando {1} di spazio.</value>
   </data>
   <data name="Default_SubscribeToStellaPlusToElevateYourGameplay" xml:space="preserve">
-    <value>Subscribe to Stella Plus to elevate your gameplay! Use ReShade, FPS Unlocker, and 3DMigoto simultaneously (we don't use GIMI), and unlock even more exclusive benefits.</value>
+    <value>Abbonati a Stella Plus per migliorare la tua esperienza di gioco! Usa ReShade, FPS Unlocker e 3DMigoto contemporaneamente (non utilizziamo GIMI) e sblocca vantaggi esclusivi.</value>
   </data>
   <data name="Background_CurrentBackground_" xml:space="preserve">
-    <value>Current background: {0}</value>
+    <value>Sfondo attuale: {0}</value>
   </data>
   <data name="WebViewHelper_WebView2DoesNotAppearToBeInstalledOnYourDevice_" xml:space="preserve">
-    <value>WebView2 does not appear to be installed on your device. Would you like to download and install this dependency now?
+    <value>WebView2 non sembra essere installato sul tuo dispositivo. Vuoi scaricare e installare questa dipendenza adesso?
 
 {0}</value>
   </data>
   <data name="WebViewHelper_WebView2Installation" xml:space="preserve">
-    <value>WebView2 Installation</value>
+    <value>Installazione di WebView2</value>
   </data>
   <data name="WebViewHelper_PleaseSelectEvergreenStandaloneInstaller" xml:space="preserve">
-    <value>Please select 'Evergreen Standalone Installer'.</value>
+    <value>Si prega di selezionare 'Evergreen Standalone Installer'.</value>
   </data>
   <data name="WebViewHelper_SomethingWentWrongDuringTheInitializationOfWebView2PleaseTryAgain_" xml:space="preserve">
-    <value>Something went wrong during the initialization of WebView2. Please try again.
+    <value>Qualcosa è andato storto durante l'inizializzazione di WebView2. Riprova.
 
 {0}</value>
   </data>
   <data name="Utils_TheGameWasNotFoundAreYouSureItIsInstalledOnYourDevice" xml:space="preserve">
-    <value>The game was not found. Are you sure it is installed on your device? If the path has changed, Stella Mod needs to be reconfigured. Would you like to do it now?</value>
+    <value>Il gioco non è stato trovato. Sei sicuro che sia installato sul tuo dispositivo? Se il percorso è cambiato, Stella Mod deve essere riconfigurato. Vuoi farlo ora?</value>
   </data>
   <data name="Utils_SomethingWentWrongWhileReadingTheRegistry_" xml:space="preserve">
-    <value>Something went wrong while reading the registry.
+    <value>Qualcosa è andato storto durante la lettura del registro.
 
 {0}</value>
   </data>
