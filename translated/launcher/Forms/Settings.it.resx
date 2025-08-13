@@ -699,7 +699,7 @@ Versione installata: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance</value>
+    <value>Aspetto del Moecounter</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -735,7 +735,7 @@ Versione installata: v{1}</value>
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Launch the game immediately upon starting the launcher</value>
+    <value>Avvia il gioco immediatamente all'avvio del launcher</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
