@@ -172,7 +172,7 @@
     <value>93</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Если у Вас возникнут какие-либо проблемы или предложения, не стесняйтесь присоединиться к нашему Discord серверу. Спасибо за использование Stella Mod. Поддержите этот проект добровольно, если Вы хотите. Веселитесь!</value>
+    <value>Если у вас возникнут какие-либо проблемы или предложения, не стесняйтесь присоединиться к нашему Discord-серверу. Спасибо за использование мода Stella. Поддержите этот проект добровольно, если вы хотите. Веселитесь!</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>BottomCenter</value>
@@ -406,7 +406,7 @@
     <value>Manual</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Геймплей мини-видео</value>
+    <value>Мини-видео игры</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
