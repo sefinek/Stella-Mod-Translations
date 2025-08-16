@@ -598,7 +598,7 @@
     <value>50</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>» YouTube видео</value>
+    <value>» Видео с YouTube</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -628,7 +628,7 @@
     <value>51</value>
   </data>
   <data name="linkLabel45.Text" xml:space="preserve">
-    <value>Half-Life Кошка</value>
+    <value>Кошка из Half-Life</value>
   </data>
   <data name="&gt;&gt;linkLabel45.Name" xml:space="preserve">
     <value>linkLabel45</value>
@@ -823,7 +823,7 @@
     <value>61</value>
   </data>
   <data name="linkLabel11.Text" xml:space="preserve">
-    <value>VTuber</value>
+    <value>Витьюбер</value>
   </data>
   <data name="&gt;&gt;linkLabel11.Name" xml:space="preserve">
     <value>linkLabel11</value>
@@ -1582,7 +1582,7 @@
     <value>84</value>
   </data>
   <data name="linkLabel34.Text" xml:space="preserve">
-    <value>Посетите самое милое аниме "боору", чтобы увидеть больше милых картинок. Нажмите здесь!</value>
+    <value>Зайдите на самое милое аниме «боору», чтобы увидеть больше милых картинок. Нажмите здесь!</value>
   </data>
   <data name="linkLabel34.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
