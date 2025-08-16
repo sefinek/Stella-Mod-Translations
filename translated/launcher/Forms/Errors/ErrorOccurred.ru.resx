@@ -254,7 +254,7 @@ Discord: {0} ┃ Эл. почта: {1}</value>
     <value>9</value>
   </data>
   <data name="button1.Text" xml:space="preserve">
-    <value>Переустановить Stella Mod</value>
+    <value>Переустановить мод Stella</value>
   </data>
   <data name="&gt;&gt;button1.Name" xml:space="preserve">
     <value>button1</value>
