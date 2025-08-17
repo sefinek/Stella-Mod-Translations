@@ -139,7 +139,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Лаунчер 2025</value>
+    <value>Программа запуска мода Stella на Genshin 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -238,7 +238,7 @@
     <value>117</value>
   </data>
   <data name="changeTheLanguageLabel.Text" xml:space="preserve">
-    <value>Изменить язык в Stella Mod</value>
+    <value>Изменить язык в моде Stella</value>
   </data>
   <data name="&gt;&gt;changeTheLanguageLabel.Name" xml:space="preserve">
     <value>changeTheLanguageLabel</value>
@@ -295,8 +295,8 @@
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Билд: v{0}
-Загруженная версия: v{1}</value>
+    <value>Сборка: {0}
+Установленная версия: {1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -405,7 +405,7 @@
     <value>133</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Звуки в лаунчере</value>
+    <value>Звуки в программе</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
@@ -441,7 +441,7 @@
     <value>134</value>
   </data>
   <data name="checkBox3.Text" xml:space="preserve">
-    <value>Звук при запуске лаунчера</value>
+    <value>Звук при запуске программы</value>
   </data>
   <data name="&gt;&gt;checkBox3.Name" xml:space="preserve">
     <value>checkBox3</value>
@@ -477,7 +477,7 @@
     <value>135</value>
   </data>
   <data name="checkBox5.Text" xml:space="preserve">
-    <value>Счётчик Moe *</value>
+    <value>Счётчик мoэ *</value>
   </data>
   <data name="&gt;&gt;checkBox5.Name" xml:space="preserve">
     <value>checkBox5</value>
@@ -648,7 +648,7 @@
     <value>140</value>
   </data>
   <data name="checkBox8.Text" xml:space="preserve">
-    <value>Удалите WebView2 когда игра запустится</value>
+    <value>Удалить WebView2 при запуске игры</value>
   </data>
   <data name="&gt;&gt;checkBox8.Name" xml:space="preserve">
     <value>checkBox8</value>
@@ -735,7 +735,7 @@
     <value>143</value>
   </data>
   <data name="checkBox9.Text" xml:space="preserve">
-    <value>Запустить игру сразу после запуска лаунчера</value>
+    <value>Запустить игру сразу после запуска программы</value>
   </data>
   <data name="&gt;&gt;checkBox9.Name" xml:space="preserve">
     <value>checkBox9</value>
