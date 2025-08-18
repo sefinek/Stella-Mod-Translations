@@ -959,7 +959,7 @@ You'll be able to use mods and enjoy the game even more, all in a completely saf
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to enjoy your game even more? Make it more exciting than ever with mods tailored to your preferences, completely safe and secure. We do not use GIMI.</value>
+    <value>Want to get even more fun out of your game? Make it more exciting than ever before with mods tailored to your own preferences, completely safe! We do not use GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
