@@ -310,15 +310,15 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>En ny uppdatering av resurserna är tillgänglig från {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hej! Det verkar som att vi träffas för första gången! Ta gärna en stund att läsa igenom användarvillkoren och riktlinjerna för den här programvaran för att undvika eventuella problem. Dokumentationen finns tillgänglig på vår officiella webbplats. Genom att använda Stella Mod godkänner du de villkor som anges där.
+    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
 
-Denna programvara stöds kontinuerligt av utvecklaren tack vare Stella Mod Plus-prenumeranter. Intäkterna hjälper till att täcka kostnader för fiberoptiskt internet och elräkningar. API-servern är hostad i ett privat hem i Polen, vilket innebär att den lokala administratören är ensam ägare av databasen. Genshin Stella Mod prioriterar användarnas integritet och säkerhet – ingen analytisk eller hårdvarurelaterad data skickas utan ditt samtycke.
+  The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
 
-Stella Mod är säker programvara, så du behöver inte oroa dig. Kom bara ihåg att inte använda fusk i spelet. Om du behöver hjälp är du varmt välkommen att gå med i vår Discord-server eller kontakta oss via e-post: contact@sefinek.net.
+  Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
 
-Observera även att Stella Mod är helt fristående och INTE på något sätt associerat med HoYoverse. Om du gillar projektet, överväg att stödja dess fortsatta utveckling genom att bli Stella Mod Plus-prenumerant.
+  Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
 
-Tack, och vi ses i spelet – ha så kul!</value>
+  Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Mappen {0} hittades inte.</value>
@@ -699,7 +699,7 @@ Om sökvägen har ändrats behöver Stella Mod konfigureras om. Vill du göra de
     <value>Offline-läge</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode enabled - updates cannot be checked.</value>
+    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Tyvärr är huvudservern för närvarande otillgänglig, eller så har ett oväntat fel inträffat (felkod: {0}).

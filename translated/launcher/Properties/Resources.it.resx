@@ -312,15 +312,15 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
     <value>Il nuovo aggiornamento delle risorse è disponibile su {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Ciao! Sembra che ci incontriamo per la prima volta! Ti preghiamo di dedicare qualche minuto alla lettura dei termini di utilizzo e delle linee guida di questo software per evitare potenziali problemi. La documentazione è disponibile sul nostro sito web ufficiale. Utilizzando Stella Mod, accetti i termini descritti nella documentazione.
+    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
 
-Questo software è costantemente supportato dallo sviluppatore grazie agli abbonati a Stella Mod Plus. I ricavi contribuiscono a coprire i costi della connessione internet in fibra ottica e delle bollette elettriche. Il server API è ospitato in una casa privata in Polonia, il che significa che l'amministratore locale è l'unico proprietario del database. Genshin Stella Mod dà la priorità alla privacy e alla sicurezza degli utenti: nessun dato analitico o hardware viene mai inviato senza il tuo consenso.
+  The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
 
-Stella Mod è un software sicuro, quindi non c'è nulla di cui preoccuparsi. Ricordate solo di non usare cheat nel gioco. Se avete bisogno di aiuto, non esitate a unirvi al nostro server Discord o a contattarci all'indirizzo contact@sefinek.net.
+  Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
 
-Si prega inoltre di notare che Stella Mod è completamente indipendente e NON è affiliato in alcun modo a HoYoverse. Se vi piace questo progetto, considerate la possibilità di sostenerne l'ulteriore sviluppo abbonandovi a Stella Mod Plus.
+  Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
 
-Grazie e ci vediamo nel gioco! Buon divertimento.</value>
+  Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Directory {0} non trovata.</value>
@@ -706,7 +706,7 @@ Nuova versione: v{2}</value>
     <value>Modalità Offline</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Autorizzazione non riuscita. Modalità offline attivata: non è possibile verificare gli aggiornamenti.</value>
+    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Siamo spiacenti, il server principale non è attualmente disponibile o si è verificato un problema imprevisto (codice di errore: {0}). La modalità offline verrà attivata automaticamente. Alcune funzioni potrebbero essere limitate o non disponibili.

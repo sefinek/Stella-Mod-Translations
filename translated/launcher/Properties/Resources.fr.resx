@@ -312,15 +312,15 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
     <value>Une nouvelle mise à jour des ressources est disponible à partir de {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
+    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
 
-This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security - no analytical or hardware data is ever sent without your consent.
+  The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game. If you need help, feel free to join our Discord server or contact us at contact@sefinek.net.
+  Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
 
-Please also note that Stella Mod is completely independent and NOT affiliated in ANY way with HoYoverse. If you like this project, consider supporting its further development by subscribing to Stella Mod Plus.
+  Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
 
-Thanks, and see you in the game! Have fun.</value>
+  Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Le répertoire {0} n'a pas été trouvé.</value>
@@ -706,7 +706,7 @@ New version: v{2}</value>
     <value>Offline Mode</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode enabled - updates cannot be checked.</value>
+    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Sorry, the main server is currently unavailable or an unexpected issue has occurred (error code: {0}). Offline Mode will be enabled automatically. Some features may be limited or unavailable.
