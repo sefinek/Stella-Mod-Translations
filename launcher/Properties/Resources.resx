@@ -311,7 +311,7 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
     <value>New update of the resources is available from {0}.</value>
   </data>
-  <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
+  <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
     <value>Hi there! It looks like we're seeing each other for the first time! Please take a moment to review the terms of use and the guidelines for this software to avoid any potential issues. The documentation is available on our official website. By using Stella Mod, you agree to the terms outlined in the documentation.
 
 This software is continuously supported by the developer thanks to Stella Mod Plus subscribers. The revenue helps cover the costs of fiber-optic internet and electricity bills. The API server is hosted in a private home in Poland, which means the local administrator is the sole owner of the database. Genshin Stella Mod prioritizes user privacy and security - no analytical or hardware data is ever sent without your consent.

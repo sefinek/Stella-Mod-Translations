@@ -311,7 +311,7 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
     <value>Il nuovo aggiornamento delle risorse è disponibile su {0}.</value>
   </data>
-  <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
+  <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
     <value>Ciao! Sembra che ci incontriamo per la prima volta! Ti preghiamo di dedicare qualche minuto alla lettura dei termini di utilizzo e delle linee guida di questo software per evitare potenziali problemi. La documentazione è disponibile sul nostro sito web ufficiale. Utilizzando Stella Mod, accetti i termini descritti nella documentazione.
 
 Questo software è costantemente supportato dallo sviluppatore grazie agli abbonati a Stella Mod Plus. I ricavi contribuiscono a coprire i costi della connessione internet in fibra ottica e delle bollette elettriche. Il server API è ospitato in una casa privata in Polonia, il che significa che l'amministratore locale è l'unico proprietario del database. Genshin Stella Mod dà la priorità alla privacy e alla sicurezza degli utenti: nessun dato analitico o hardware viene mai inviato senza il tuo consenso.

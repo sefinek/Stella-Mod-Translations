@@ -311,7 +311,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
     <value>Kaynakların yeni güncellemesi {0} adresinden edinilebilir.</value>
   </data>
-  <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
+  <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
     <value>Merhaba! Görünüşe göre birbirimizle ilk kez tanışıyoruz! Olası sorunlardan kaçınmak için lütfen bu programın kullanım koşullarını ve talimatlarını gözden geçirin. Belgeler resmi web sitemizde mevcuttur. Stella Mod'u kullanarak, belgelerde belirtilen şartları kabul etmiş sayılırsınız.
 
 Bu program, Stella Mod Plus aboneleri sayesinde geliştirici tarafından sürekli olarak desteklenmektedir. Elde edilen gelir fiber-optik internet ve elektrik faturalarının karşılanmasına yardımcı olmaktadır. API sunucusu Polonya'da özel bir evde bulunmaktadır, bu da yerel yöneticinin veritabanının tek sahibi olduğu anlamına gelmektedir. Genshin Stella Mod kullanıcı gizliliğine ve güvenliğine öncelik verir - izniniz olmadan hiçbir analitik veya donanım verisi gönderilmez.

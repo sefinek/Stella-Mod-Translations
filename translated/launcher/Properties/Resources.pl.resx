@@ -311,7 +311,7 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="StellaResources_NewResourcesUpdateIsAvailable" xml:space="preserve">
     <value>Dostępna jest nowa aktualizacja zasobów z {0}.</value>
   </data>
-  <data name="Default_HiThereItLooksLikeWereSeeinEachOtherForTheFirstTime" xml:space="preserve">
+  <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
     <value>Cześć! Wygląda na to, że widzimy się po raz pierwszy! Poświęć chwilę na zapoznanie się z warunkami użytkowania oraz wytycznymi dotyczącymi tego oprogramowania, aby uniknąć ewentualnych problemów. Dokumentacja jest dostępna na naszej oficjalnej stronie internetowej. Korzystając ze Stella Mod, akceptujesz zasady opisane w dokumentacji.
 
 To oprogramowanie jest stale wspierane przez dewelopera dzięki subskrybentom Stella Mod Plus. Przychody pomagają pokryć koszty internetu światłowodowego oraz rachunków za prąd. Serwer API jest hostowany w prywatnym domu w Polsce, co oznacza, że lokalny administrator jest jedynym właścicielem bazy danych. Genshin Stella Mod stawia na prywatność i bezpieczeństwo użytkowników - żadne dane analityczne ani sprzętowe nie są nigdy wysyłane bez Twojej zgody.
