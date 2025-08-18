@@ -403,7 +403,7 @@
     <value>73</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Лаунчер</value>
+    <value>Программа запуска мода Genshin Stella</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -511,7 +511,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Присоединяйтесь к нашему серверу Discord, если вам нужна поддержка, у вас есть вопросы или вы хотите поделиться отзывами о Stella Mod. Пожалуйста, обратите внимание, что этот сервер предназначен только для обсуждения мода - он не является общим центром сообщества.</value>
+    <value>Присоединяйтесь к нашему серверу Discord, если вам нужна поддержка, у вас есть вопросы или вы хотите поделиться отзывами о моде Stella. Пожалуйста, обратите внимание, что этот сервер предназначен только для обсуждения мода – он не является общим центром сообщества.</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
