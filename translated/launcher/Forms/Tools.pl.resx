@@ -769,7 +769,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the paths. This tool only verifies Stella Mod dependencies, not the presence of launcher files.</value>
+    <value>Sprawdź ścieżki. To narzędzie weryfikuje wyłącznie zależności Stella Mod, a nie obecność plików launchera.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
