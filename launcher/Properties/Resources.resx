@@ -312,15 +312,15 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
     <value>New update of the resources is available from {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-  <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you accept the terms outlined there.
+  <value>Hi! It looks like we’re seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
 
-  The project is continuously developed thanks to Stella Mod Plus subscribers. Their support covers the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is a priority — no analytical or hardware data is sent without your consent.
+  The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
 
-  Stella Mod is safe software, so there's no need to worry. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or write to contact@sefinek.net.
+  Stella Mod is safe software, so there’s nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse’s rules and Stella Mod’s regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
 
-  Also, keep in mind that Stella Mod is completely independent and in NO way affiliated with HoYoverse. If you like this project, you can voluntarily support its development by subscribing to Stella Mod Plus.
+  Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you like it, you can support its further development by subscribing to Stella Mod Plus.
 
-  Thanks, and see you in the game! Have fun and enjoy. Cheers!</value>
+  Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Directory {0} was not found.</value>
