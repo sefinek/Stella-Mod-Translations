@@ -334,6 +334,7 @@ Installerad version: v{1}</value>
   </data>
   <data name="checkBox4.Text" xml:space="preserve">
     <value>Discord RPC</value>
+    <comment>@Invariant</comment>
   </data>
   <data name="&gt;&gt;checkBox4.Name" xml:space="preserve">
     <value>checkBox4</value>
