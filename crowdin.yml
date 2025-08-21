@@ -1,23 +1,44 @@
 source_language: "en"
 
 files:
-  - source: "/launcher/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "launcher/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/genshin-stella-mod/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "genshin-stella-mod/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/prepare-stella/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "prepare-stella/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/configuration-window/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "configuration-window/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/info-before-start/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "info-before-start/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/fps-unlocker/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+  - source: "fps-unlocker/**/*.resx"
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
 
-  - source: "/website/**/*.js"
-    translation: "/translated/%original_path%/%two_letters_code%.%file_extension%"
+  - source: "website/**/*.js"
+    translation: "translated/%original_path%/%two_letters_code%.%file_extension%"
+    export_options:
+      skip_untranslated_strings: true
+      skip_untranslated_files: false
