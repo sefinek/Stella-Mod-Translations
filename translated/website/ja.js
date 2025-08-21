@@ -1,40 +1,40 @@
 // Main
 exports.default = {
- And: 'と',
- From: ' - ',
- In: '中',
- Back: '戻る',
- GoBack: '戻る',
- GoBackTo: '{0} に戻る',
- Next: '進む',
- DiscordServer: 'Discordサーバー',
- DiscordServerTooltip: 'Discordサーバーへの招待',
- YourBrowserDoesNotSupportVideoTag: 'あなたのブラウザは動画タグをサポートしていないようです。',
- YourBrowserDoesNotSupportAudioTag: 'あなたのブラウザは音声タグをサポートしていないようです。',
+ And: 'and',
+ From: 'from',
+ In: 'in',
+ Back: 'Back',
+ GoBack: 'Go back',
+ GoBackTo: 'Go back to {0}',
+ Next: 'Next',
+ DiscordServer: 'Discord server',
+ DiscordServerTooltip: 'Invitation to our Discord server',
+ YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
+ YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
  tooltips: {
-  OfficialDiscordServer: '公式Discordサーバー',
+  OfficialDiscordServer: 'Official Discord server',
   SupportThisProject: 'Support this project voluntarily',
-  GitHubRepositories: 'GitHubリポジトリ',
+  GitHubRepositories: 'GitHub repositories',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: 不正なリクエストです。',
-  InvalidURL: 'URLが不正です。',
-  ReferrerURL: 'リファラURL',
-  CorrectRefURL: '正しいURL',
+  BadRequest: 'Error 400: Bad Request',
+  InvalidURL: 'The return URL is invalid.',
+  ReferrerURL: 'Your referrer URL',
+  CorrectRefURL: 'Correct URL',
  },
  wrongOs: {
-  DeviceIsNotSupported: 'デバイスがサポートされていません',
-  OperatingSysIsNotSupported: '申し訳ございません！あなたのオペレーティングシステム {0} はサポートされていません。',
-  ViewSupportedSystems: 'サポートされているシステムを見る »',
+  DeviceIsNotSupported: 'Device is not supported',
+  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
+  ViewSupportedSystems: 'View supported systems »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: 'サーバー上にZIPファイルが見つかりませんでした。',
+  WeCannotFindZipFileOnTheServer: 'We cannot find ZIP file on the server',
   NewUpdateIsComing:
-   '新しいアップデートがありませんか?\n後でもう一度試してみるか、私たちのDiscordサーバーでこの問題を報告してください。',
+   'New update is coming? Probaby...\nAnyways, please try again later or report this issue on our Discord server.',
  },
 };
 
@@ -42,34 +42,36 @@ exports.errors = {
 exports.home = {
  Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
  Text1:
-  'グラフィック強化、細部までこだわり抜かれたシェーダー、驚異的なFPSのアンロッカーやモッドにより、これまでにない最高のゲーム体験を提供します！',
+  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
  Text2:
-  '新たなグラフィックで、テイワットの世界を再び冒険へ出かけよう。ゲームプレイがさらにリアルに進化します。専用ランチャーが全プロセスを簡略化し、プレイヤーがすぐにアクションに飛び込めるようになりました。',
+  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
  FinalText:
-  'さあ今すぐダウンロードして、ゲームプレイを次のレベルへ引き上げよう。強化されたテイワットの世界に飛び込み、忘れられない瞬間を作りましょう！',
- Download: 'ダウンロード',
- DownloadTooltip: 'Windows 10および11用のx64ビットインストーラーをダウンロードするにはここをクリックしてください。',
- StelaModPlusTooltip: 'Stella Mod Plusの有料バージョンにアクセスして、多くの特典と高度なゲーム体験をお楽しみください！',
- Documentation: 'ドキュメンテーション',
- DocumentationTooltip: 'システム要件、推奨ゲーム設定などを確認してください！',
- Gallery: 'ギャラリー',
- GalleryTooltip: 'ReShadeが注入されたゲームのスクリーンショットをご覧ください。',
- Videos: 'ビデオ',
- VideosTooltip: 'モッドと起動プログラムに関する私たちのビデオをご覧ください。',
- Statistics: '統計',
- StatisticsTooltip: 'Stella Mod が有効化された原神を現在プレイしている人数をみる.',
- Feedback: 'フィードバック',
- FeedbackTooltip: '私の作品やStella Modについてのご意見をシェアしてください。',
- Support: 'サポート',
- SupportTooltip: '助けが必要な場合はこちらをクリックしてください。',
+  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
+ Download: 'Download',
+ DownloadTooltip: 'Click here to download the x64-bit installer for Windows 10 and 11.',
+ StelaModPlusTooltip:
+  'Get access to the paid version of Stella Mod Plus and enjoy numerous benefits and enhanced gaming experiences!',
+ Documentation: 'Documentation',
+ DocumentationTooltip: 'Check the system requirements, recommended game settings, and more!',
+ Gallery: 'Gallery',
+ GalleryTooltip: 'See the screenshots from the game with ReShade injected.',
+ Videos: 'Videos',
+ VideosTooltip: 'Watch our videos showcasing the mod and the launcher.',
+ Statistics: 'Statistics',
+ StatisticsTooltip:
+  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
+ Feedback: 'Feedback',
+ FeedbackTooltip: 'Share your opinion about my work and Stella Mod.',
+ Support: 'Support',
+ SupportTooltip: 'Click here if you need help.',
  HomePage: 'Home page',
  HomePageTooltip: 'Home page - Official website of Sefinek',
  PlayMusic: 'Play music',
- FetchingData: 'データのダウンロード中...',
- Version: 'バージョン',
- TheVersionWithoutCaps: 'バージョン',
- DownloadCount: 'ダウンロード数',
- LastDownload: '最終ダウンロード',
+ FetchingData: 'Fetching data...',
+ Version: 'Version',
+ TheVersionWithoutCaps: 'the version',
+ DownloadCount: 'Download count',
+ LastDownload: 'Last download',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
   AreYouARobot: 'Are you a robot?',
@@ -104,28 +106,28 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'ギャラリー - ページ',
- GalleryCompareReleases: 'ギャラリー - バージョン間の比較:',
- ScreenshotsAreAvailableInHighQuality:
-  'スクリーンショットは高画質のものを閲覧できます。読み込むまでに少し時間がかかります。',
- WebsiteIsNotSupportedOnMobileDevices: 'このWebサイトはモバイル端末での利用をサポートしていません。',
- SomeImageCanBeOutdated: '一部の画像は古くなっている場合があります！',
- SeeComparesFromTheOtherVersions: '新しいバージョンとの比較を見る',
- SeeTheComparisonBetween: 'の比較を見る...',
- ThePageYouAreCurrentlyOnDisplaysAComparison: 'このページでは、異なるバージョンの比較を示しています。',
- OldVersion: '旧バージョン',
- NewVersion: '新バージョン',
- WithMod: 'MODあり',
- WithoutMod: 'MODなし',
- BonusScreenshot: '他のスクリーンショット',
+ GalleryPage: 'Gallery - Page number',
+ GalleryCompareReleases: 'Gallery - Compare releases:',
+ ScreenshotsAreAvailableInHighQuality: 'Screenshots are available in high quality. It may take a while to load them.',
+ WebsiteIsNotSupportedOnMobileDevices: 'This website is not supported on mobile devices.',
+ SomeImageCanBeOutdated: 'Some images can be outdated!',
+ SeeComparesFromTheOtherVersions: 'See compares from the other versions',
+ SeeTheComparisonBetween: 'See the comparison between...',
+ ThePageYouAreCurrentlyOnDisplaysAComparison:
+  'The page you are currently on displays a comparison of different versions of releases.',
+ OldVersion: 'Old version',
+ NewVersion: 'New version',
+ WithMod: 'With mod',
+ WithoutMod: 'Without mod',
+ BonusScreenshot: 'Bonus screenshot',
  tooltips: {
-  GoBackToMainGalleryPage: 'メインギャラリーページに戻る',
+  GoBackToMainGalleryPage: 'Go back to main gallery page',
  },
 };
 
 // GET /genshin-stella-mod/feedback
 exports.feedback = {
- LeaveYourFeedback: 'フィードバックを残す',
+ LeaveYourFeedback: 'Share your opinion',
  IfYouLikeThisProjectSupportMe:
   'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
@@ -135,21 +137,21 @@ exports.feedback = {
   OnTheDiscordServer: 'On the Discord server',
  },
  tooltips: {
-  ClickHereToGoToTheYTPage: 'YouTubeのページに移動するにはここをクリックしてください。',
-  GiveAStarToMyReposOnGitHub: '私のGitHubのリポジトリにスターを付けてください。お気に入りのものです。',
+  ClickHereToGoToTheYTPage: 'Click here to go to the YouTube page.',
+  GiveAStarToMyReposOnGitHub: 'Give a star to my repositories on GitHub, the ones you like.',
  },
 };
 
 // GET /genshin-stella-mod/videos
 exports.videos = {
- WatchVideosOnYT: '動画をYouTubeで見る',
+ WatchVideosOnYT: 'Watch videos on YouTube',
  IfYouWantToRecordNewVideo:
   'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
- DeprecatedMovies: '非推奨の映画',
+ DeprecatedMovies: 'Deprecated movies',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
-  'これらの映画は、以前のStella Modのバージョンからのものであり、すでに時代遅れと考えられています。',
- FirstModRelease: '初期リリース',
- Gameplay: 'ゲームプレイ',
+  'The movies are from previous versions of Stella Mod and are already considered outdated.',
+ FirstModRelease: 'First mod release',
+ Gameplay: 'Gameplay',
 };
 
 // GET /genshin-stella-mod/stats

@@ -1,159 +1,156 @@
 // Main
 exports.default = {
- And: 'y',
- From: 'desde',
- In: 'en',
- Back: 'Atrás',
- GoBack: 'Volver',
- GoBackTo: 'Regresar hasta {0}',
- Next: 'Siguiente',
- DiscordServer: 'Servidor de Discord',
- DiscordServerTooltip: 'Invitación a nuestro servidor de Discord',
- YourBrowserDoesNotSupportVideoTag: 'Tu navegador no es compatible con la etiqueta de video.',
- YourBrowserDoesNotSupportAudioTag: 'Tu navegador no es compatible con la etiqueta de video.',
+ And: 'and',
+ From: 'from',
+ In: 'in',
+ Back: 'Back',
+ GoBack: 'Go back',
+ GoBackTo: 'Go back to {0}',
+ Next: 'Next',
+ DiscordServer: 'Discord server',
+ DiscordServerTooltip: 'Invitation to our Discord server',
+ YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
+ YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
  tooltips: {
-  OfficialDiscordServer: 'Servidor oficial de Discord',
-  SupportThisProject: 'Apoya este proyecto de manera voluntaria',
-  GitHubRepositories: 'Repositorios de GitHub',
+  OfficialDiscordServer: 'Official Discord server',
+  SupportThisProject: 'Support this project voluntarily',
+  GitHubRepositories: 'GitHub repositories',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'Error 400: Petición Inválida',
-  InvalidURL: 'La URL de retorno es inválida.',
-  ReferrerURL: 'Tú URL de referencia',
-  CorrectRefURL: 'URL correcta',
+  BadRequest: 'Error 400: Bad Request',
+  InvalidURL: 'The return URL is invalid.',
+  ReferrerURL: 'Your referrer URL',
+  CorrectRefURL: 'Correct URL',
  },
  wrongOs: {
-  DeviceIsNotSupported: 'El dispositivo no es compatible',
-  OperatingSysIsNotSupported: '¡Lo sentimos! Tu sistema operativo {0} aún no es compatible.',
-  ViewSupportedSystems: 'Sistemas compatibles »',
+  DeviceIsNotSupported: 'Device is not supported',
+  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
+  ViewSupportedSystems: 'View supported systems »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: 'No se puede encontrar el archivo ZIP en el servidor',
+  WeCannotFindZipFileOnTheServer: 'We cannot find ZIP file on the server',
   NewUpdateIsComing:
-   '¿Se acerca una nueva actualización? Quizás...\nNo te preocupes, puedes intentar de nuevo o informar de este problema en nuestro servidor de Discord.',
+   'New update is coming? Probaby...\nAnyways, please try again later or report this issue on our Discord server.',
  },
 };
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Adéntrate en un nuevo mundo con gráficos mejorados para Genshin Impact',
+ Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
  Text1:
-  '¡Gráficos mejorados, shaders meticulosamente diseñados, un impresionante desbloqueo de FPS y mods brindan a los jugadores una experiencia de juego mejor que nunca!',
+  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
  Text2:
-  'Redescubre el mundo de Teyvat con nuevos gráficos que hacen tu experiencia de juego más realista. Un launcher dedicado agiliza todo el proceso, permitiéndote sumergirte en la acción de forma rápida y sencilla.',
+  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
  FinalText:
-  '¡No esperes más, descárgalo ahora! Lleva tu experiencia de juego al siguiente nivel. Sumérgete en el mundo mejorado de Teyvat y crea momentos inolvidables. ¡Diviértete!',
- Download: 'Descargar',
- DownloadTooltip: 'Haz clic aquí para descargar el instalador de 64 bits para Windows 10 y 11.',
+  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
+ Download: 'Download',
+ DownloadTooltip: 'Click here to download the x64-bit installer for Windows 10 and 11.',
  StelaModPlusTooltip:
-  '¡Obtén acceso a la versión de pago de Stella Mod Plus y disfruta de numerosos beneficios y experiencias de juego mejoradas!',
- Documentation: 'Documentación',
- DocumentationTooltip: 'Consulta los requisitos del sistema, configuraciones de juego recomendadas y más.',
- Gallery: 'Galería',
- GalleryTooltip: 'Mira las capturas de pantalla del juego con ReShade inyectado.',
+  'Get access to the paid version of Stella Mod Plus and enjoy numerous benefits and enhanced gaming experiences!',
+ Documentation: 'Documentation',
+ DocumentationTooltip: 'Check the system requirements, recommended game settings, and more!',
+ Gallery: 'Gallery',
+ GalleryTooltip: 'See the screenshots from the game with ReShade injected.',
  Videos: 'Videos',
- VideosTooltip: 'Mira nuestros videos sobre el mod y el programa de lanzamiento.',
- Statistics: 'Estadísticas',
+ VideosTooltip: 'Watch our videos showcasing the mod and the launcher.',
+ Statistics: 'Statistics',
  StatisticsTooltip:
-  'Mira cuántas personas están jugando actualmente a Genshin Impact con el Stella Mod. También explora diversas estadísticas.',
- Feedback: 'Comentarios',
- FeedbackTooltip: 'Comparte tu opinión sobre mi trabajo y Stella Mod.',
- Support: 'Soporte',
- SupportTooltip: 'Haz clic aquí si necesitas ayuda.',
- HomePage: 'Página principal',
- HomePageTooltip: 'Página principal - Sitio oficial de Sefinek',
- PlayMusic: 'Escuchar música',
- FetchingData: 'Descargando datos...',
- Version: 'Versión',
- TheVersionWithoutCaps: 'la versión',
- DownloadCount: 'Recuento de descargas',
- LastDownload: 'Última descarga',
- FeedbackOnTrustpilot: 'Reseñas en Trustpilot',
+  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
+ Feedback: 'Feedback',
+ FeedbackTooltip: 'Share your opinion about my work and Stella Mod.',
+ Support: 'Support',
+ SupportTooltip: 'Click here if you need help.',
+ HomePage: 'Home page',
+ HomePageTooltip: 'Home page - Official website of Sefinek',
+ PlayMusic: 'Play music',
+ FetchingData: 'Fetching data...',
+ Version: 'Version',
+ TheVersionWithoutCaps: 'the version',
+ DownloadCount: 'Download count',
+ LastDownload: 'Last download',
+ FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
-  AreYouARobot: '¿Eres un robot?',
-  FailedToVerifyCaptcha: 'Error al verificar el captcha: {0}',
-  FailedToVerifyCaptchaStatusCode:
-   'Error al verificar el captcha (código: {0}). Recarga la página y vuelve a intentarlo.',
+  AreYouARobot: 'Are you a robot?',
+  FailedToVerifyCaptcha: 'Failed to verify captcha: {0}',
+  FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.',
  },
  mirrorModal: {
   SelectADownloadSource: 'Select a download source',
   ByCompany: 'By company',
   ByLocation: 'By location',
   InstallViaWinGet: 'Install via WinGet',
-  LauncherVersion: 'Versión del launcher:',
+  LauncherVersion: 'Launcher version:',
   MirrorsAreCurrentlyUnavailable:
-   'Los mirrors están actualmente deshabilitados o no disponibles para esta categoría. Por favor, revisa más tarde o contacta al administrador.',
-  ChecksumHasBeenSuccessfullyCopied: '¡El checksum {0} ha sido copiado exitosamente a tu portapapeles!',
-  FailedToCopyChecksumTryAgain: 'Error al copiar el checksum {0} al portapapeles. Por favor, inténtalo de nuevo.',
+   'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
+  ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
+  FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
  },
  finalModal: {
-  ThankYouForDownloading: 'Gracias por descargar',
+  ThankYouForDownloading: 'Thank you for downloading',
   BecomeAStellaModSubscriber:
-   '¡Hazte suscriptor de Stella Mod Plus para obtener acceso a beneficios adicionales, como la capacidad de usar 3DMigoto, FPS Unlocker y ReShade simultáneamente, una gran colección de mods sin errores, mayor seguridad (bloqueo de telemetría y análisis), un paquete de los shaders más recientes, un add-on para prevenir superposiciones de filtros en la interfaz de usuario (UI), presets de Ray Tracing y mucho más!',
+   'Become a Stella Mod Plus subscriber to gain access to additional benefits such as the ability to use 3DMigoto, FPS Unlocker, and ReShade simultaneously, a large collection of error-free mods, enhanced security (blocking telemetry and analytics), a package of the latest shaders, an add-on to prevent filter overlays on the user interface (UI), Ray Tracing presets, and much more!',
   JoinOurDiscordServerToReceiveNotifications:
-   'Únete a nuestro servidor de Discord para recibir notificaciones sobre las últimas actualizaciones, características y otros anuncios. Contacta al creador si tienes alguna pregunta o encuentras algún problema. Siempre estamos listos para ayudar. ¡Te deseamos un excelente día o noche!',
-  IfYouReEnjoyingStellaModConsiderLeavingAReview:
-   '¡Deja una reseña en {a}trustpilot.com{/a} después de probar el software!',
-  TheTotalNumberOfDownloadsNowIs: 'El número total de descargas es',
-  NoProblem: 'De acuerdo',
+   'Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or encounter any issues. We are always ready to help. Wishing you a great day or night!',
+  IfYouReEnjoyingStellaModConsiderLeavingAReview: 'Leave a review at {a}trustpilot.com{/a} after testing the software!',
+  TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
+  NoProblem: 'No problem',
  },
  tooltips: {
-  ShareYourFeedbackOnTrustpilot: '¡Comparte tu opinión en Trustpilot! Lo agradeceríamos mucho.',
+  ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
  },
 };
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Galería - Página número',
- GalleryCompareReleases: 'Galería - Comparar lanzamientos:',
- ScreenshotsAreAvailableInHighQuality:
-  'Las capturas de pantalla están disponibles en alta calidad, por lo que podrián tardar un poco en cargar.',
- WebsiteIsNotSupportedOnMobileDevices: 'Este sitio web no es compatible en dispositivos moviles.',
- SomeImageCanBeOutdated: '¡Algunas imágenes pueden estar desactualizadas!',
- SeeComparesFromTheOtherVersions: 'Ver comparaciones sobre las nuevas versiones',
- SeeTheComparisonBetween: 'Ver la comparación entre...',
+ GalleryPage: 'Gallery - Page number',
+ GalleryCompareReleases: 'Gallery - Compare releases:',
+ ScreenshotsAreAvailableInHighQuality: 'Screenshots are available in high quality. It may take a while to load them.',
+ WebsiteIsNotSupportedOnMobileDevices: 'This website is not supported on mobile devices.',
+ SomeImageCanBeOutdated: 'Some images can be outdated!',
+ SeeComparesFromTheOtherVersions: 'See compares from the other versions',
+ SeeTheComparisonBetween: 'See the comparison between...',
  ThePageYouAreCurrentlyOnDisplaysAComparison:
-  'La página en la que estás actualmente muestra una comparación de distintas versiones de lanzamiento.',
- OldVersion: 'Versión antigua',
- NewVersion: 'Nueva versión',
- WithMod: 'Con mods',
- WithoutMod: 'Sin mods',
- BonusScreenshot: 'Captura de pantalla extra',
+  'The page you are currently on displays a comparison of different versions of releases.',
+ OldVersion: 'Old version',
+ NewVersion: 'New version',
+ WithMod: 'With mod',
+ WithoutMod: 'Without mod',
+ BonusScreenshot: 'Bonus screenshot',
  tooltips: {
-  GoBackToMainGalleryPage: 'Regresar a la página principal de la galería',
+  GoBackToMainGalleryPage: 'Go back to main gallery page',
  },
 };
 
 // GET /genshin-stella-mod/feedback
 exports.feedback = {
- LeaveYourFeedback: 'Deja tus comentarios',
+ LeaveYourFeedback: 'Share your opinion',
  IfYouLikeThisProjectSupportMe:
-  'Si te ha gustado el proyecto, considera suscribirte a mi {1}canal de Youtube{/1}, dándole una estrella {2}en GitHub{/2} o {3}ayudándome{/3} de otras maneras.',
+  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
-  'Además, si tienes algún comentario o sugerencia, no dudes en unirte a nuestro servidor de Discord y compartirlos con nosotros.',
+  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
  btn: {
-  BelowYTVideo: 'Debajo de mi video de YouTube',
-  OnTheDiscordServer: 'En el servidor de Discord',
+  BelowYTVideo: 'Below my YouTube video',
+  OnTheDiscordServer: 'On the Discord server',
  },
  tooltips: {
-  ClickHereToGoToTheYTPage: 'Haz clic aquí para ir a la página de YouTube.',
-  GiveAStarToMyReposOnGitHub: 'Dale una estrella a mis repositorios en GitHub, a los que te gusten.',
+  ClickHereToGoToTheYTPage: 'Click here to go to the YouTube page.',
+  GiveAStarToMyReposOnGitHub: 'Give a star to my repositories on GitHub, the ones you like.',
  },
 };
 
 // GET /genshin-stella-mod/videos
 exports.videos = {
- WatchVideosOnYT: 'Ver videos en YouTube',
+ WatchVideosOnYT: 'Watch videos on YouTube',
  IfYouWantToRecordNewVideo:
-  'Si deseas grabar y subir un video sobre Stella Mod a YouTube, por favor contáctame. El enlace a tu video será agregado a esta página.',
- DeprecatedMovies: 'Videos obsoletos',
+  'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
+ DeprecatedMovies: 'Deprecated movies',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
-  'Estos videos pertenecen a versiones anteriores de Stella Mod y se consideran obsoletos.',
- FirstModRelease: 'Primer lanzamiento del mod',
+  'The movies are from previous versions of Stella Mod and are already considered outdated.',
+ FirstModRelease: 'First mod release',
  Gameplay: 'Gameplay',
 };
 
@@ -164,13 +161,13 @@ exports.stats = {
  ToggleBorder: 'Toggle border',
  ToggleBackground: 'Toggle background',
  LiveStats: 'Live stats',
- OnlineNow: 'En línea ahora',
- Playing: 'Jugando',
+ OnlineNow: 'Online now',
+ Playing: 'Playing',
  AllDownloadsNow: 'All downloads now',
- Player: 'jugador',
- Players: 'jugadores',
+ Player: 'player',
+ Players: 'players',
  BelowYouFindTheStatsOfStellaMod:
-  'A continuación, encontrarás las estadísticas de Stella Mod. Zona horaria: Europa/Warsaw GMT+01:00 (Polonia). ¡Que tengas un buen día!',
+  'Below you will find the statistics of Stella Mod. Timezone: Europe/Warsaw GMT+01:00 (Poland). Have a nice day!',
  PerCountry: 'Per country',
  PerHour: 'Per hour',
  PerDay: 'Per day',
@@ -218,14 +215,14 @@ exports.stats = {
  OnlinePerCountry: 'Online per country',
  OnlinePerHour: 'Online per hour',
  OnlinePerDay: 'Online per day',
- OnlinePerMonth: 'En línea al mes',
- OnlinePerYear: 'En línea al año',
- PlayersInTheGameHeader: 'Jugadores en el juego',
+ OnlinePerMonth: 'Online per month',
+ OnlinePerYear: 'Online per year',
+ PlayersInTheGameHeader: '🎮 Players in the game',
  PlayersInTheGameText:
-  'Mira cuántos jugadores están utilizando actualmente Stella Mod en Genshin Impact. El launcher de Stella Mod funciona de manera transparente, sin realizar acciones en segundo plano sin tu conocimiento, garantizando una experiencia fluida que mejora Genshin Impact con características adicionales, todo mientras mantiene altos estándares de privacidad y seguridad. Algunos datos pueden ser inexactos.',
- PlayingNow: '💙 Jugando ahora',
+  'See how many players are currently using Stella Mod in Genshin Impact. The Stella Mod Launcher runs transparently, with no background actions happening without your knowledge, ensuring a smooth experience that enhances Genshin Impact with added features, all while upholding high standards of privacy and security. Some data may be inaccurate.',
+ PlayingNow: '💙 Playing now',
  Peak2: '⬆️ Peak',
- WsConnectionsHeader: '🌍 Conexiones WebSocket y operaciones',
+ WsConnectionsHeader: '🌍 WebSocket connections and operations',
  WsConnectionsText:
   'In this section, familiarize yourself with WebSocket metrics, including charts that display the frequency of messages and heartbeats on an hourly, daily, monthly, and yearly basis.',
  Broadcast: 'Broadcast',
@@ -236,18 +233,18 @@ exports.stats = {
  Encryption: '🧶 Encryption',
  Decryption: '🔧 Decryption',
  Misc: '🧵 Misc',
- PerOneHour: 'Por hora',
- PerOneDay: 'Por día',
- PerOneMonth: 'Por mes',
- PerOneYear: 'Por año',
+ PerOneHour: 'Per hour',
+ PerOneDay: 'Per day',
+ PerOneMonth: 'Per month',
+ PerOneYear: 'Per year',
  ErrorRatePerDay: 'Error rate per day',
 };
 
 // GET /genshin-stella-mod/docs
 exports.docs = {
- TableOfContents: 'Tabla de Contenidos',
+ TableOfContents: 'Table of Contents',
  1: {
-  Introduction: '{0}. {1} Introducción',
+  Introduction: '{0}. {1} Introduction',
   Requirements: '{0}. {1} Requirements',
   WhatIs: '{0}. {1} What is...',
   FAQ: '{0}. {1} FAQ',
@@ -291,11 +288,11 @@ exports.github = {
 
 // GET /genshin-stella-mod/subscription
 exports.subscription = {
- ChooseYourSubscriptionTier: 'Elige tu grado de suscripción',
+ ChooseYourSubscriptionTier: 'Choose your subscription tier',
  IfYouAreInterestedInTheBenefits:
-  'Si estás interesado en los beneficios, por favor explora todos los grados de suscripción para ver cual se rige más a tus preferencias. Con suerte encontrarás a alguno que sea de tu interés!',
+  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
  IfYouHaveAnyQuestions:
-  'Si tienes alguna pregunta, no dudes en contactarnos mediante discord o correo electrónico. Puedes encontrar la información de contacto en la pagina principal.',
+  "Do you have any questions? Don't hesitate to join our Discord server or contact us via email. You can find the contact information on the main page of this website.",
  Recommended: 'Recommended',
  tiers: {
   1: {
@@ -326,15 +323,15 @@ exports.subscription = {
  },
  UnknownBenefit: 'Unknown benefit',
  prices: {
-  MonthlyPrice: 'Precio mensual',
-  Every3Months: 'Cada 3 meses',
-  YearlyPrice: 'Precio anual',
+  MonthlyPrice: 'Monthly price',
+  Every3Months: 'Every 3 months',
+  YearlyPrice: 'Yearly price',
  },
  Everything: {
-  FromTheTier: 'Todo sobre el grado {0}',
-  FromTheTier12: 'Todo sobre los grados 1 y 2',
-  FromTheTier12And3: 'Todo sobre los grados 1, 2 y 3',
-  FromAllTheTiers: 'Todo sobre todos los grados',
+  FromTheTier: 'Everything from Tier {0}',
+  FromTheTier12: 'Everything from Tier 1 and 2',
+  FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
+  FromAllTheTiers: 'Everything from all Tiers',
  },
  TierName: 'Tier name',
  benefitsFull: {
@@ -386,8 +383,8 @@ exports.subscription = {
   AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
   ActivationPossibleOn: 'Activation possible on',
  },
- SubscribeNow: 'Subscribete ahora',
- ChangeYourTier: 'Cambia tu plan',
+ SubscribeNow: 'Subscribe now',
+ ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
   'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
  IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
@@ -398,10 +395,10 @@ exports.subscription = {
  IAcceptPaymentsOnlyOnBinance: 'I accept payments only on Binance.',
  CloseModal: 'Close modal',
  PaymentSystem: {
-  Header: 'Sistema de pago',
-  1: 'Nos complace anunciar que nuestro sistema de pago funciona con {0}. Con Stripe, puedes hacer pagos de forma segura, sabiendo que tu información de pago está gestionada de la manera más segura.',
-  2: 'Stripe es una plataforma de procesamiento de pago reconocida globalmente y seguura, que promete rapidez y seguridad en las transaciones de nuestros usuarios. Aunque estés comprando productos, suscribiendote a servicios o haciendo donaciones, la robusta infraestructura de Stripe asegura una experiencia de pagos segura y sin problemas.',
-  3: 'Tenga la seguridad de que sus datos confidenciales de pago están encriptados y protegidos durante todo el proceso de pago. Su privacidad y seguridad son nuestras principales prioridades.',
+  Header: 'Payment system',
+  1: 'We are delighted to announce that our secure payment system is powered by {0}. With Stripe, you can confidently make payments, knowing that your financial information is handled with the highest level of security.',
+  2: "Stripe is a well-trusted and globally recognized payment processing platform that guarantees smooth and secure transactions for our customers. Whether you're buying products, subscribing to services, or making donations, Stripe's robust infrastructure ensures a dependable and trouble-free payment experience.",
+  3: 'Please be assured that your sensitive payment details are encrypted and safeguarded throughout the entire payment process. Your privacy and security are our top priorities.',
  },
  AcceptedPaymentMethods: 'Accepted payment methods',
  IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
