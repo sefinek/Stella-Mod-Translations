@@ -283,6 +283,7 @@ Observera att en Stella Plus-prenumeration betraktas som frivilligt stöd och in
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
     <value>Sefinek - YouTube</value>
+    <comment>@Invariant</comment>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
