@@ -1,5 +1,8 @@
 source_language: "en"
 
+ignore:
+  - "translated/**"
+
 files:
   - source: "launcher/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
