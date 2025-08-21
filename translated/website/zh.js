@@ -7,32 +7,32 @@ exports.default = {
  GoBack: 'Go back',
  GoBackTo: 'Go back to {0}',
  Next: 'Next',
- DiscordServer: 'Discord 服务器',
+ DiscordServer: 'Discord server',
  DiscordServerTooltip: 'Invitation to our Discord server',
- YourBrowserDoesNotSupportVideoTag: '您的浏览器不支持视频标记。',
- YourBrowserDoesNotSupportAudioTag: '您的浏览器不支持音频标记。',
+ YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
+ YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
  tooltips: {
-  OfficialDiscordServer: '官方 Discord 服务器',
-  SupportThisProject: '自愿支持本项目',
-  GitHubRepositories: 'GitHub 仓库',
+  OfficialDiscordServer: 'Official Discord server',
+  SupportThisProject: 'Support this project voluntarily',
+  GitHubRepositories: 'GitHub repositories',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: '错误 400: Bad request',
-  InvalidURL: '返回的 URL 无效。',
-  ReferrerURL: '您的来源 URL',
+  BadRequest: 'Error 400: Bad Request',
+  InvalidURL: 'The return URL is invalid.',
+  ReferrerURL: 'Your referrer URL',
   CorrectRefURL: 'Correct URL',
  },
  wrongOs: {
-  DeviceIsNotSupported: '不支持此设备',
+  DeviceIsNotSupported: 'Device is not supported',
   OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
-  ViewSupportedSystems: '查看受支持的系统 »',
+  ViewSupportedSystems: 'View supported systems »',
  },
  missingZip: {
-  WeCannotFindZipFileOnTheServer: '在服务器上找不到 ZIP 文件',
+  WeCannotFindZipFileOnTheServer: 'We cannot find ZIP file on the server',
   NewUpdateIsComing:
    'New update is coming? Probaby...\nAnyways, please try again later or report this issue on our Discord server.',
  },
@@ -41,17 +41,18 @@ exports.errors = {
 // GET /genshin-stella-mod
 exports.home = {
  Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
- Text1: '增强的图形效果、精心设计的着色器、令人印象深刻的帧率解锁以及 Mod，为玩家带来前所未有的游戏体验！',
+ Text1:
+  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
  Text2:
   'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
  FinalText:
   "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
- Download: '下载',
+ Download: 'Download',
  DownloadTooltip: 'Click here to download the x64-bit installer for Windows 10 and 11.',
  StelaModPlusTooltip:
   'Get access to the paid version of Stella Mod Plus and enjoy numerous benefits and enhanced gaming experiences!',
  Documentation: 'Documentation',
- DocumentationTooltip: '查看系统要求、推荐游戏设置和更多信息！',
+ DocumentationTooltip: 'Check the system requirements, recommended game settings, and more!',
  Gallery: 'Gallery',
  GalleryTooltip: 'See the screenshots from the game with ReShade injected.',
  Videos: 'Videos',
@@ -59,17 +60,17 @@ exports.home = {
  Statistics: 'Statistics',
  StatisticsTooltip:
   'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
- Feedback: '反馈',
+ Feedback: 'Feedback',
  FeedbackTooltip: 'Share your opinion about my work and Stella Mod.',
- Support: '支持',
- SupportTooltip: '点击此处获取帮助。',
- HomePage: '主页',
- HomePageTooltip: '主页 - Sefinek 官方网站',
- PlayMusic: '播放音乐',
- FetchingData: '正在获取数据...',
+ Support: 'Support',
+ SupportTooltip: 'Click here if you need help.',
+ HomePage: 'Home page',
+ HomePageTooltip: 'Home page - Official website of Sefinek',
+ PlayMusic: 'Play music',
+ FetchingData: 'Fetching data...',
  Version: 'Version',
  TheVersionWithoutCaps: 'the version',
- DownloadCount: '下载次数',
+ DownloadCount: 'Download count',
  LastDownload: 'Last download',
  FeedbackOnTrustpilot: 'Feedback on Trustpilot',
  captchaModal: {
