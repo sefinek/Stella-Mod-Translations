@@ -1,53 +1,54 @@
 source_language: "en"
 
-preserve_hierarchy: true
 base_path: "."
-
-ignore:
-  - ".github/**"
-  - ".idea/**"
-  - "node_modules/**"
-  - "translated/**"
+preserve_hierarchy: true
 
 files:
   - source: "launcher/**/*.resx"
     translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
 
   # - source: "genshin-stella-mod/**/*.resx"
   #   translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-  #   export_options:
-  #     skip_untranslated_strings: true
-  #     skip_untranslated_files: true
+  #   skip_untranslated_strings: true
+  #   skip_untranslated_files: true
+  #   ignore:
+  #     - "translated/**"
 
   - source: "prepare-stella/**/*.resx"
     translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
 
   - source: "configuration-window/**/*.resx"
     translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
 
   - source: "info-before-start/**/*.resx"
     translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
 
   - source: "fps-unlocker/**/*.resx"
     translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
 
   - source: "website/**/*.js"
-    translation: "translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    export_options:
-      skip_untranslated_strings: true
-      skip_untranslated_files: true
+    translation: "translated/%original_path%/%file_name%.%two_letters_code%.%file_extension%"
+    skip_untranslated_strings: true
+    skip_untranslated_files: true
+    ignore:
+      - "translated/**"
