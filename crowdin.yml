@@ -6,10 +6,10 @@ files:
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
-  - source: "/genshin-stella-mod/**/*.resx"
-    translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    skip_untranslated_strings: true
-    skip_untranslated_files: true
+#  - source: "/genshin-stella-mod/**/*.resx"
+#    translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
+#    skip_untranslated_strings: true
+#    skip_untranslated_files: true
 
   - source: "/prepare-stella/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
