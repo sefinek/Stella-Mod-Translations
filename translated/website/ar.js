@@ -1,27 +1,27 @@
 // Main
 exports.default = {
- And: 'و',
- From: 'من',
- In: 'في',
- Back: 'عودة',
- GoBack: 'رجوع للخلف',
- GoBackTo: 'رجوع إلى {0}',
- Next: 'التالي',
- DiscordServer: 'سيرفر الديسكورد',
- DiscordServerTooltip: 'دعوة إلى سيرفر ديسكورد الخاص بنا',
+ And: 'and',
+ From: 'from',
+ In: 'in',
+ Back: 'Back',
+ GoBack: 'Go back',
+ GoBackTo: 'Go back to {0}',
+ Next: 'Next',
+ DiscordServer: 'Discord server',
+ DiscordServerTooltip: 'Invitation to our Discord server',
  YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
  YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
  tooltips: {
-  OfficialDiscordServer: 'سيرفر ديسكورد الرسمي',
-  SupportThisProject: 'دعم هذا المشروع طوعا',
-  GitHubRepositories: 'مستودعات غيت هاب',
+  OfficialDiscordServer: 'Official Discord server',
+  SupportThisProject: 'Support this project voluntarily',
+  GitHubRepositories: 'GitHub repositories',
  },
 };
 
 // Errors
 exports.errors = {
  400: {
-  BadRequest: 'خطأ 400: طلب خاطئ',
+  BadRequest: 'Error 400: Bad Request',
   InvalidURL: 'The return URL is invalid.',
   ReferrerURL: 'Your referrer URL',
   CorrectRefURL: 'Correct URL',
