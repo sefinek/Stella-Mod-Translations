@@ -455,9 +455,6 @@ Current preset:
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>The application has been successfully updated, checking the changelog...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Uhh, it looks like the changelog isn't available for this version yet...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Checking news...</value>
   </data>
@@ -744,5 +741,8 @@ Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Official Website - stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Genshin Stella Mod Changelog</value>
   </data>
 </root>
