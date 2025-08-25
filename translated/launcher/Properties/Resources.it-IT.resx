@@ -455,9 +455,6 @@ Impostazioni predefinite attuali:
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>L'applicazione è stata aggiornata con successo, controlla il changelog...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Sembra che il changelog non sia ancora disponibile per questa versione...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Controllando novità...</value>
   </data>
@@ -744,5 +741,8 @@ Vuoi controllare ora la pagina di stato su status.sefinek.net?</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Sito ufficiale - stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Genshin Stella Mod Changelog</value>
   </data>
 </root>

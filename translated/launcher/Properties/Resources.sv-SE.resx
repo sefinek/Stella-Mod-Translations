@@ -453,9 +453,6 @@ Nuvarande förinställning:
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>Applikationen har uppdaterats framgångsrikt, kollar ändringsloggen...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Uhh, det ser ut som att ändringsloggen inte är tillgänglig för den här versionen ännu...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Kollar nyheter...</value>
   </data>
@@ -748,5 +745,8 @@ Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Officiell webbplats – stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Genshin Stella Mod Changelog</value>
   </data>
 </root>

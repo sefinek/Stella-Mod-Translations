@@ -455,9 +455,6 @@ Bieżący preset:
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>Aplikacja została pomyślnie zaktualizowana, sprawdzanie dziennika zmian...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Ohh, wygląda na to, że dziennik zmian nie jest jeszcze dostępny dla tej wersji...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Sprawdzanie aktualności...</value>
   </data>
@@ -744,5 +741,8 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Oficjalna strona internetowa - stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Lista zmian Genshin Stella Mod</value>
   </data>
 </root>
