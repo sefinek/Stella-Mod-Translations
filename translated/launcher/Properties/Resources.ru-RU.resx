@@ -455,9 +455,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>Приложение было успешно обновлено, проверьте список изменений...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Хм, тут пусто! Список изменений для этой версии ещё в разработке...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Проверка новостей...</value>
   </data>
@@ -744,5 +741,8 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Official Website - stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Genshin Stella Mod Changelog</value>
   </data>
 </root>
