@@ -743,6 +743,6 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
     <value>Oficjalna strona internetowa - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Lista zmian Genshin Stella Mod</value>
   </data>
 </root>
