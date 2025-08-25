@@ -455,9 +455,6 @@ Mevcut ön ayar:
   <data name="Default_TheApplicationHasBeenSuccessfullyUpdatedCheckingTheChangelog" xml:space="preserve">
     <value>Uygulama başarıyla güncellendi, değişiklik günlüğünü kontrol edin...</value>
   </data>
-  <data name="Default_UhhItLooksLikeTheChangelogIsnTAvailableForThisVersionYet" xml:space="preserve">
-    <value>Görünüşe göre bu sürüm için değişiklik günlüğü henüz mevcut değil...</value>
-  </data>
   <data name="Default_CheckingNews" xml:space="preserve">
     <value>Gelişmeleri kontrol ediyorum...</value>
   </data>
@@ -744,5 +741,8 @@ Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek i
   </data>
   <data name="OfficialWebsiteStellaSefinekNet" xml:space="preserve">
     <value>Resmi İnternet Sitesi - stella.sefinek.net</value>
+  </data>
+  <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
+    <value>Genshin Stella Mod Changelog</value>
   </data>
 </root>
