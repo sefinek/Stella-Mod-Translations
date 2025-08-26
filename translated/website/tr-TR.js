@@ -210,21 +210,6 @@ exports.stats = {
  OpensPerVersion: 'Sürüm başına başlatılma',
  OpensPerSysVersion: 'Sistem sürümü başına başlatılma',
  OpensPerSysBuild: 'Sistem yapısı başına başlatılma',
- OnlineUsersWSHeader: '🌍 Çevrimiçi kullanıcılar - WebSocket',
- OnlineUsersWSText:
-  'Bu bölüm, WebSocket sunucumuz aracılığıyla kullanıcı bağlantısına kapsamlı bir genel bakış sağlayarak aktif kullanıcılara ilişkin gerçek zamanlı bilgiler sunar. Mevcut çevrimiçi kullanıcı sayısını, en yüksek aktiflik seviyelerini ve kullanıcıların coğrafi dağılımını gösteren dinamik istatistikleri kontrol edin.',
- Online: '🔑 Çevrimiçi',
- Peak1: '🍭 Üst Limit',
- OnlinePerCountry: 'Ülke başına aktiflik',
- OnlinePerHour: 'Saat başına aktiflik',
- OnlinePerDay: 'Günlük aktiflik',
- OnlinePerMonth: 'Aylık aktiflik',
- OnlinePerYear: 'Yıllık aktiflik',
- PlayersInTheGameHeader: '🎮 Oyundaki oyuncular',
- PlayersInTheGameText:
-  "Genshin Impact oyununda şu anda kaç oyuncunun Stella Modunu kullandığını görün. Stella Mod Başlatıcısı şeffaf bir şekilde çalışır, bilginiz dışında hiçbir arka plan eylemi gerçekleşmez ve yüksek gizlilik ve güvenlik standartlarını korurken Genshin Impact'i ek özelliklerle geliştiren sorunsuz bir deneyim sağlar. Bazı veriler hatalı olabilir.",
- PlayingNow: '💙 Şimdi oynanıyor',
- Peak2: '⬆️ Üst Limit',
  WsConnectionsHeader: '🌍 WebSocket bağlantıları ve işlemleri',
  WsConnectionsText:
   'Bu bölümde, mesajların ve isteklerin sıklığını saatlik, günlük, aylık ve yıllık olarak gösteren grafikler de dahil olmak üzere WebSocket ölçümlerini görmüş olun.',
