@@ -211,21 +211,6 @@ exports.stats = {
  OpensPerVersion: 'Uruchomienia na wersję',
  OpensPerSysVersion: 'Uruchomienia na wersję systemu',
  OpensPerSysBuild: 'Uruchomienia na kompilację systemu',
- OnlineUsersWSHeader: '🌍 Użytkownicy online - WebSocket',
- OnlineUsersWSText:
-  'Ta sekcja zawiera szczegółowy przegląd łączności użytkowników za pośrednictwem naszego serwera WebSocket, zapewniając wgląd w czasie rzeczywistym w aktywnych użytkowników. Odkryj dynamiczne statystyki, które pokazują aktualną liczbę online, szczytowe poziomy jednoczesnych połączeń oraz geograficzny rozkład użytkowników.',
- Online: '🔑 Online',
- Peak1: '🍭 Szczyt',
- OnlinePerCountry: 'Online na kraj',
- OnlinePerHour: 'Online na godzinę',
- OnlinePerDay: 'Online na dzień',
- OnlinePerMonth: 'Online na miesiąc',
- OnlinePerYear: 'Online na rok',
- PlayersInTheGameHeader: '🎮 Gracze w grze',
- PlayersInTheGameText:
-  'Zobacz, ilu graczy aktualnie korzysta ze Stella Mod w Genshin Impact. Stella Mod Launcher działa w sposób przejrzysty, bez żadnych działań w tle bez twojej wiedzy, zapewniając płynne doświadczenie z dodatkowymi funkcjami ulepszającymi Genshin Impact, przy jednoczesnym zachowaniu wysokich standardów prywatności i bezpieczeństwa. Niektóre dane mogą być niedokładne.',
- PlayingNow: '💙 Teraz w grze',
- Peak2: '⬆️ Szczyt',
  WsConnectionsHeader: '🌍 Połączenia i operacje WebSocket',
  WsConnectionsText:
   'Zapoznaj się z metrykami WebSocket w tej sekcji, która zawiera wykresy przedstawiające częstotliwość wiadomości i odbicia serca na godzinę, dzień, miesiąc i rok.',
