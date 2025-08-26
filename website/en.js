@@ -227,16 +227,6 @@ exports.stats = {
 	OpensPerSysVersion: 'Opens per system version',
 	OpensPerSysBuild: 'Opens per system build',
 
-	OnlineUsersWSHeader: '🌍 Online users - WebSocket',
-	OnlineUsersWSText: 'This section provides a comprehensive overview of user connectivity through our WebSocket server, offering real-time insights into active users. Explore dynamic statistics that reveal the current online user count, peak concurrency levels, and the geographical distribution of users.',
-	Online: '🔑 Online',
-	Peak1: '🍭 Peak',
-	OnlinePerCountry: 'Online per country',
-	OnlinePerHour: 'Online per hour',
-	OnlinePerDay: 'Online per day',
-	OnlinePerMonth: 'Online per month',
-	OnlinePerYear: 'Online per year',
-
 	WsConnectionsHeader: '🌍 WebSocket connections and operations',
 	WsConnectionsText: 'In this section, familiarize yourself with WebSocket metrics, including charts that display the frequency of messages and heartbeats on an hourly, daily, monthly, and yearly basis.',
 	Broadcast: 'Broadcast',
