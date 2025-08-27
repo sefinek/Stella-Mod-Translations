@@ -312,15 +312,15 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>Kaynakların yeni güncellemesi {0} adresinden edinilebilir.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
+    <value>Merhaba! Görünüşe göre birbirimizi ilk kez görüyoruz. Olası sorunlardan kaçınmak için lütfen kuralları ve yönergeleri gözden geçirmek için bir dakikanızı ayırın. Tüm belgeler resmi web sitemizde (stella.sefinek.net) mevcuttur. Stella Mod'u kullanarak, orada belirtilen şartları kabul etmiş olursunuz.
 
-The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
+Proje, Stella Mod Plus aboneleri sayesinde sürekli olarak geliştirilmektedir. Onların desteği fiber internet ve elektrik masraflarının karşılanmasına yardımcı olmaktadır. API sunucusu Polonya'da özel olarak barındırılmaktadır ve yerel yönetici veritabanının tek sahibidir. Gizliliğiniz bizim önceliğimizdir - izniniz olmadan hiçbir analitik veya donanım verisi asla gönderilmez.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
+Stella Mod güvenli bir yazılımdır, bu nedenle endişelenecek bir şey yoktur. Sadece oyunda hile kullanmamayı unutmayın (bu hem HoYoverse'in kurallarını hem de Stella Mod'un düzenlemelerini ihlal eder). Yardıma ihtiyacınız olursa, Discord sunucumuza katılın veya contact@sefinek.net adresinden bizimle iletişime geçin.
 
-Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
+Stella Mod'un tamamen bağımsız olduğunu, hayran yapımı bir proje olmadığını ve hiçbir şekilde HoYoverse ile bağlantılı olmadığını unutmayın. Eğer hoşunuza giderse, Stella Mod Plus'a abone olarak daha da gelişmesine destek olabilirsiniz.
 
-Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
+Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şerefe!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Dizin {0} bulunamadı.</value>
@@ -429,10 +429,10 @@ Mevcut ön ayar:
     <value>Görüşlerini Bildir</value>
   </data>
   <data name="Default_Donations" xml:space="preserve">
-    <value>Donations</value>
+    <value>Bağışlar</value>
   </data>
   <data name="Default_Quit" xml:space="preserve">
-    <value>Quit</value>
+    <value>Çıkış</value>
   </data>
   <data name="Default_VerifyingRequiredFilesInProgress" xml:space="preserve">
     <value>Gerekli dosyalar Kontrol ediliyor...</value>
@@ -703,7 +703,7 @@ Yeni sürüm: v{2}</value>
     <value>Çevrimdışı Mod</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
+    <value>Yetkilendirme başarısız oldu. Çevrimdışı mod etkinleştirildi. Güncellemeler kontrol edilemiyor.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Üzgünüz, ana sunucu şu anda kullanılamıyor veya beklenmedik bir sorun oluştu (hata kodu: {0}). Çevrimdışı Mod otomatik olarak etkinleştirilecektir. Bazı özellikler sınırlı olabilir veya kullanılamayabilir.
@@ -743,6 +743,6 @@ Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek i
     <value>Resmi İnternet Sitesi - stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Genshin Stella Mod Değişiklik Günlüğü</value>
   </data>
 </root>
