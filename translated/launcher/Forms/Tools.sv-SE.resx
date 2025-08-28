@@ -205,7 +205,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher 2025</value>
+    <value>Genshin Stella Mod-Launcher 2025</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -691,7 +691,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel3.ToolTip" xml:space="preserve">
-    <value>Automatically configure ReShade and set the appropriate directory paths</value>
+    <value>Konfigurera ReShade automatiskt och ställ in rätt mappsökvägar</value>
   </data>
   <data name="&gt;&gt;linkLabel3.Name" xml:space="preserve">
     <value>linkLabel3</value>
@@ -769,7 +769,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="linkLabel7.ToolTip" xml:space="preserve">
-    <value>Validate the paths. This tool only verifies Stella Mod dependencies, not the presence of launcher files.</value>
+    <value>Validera sökvägar. Detta verktyg verifierar endast Stella Mod-beroenden, inte förekomsten av launcher-filer.</value>
   </data>
   <data name="&gt;&gt;linkLabel7.Name" xml:space="preserve">
     <value>linkLabel7</value>
@@ -998,7 +998,7 @@ Du kan också trycka på ESC för att stänga dialogfönstret.</value>
     <value>105</value>
   </data>
   <data name="gsmLogs_Label.Text" xml:space="preserve">
-    <value>Genshin Stella Mod</value>
+    <value>Genshin Impact Stella-mod</value>
   </data>
   <data name="gsmLogs_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
