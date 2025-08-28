@@ -2,7 +2,7 @@
 exports.default = {
  And: 'och',
  From: 'från',
- In: 'in',
+ In: 'i',
  Back: 'Tillbacka',
  GoBack: 'Gå tillbacka',
  GoBackTo: 'Gå tillbacka till {0}',
