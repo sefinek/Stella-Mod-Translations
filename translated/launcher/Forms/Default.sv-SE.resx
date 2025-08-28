@@ -403,7 +403,7 @@
     <value>73</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher</value>
+    <value>Genshin Stella Mod-Launcher</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -511,7 +511,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="discord_LinkLabel.ToolTip" xml:space="preserve">
-    <value>Join our Discord server if you need support, have questions, or want to share feedback about the Stella Mod. Please note that the server is strictly for discussions related to the mod (it is not a general community hub).</value>
+    <value>Gå med i vår Discord-server om du behöver support, har frågor eller vill lämna feedback om Stella Mod. Observera att denna server enbart är till för diskussioner om modden – det är inte ett allmänt community).</value>
   </data>
   <data name="discord_LinkLabel.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -911,7 +911,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>106</value>
   </data>
   <data name="runGiLauncher_LinkLabel.Text" xml:space="preserve">
-    <value>Genshin Impact Launcher</value>
+    <value>Genshin Impact-Launcher</value>
   </data>
   <data name="runGiLauncher_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -959,7 +959,7 @@ Du får tillgång till moddar och kan njuta av spelet ännu mer – helt säkert
     <value>TopLeft</value>
   </data>
   <data name="migoto_checkBox.ToolTip" xml:space="preserve">
-    <value>Want to get even more fun out of your game? Make it more exciting than ever before with mods tailored to your own preferences, completely safe! We do not use GIMI.</value>
+    <value>Vill du få ut ännu mer av ditt spel? Gör det mer spännande än någonsin tidigare med mods som är skräddarsydda efter dina egna preferenser, helt säkert! Vi använder inte GIMI.</value>
   </data>
   <data name="&gt;&gt;migoto_checkBox.Name" xml:space="preserve">
     <value>migoto_checkBox</value>
@@ -1714,7 +1714,7 @@ Särskilt användbart om du använder en skärm med en uppdateringsfrekvens hög
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Stella Mod Launcher</value>
+    <value>Stella Mod-Launcher</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
