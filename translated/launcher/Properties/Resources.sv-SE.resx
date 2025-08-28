@@ -167,7 +167,7 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>Officiell webbplats</value>
   </data>
   <data name="Default_Online_" xml:space="preserve">
-    <value>Online: {0}</value>
+    <value>Inloggade: {0}</value>
   </data>
   <data name="Default_Sorry.Background_WasNotFound" xml:space="preserve">
     <value>Ursäkta. Bakgrund {0} hittades inte.</value>
@@ -310,15 +310,15 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>En ny uppdatering av resurserna är tillgänglig från {0}.</value>
   </data>
   <data name="Default_HiThereItLooksLikeWereSeeingEachOtherForTheFirstTime" xml:space="preserve">
-    <value>Hi! It looks like we're seeing each other for the first time. Please take a moment to review the rules and guidelines to avoid any potential issues. Full documentation is available on our official website (stella.sefinek.net). By using Stella Mod, you agree to the terms outlined there.
+    <value>Hej! Det ser ut som om vi träffas för första gången. Ta en stund och läs igenom regler och riktlinjer för att undvika eventuella problem. Fullständig dokumentation finns på vår officiella webbplats (stella.sefinek.net). Genom att använda Stella Mod godkänner du de villkor som anges där.
 
-The project is continuously developed thanks to Stella Mod Plus subscribers. Their support helps cover the costs of fiber internet and electricity. The API server is privately hosted in Poland, and the local administrator is the sole owner of the database. Your privacy is our priority — no analytical or hardware data is ever sent without your consent.
+Projektet utvecklas kontinuerligt tack vare Stella Mod Plus-abonnenter. Deras stöd hjälper till att täcka kostnaderna för fiberinternet och elektricitet. API-servern är privat värd i Polen, och den lokala administratören är ensam ägare till databasen. Din integritet är vår prioritet - inga analytiska data eller hårdvarudata skickas någonsin utan ditt medgivande.
 
-Stella Mod is safe software, so there's nothing to worry about. Just remember not to use cheats in the game (this violates both HoYoverse's rules and Stella Mod's regulations). If you need help, join our Discord server or contact us at contact@sefinek.net.
+Stella Mod är säker programvara, så det finns inget att oroa sig för. Kom bara ihåg att inte använda fusk i spelet (detta bryter mot både HoYoverses regler och Stella Mods regler). Om du behöver hjälp kan du gå med i vår Discord-server eller kontakta oss på contact@sefinek.net.
 
-Keep in mind that Stella Mod is completely independent, not a fan-made project, and in no way affiliated with HoYoverse. If you enjoy it, you can support its further development by subscribing to Stella Mod Plus.
+Tänk på att Stella Mod är helt oberoende, inte ett fan-made-projekt och inte på något sätt anslutet till HoYoverse. Om du tycker om det kan du stödja dess fortsatta utveckling genom att prenumerera på Stella Mod Plus.
 
-Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
+Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
   </data>
   <data name="Default_Directory_WasNotFound" xml:space="preserve">
     <value>Mappen {0} hittades inte.</value>
@@ -336,7 +336,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Packar upp filer... {0} från {1}</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
-    <value>Background file was not found in '{0}'; ID: {1};</value>
+    <value>Bakgrundsfilen hittades inte i '{0}'; ID: {1};</value>
   </data>
   <data name="Default_ThisFeatureIsAvailableOnlyForStellaModPlusSubscribers" xml:space="preserve">
     <value>This feature is only available to players with a Stella Mod Plus subscription.
@@ -358,7 +358,7 @@ Nuvarande förinställning:
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Fel</value>
   </data>
   <data name="DiscordServer" xml:space="preserve">
     <value>Discord-server</value>
@@ -511,7 +511,7 @@ Nuvarande förinställning:
     <value>Väntar på DxDiag...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
-    <value>Compressing collected files...</value>
+    <value>Komprimering av insamlade filer...</value>
   </data>
   <data name="UploadLogs_GatheringAndEncryptingAdditionalData" xml:space="preserve">
     <value>Samlar in och krypterar ytterligare data...</value>
@@ -696,7 +696,7 @@ Om sökvägen har ändrats behöver Stella Mod konfigureras om. Vill du göra de
     <value>Offline-läge</value>
   </data>
   <data name="AuthorizationFailedOfflineModeEnabledUpdatesCannotBeChecked" xml:space="preserve">
-    <value>Authorization failed. Offline mode is enabled. Updates cannot be checked.</value>
+    <value>Auktoriseringen misslyckades. Offline-läget är aktiverat. Uppdateringar kan inte kontrolleras.</value>
   </data>
   <data name="SorryTheMainServerIsCurrentlyUnavailableOrAnUnexpectedIssueHasOccurredErrorCode_OfflineModeWillBeEnabledAutomaticallySomeFeaturesMayBeLimitedOrUnavailable" xml:space="preserve">
     <value>Tyvärr är huvudservern för närvarande otillgänglig, eller så har ett oväntat fel inträffat (felkod: {0}).
@@ -747,6 +747,6 @@ Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
     <value>Officiell webbplats – stella.sefinek.net</value>
   </data>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
-    <value>Genshin Stella Mod Changelog</value>
+    <value>Genshin Stella Mod Ändringslogg</value>
   </data>
 </root>
