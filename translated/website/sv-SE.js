@@ -109,7 +109,7 @@ exports.home = {
 
 // GET /genshin-stella-mod/gallery
 exports.gallery = {
- GalleryPage: 'Galleri – Sidnummer',
+ GalleryPage: 'Galleri – Sida',
  GalleryCompareReleases: 'Galleri - Jämför versioner:',
  ScreenshotsAreAvailableInHighQuality:
   'Skärmbilder finns tillgängliga i hög kvalitet. Det kan ta en stund att ladda dem.',
