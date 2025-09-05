@@ -689,7 +689,7 @@
     <value>0</value>
   </data>
   <data name="CBEnableHotkeys.Text" xml:space="preserve">
-    <value>Enable Hotkeys</value>
+    <value>Aktivera kortkommandon</value>
   </data>
   <data name="&gt;&gt;CBEnableHotkeys.Name" xml:space="preserve">
     <value>CBEnableHotkeys</value>
@@ -716,7 +716,7 @@
     <value>1</value>
   </data>
   <data name="LabelHotkey1.Text" xml:space="preserve">
-    <value>Slot 1:</value>
+    <value>Plats 1:</value>
   </data>
   <data name="LabelHotkey1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -746,7 +746,7 @@
     <value>2</value>
   </data>
   <data name="ButtonHotkeyKey1.Text" xml:space="preserve">
-    <value>Set</value>
+    <value>Ange</value>
   </data>
   <data name="&gt;&gt;ButtonHotkeyKey1.Name" xml:space="preserve">
     <value>ButtonHotkeyKey1</value>
@@ -797,7 +797,7 @@
     <value>4</value>
   </data>
   <data name="LabelHotkey2.Text" xml:space="preserve">
-    <value>Slot 2:</value>
+    <value>Plats 2:</value>
   </data>
   <data name="LabelHotkey2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -827,7 +827,7 @@
     <value>5</value>
   </data>
   <data name="ButtonHotkeyKey2.Text" xml:space="preserve">
-    <value>Set</value>
+    <value>Ange</value>
   </data>
   <data name="&gt;&gt;ButtonHotkeyKey2.Name" xml:space="preserve">
     <value>ButtonHotkeyKey2</value>
@@ -878,7 +878,7 @@
     <value>7</value>
   </data>
   <data name="LabelHotkey3.Text" xml:space="preserve">
-    <value>Slot 3:</value>
+    <value>Plats 3:</value>
   </data>
   <data name="LabelHotkey3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -908,7 +908,7 @@
     <value>8</value>
   </data>
   <data name="ButtonHotkeyKey3.Text" xml:space="preserve">
-    <value>Set</value>
+    <value>Ange</value>
   </data>
   <data name="&gt;&gt;ButtonHotkeyKey3.Name" xml:space="preserve">
     <value>ButtonHotkeyKey3</value>
@@ -959,7 +959,7 @@
     <value>10</value>
   </data>
   <data name="LabelHotkey4.Text" xml:space="preserve">
-    <value>Slot 4:</value>
+    <value>Plats 4:</value>
   </data>
   <data name="LabelHotkey4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -989,7 +989,7 @@
     <value>11</value>
   </data>
   <data name="ButtonHotkeyKey4.Text" xml:space="preserve">
-    <value>Set</value>
+    <value>Ange</value>
   </data>
   <data name="&gt;&gt;ButtonHotkeyKey4.Name" xml:space="preserve">
     <value>ButtonHotkeyKey4</value>
@@ -1040,7 +1040,7 @@
     <value>13</value>
   </data>
   <data name="LabelHotkey5.Text" xml:space="preserve">
-    <value>Slot 5:</value>
+    <value>Plats 5:</value>
   </data>
   <data name="LabelHotkey5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1070,7 +1070,7 @@
     <value>14</value>
   </data>
   <data name="ButtonHotkeyKey5.Text" xml:space="preserve">
-    <value>Set</value>
+    <value>Ange</value>
   </data>
   <data name="&gt;&gt;ButtonHotkeyKey5.Name" xml:space="preserve">
     <value>ButtonHotkeyKey5</value>
@@ -1121,7 +1121,7 @@
     <value>2</value>
   </data>
   <data name="TabHotkeys.Text" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Kortkommandon</value>
   </data>
   <data name="&gt;&gt;TabHotkeys.Name" xml:space="preserve">
     <value>TabHotkeys</value>
