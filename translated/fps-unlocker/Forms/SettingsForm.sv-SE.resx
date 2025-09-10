@@ -710,13 +710,13 @@
     <value>6, 38</value>
   </data>
   <data name="LabelHotkey1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 23</value>
+    <value>135, 23</value>
   </data>
   <data name="LabelHotkey1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="LabelHotkey1.Text" xml:space="preserve">
-    <value>Plats 1:</value>
+    <value>-</value>
   </data>
   <data name="LabelHotkey1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -791,13 +791,13 @@
     <value>6, 69</value>
   </data>
   <data name="LabelHotkey2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 23</value>
+    <value>135, 23</value>
   </data>
   <data name="LabelHotkey2.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="LabelHotkey2.Text" xml:space="preserve">
-    <value>Plats 2:</value>
+    <value>-</value>
   </data>
   <data name="LabelHotkey2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -872,13 +872,13 @@
     <value>6, 100</value>
   </data>
   <data name="LabelHotkey3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 23</value>
+    <value>135, 23</value>
   </data>
   <data name="LabelHotkey3.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="LabelHotkey3.Text" xml:space="preserve">
-    <value>Plats 3:</value>
+    <value>-</value>
   </data>
   <data name="LabelHotkey3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -953,13 +953,13 @@
     <value>6, 131</value>
   </data>
   <data name="LabelHotkey4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 23</value>
+    <value>135, 23</value>
   </data>
   <data name="LabelHotkey4.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
   <data name="LabelHotkey4.Text" xml:space="preserve">
-    <value>Plats 4:</value>
+    <value>-</value>
   </data>
   <data name="LabelHotkey4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1034,13 +1034,13 @@
     <value>6, 162</value>
   </data>
   <data name="LabelHotkey5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 23</value>
+    <value>135, 23</value>
   </data>
   <data name="LabelHotkey5.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
   <data name="LabelHotkey5.Text" xml:space="preserve">
-    <value>Plats 5:</value>
+    <value>-</value>
   </data>
   <data name="LabelHotkey5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
