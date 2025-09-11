@@ -126,107 +126,41 @@
   <metadata name="ToolTipSettings.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="CBAutoClose.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="LabelAutoSave.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt, style=Bold</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="CBAutoClose.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="LabelAutoSave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="CBAutoClose.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 30</value>
+  <data name="LabelAutoSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 255</value>
   </data>
-  <data name="CBAutoClose.Size" type="System.Drawing.Size, System.Drawing">
-    <value>84, 19</value>
+  <data name="LabelAutoSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>288, 19</value>
   </data>
-  <data name="CBAutoClose.TabIndex" type="System.Int32, mscorlib">
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LabelAutoSave.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="CBAutoClose.Text" xml:space="preserve">
-    <value>Auto Close</value>
+  <data name="LabelAutoSave.Text" xml:space="preserve">
+    <value>All settings will be saved automatically.</value>
   </data>
-  <data name="CBAutoClose.ToolTip" xml:space="preserve">
-    <value>Unlocker will automatically close when the game exits</value>
+  <data name="LabelAutoSave.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
   </data>
-  <data name="&gt;&gt;CBAutoClose.Name" xml:space="preserve">
-    <value>CBAutoClose</value>
+  <data name="&gt;&gt;LabelAutoSave.Name" xml:space="preserve">
+    <value>LabelAutoSave</value>
   </data>
-  <data name="&gt;&gt;CBAutoClose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;LabelAutoSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;CBAutoClose.Parent" xml:space="preserve">
-    <value>TabGeneral</value>
+  <data name="&gt;&gt;LabelAutoSave.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;CBAutoClose.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="CBStartMinimized.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="CBStartMinimized.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="CBStartMinimized.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
-  <data name="CBStartMinimized.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 19</value>
-  </data>
-  <data name="CBStartMinimized.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;LabelAutoSave.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="CBStartMinimized.Text" xml:space="preserve">
-    <value>Start the Tool Minimized</value>
-  </data>
-  <data name="CBStartMinimized.ToolTip" xml:space="preserve">
-    <value>Unlocker will minimize to the tray on startup</value>
-  </data>
-  <data name="&gt;&gt;CBStartMinimized.Name" xml:space="preserve">
-    <value>CBStartMinimized</value>
-  </data>
-  <data name="&gt;&gt;CBStartMinimized.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;CBStartMinimized.Parent" xml:space="preserve">
-    <value>TabGeneral</value>
-  </data>
-  <data name="&gt;&gt;CBStartMinimized.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="CBPowerSave.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="CBPowerSave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="CBPowerSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 55</value>
-  </data>
-  <data name="CBPowerSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>97, 19</value>
-  </data>
-  <data name="CBPowerSave.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="CBPowerSave.Text" xml:space="preserve">
-    <value>Power Saving</value>
-  </data>
-  <data name="CBPowerSave.ToolTip" xml:space="preserve">
-    <value>Limits FPS to 10 and lowers process priority when the game window loses focus (e.g. when minimized or in the background)</value>
-  </data>
-  <data name="&gt;&gt;CBPowerSave.Name" xml:space="preserve">
-    <value>CBPowerSave</value>
-  </data>
-  <data name="&gt;&gt;CBPowerSave.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;CBPowerSave.Parent" xml:space="preserve">
-    <value>TabGeneral</value>
-  </data>
-  <data name="&gt;&gt;CBPowerSave.ZOrder" xml:space="preserve">
-    <value>3</value>
   </data>
   <data name="CBUseMobileUI.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -649,6 +583,105 @@
   <data name="&gt;&gt;LabelPriority.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="CBPowerSave.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CBPowerSave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CBPowerSave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 55</value>
+  </data>
+  <data name="CBPowerSave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 19</value>
+  </data>
+  <data name="CBPowerSave.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="CBPowerSave.Text" xml:space="preserve">
+    <value>Power Saving</value>
+  </data>
+  <data name="CBPowerSave.ToolTip" xml:space="preserve">
+    <value>Limits FPS to 10 and lowers process priority when the game window loses focus (e.g. when minimized or in the background)</value>
+  </data>
+  <data name="&gt;&gt;CBPowerSave.Name" xml:space="preserve">
+    <value>CBPowerSave</value>
+  </data>
+  <data name="&gt;&gt;CBPowerSave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CBPowerSave.Parent" xml:space="preserve">
+    <value>TabGeneral</value>
+  </data>
+  <data name="&gt;&gt;CBPowerSave.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="CBAutoClose.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CBAutoClose.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CBAutoClose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 30</value>
+  </data>
+  <data name="CBAutoClose.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 19</value>
+  </data>
+  <data name="CBAutoClose.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="CBAutoClose.Text" xml:space="preserve">
+    <value>Auto Close</value>
+  </data>
+  <data name="CBAutoClose.ToolTip" xml:space="preserve">
+    <value>Unlocker will automatically close when the game exits</value>
+  </data>
+  <data name="&gt;&gt;CBAutoClose.Name" xml:space="preserve">
+    <value>CBAutoClose</value>
+  </data>
+  <data name="&gt;&gt;CBAutoClose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CBAutoClose.Parent" xml:space="preserve">
+    <value>TabGeneral</value>
+  </data>
+  <data name="&gt;&gt;CBAutoClose.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="CBStartMinimized.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CBStartMinimized.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CBStartMinimized.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="CBStartMinimized.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 19</value>
+  </data>
+  <data name="CBStartMinimized.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="CBStartMinimized.Text" xml:space="preserve">
+    <value>Start the Tool Minimized</value>
+  </data>
+  <data name="CBStartMinimized.ToolTip" xml:space="preserve">
+    <value>Unlocker will minimize to the tray on startup</value>
+  </data>
+  <data name="&gt;&gt;CBStartMinimized.Name" xml:space="preserve">
+    <value>CBStartMinimized</value>
+  </data>
+  <data name="&gt;&gt;CBStartMinimized.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CBStartMinimized.Parent" xml:space="preserve">
+    <value>TabGeneral</value>
+  </data>
+  <data name="&gt;&gt;CBStartMinimized.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="TabGeneral.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 24</value>
   </data>
@@ -676,465 +709,6 @@
   <data name="&gt;&gt;TabGeneral.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="CBEnableHotkeys.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="CBEnableHotkeys.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
-  <data name="CBEnableHotkeys.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 19</value>
-  </data>
-  <data name="CBEnableHotkeys.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="CBEnableHotkeys.Text" xml:space="preserve">
-    <value>Enable Hotkeys</value>
-  </data>
-  <data name="&gt;&gt;CBEnableHotkeys.Name" xml:space="preserve">
-    <value>CBEnableHotkeys</value>
-  </data>
-  <data name="&gt;&gt;CBEnableHotkeys.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;CBEnableHotkeys.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;CBEnableHotkeys.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="LabelHotkey1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="LabelHotkey1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 38</value>
-  </data>
-  <data name="LabelHotkey1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 23</value>
-  </data>
-  <data name="LabelHotkey1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="LabelHotkey1.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="LabelHotkey1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey1.Name" xml:space="preserve">
-    <value>LabelHotkey1</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey1.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="ButtonHotkeyKey1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="ButtonHotkeyKey1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 38</value>
-  </data>
-  <data name="ButtonHotkeyKey1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 23</value>
-  </data>
-  <data name="ButtonHotkeyKey1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="ButtonHotkeyKey1.Text" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey1.Name" xml:space="preserve">
-    <value>ButtonHotkeyKey1</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey1.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="InputHotkeyFPS1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="InputHotkeyFPS1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 38</value>
-  </data>
-  <data name="InputHotkeyFPS1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 23</value>
-  </data>
-  <data name="InputHotkeyFPS1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS1.Name" xml:space="preserve">
-    <value>InputHotkeyFPS1</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS1.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="LabelHotkey2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="LabelHotkey2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 69</value>
-  </data>
-  <data name="LabelHotkey2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 23</value>
-  </data>
-  <data name="LabelHotkey2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="LabelHotkey2.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="LabelHotkey2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey2.Name" xml:space="preserve">
-    <value>LabelHotkey2</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey2.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="ButtonHotkeyKey2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="ButtonHotkeyKey2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 69</value>
-  </data>
-  <data name="ButtonHotkeyKey2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 23</value>
-  </data>
-  <data name="ButtonHotkeyKey2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="ButtonHotkeyKey2.Text" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey2.Name" xml:space="preserve">
-    <value>ButtonHotkeyKey2</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey2.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey2.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="InputHotkeyFPS2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="InputHotkeyFPS2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 69</value>
-  </data>
-  <data name="InputHotkeyFPS2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 23</value>
-  </data>
-  <data name="InputHotkeyFPS2.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS2.Name" xml:space="preserve">
-    <value>InputHotkeyFPS2</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS2.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS2.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="LabelHotkey3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="LabelHotkey3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 100</value>
-  </data>
-  <data name="LabelHotkey3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 23</value>
-  </data>
-  <data name="LabelHotkey3.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="LabelHotkey3.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="LabelHotkey3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey3.Name" xml:space="preserve">
-    <value>LabelHotkey3</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey3.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey3.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="ButtonHotkeyKey3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="ButtonHotkeyKey3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 100</value>
-  </data>
-  <data name="ButtonHotkeyKey3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 23</value>
-  </data>
-  <data name="ButtonHotkeyKey3.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="ButtonHotkeyKey3.Text" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey3.Name" xml:space="preserve">
-    <value>ButtonHotkeyKey3</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey3.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey3.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="InputHotkeyFPS3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="InputHotkeyFPS3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 100</value>
-  </data>
-  <data name="InputHotkeyFPS3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 23</value>
-  </data>
-  <data name="InputHotkeyFPS3.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS3.Name" xml:space="preserve">
-    <value>InputHotkeyFPS3</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS3.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS3.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="LabelHotkey4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="LabelHotkey4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 131</value>
-  </data>
-  <data name="LabelHotkey4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 23</value>
-  </data>
-  <data name="LabelHotkey4.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="LabelHotkey4.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="LabelHotkey4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey4.Name" xml:space="preserve">
-    <value>LabelHotkey4</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey4.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey4.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="ButtonHotkeyKey4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="ButtonHotkeyKey4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 131</value>
-  </data>
-  <data name="ButtonHotkeyKey4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 23</value>
-  </data>
-  <data name="ButtonHotkeyKey4.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="ButtonHotkeyKey4.Text" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey4.Name" xml:space="preserve">
-    <value>ButtonHotkeyKey4</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey4.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey4.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="InputHotkeyFPS4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="InputHotkeyFPS4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 131</value>
-  </data>
-  <data name="InputHotkeyFPS4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 23</value>
-  </data>
-  <data name="InputHotkeyFPS4.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS4.Name" xml:space="preserve">
-    <value>InputHotkeyFPS4</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS4.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS4.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="LabelHotkey5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left</value>
-  </data>
-  <data name="LabelHotkey5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 162</value>
-  </data>
-  <data name="LabelHotkey5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 23</value>
-  </data>
-  <data name="LabelHotkey5.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="LabelHotkey5.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="LabelHotkey5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey5.Name" xml:space="preserve">
-    <value>LabelHotkey5</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey5.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;LabelHotkey5.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="ButtonHotkeyKey5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="ButtonHotkeyKey5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 162</value>
-  </data>
-  <data name="ButtonHotkeyKey5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 23</value>
-  </data>
-  <data name="ButtonHotkeyKey5.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="ButtonHotkeyKey5.Text" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey5.Name" xml:space="preserve">
-    <value>ButtonHotkeyKey5</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey5.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;ButtonHotkeyKey5.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="InputHotkeyFPS5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Right</value>
-  </data>
-  <data name="InputHotkeyFPS5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 162</value>
-  </data>
-  <data name="InputHotkeyFPS5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 23</value>
-  </data>
-  <data name="InputHotkeyFPS5.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS5.Name" xml:space="preserve">
-    <value>InputHotkeyFPS5</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS5.Parent" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;InputHotkeyFPS5.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="TabHotkeys.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 24</value>
-  </data>
-  <data name="TabHotkeys.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="TabHotkeys.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 210</value>
-  </data>
-  <data name="TabHotkeys.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="TabHotkeys.Text" xml:space="preserve">
-    <value>Hotkeys</value>
-  </data>
-  <data name="&gt;&gt;TabHotkeys.Name" xml:space="preserve">
-    <value>TabHotkeys</value>
-  </data>
-  <data name="&gt;&gt;TabHotkeys.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;TabHotkeys.Parent" xml:space="preserve">
-    <value>TabCtrlSettings</value>
-  </data>
-  <data name="&gt;&gt;TabHotkeys.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="TabCtrlSettings.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 12</value>
   </data>
@@ -1155,39 +729,6 @@
   </data>
   <data name="&gt;&gt;TabCtrlSettings.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="LabelAutoSave.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9pt, style=Bold</value>
-  </data>
-  <data name="LabelAutoSave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="LabelAutoSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 255</value>
-  </data>
-  <data name="LabelAutoSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>288, 19</value>
-  </data>
-  <data name="LabelAutoSave.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="LabelAutoSave.Text" xml:space="preserve">
-    <value>All settings will be saved automatically.</value>
-  </data>
-  <data name="LabelAutoSave.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;LabelAutoSave.Name" xml:space="preserve">
-    <value>LabelAutoSave</value>
-  </data>
-  <data name="&gt;&gt;LabelAutoSave.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabelAutoSave.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;LabelAutoSave.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
