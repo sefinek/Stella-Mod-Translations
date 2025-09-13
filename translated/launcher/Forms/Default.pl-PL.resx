@@ -625,8 +625,8 @@
     <value>111</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.Text" xml:space="preserve">
-    <value>Jeśli chcesz jeszcze bardziej poprawić swoje wrażenia z gry, zasubskrybuj Stella Plus.
-Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry - wszystko w całkowicie bezpieczny sposób!</value>
+    <value>Jeśli chcesz jeszcze bardziej podkręcić swoje wrażenia z gry, zasubskrybuj Stella Plus.
+Zyskasz możliwość korzystania z modów i jeszcze większą frajdę z gry. Wszystko w bezpieczny sposób!</value>
   </data>
   <data name="becomeASubscriber_LinkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>

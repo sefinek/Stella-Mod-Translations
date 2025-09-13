@@ -731,4 +731,7 @@ Vuoi controllare ora la pagina di stato su status.sefinek.net?</value>
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
     <value>Genshin Stella Mod Changelog</value>
   </data>
+  <data name="Program_Main_DebugConsole" xml:space="preserve">
+    <value>{0} - Debug Console</value>
+  </data>
 </root>
