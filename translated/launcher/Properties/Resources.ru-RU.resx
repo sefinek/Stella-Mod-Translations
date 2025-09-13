@@ -228,9 +228,6 @@
   <data name="Default_Playing_" xml:space="preserve">
     <value>Игра: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Программа запуска игры не найдена.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>Файл журнала ReShade не найден в:
 {0}</value>
@@ -256,9 +253,6 @@
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Необходимый файл 'Configuration Window.exe' не найден. Пожалуйста, переустановите это приложение или присоединитесь к нашему серверу Discord для получения помощи.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Загруженная форма: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Выход из браузера WebView2</value>
@@ -331,9 +325,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Загружаем установочный файл... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Закрытая форма: {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Распаковка файлов... {0} из {1}</value>
   </data>
@@ -352,11 +343,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Успешно обновлён файл ReShade.ini. Пути к расположениям ресурсов изменены на текущие, и были внесены аналогичные изменения.
 
 Текущая предустановка:
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Файл запуска не существует.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">

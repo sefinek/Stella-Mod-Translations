@@ -228,9 +228,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   <data name="Default_Playing_" xml:space="preserve">
     <value>Giocando: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Il launcher del gioco non è stato trovato.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>Il file log di ReShade non è stato trovato in:
 {0}</value>
@@ -256,9 +253,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Il file richiesto 'Configuration Window.exe' non è stato trovato. Per favore reinstalla quest'app o unisciti al nostro server Discord per ricevere supporto.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Modulo caricato: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Uscito dal browser WebView2</value>
@@ -331,9 +325,6 @@ Grazie e ci vediamo nel gioco! Divertiti e divertiti. Ciao!</value>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Scaricando il file di installazione... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Modulo chiuso: {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Decompressione dei file... {0} da {1}</value>
   </data>
@@ -352,11 +343,6 @@ Vuoi visitare il sito ufficiale e abbonarti? Avrai accesso a numerosi vantaggi, 
     <value>Aggiornamento del file ReShade.ini completato con successo. I percorsi delle risorse sono stati modificati in base a quelli attuali e sono state apportate modifiche simili.
 
 Impostazioni predefinite attuali:
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Il file del launcher non esiste.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">

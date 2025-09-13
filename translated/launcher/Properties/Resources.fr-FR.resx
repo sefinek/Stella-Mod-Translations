@@ -228,9 +228,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Default_Playing_" xml:space="preserve">
     <value>Playing: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Game launcher was not found.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade log file was not found in:
 {0}</value>
@@ -256,9 +253,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Required file 'Configuration Window.exe' was not found. Please reinstall this app or join our Discord server for help.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Loaded form: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Exited from WebView2 browser</value>
@@ -331,9 +325,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Téléchargement du fichier d'installation... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Formulaire fermé : {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Déballage des fichiers... {0} de {1}</value>
   </data>
@@ -352,11 +343,6 @@ Would you like to visit the official website and subscribe? You'll gain access t
     <value>Mise à jour réussie du fichier ReShade.ini. Les chemins d'accès aux emplacements des ressources ont été modifiés en fonction des emplacements actuels et des modifications similaires ont été apportées.
 
 Préréglage actuel :
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Le fichier de lancement n'existe pas.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">

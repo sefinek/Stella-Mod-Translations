@@ -226,9 +226,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="Default_Playing_" xml:space="preserve">
     <value>Spelar: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Spellaunchen hittades inte.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade-loggfilen hittades inte i:
 {0}</value>
@@ -254,9 +251,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Den nödvändiga filen 'Configuration Window.exe' hittades inte. Installera om denna app eller gå med i vår Discord-server för hjälp.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Laddat formulär: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Avslutade från WebView2-webbläsaren</value>
@@ -329,9 +323,6 @@ Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Laddar ner installationsfilen... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Stängt formulär: {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Packar upp filer... {0} från {1}</value>
   </data>
@@ -350,11 +341,6 @@ Would you like to visit the official website and subscribe? You'll gain access t
     <value>ReShade.ini-filen har uppdaterats framgångsrikt. Sökvägar till resursplatser har uppdaterats, och liknande ändringar har genomförts.
 
 Nuvarande förinställning:
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher-filen existerar inte.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
