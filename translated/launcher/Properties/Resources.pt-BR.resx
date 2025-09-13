@@ -229,9 +229,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   <data name="Default_Playing_" xml:space="preserve">
     <value>Jogando: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Launcher do jogo não encontrado.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>Arquivo de registro ReShade não encontrado em:
 {0}</value>
@@ -257,9 +254,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Arquivo necessário 'Configuration Window.exe' não encontrado. Por favor, reinstale o programa ou junte-se ao nosso servidor do Discord.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Formulário carregado: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>Saiu do navegador WebView2</value>
@@ -332,9 +326,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Baixando o instalador... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Formulário fechado: {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Descompactando arquivos... {0} de {1}</value>
   </data>
@@ -353,11 +344,6 @@ Você gostaria de visitar o site oficial e assinar? Você ganhará acesso a vár
     <value>Arquivo ReShade.ini atualizado com sucesso. O caminho para os recursos foram alterados para o atual, e mudanças similares foram feitas.
 
 Preset atual:
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Launcher não existe.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
