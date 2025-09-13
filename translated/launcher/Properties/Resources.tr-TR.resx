@@ -228,9 +228,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Default_Playing_" xml:space="preserve">
     <value>Oynuyor: {0}</value>
   </data>
-  <data name="Default_GameLauncherWasNotFound" xml:space="preserve">
-    <value>Oyun başlatıcısı bulunamadı.</value>
-  </data>
   <data name="Tools_ReShadeLogFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade çıktı dosyasının içinde bulunamadı:
 {0}</value>
@@ -256,9 +253,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   </data>
   <data name="Program_RequiredFileFirstAppLaunchExeWasNotFound_" xml:space="preserve">
     <value>Gerekli dosya 'Configuration Window.exe' bulunamadı. Lütfen bu uygulamayı yeniden yükleyin veya yardım için Discord sunucumuza katılın.</value>
-  </data>
-  <data name="Main_LoadedForm_" xml:space="preserve">
-    <value>Pencere yüklendi: {0}</value>
   </data>
   <data name="DiscordRPC_Status_ExitedFromWebView2" xml:space="preserve">
     <value>WebView2 tarayıcısından çıkıldı</value>
@@ -331,9 +325,6 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
   <data name="StellaResources_DownloadingTheInstallerFile" xml:space="preserve">
     <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
-  <data name="Main_ClosedForm_" xml:space="preserve">
-    <value>Pencere Kapatıldı: {0}</value>
-  </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
     <value>Dosyalar açılıyor... {1}'den {0}</value>
   </data>
@@ -352,11 +343,6 @@ Resmi web sitesini ziyaret etmek ve abone olmak ister misiniz? ReShade, 3DMigoto
     <value>ReShade.ini dosyası başarıyla güncellendi. Kaynak konumlarına giden yollar güncel olarak değiştirildi ve benzer değişiklikler yapıldı.
 
 Mevcut ön ayar:
-{0}</value>
-  </data>
-  <data name="Utils_LauncherFileDoesNotExist" xml:space="preserve">
-    <value>Başlatıcı dosyası mevcut değil.
-
 {0}</value>
   </data>
   <data name="Error" xml:space="preserve">
