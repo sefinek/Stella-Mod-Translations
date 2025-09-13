@@ -731,4 +731,7 @@ Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek i
   <data name="Main_Shown_GenshinStellaModChangelog" xml:space="preserve">
     <value>Genshin Stella Mod Değişiklik Günlüğü</value>
   </data>
+  <data name="Program_Main_DebugConsole" xml:space="preserve">
+    <value>{0} - Debug Console</value>
+  </data>
 </root>
