@@ -732,6 +732,6 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
     <value>Lista zmian Genshin Stella Mod</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - Konsola debugowania</value>
   </data>
 </root>
