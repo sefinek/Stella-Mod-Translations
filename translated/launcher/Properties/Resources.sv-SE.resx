@@ -736,6 +736,6 @@ Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
     <value>Genshin Stella Mod Ändringslogg</value>
   </data>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
-    <value>{0} - Debug Console</value>
+    <value>{0} - Felsökningskonsol</value>
   </data>
 </root>
