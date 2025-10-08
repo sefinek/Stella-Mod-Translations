@@ -734,4 +734,34 @@ Would you like to check the status page now at status.sefinek.net?</value>
   <data name="Program_Main_DebugConsole" xml:space="preserve">
     <value>{0} - Debug Console</value>
   </data>
+  <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
+    <value>Hello,
+
+I encountered a problem while using Stella Mod.
+
+---
+
+✏️ Additional information from me:
+[please describe step by step what you were doing before the error occurred – reproduction steps]
+
+---
+
+📌 Encoded technical details (for diagnostics, leave this string unchanged):
+{0}
+
+---
+
+ℹ️ Information:
+This mailbox is actively monitored. You should receive a reply shortly.
+
+---
+
+⚖️ Legal clause:
+This bug report may contain technical data required for diagnostics.
+By sending this message, you consent to its use solely for troubleshooting purposes,
+in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+  </data>
+  <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
+    <value>Bug report in Stella Mod - {0}</value>
+  </data>
 </root>

@@ -47,5 +47,5 @@ const moveTranslations = (targetDirectory, sourceDirectory) => {
 moveTranslations('D:/Projects/stella/Stella-Mod-Translations/configuration-window', 'D:/Projects/stella/Genshin-Impact-ReShade/Stella.Configuration');
 moveTranslations('D:/Projects/stella/Stella-Mod-Translations/launcher', 'D:/Projects/stella/Genshin-Impact-ReShade/Stella.Launcher');
 moveTranslations('D:/Projects/stella/Stella-Mod-Translations/prepare-stella', 'D:/Projects/stella/Genshin-Impact-ReShade/Stella.Prepare');
-moveTranslations('D:/Projects/stella/Stella-Mod-Translations/info-before-start', 'D:/Projects/stella/Genshin-Impact-ReShade/Stella.InfoBeforeStart');
+moveTranslations('D:/Projects/stella/Stella-Mod-Translations/info-before-start', 'D:/Projects/stella/Genshin-Impact-ReShade/Stella.Welcome');
 moveTranslations('D:/Projects/stella/Stella-Mod-Translations/fps-unlocker', 'D:/Projects/stella/Genshin-FPS-Unlocker/unlockfps_nc');
