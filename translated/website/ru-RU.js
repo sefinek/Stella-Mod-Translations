@@ -256,9 +256,6 @@ exports.docs = {
   MigotoLicense: '{0}. {1} Лицензия 3DMigoto',
   Credits: '{0}. {1} Титры',
  },
- CreationDate: 'Дата создания: {0}',
- FileSize: 'Размер файла: {0}',
- bytes: 'байт',
 };
 
 // GET /genshin-stella-mod/repositories
