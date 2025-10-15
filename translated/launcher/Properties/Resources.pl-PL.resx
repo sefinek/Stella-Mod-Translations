@@ -735,33 +735,32 @@ Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</val
     <value>{0} - Konsola debugowania</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>Cześć,
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+Napotkałem problem podczas korzystania z Stella Mod.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ Dodatkowe informacje ode mnie:
+[proszę opisać krok po kroku, co robiłeś przed wystąpieniem błędu – kroki reprodukcji]
+
+---
+
+📌 Zakodowane dane techniczne (do diagnostyki, proszę nie zmieniać tego ciągu):
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ Informacje:
+Ta skrzynka pocztowa jest aktywnie monitorowana. Wkrótce powinieneś otrzymać odpowiedź.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ Klauzula prawna:
+To zgłoszenie błędu może zawierać dane techniczne potrzebne do diagnostyki.
+Wysyłając tę wiadomość, wyrażasz zgodę na ich wykorzystanie wyłącznie w celach rozwiązywania problemów, zgodnie z Polityką prywatności i Umową licencyjną Stella Mod.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Zgłoś błąd w Stella Mod - {0}</value>
   </data>
 </root>
