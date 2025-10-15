@@ -735,33 +735,33 @@ Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek i
     <value>{0} - Hata Ayıklama Konsolu</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>Merhaba,
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+Stella Mod'u kullanırken bir sorunla karşılaştım.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ Benim tarafımdan sağlanan ek bilgiler:
+[lütfen hata oluşmadan önce yaptığınız işlemleri adım adım açıklayın – yeniden oluşturma adımları]
+
+---
+
+📌 Kodlanmış teknik ayrıntılar (tanılama için bu dizeyi değiştirmeyin):
 {0}
 
 ---
 
-ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+ℹ️ Bilgi:
+Bu posta kutusu aktif olarak izlenmektedir. Kısa süre içinde bir yanıt alacaksınız.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ Yasal hüküm:
+Bu hata raporu, tanılama için gerekli teknik verileri içerebilir.
+Bu mesajı göndererek, Stella Mod Gizlilik Politikası ve Lisans Sözleşmesi uyarınca,
+bu mesajın yalnızca sorun giderme amacıyla kullanılmasına izin vermiş olursunuz.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Stella Mod'da hata raporu - {0}</value>
   </data>
 </root>
