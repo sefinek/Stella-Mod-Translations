@@ -739,33 +739,33 @@ Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
     <value>{0} - Felsökningskonsol</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Content" xml:space="preserve">
-    <value>Hello,
+    <value>Hej,
 
-I encountered a problem while using Stella Mod.
-
----
-
-✏️ Additional information from me:
-[please describe step by step what you were doing before the error occurred – reproduction steps]
+Jag stötte på ett problem när jag använde Stella Mod.
 
 ---
 
-📌 Encoded technical details (for diagnostics, leave this string unchanged):
+✏️ Ytterligare information från mig:
+[beskriv steg för steg vad du gjorde innan felet uppstod - reproduktionssteg]
+
+---
+
+📌 Kodade tekniska detaljer (för diagnostik, lämna denna sträng oförändrad):
 {0}
 
 ---
 
 ℹ️ Information:
-This mailbox is actively monitored. You should receive a reply shortly.
+Denna brevlåda övervakas aktivt. Du bör få ett svar inom kort.
 
 ---
 
-⚖️ Legal clause:
-This bug report may contain technical data required for diagnostics.
-By sending this message, you consent to its use solely for troubleshooting purposes,
-in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
+⚖️ Juridisk klausul:
+Denna felrapport kan innehålla tekniska data som krävs för diagnostik.
+Genom att skicka detta meddelande samtycker du till att det endast används för felsökning,
+i enlighet med Stella Mods sekretesspolicy och licensavtal.</value>
   </data>
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
-    <value>Bug report in Stella Mod - {0}</value>
+    <value>Buggrapport i Stella Mod - {0}</value>
   </data>
 </root>
