@@ -16,15 +16,15 @@
   "scripts": {
     "cleanup": "node scripts/cleanup-resx.js",
     "full": "git pull && npm run cleanup && npm run update",
+    "m": "ncu -u && npm install && npm update",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "up": "ncu -u && npm install && npm update && npm audit fix",
     "update": "node scripts/update-resx.js"
   },
   "dependencies": {
     "resx-cleanup": "^0.1.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.37.0",
-    "globals": "^16.4.0"
+    "@eslint/js": "^9.39.2",
+    "globals": "^16.5.0"
   }
 }
