@@ -771,7 +771,7 @@ Installerad version: v{1}</value>
     <value>10</value>
   </data>
   <data name="checkBox10.Text" xml:space="preserve">
-    <value>Auto-fix 3DMigoto mods (Stella Plus)</value>
+    <value>Automatisk korrigering av 3DMigoto-mods (Stella Plus)</value>
   </data>
   <data name="&gt;&gt;checkBox10.Name" xml:space="preserve">
     <value>checkBox10</value>
