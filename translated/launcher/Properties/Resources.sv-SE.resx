@@ -230,9 +230,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>ReShade-loggfilen hittades inte i:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Källa</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Uppdaterar. Vänligen vänta...</value>
   </data>
@@ -278,9 +275,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Tog bort den gamla installationsfilen från temp-mappen.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Bara chillar</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Förbereder... Om processen fastnar, starta om launchern.</value>
@@ -354,9 +348,6 @@ Nuvarande förinställning:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Öppna bild i standardwebbläsaren</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Tittar på gameplay</value>
