@@ -232,9 +232,6 @@
     <value>Файл журнала ReShade не найден в:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Исходный код</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Обновление. Пожалуйста, подождите...</value>
   </data>
@@ -280,9 +277,6 @@
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Удалён старый установочный файл из временного каталога.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Просто прохлаждаюсь</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Подготовка... Если процесс застопорился, снова откройте лаунчер.</value>
@@ -356,9 +350,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Версия: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Открыть изображение в браузере по умолчанию</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Смотреть игровой процесс</value>
