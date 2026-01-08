@@ -233,9 +233,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
     <value>Arquivo de registro ReShade não encontrado em:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Origem</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Atualizando... aguarde...</value>
   </data>
@@ -281,9 +278,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Arquivo de instalação antigo deletado do diretório temporário.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Relaxando</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Preparando... se o processo estiver parado, abra o launcher novamente.</value>
@@ -357,9 +351,6 @@ Preset atual:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Versão: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Abrir imagem no navegador padrão</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Assistindo gameplay</value>
