@@ -232,9 +232,6 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
     <value>ReShade log file was not found in:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Source</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Updating. Please wait...</value>
   </data>
@@ -280,9 +277,6 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Deleted old setup file from temp directory.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Just chilling</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Preparing... If process is stuck, reopen launcher.</value>
@@ -356,9 +350,6 @@ Current preset:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Version: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Open image in default browser</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Watching gameplay</value>

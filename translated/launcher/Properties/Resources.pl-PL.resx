@@ -232,9 +232,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Plik z dziennikiem zdarzeń nie został odnaleziony w:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Źródło</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Aktualizowanie, proszę czekać...</value>
   </data>
@@ -280,9 +277,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Usunięto stary plik instalacyjny z katalogu tymczasowego.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Chilluje sobie</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Przygotowywanie... Jeśli proces się zawiesi, uruchom ponownie launcher.</value>
@@ -356,9 +350,6 @@ Bieżący preset:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Wersja: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Otwórz zdjęcie w domyślnej przeglądarce</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Ogląda rozgrywkę</value>

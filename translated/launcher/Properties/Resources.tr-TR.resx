@@ -232,9 +232,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>ReShade çıktı dosyasının içinde bulunamadı:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Kaynak</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Güncelleniyor. Lütfen bekleyin...</value>
   </data>
@@ -280,9 +277,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Eski kurulum dosyası geçici dizinden silindi.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Sadece takılıyor</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>Hazırlanıyor... İşlem takılırsa, başlatıcıyı yeniden açın.</value>
@@ -356,9 +350,6 @@ Mevcut ön ayar:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Sürüm:{0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Görseli varsayılan tarayıcıda aç</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Oynanışı izliyor</value>

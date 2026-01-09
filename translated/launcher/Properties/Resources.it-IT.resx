@@ -232,9 +232,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
     <value>Il file log di ReShade non è stato trovato in:
 {0}</value>
   </data>
-  <data name="RandomImages_Source" xml:space="preserve">
-    <value>Sorgente</value>
-  </data>
   <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
     <value>Aggiornamento in corso. Attendere...</value>
   </data>
@@ -280,9 +277,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   </data>
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>File di configurazione precedente eliminato dalla directory temporanea.</value>
-  </data>
-  <data name="RandomImages_JustChilling" xml:space="preserve">
-    <value>Solo relax</value>
   </data>
   <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
     <value>In preparazione... Se il processo si blocca, riaprire il programma di avvio.</value>
@@ -356,9 +350,6 @@ Impostazioni predefinite attuali:
   </data>
   <data name="Version" xml:space="preserve">
     <value>Versione: {0}</value>
-  </data>
-  <data name="OpenImageInDefaultBrowser" xml:space="preserve">
-    <value>Apri l'immagine nel browser predefinito</value>
   </data>
   <data name="Gameplay_WatchingGameplay" xml:space="preserve">
     <value>Guardando il gameplay</value>
