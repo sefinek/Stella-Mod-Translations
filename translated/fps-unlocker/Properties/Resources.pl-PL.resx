@@ -200,8 +200,8 @@ Skonfiguruj poprawną ścieżkę w Konfiguracji.</value>
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToPostThreadMessage" xml:space="preserve">
-    <value>Nie udało się wysłać wiadomości w tym wątku.
-{0}</value>
+    <value>Nie udało się wysłać wiadomości wątku: {0}
+{1}</value>
   </data>
   <data name="IpcService_Start_FailedToStartUnlocker" xml:space="preserve">
     <value>Nie udało się uruchomić unlockera.</value>
