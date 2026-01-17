@@ -703,7 +703,7 @@ Szczegóły:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając ticket w Sefinek Patrons Center (https://patrons.sefinek.net) lub wysyłając e-mail na adres contact@sefinek.net.
+    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając ticket w Sefinek Patron Center (https://patrons.sefinek.net) lub wysyłając e-mail na adres contact@sefinek.net.
 
 Szczegóły:
 {0}
