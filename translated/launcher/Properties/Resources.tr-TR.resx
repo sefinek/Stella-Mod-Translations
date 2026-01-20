@@ -232,8 +232,8 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
     <value>ReShade çıktı dosyasının içinde bulunamadı:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Güncelleniyor. Lütfen bekleyin...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade yapılandırma dosyası içinde bulunamadı:
@@ -265,9 +265,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Güncelleme başarısız oldu. Yazılımın bir konuma erişimi reddedildi, bu da dosyaları kaydetmesini, kopyalamasını, açmasını veya yüklemesini engelledi.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Mod paketinin önceki sürümü siliniyor...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Stella Mod hakkındaki görüşlerinizi trustpilot.com'da paylaşır mısınız? Çok minnettar olurum.</value>
@@ -320,7 +317,10 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
     <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Dosyalar açılıyor... {1}'den {0}</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
@@ -703,12 +703,12 @@ Ayrıntılar:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Kimlik doğrulama sırasında önemli bir hata oluştu. Lütfen Sefinek Patrons Center'da (https://patrons.sefinek.net) bir destek talebi göndererek veya contact@sefinek.net adresine bir e-posta göndererek geliştiriciyle iletişime geçebilirsiniz.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
-Ayrıntılar:
+Details:
 {0}
 
-Sunucu durumunun bulundugu sayfaya şimdi status.sefinek.net adresinden gitmek ister misiniz?</value>
+Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>MoeCounter tema listesi alınamadı. Lütfen daha sonra tekrar deneyin.</value>

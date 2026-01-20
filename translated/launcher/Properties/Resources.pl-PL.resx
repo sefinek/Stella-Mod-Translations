@@ -232,8 +232,8 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
     <value>Plik z dziennikiem zdarzeń nie został odnaleziony w:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Aktualizowanie, proszę czekać...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Aktualizowanie, czekaj...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Plik konfiguracyjny ReShade nie został odnaleziony w:
@@ -265,9 +265,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Nie udało się zaktualizować. Oprogramowanie zostało pozbawione dostępu do lokalizacji, uniemożliwiając zapisywanie, kopiowanie, otwieranie lub wczytywanie plików.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Usuwanie poprzedniej wersji paczki modów...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Czy mógłbyś podzielić się swoją opinią na temat Stella Mod na trustpilot.com? Byłbym bardzo wdzięczny.</value>
@@ -320,7 +317,10 @@ Dzięki i do zobaczenia w grze! Baw się dobrze i miłej zabawy. Trzymaj się!</
     <value>Pobieranie pliku instalacyjnego... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Wypakowywanie plików... {0} z {1}</value>
+    <value>Rozpakowywanie plików... {0} z {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Usuwanie plików... {0} z {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Nie znaleziono pliku tła w '{0}'; Identyfikator: {1};</value>
@@ -703,12 +703,12 @@ Szczegóły:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając ticket w Sefinek Patron Center (https://patrons.sefinek.net) lub wysyłając e-mail na adres contact@sefinek.net.
+    <value>Wystąpił krytyczny błąd podczas uwierzytelniania. Skontaktuj się z deweloperem, przesyłając zgłoszenie w Sefinek Patron Center (https://patrons.sefinek.net) lub wysyłając wiadomość e-mail na adres contact@sefinek.net.
 
 Szczegóły:
 {0}
 
-Czy chcesz teraz sprawdzić stronę statusu pod adresem status.sefinek.net?</value>
+Czy chcesz teraz sprawdzić stronę statusu na status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Nie udało się uzyskać listy motywów MoeCounter. Spróbuj ponownie później.</value>

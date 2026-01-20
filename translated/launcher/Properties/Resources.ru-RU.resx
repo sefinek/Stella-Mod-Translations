@@ -232,8 +232,8 @@
     <value>Файл журнала ReShade не найден в:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Обновление. Пожалуйста, подождите...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Файл конфигурации ReShade не найден в:
@@ -265,9 +265,6 @@
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Не удалось обновить. Программе было отказано в доступе к местоположению, что не позволило ей сохранить, скопировать, открыть или загрузить файлы.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Удаление предыдущей версии мод-пака...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Не могли бы вы поделиться своим мнением о Stella Mod на сайте trustpilot.ru? Я буду очень признателен.</value>
@@ -320,7 +317,10 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Загружаем установочный файл... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Распаковка файлов... {0} из {1}</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Исходный файл не был найден в '{0}'; идентификатор: {1};</value>
@@ -703,12 +703,12 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Во время аутентификации произошла критическая ошибка. Пожалуйста, свяжитесь с разработчиком, отправив заявку в Центр поддержки клиентов Sefinek (https://patrons.sefinek.net) или отправив электронное письмо по адресу contact@sefinek.net.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
-Подробности:
+Details:
 {0}
 
-Не хотите ли проверить статус на странице status.sefinek.net?</value>
+Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Failed to fetch the list of MoeCounter themes. Please try again later.</value>

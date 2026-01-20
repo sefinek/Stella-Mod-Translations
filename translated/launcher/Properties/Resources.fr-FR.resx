@@ -232,8 +232,8 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
     <value>ReShade log file was not found in:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating. Please wait...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade config file was not found in:
@@ -265,9 +265,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Failed to update. The software was denied access to a location, preventing it from saving, copying, opening or loading files.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Deleting the previous version of the mod pack...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Would you share your opinion about Stella Mod on trustpilot.com? I would be very grateful.</value>
@@ -320,7 +317,10 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Téléchargement du fichier d'installation... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Déballage des fichiers... {0} de {1}</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Le fichier d'arrière-plan n'a pas été trouvé dans '{0}' ; ID : {1} ;</value>
@@ -703,7 +703,7 @@ Details:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patrons Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
 Details:
 {0}
