@@ -232,8 +232,8 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
     <value>Il file log di ReShade non è stato trovato in:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Aggiornamento in corso. Attendere...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>Il file di configurazione di ReShade non è stato trovato in:
@@ -265,9 +265,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Aggiornamento fallito. Al software è stato negato l'accesso a una posizione, impedendogli di salvare, copiare, aprire o caricare i file.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Eliminando la versione precedente del pacchetto mod...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Condivideresti la tua opinione su Stella Mod su trustpilot.com? Te ne sarei molto grato.</value>
@@ -320,7 +317,10 @@ Grazie e ci vediamo nel gioco! Divertiti e divertiti. Ciao!</value>
     <value>Scaricando il file di installazione... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Decompressione dei file... {0} da {1}</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Il file di sfondo non è stato trovato in '{0}'; ID: {1};</value>
@@ -703,12 +703,12 @@ Dettagli:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Si è verificato un errore critico durante l'autenticazione. Perfavore contatta lo sviluppatore inviando un ticket al Sefinek Patrons Center (https://patrons.sefinek.net) o inviando un'email a contact@sefinek.net.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
-Dettagli:
+Details:
 {0}
 
-Vuoi controllare ora la pagina di stato su status.sefinek.net?</value>
+Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Impossibile recuperare l'elenco dei temi MoeCounter. Riprova più tardi.</value>
