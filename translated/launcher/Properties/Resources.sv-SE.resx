@@ -230,8 +230,8 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
     <value>ReShade-loggfilen hittades inte i:
 {0}</value>
   </data>
-  <data name="NormalRelease_UpdatingPleaseWait" xml:space="preserve">
-    <value>Uppdaterar. Vänligen vänta...</value>
+  <data name="Default_UpdatingPleaseWait" xml:space="preserve">
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade-konfigurationsfilen hittades inte i:
@@ -263,9 +263,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   </data>
   <data name="Cmd_FailedToUpdate" xml:space="preserve">
     <value>Misslyckades med att uppdatera. Programvaran nekades åtkomst till en plats, vilket förhindrade den från att spara, kopiera, öppna eller ladda filer.</value>
-  </data>
-  <data name="StellaResources_DeletingThePreviousVersionOfTheModPack" xml:space="preserve">
-    <value>Raderar den tidigare versionen av mod-paketet...</value>
   </data>
   <data name="Program_WouldYouShareOpinionAboutStellaMod" xml:space="preserve">
     <value>Skulle du kunna dela din åsikt om Stella Mod på trustpilot.com? Jag skulle vara väldigt tacksam.</value>
@@ -318,7 +315,10 @@ Tack, och vi ses i spelet! Ha det så kul och njut. Skål!</value>
     <value>Laddar ner installationsfilen... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Packar upp filer... {0} från {1}</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+  </data>
+  <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Bakgrundsfilen hittades inte i '{0}'; ID: {1};</value>
@@ -707,12 +707,12 @@ Details:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Ett allvarligt fel inträffade under autentisering. Vänligen kontakta utvecklaren genom att skicka in ett ärende till Sefinek Patrons Center (https://patrons.sefinek.net) eller genom att skicka ett e-postmeddelande till contact@sefinek.net.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
-Detaljer:
+Details:
 {0}
 
-Vill du kontrollera driftstatussidan nu på status.sefinek.net?</value>
+Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>Det gick inte att hämta listan över MoeCounter-teman. Försök igen senare.</value>
