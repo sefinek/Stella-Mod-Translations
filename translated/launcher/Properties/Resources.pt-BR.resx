@@ -143,9 +143,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Mods 3DMigoto dos inscritos Stella Plus atualizados com sucesso.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Arquivo de instalação antigo deletado do diretório temporário.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Lendo a documentação</value>
   </data>
