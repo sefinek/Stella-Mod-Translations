@@ -242,10 +242,10 @@
     <value>144</value>
   </data>
   <data name="checkBox11.Text" xml:space="preserve">
-    <value>Keep benefit ZIP files as backup (Stella Plus)</value>
+    <value>Zachowaj pliki ZIP jako kopię zapasową (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>When enabled, downloaded benefit ZIP files will be kept in &lt;YOUR RESOURCES FOLDER&gt;\Temp files after extraction. This allows you to restore files manually if something goes wrong during the update process.</value>
+    <value>Po włączeniu tej opcji pobrane pliki ZIP z korzyściami będą zachowywane w folderze &lt;TWÓJ FOLDER ZASOBÓW&gt;\Temp files po rozpakowaniu. Umożliwia to ręczne przywrócenie plików, jeśli podczas procesu aktualizacji coś pójdzie nie tak.</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -735,7 +735,7 @@ Zainstalowana wersja: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance:</value>
+    <value>Wygląd moecountera:</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
