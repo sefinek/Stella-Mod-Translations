@@ -142,9 +142,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Stella Plus aboneleri için 3DMigoto modları başarıyla güncellendi.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Eski kurulum dosyası geçici dizinden silindi.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Belgeleri okuyun</value>
   </data>
