@@ -142,9 +142,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Uppdaterade 3DMigoto-mods framgångsrikt för Stella Plus-prenumeranter.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Den gamla installationsfilen har raderats från temp-katalogen.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Läser dokumentationen</value>
   </data>
