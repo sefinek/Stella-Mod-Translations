@@ -142,9 +142,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Pomyślnie zaktualizowano mody 3DMigoto dla subskrybentów Stella Plus.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Usunięto stary plik instalacyjny z katalogu tymczasowego.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Czyta dokumentacje</value>
   </data>

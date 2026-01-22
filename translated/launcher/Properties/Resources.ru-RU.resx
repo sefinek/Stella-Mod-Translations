@@ -142,9 +142,6 @@
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Успешно обновлены моды 3DMigoto для подписчиков Stella Plus.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Удалён старый установочный файл из временного каталога.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Читает документацию</value>
   </data>

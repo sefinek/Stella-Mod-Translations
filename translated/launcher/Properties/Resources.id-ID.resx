@@ -142,9 +142,6 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Successfully updated 3DMigoto mods for Stella Plus subscribers.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>Deleted old setup file from temp directory.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Reading the documentation</value>
   </data>

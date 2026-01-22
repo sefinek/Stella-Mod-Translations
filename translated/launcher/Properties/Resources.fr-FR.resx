@@ -142,9 +142,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="UpdateBenefits_SuccessfullyUpdated3DMigotoMods" xml:space="preserve">
     <value>Les mods 3DMigoto pour les abonnés Stella Plus ont été mis à jour avec succès.</value>
   </data>
-  <data name="NormalRelease_DeletedOldSetupFileFromTempDir" xml:space="preserve">
-    <value>J'ai supprimé l'ancien fichier d'installation du répertoire temporaire.</value>
-  </data>
   <data name="DiscordRPC_Status_ReadingTheDocumentation" xml:space="preserve">
     <value>Lire la documentation</value>
   </data>
