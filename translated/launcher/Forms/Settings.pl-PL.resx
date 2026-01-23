@@ -245,7 +245,7 @@
     <value>Zachowaj pliki ZIP jako kopię zapasową (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>Po włączeniu tej opcji pobrane pliki ZIP z korzyściami będą zachowywane w folderze &lt;TWÓJ FOLDER ZASOBÓW&gt;\Temp files po rozpakowaniu. Umożliwia to ręczne przywrócenie plików, jeśli podczas procesu aktualizacji coś pójdzie nie tak.</value>
+    <value>When enabled, downloaded benefit ZIP files will be kept in the '&lt;YOUR RESOURCES FOLDER&gt;\Temp files' folder after extraction. If you accidentally damage a mod or encounter other issues, you can easily restore its original version from the backup. If you do not plan to modify mods, you may disable this option to save disk space.</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -702,7 +702,7 @@ Zainstalowana wersja: v{1}</value>
     <value>212, 433</value>
   </data>
   <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 23</value>
+    <value>172, 23</value>
   </data>
   <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
     <value>141</value>
@@ -805,6 +805,9 @@ Zainstalowana wersja: v{1}</value>
   </data>
   <data name="checkBox10.Text" xml:space="preserve">
     <value>Automatyczna naprawa modów 3DMigoto (Stella Plus)</value>
+  </data>
+  <data name="checkBox10.ToolTip" xml:space="preserve">
+    <value>Automatically fixes 3DMigoto mods on game launch.</value>
   </data>
   <data name="&gt;&gt;checkBox10.Name" xml:space="preserve">
     <value>checkBox10</value>
