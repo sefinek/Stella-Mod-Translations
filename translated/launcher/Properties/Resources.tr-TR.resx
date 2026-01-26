@@ -272,9 +272,6 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Eski kurulum dosyası geçici dizinden silindi.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Hazırlanıyor... İşlem takılırsa, başlatıcıyı yeniden açın.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Ses dosyası ({0}) bulunamadı.</value>
   </data>
