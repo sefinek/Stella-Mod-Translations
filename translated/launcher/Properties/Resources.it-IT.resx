@@ -272,9 +272,6 @@ Se, per qualsiasi motivo, non riesci ad aggiornare Stella Mod utilizzando il Lau
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>File di configurazione precedente eliminato dalla directory temporanea.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>In preparazione... Se il processo si blocca, riaprire il programma di avvio.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Il file audio ({0}) non è stato trovato.</value>
   </data>
