@@ -284,7 +284,7 @@
     <value>Efekty DWM *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
-    <value>Enables various Desktop Window Manager visual effects. Disabling this option may improve performance on older hardware.</value>
+    <value>Włącza różne efekty wizualne Menedżera okien pulpitu (DWM). Wyłączenie tej opcji może poprawić wydajność na starszym sprzęcie.</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
@@ -738,7 +738,7 @@ Zainstalowana wersja: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Wygląd moecountera:</value>
+    <value>Wygląd licznika moe:</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
