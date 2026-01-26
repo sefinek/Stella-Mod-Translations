@@ -272,9 +272,6 @@ Jeśli z jakiegoś powodu nie możesz zaktualizować Stella Mod za pomocą Launc
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Usunięto stary plik instalacyjny z katalogu tymczasowego.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Przygotowywanie... Jeśli proces się zawiesi, uruchom ponownie launcher.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Plik dźwiękowy ({0}) nie został znaleziony.</value>
   </data>
