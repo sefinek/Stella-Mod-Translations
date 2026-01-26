@@ -272,9 +272,6 @@ If, for any reason, you are unable to update Stella Mod using the Launcher, plea
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Deleted old setup file from temp directory.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparing... If process is stuck, reopen launcher.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Audio file ({0}) was not found.</value>
   </data>
