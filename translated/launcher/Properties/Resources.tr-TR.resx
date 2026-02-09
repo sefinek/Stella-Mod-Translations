@@ -230,7 +230,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>Güncelleniyor. Lütfen bekleyin...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade yapılandırma dosyası içinde bulunamadı:
@@ -311,7 +311,7 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
     <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>Dosyaları açılıyor... {0} {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
     <value>Deleting files... {0} from {1} ({2} / {3})</value>
