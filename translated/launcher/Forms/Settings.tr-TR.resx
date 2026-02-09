@@ -139,7 +139,7 @@
     <value>74</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Genshin Stella Mod Launcher 2026</value>
+    <value>Genshin Stella Mod Başlatıcısı 2026</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -738,7 +738,7 @@ Yüklü sürüm: v{1}</value>
     <value>142</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Moecounter appearance:</value>
+    <value>Moecounter görünümü:</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
