@@ -167,43 +167,43 @@ GenshinImpact.exe veya YuanShen.exe</value>
     <value>"StellaPath" kayıt defteri anahtarı bulunamadı. Genshin Stella Mod'un yüklü olduğundan emin misiniz?</value>
   </data>
   <data name="Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Uyarı</value>
   </data>
   <data name="Success" xml:space="preserve">
-    <value>Success</value>
+    <value>Başarılı</value>
   </data>
   <data name="ProcessService_StartGame_GameNotFound" xml:space="preserve">
-    <value>Game executable not found:
+    <value>Yürütülebilir oyun dosyası bulunamadı:
 {0}
 
-Please configure the correct path in Setup.</value>
+Lütfen Kurulumda doğru yolu ayarlayın.</value>
   </data>
   <data name="ProcessService_StartGame_GameAlreadyRunning" xml:space="preserve">
-    <value>An instance of the game is already running. Please close it first.</value>
+    <value>Oyun zaten çalışıyor. Lütfen önce oyunu kapatın.</value>
   </data>
   <data name="ProcessService_StartGame_FailedToEnableHDR" xml:space="preserve">
-    <value>Failed to enable HDR: {0}</value>
+    <value>HDR etkinleştirilemedi: {0}</value>
   </data>
   <data name="ProcessService_StartGame_CreateProcessFailed" xml:space="preserve">
-    <value>CreateProcess failed ({0})
+    <value>Oluşturma işlemi başarısız oldu ({0})
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToCreateSharedMemory" xml:space="preserve">
-    <value>Failed to create shared memory.</value>
+    <value>Paylaşımlı bellek oluşturulamadı.</value>
   </data>
   <data name="IpcService_Start_FailedToLoadStubModule" xml:space="preserve">
-    <value>Failed to load stub module: {0}
+    <value>Kök modülü yüklenemedi: {0}
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToSetWindowHook" xml:space="preserve">
-    <value>Failed to set window hook: {0}
+    <value>Pencere bağlantısı kurulamadı: {0}
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToPostThreadMessage" xml:space="preserve">
-    <value>Failed to post thread message: {0}
+    <value>İleti gönderilemedi: {0}
 {1}</value>
   </data>
   <data name="IpcService_Start_FailedToStartUnlocker" xml:space="preserve">
-    <value>Failed to start the unlocker.</value>
+    <value>Unlocker başlatılamadı.</value>
   </data>
 </root>
