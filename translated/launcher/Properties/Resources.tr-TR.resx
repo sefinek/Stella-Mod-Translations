@@ -749,4 +749,13 @@ bu mesajın yalnızca sorun giderme amacıyla kullanılmasına izin vermiş olur
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
     <value>Stella Mod'da hata raporu - {0}</value>
   </data>
+  <data name="ReShadeStandardFileNotFound" xml:space="preserve">
+    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+  </data>
+  <data name="ReShadeAddonFileNotFound" xml:space="preserve">
+    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+  </data>
+  <data name="ReShadeSwapFailed" xml:space="preserve">
+    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+  </data>
 </root>

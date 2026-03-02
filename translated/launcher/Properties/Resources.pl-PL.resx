@@ -748,4 +748,13 @@ Wysyłając tę wiadomość, wyrażasz zgodę na ich wykorzystanie wyłącznie w
   <data name="ErrorOccurred_SendEmail_Subject" xml:space="preserve">
     <value>Zgłoś błąd w Stella Mod - {0}</value>
   </data>
+  <data name="ReShadeStandardFileNotFound" xml:space="preserve">
+    <value>Nie znaleziono kopii zapasowej standardowej biblioteki DLL ReShade. Zainstaluj ponownie Stella Mod, aby przywrócić brakujące pliki.</value>
+  </data>
+  <data name="ReShadeAddonFileNotFound" xml:space="preserve">
+    <value>Nie znaleziono biblioteki DLL obsługującej dodatki ReShade. Zainstaluj ponownie Stella Mod, aby przywrócić brakujące pliki.</value>
+  </data>
+  <data name="ReShadeSwapFailed" xml:space="preserve">
+    <value>Nie udało się przełączyć wariantu ReShade. Plik może być używany lub dostęp jest zabroniony.</value>
+  </data>
 </root>
