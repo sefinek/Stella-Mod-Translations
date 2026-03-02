@@ -749,12 +749,12 @@ Wysyłając tę wiadomość, wyrażasz zgodę na ich wykorzystanie wyłącznie w
     <value>Zgłoś błąd w Stella Mod - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Nie znaleziono kopii zapasowej standardowej biblioteki DLL ReShade. Zainstaluj ponownie Stella Mod, aby przywrócić brakujące pliki.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Nie znaleziono biblioteki DLL obsługującej dodatki ReShade. Zainstaluj ponownie Stella Mod, aby przywrócić brakujące pliki.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>Nie udało się przełączyć wariantu ReShade. Plik może być używany lub dostęp jest zabroniony.</value>
   </data>
 </root>
