@@ -270,9 +270,6 @@ Om du av någon anledning inte kan uppdatera Stella Mod via launchern, avinstall
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Tog bort den gamla installationsfilen från temp-mappen.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Förbereder... Om processen fastnar, starta om launchern.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Ljudfilen ({0}) hittades inte.</value>
   </data>

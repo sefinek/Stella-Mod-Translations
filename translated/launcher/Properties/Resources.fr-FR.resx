@@ -272,9 +272,6 @@ Si, pour une raison quelconque, vous ne parvenez pas à mettre à jour Stella Mo
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Deleted old setup file from temp directory.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparing... If process is stuck, reopen launcher.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Audio file ({0}) was not found.</value>
   </data>

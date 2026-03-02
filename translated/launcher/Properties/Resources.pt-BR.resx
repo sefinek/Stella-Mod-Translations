@@ -273,9 +273,6 @@ Se, por alguma razão, você não conseguir atualizar o Stella Mod usando o laun
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Arquivo de instalação antigo deletado do diretório temporário.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Preparando... se o processo estiver parado, abra o launcher novamente.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Arquivo de áudio ({0}) não encontrado.</value>
   </data>

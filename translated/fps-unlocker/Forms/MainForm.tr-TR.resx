@@ -409,7 +409,7 @@
     <value>132, 22</value>
   </data>
   <data name="StartGameMenuItem.Text" xml:space="preserve">
-    <value>Start Game</value>
+    <value>Oyunu Başlat</value>
   </data>
   <data name="ExitMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 22</value>

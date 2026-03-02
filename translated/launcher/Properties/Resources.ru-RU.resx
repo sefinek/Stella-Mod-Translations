@@ -272,9 +272,6 @@
   <data name="Default_DeletedOldSetupFromTempDirectory" xml:space="preserve">
     <value>Удалён старый установочный файл из временного каталога.</value>
   </data>
-  <data name="NormalRelease_Preparing_IfProcessIsStuckReopenLauncher" xml:space="preserve">
-    <value>Подготовка... Если процесс застопорился, снова откройте лаунчер.</value>
-  </data>
   <data name="Default_AudioFileWasNotFound" xml:space="preserve">
     <value>Аудиофайл ({0}) не найден.</value>
   </data>
