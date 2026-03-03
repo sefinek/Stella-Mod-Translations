@@ -36,10 +36,14 @@ const moveTranslations = (targetDirectory, sourceDirectory) => {
 			if (filesDiffer(sourceFile, targetFile)) {
 				fs.mkdirSync(path.dirname(targetFile), { recursive: true });
 				fs.copyFileSync(sourceFile, targetFile);
+
+				// CRLF
+				const text = fs.readFileSync(targetFile, 'utf8');
+				fs.writeFileSync(targetFile, text.replace(/\r?\n/g, '\r\n'), 'utf8');
 				console.log(`✔ ${sourceFile} -> ${targetFile}`);
 			}
-		} catch (error) {
-			console.error(`✖ Failed to copy ${sourceFile}: ${error.message}`);
+		} catch (err) {
+			console.error(`✖ Failed to copy ${sourceFile}`, err);
 		}
 	});
 };
