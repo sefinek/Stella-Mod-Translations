@@ -341,7 +341,7 @@
     <value>Full add-on support</value>
   </data>
   <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>663, 182</value>
+    <value>632, 182</value>
   </data>
   <data name="comboBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>172, 23</value>
@@ -643,7 +643,7 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>Segoe UI, 11.25pt</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 576</value>
+    <value>27, 571</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>419, 40</value>
@@ -734,7 +734,7 @@ Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Requi
     <value>7</value>
   </data>
   <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>212, 428</value>
+    <value>252, 429</value>
   </data>
   <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>172, 23</value>
