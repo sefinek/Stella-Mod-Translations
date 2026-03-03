@@ -343,7 +343,6 @@ exports.subscription = {
 		RoleOnTheDiscordServer: 'Role on the Discord server',
 		VisibilityOnTheSubscriberList: 'Visibility on the subscriber list',
 		NoAdsOnTheWebsiteForPatrons: 'No ads on the website for patrons (SPC)',
-		PrivateClipsFromCSGO: 'Private clips from CS:GO and CS2',
 		CompletePostArchive: 'Complete post archive',
 
 		RayTracingForGenshin: 'Ray Tracing for Genshin',
@@ -359,7 +358,7 @@ exports.subscription = {
 		MuchGreaterPrivacy: 'Much greater privacy',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
+		// ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
@@ -375,7 +374,6 @@ exports.subscription = {
 		RoleOnTheDiscordServer: 'Role on the Discord server',
 		VisibilityOnTheSubscriberList: 'Visibility on the subscriber list',
 		NoAdsOnTheWebsiteForPatrons: 'No ads on the website for patrons',
-		PrivateClipsFromCSGO: 'Private clips from CS:GO and CS2',
 		CompletePostArchive: 'Complete post archive',
 
 		RayTracingForGenshin: 'Ray Tracing for Genshin',
@@ -388,10 +386,10 @@ exports.subscription = {
 		FasterDownloadServers: 'Faster download servers',
 
 		CarefullyDesignedSecuritySystem: 'Carefully designed security system',
-		MuchGreaterPrivacy: 'Much greater privacy',
+		MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
+		// ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
