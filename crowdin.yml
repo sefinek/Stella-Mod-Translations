@@ -8,6 +8,13 @@ locale_map:
   sv-SE: "sv"
   es-ES: "es"
   it-IT: "it"
+  ar-SA: "ar"
+  de-DE: "de"
+  id-ID: "id"
+  ja-JP: "ja"
+  vi-VN: "vi"
+  zh-CN: "zh-Hans"
+  zh-TW: "zh-Hant"
 
 files:
   - source: "/launcher/**/*.resx"
