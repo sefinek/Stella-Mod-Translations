@@ -3,7 +3,7 @@ This repository contains translation files for Stella Mod Launcher and for [stel
 
 [![Crowdin](https://badges.crowdin.net/genshin-stella-mod/localized.svg)](https://crowdin.com/project/genshin-stella-mod)
 
-## 📁 How to Contribute?
+## 🤝 How to Contribute?
 Visit: https://crowdin.com/project/genshin-stella-mod
 
 ## 💙 Acknowledgments
