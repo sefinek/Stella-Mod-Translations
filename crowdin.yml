@@ -1,5 +1,14 @@
 source_language: "en"
 
+locale_map:
+  pl-PL: "pl"
+  fr-FR: "fr"
+  tr-TR: "tr"
+  ru-RU: "ru"
+  sv-SE: "sv"
+  es-ES: "es"
+  it-IT: "it"
+
 files:
   - source: "/launcher/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
