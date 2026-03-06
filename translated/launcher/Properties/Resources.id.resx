@@ -758,4 +758,11 @@ in accordance with the Stella Mod Privacy Policy and License Agreement.</value>
   <data name="ReShadeSwapFailed" xml:space="preserve">
     <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
   </data>
+  <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
+    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+
+Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+
+Would you like to switch now?</value>
+  </data>
 </root>
