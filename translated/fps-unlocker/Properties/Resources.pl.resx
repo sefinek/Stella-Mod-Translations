@@ -146,7 +146,7 @@
     <value>To nie jest właściwe miejsce.</value>
   </data>
   <data name="SetupForm_BtnBrowse_Click_PleaseSelectTheGameExe_GenshinImpactExeOrYuanShenExe" xml:space="preserve">
-    <value>Wybierz plik EXE gry:
+    <value>Wybierz plik wykonywalny gry:
 GenshinImpact.exe lub YuanShen.exe</value>
   </data>
   <data name="SetupForm_PollProcess_FailedToFindProcessPathPleaseUseBrowseInstead" xml:space="preserve">
