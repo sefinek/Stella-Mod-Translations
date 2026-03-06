@@ -1,26 +1,8 @@
 source_language: "en"
 
-x-languages-mapping: &languages_mapping
-  locale:
-    pl-PL: pl
-    fr-FR: fr
-    tr-TR: tr
-    ru-RU: ru
-    sv-SE: sv
-    es-ES: es
-    it-IT: it
-    ar-SA: ar
-    de-DE: de
-    id-ID: id
-    ja-JP: ja
-    vi-VN: vi
-    zh-CN: zh-Hans
-    zh-TW: zh-Hant
-
 files:
   - source: "/launcher/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
@@ -31,30 +13,25 @@ files:
 
   - source: "/prepare-stella/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
   - source: "/configuration-window/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
   - source: "/info-before-start/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
   - source: "/fps-unlocker/**/*.resx"
     translation: "/translated/%original_path%/%file_name%.%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: true
     skip_untranslated_files: true
 
   - source: "/website/**/*.js"
     translation: "/translated/%original_path%/%locale%.%file_extension%"
-    languages_mapping: *languages_mapping
     skip_untranslated_strings: false
     skip_untranslated_files: false
