@@ -245,7 +245,7 @@
     <value>Zachowaj pliki ZIP jako kopię zapasową (Stella Plus)</value>
   </data>
   <data name="checkBox11.ToolTip" xml:space="preserve">
-    <value>Po włączeniu tej opcji pobrane pliki ZIP z benefitami będą zachowywane w folderze '&lt;TWÓJ FOLDER ZASOBÓW&gt;\Temp files' po rozpakowaniu. Jeśli przypadkowo uszkodzisz jakiś mod lub wystąpią inne problemy, będziesz mógł łatwo przywrócić oryginalną wersję z kopii zapasowej. Jeżeli nie planujesz modyfikować modów, możesz wyłączyć tę opcję, aby zaoszczędzić miejsce na dysku.</value>
+    <value>Po włączeniu tej opcji pobrane pliki ZIP z korzyściami będą zachowywane w folderze '&lt;TWÓJ FOLDER ZASOBÓW&gt;\Temp files' po rozpakowaniu. Jeśli przypadkowo uszkodzisz jakiś mod lub wystąpią inne problemy, będziesz mógł łatwo przywrócić oryginalną wersję z kopii zapasowej. Jeżeli nie planujesz modyfikować modów, możesz wyłączyć tę opcję, aby zaoszczędzić miejsce na dysku.</value>
   </data>
   <data name="&gt;&gt;checkBox11.Name" xml:space="preserve">
     <value>checkBox11</value>
@@ -284,7 +284,7 @@
     <value>Efekty DWM *</value>
   </data>
   <data name="checkBox6.ToolTip" xml:space="preserve">
-    <value>Włącza różne efekty wizualne Menedżera okien pulpitu (DWM). Wyłączenie tej opcji może poprawić wydajność na starszym sprzęcie.</value>
+    <value>Włącza różne efekty wizualne Menedżera okien pulpitu. Wyłączenie tej opcji może poprawić wydajność na starszym sprzęcie.</value>
   </data>
   <data name="&gt;&gt;checkBox6.Name" xml:space="preserve">
     <value>checkBox6</value>
