@@ -230,7 +230,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Güncelleniyor. Lütfen bekleyin...</value>
+    <value>Updating, please wait...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade yapılandırma dosyası içinde bulunamadı:
@@ -311,10 +311,10 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
     <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Dosyaları açılıyor... {0} {1} ({2} / {3})</value>
+    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Dosyalar siliniyor... {0} / {1} ({2} / {3})</value>
+    <value>Deleting files... {0} from {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
@@ -697,12 +697,12 @@ Ayrıntılar:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>Kimlik doğrulama sırasında kritik bir hata oluştu. Sefinek Patron Merkezi'nde (https://patrons.sefinek.net) bir bilet göndererek veya contact@sefinek.net adresine e-posta göndererek geliştiriciyle iletişime geçin.
+    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
 
-Ayrıntılar:
+Details:
 {0}
 
-Durum sayfasını şimdi status.sefinek.net adresinden kontrol etmek ister misiniz?</value>
+Would you like to check the status page now at status.sefinek.net?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>MoeCounter tema listesi alınamadı. Lütfen daha sonra tekrar deneyin.</value>
@@ -757,5 +757,12 @@ bu mesajın yalnızca sorun giderme amacıyla kullanılmasına izin vermiş olur
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
     <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+  </data>
+  <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
+    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+
+Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+
+Would you like to switch now?</value>
   </data>
 </root>
