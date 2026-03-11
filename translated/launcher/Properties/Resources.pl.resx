@@ -479,7 +479,7 @@ Bieżący preset:
     <value>Oczekiwanie na DxDiag...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>Chociaż proces może wydawać się martwy, nadal działa. Proszę cierpliwie czekać...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Kompresowanie zebranych plików...</value>
@@ -500,7 +500,7 @@ Bieżący preset:
     <value>Jako właściciel przesłanych logów masz do nich pełne prawa. Jeśli chcesz, abyśmy usunęli je z naszej bazy danych, skontaktuj się z deweloperem i podaj następujący identyfikator: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>Niestety coś poszło nie tak. Możesz zamknąć to okno.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Niestety, podczas przesyłania pliku wystąpił błąd. Prosimy o przyjęcie naszych przeprosin.
