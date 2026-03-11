@@ -470,11 +470,6 @@ Preset atual:
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Solicitando autorização para enviar logs...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>O servidor remoto não lhe concedeu permissão para enviar os logs. Você encontrará mais detalhes abaixo.
-
-{0}</value>
-  </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Preparando diretório temporário...</value>
   </data>
@@ -483,6 +478,9 @@ Preset atual:
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
     <value>Aguardando DxDiag...</value>
+  </data>
+  <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
+    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Compactando arquivos coletados...</value>
@@ -503,7 +501,7 @@ Preset atual:
     <value>Como proprietário dos logs enviados, você tem direitos totais sobre eles. Se você quiser que os removamos do nosso banco de dados, entre em contato com o desenvolvedor e forneça o seguinte identificador: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Desculpe, algo deu errado ):</value>
+    <value>Sorry, but something went wrong. You can close this window.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Infelizmente, algo deu errado durante o upload do arquivo. Por favor, aceite nossas desculpas.
