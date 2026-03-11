@@ -467,11 +467,6 @@ Nuvarande förinställning:
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Begäran om godkännande för att ladda upp loggar...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Den fjärrservern gav dig inte behörighet att skicka loggarna. Du hittar fler detaljer nedan.
-
-{0}</value>
-  </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Förbereder temporär mapp...</value>
   </data>
@@ -480,6 +475,9 @@ Nuvarande förinställning:
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
     <value>Väntar på DxDiag...</value>
+  </data>
+  <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
+    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Komprimering av insamlade filer...</value>
@@ -500,7 +498,7 @@ Nuvarande förinställning:
     <value>Som ägare av de inlämnade loggarna har du fullständiga rättigheter till dem. Om du vill att vi ska ta bort dem från vår databas, vänligen kontakta utvecklaren och ange följande identifierare: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Förlåt, men något gick fel ):</value>
+    <value>Sorry, but something went wrong. You can close this window.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Tyvärr, något gick fel under filuppladdningen. Vi ber om ursäkt för detta.

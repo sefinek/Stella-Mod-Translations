@@ -230,7 +230,7 @@ Herhangi bir nedenle Başlatıcıyı kullanarak Stella Mod'u güncelleyemiyorsan
 {0}</value>
   </data>
   <data name="Default_UpdatingPleaseWait" xml:space="preserve">
-    <value>Updating, please wait...</value>
+    <value>Güncelleniyor. Lütfen bekleyin...</value>
   </data>
   <data name="Tools_ReShadeConfigFileWasNotFoundIn_" xml:space="preserve">
     <value>ReShade yapılandırma dosyası içinde bulunamadı:
@@ -311,10 +311,10 @@ Teşekkürler ve oyunda görüşmek üzere! Eğlenin ve tadını çıkarın. Şe
     <value>Yükleyici dosyası indiriliyor... {0} / {1}</value>
   </data>
   <data name="StellaResources_UnpackingFiles_From_" xml:space="preserve">
-    <value>Unpacking files... {0} from {1} ({2} / {3})</value>
+    <value>Dosyaları açılıyor... {0} {1} ({2} / {3})</value>
   </data>
   <data name="StellaResources_DeletingFiles_From_" xml:space="preserve">
-    <value>Deleting files... {0} from {1} ({2} / {3})</value>
+    <value>Dosyalar siliniyor... {0} / {1} ({2} / {3})</value>
   </data>
   <data name="Default_BackgroundFileWasNotFoundIn_.ID" xml:space="preserve">
     <value>Arka plan dosyası '{0}' içinde bulunamadı; ID: {1};</value>
@@ -469,11 +469,6 @@ Mevcut ön ayar:
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Çıktıları yüklemek için onay isteniyor...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Uzak sunucu çıktıları göndermeniz için size izin vermedi. Aşağıda daha fazla ayrıntıyı bulacaksınız.
-
-{0}</value>
-  </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Geçici dizin hazırlanıyor...</value>
   </data>
@@ -482,6 +477,9 @@ Mevcut ön ayar:
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
     <value>DxDiag bekleniyor...</value>
+  </data>
+  <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
+    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Toplanan dosyalar sıkıştırılıyor...</value>
@@ -502,7 +500,7 @@ Mevcut ön ayar:
     <value>Gönderilen çıktıların sahibi olarak, bunlar üzerinde tüm haklara sahipsiniz. Bunları veritabanımızdan kaldırmamızı istiyorsanız, lütfen geliştiriciyle iletişime geçin ve aşağıdaki tanımlayıcı ifadeyi iletin: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Üzgünüm, ama bir şeyler ters gitti ):</value>
+    <value>Sorry, but something went wrong. You can close this window.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Ne yazık ki, dosya yükleme sırasında bir şeyler ters gitti. Lütfen özür dileklerimizi kabul edin.
@@ -697,12 +695,12 @@ Ayrıntılar:
 {0}</value>
   </data>
   <data name="ACriticalErrorOccurredDuringAuthentication" xml:space="preserve">
-    <value>A critical error occurred during authentication. Please contact the developer by submitting a ticket at the Sefinek Patron Center (https://patrons.sefinek.net) or by sending an email to contact@sefinek.net.
+    <value>Kimlik doğrulama sırasında kritik bir hata oluştu. Sefinek Patron Merkezi'nde (https://patrons.sefinek.net) bir bilet göndererek veya contact@sefinek.net adresine e-posta göndererek geliştiriciyle iletişime geçin.
 
-Details:
+Ayrıntılar:
 {0}
 
-Would you like to check the status page now at status.sefinek.net?</value>
+Durum sayfasını şimdi status.sefinek.net adresinden kontrol etmek ister misiniz?</value>
   </data>
   <data name="FailedToFetchTheListOfMoeCounterThemesPleaseTryAgainLater" xml:space="preserve">
     <value>MoeCounter tema listesi alınamadı. Lütfen daha sonra tekrar deneyin.</value>
@@ -750,19 +748,19 @@ bu mesajın yalnızca sorun giderme amacıyla kullanılmasına izin vermiş olur
     <value>Stella Mod'da hata raporu - {0}</value>
   </data>
   <data name="ReShadeStandardFileNotFound" xml:space="preserve">
-    <value>The standard ReShade DLL backup was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>Standart ReShade DLL yedeği bulunamadı. Eksik dosyaları geri yüklemek için lütfen Stella Mod'u yeniden yükleyin.</value>
   </data>
   <data name="ReShadeAddonFileNotFound" xml:space="preserve">
-    <value>The ReShade add-on support DLL was not found. Please reinstall Stella Mod to restore missing files.</value>
+    <value>ReShade eklenti destek DLL dosyası bulunamadı. Eksik dosyaları geri yüklemek için lütfen Stella Mod'u yeniden yükleyin.</value>
   </data>
   <data name="ReShadeSwapFailed" xml:space="preserve">
-    <value>Failed to switch ReShade variant. The file may be in use or access is denied.</value>
+    <value>ReShade türünü değiştiremedim. Dosya kullanımda olabilir veya erişim reddedilmiş olabilir.</value>
   </data>
   <data name="Default_ReShadeVariantRecommendation" xml:space="preserve">
-    <value>You are a Stella Mod Plus subscriber, but you currently have the Regular ReShade version selected.
+    <value>Stella Mod Plus abonesisiniz, ancak şu anda Normal ReShade sürümü seçili durumda.
 
-Subscribers are recommended to use the "Full add-on support" variant for the best experience.
+En iyi deneyim için abonelerin “Tam eklenti desteği” seçeneğini kullanmaları önerilir.
 
-Would you like to switch now?</value>
+Şimdi değiştirmek ister misiniz?</value>
   </data>
 </root>

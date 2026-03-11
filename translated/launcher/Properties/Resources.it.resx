@@ -469,11 +469,6 @@ Impostazioni predefinite attuali:
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Richiesta di consenso per caricare i log...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Il server remoto non ti ha concesso il permesso di inviare i log. Troverai maggiori dettagli di seguito.
-
-{0}</value>
-  </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Preparazione della directory temporanea...</value>
   </data>
@@ -482,6 +477,9 @@ Impostazioni predefinite attuali:
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
     <value>In attesa di DxDiag...</value>
+  </data>
+  <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
+    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Compressione dei file raccolti...</value>
@@ -502,7 +500,7 @@ Impostazioni predefinite attuali:
     <value>In qualità di proprietario dei log inviati, hai tutti i diritti su di essi. Se vuoi che li rimuoviamo dal nostro database, contatta lo sviluppatore e fornisci il seguente identificativo: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Siamo spiacenti, qualcosa e andato storto ):</value>
+    <value>Sorry, but something went wrong. You can close this window.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Purtroppo qualcosa è andato storto durante il caricamento del file. Ti preghiamo di accettare le nostre scuse.
