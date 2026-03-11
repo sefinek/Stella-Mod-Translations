@@ -469,11 +469,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="UploadLogs_RequestingAgreementToUploadLogs" xml:space="preserve">
     <value>Запрос разрешения на загрузку журналов...</value>
   </data>
-  <data name="UploadLogs_TheRemoteServerDidNotGrantYouPermissionToSendTheLogsYouWillFindMoreDetailsBelow_" xml:space="preserve">
-    <value>Удаленный сервер не предоставил вам разрешения на отправку журналов. Более подробную информацию вы найдете ниже.
-
-{0}</value>
-  </data>
   <data name="UploadLogs_PreparingTemporaryDirectory" xml:space="preserve">
     <value>Подготовка временной папки...</value>
   </data>
@@ -482,6 +477,9 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   </data>
   <data name="UploadLogs_WaitingForDxDiag" xml:space="preserve">
     <value>Ожидание DxDiag...</value>
+  </data>
+  <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
+    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Сжатие собранных файлов...</value>
@@ -502,7 +500,7 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
     <value>Как владелец предоставленных журналов, вы имеете на них полные права. Если вы хотите, чтобы мы удалили их из нашей базы данных, свяжитесь с разработчиком и укажите следующий идентификатор: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Извините, но что-то пошло не так ):</value>
+    <value>Sorry, but something went wrong. You can close this window.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>К сожалению, во время загрузки файла произошла ошибка. Приносим свои извинения.
