@@ -335,10 +335,10 @@
     <value>3</value>
   </data>
   <data name="comboBox2.Items" xml:space="preserve">
-    <value>Regular (recommended)</value>
+    <value>Standart (önerilen)</value>
   </data>
   <data name="comboBox2.Items1" xml:space="preserve">
-    <value>Full add-on support</value>
+    <value>Tam eklenti desteği</value>
   </data>
   <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>632, 182</value>
@@ -350,8 +350,8 @@
     <value>145</value>
   </data>
   <data name="comboBox2.ToolTip" xml:space="preserve">
-    <value>Regular: Lightweight version best suited for users sticking with default Stella Mod presets.
-Full add-on support: Unlocks add-ons and depth buffer for advanced tweaks. Required for Stella Plus subscribers.</value>
+    <value>Standart: Varsayılan Stella Mod ön ayarlarını kullanmaya devam eden kullanıcılar için en uygun olan hafif sürüm.
+Tam eklenti desteği: Gelişmiş ayarlamalar için eklentileri ve derinlik tamponunu etkinleştirir. Stella Plus aboneleri için gereklidir.</value>
   </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
@@ -652,8 +652,8 @@ Yüklü sürüm: v{1}</value>
     <value>137</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>* Changing the settings may require restarting the application.
-* Hover over a setting to learn more about it.</value>
+    <value>* Ayarları değiştirmek için uygulamayı yeniden başlatmanız gerekebilir.
+* Bir ayarın üzerine fareyi getirerek o ayar hakkında daha fazla bilgi edinebilirsiniz.</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -839,7 +839,7 @@ Yüklü sürüm: v{1}</value>
     <value>146</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>ReShade type:</value>
+    <value>ReShade türü:</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
