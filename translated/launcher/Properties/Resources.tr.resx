@@ -479,7 +479,7 @@ Mevcut ön ayar:
     <value>DxDiag bekleniyor...</value>
   </data>
   <data name="UploadLogs_DxDiagStillRunning" xml:space="preserve">
-    <value>Although the process may seem stuck, it is still running. Please wait a moment...</value>
+    <value>İşlem takılmış gibi görünse de hâlâ devam ediyor. Lütfen bir dakika bekleyin...</value>
   </data>
   <data name="UploadLogs_CompressingCollectedFiles" xml:space="preserve">
     <value>Toplanan dosyalar sıkıştırılıyor...</value>
@@ -500,7 +500,7 @@ Mevcut ön ayar:
     <value>Gönderilen çıktıların sahibi olarak, bunlar üzerinde tüm haklara sahipsiniz. Bunları veritabanımızdan kaldırmamızı istiyorsanız, lütfen geliştiriciyle iletişime geçin ve aşağıdaki tanımlayıcı ifadeyi iletin: {0}</value>
   </data>
   <data name="UploadLogs_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Sorry, but something went wrong. You can close this window.</value>
+    <value>Üzgünüz, bir hata oluştu. Bu pencereyi kapatabilirsiniz.</value>
   </data>
   <data name="UploadLogs_UnfortunatelySomethingWentWrongDuringTheFileUploadPleaseAcceptOurApologies_" xml:space="preserve">
     <value>Ne yazık ki, dosya yükleme sırasında bir şeyler ters gitti. Lütfen özür dileklerimizi kabul edin.

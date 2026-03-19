@@ -358,7 +358,7 @@ exports.subscription = {
   EarlyAccessToStellaMod: 'Stella moduna erken erişim',
   FasterDownloadServers: 'Yüksek hızlı veri sunucuları',
   CarefullyDesignedSecuritySystem: 'Özenle tasarlanmış güvenlik sistemi',
-  MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
+  MuchGreaterPrivacy: 'Çok daha iyi gizlilik (oyun telemetrisinin engellenmesi)',
   VariousGenshinImpactAccountGiveaways: 'Çeşitli Genshin Impact hesap hediyeleri',
   NewWindowsTerminalAppearance: 'Yeni Windows Terminali (WT) görünümü',
   // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
