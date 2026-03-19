@@ -221,10 +221,10 @@ exports.stats = {
  Encryption: '🧶 Encryption',
  Decryption: '🔧 Decryption',
  Misc: '🧵 Misc',
- PerOneHour: 'Por hora',
- PerOneDay: 'Por día',
- PerOneMonth: 'Por mes',
- PerOneYear: 'Por año',
+ PerOneHour: 'Per hour',
+ PerOneDay: 'Per day',
+ PerOneMonth: 'Per month',
+ PerOneYear: 'Per year',
  ErrorRatePerDay: 'Error rate per day',
 };
 
@@ -281,27 +281,27 @@ exports.subscription = {
  Recommended: 'Recommended',
  tiers: {
   1: {
-   name: 'Little Kitten',
+   // name: 'Little Kitten',
    description:
     'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
   },
   2: {
-   name: 'Favorite Cat',
+   // name: 'Favorite Cat',
    description:
     'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
   },
   3: {
-   name: 'Safety Kitten',
+   // name: 'Safety Kitten',
    description:
     'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
   },
   4: {
-   name: 'Keyboard Cat',
+   // name: 'Keyboard Cat',
    description:
     'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
   },
   5: {
-   name: 'Cute Kitty',
+   // name: 'Cute Kitty',
    description:
     "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
   },
