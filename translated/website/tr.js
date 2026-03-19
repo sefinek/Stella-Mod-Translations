@@ -183,7 +183,7 @@ exports.stats = {
  Connections: 'Bağlantılar',
  NumberOfGameLaunches: 'Başlatıcının başlatılma sayısı',
  FullDate: 'Tam tarih',
- Version: 'Sürüm',
+ Version: 'Versiyon',
  NumberOfDownloads: 'İndirilme sayısı',
  DownloadsPerCountry: 'Ülke başına indirilmeler',
  DownloadsPerCountryAll: 'Ülke başına indirilmeler [Tümü]',
@@ -221,10 +221,10 @@ exports.stats = {
  Encryption: '🧶 Şifreleme',
  Decryption: 'Deşifreleme',
  Misc: '🧵 Çeşitli',
- PerOneHour: 'Saatlik',
- PerOneDay: 'Günlük',
- PerOneMonth: 'Aylık',
- PerOneYear: 'Yıllık',
+ PerOneHour: 'Saat başına',
+ PerOneDay: 'Gün başına',
+ PerOneMonth: 'Ay başına',
+ PerOneYear: 'Yıl başına',
  ErrorRatePerDay: 'Günlük hata oranı',
 };
 
@@ -280,27 +280,27 @@ exports.subscription = {
  Recommended: 'Önerilen',
  tiers: {
   1: {
-   name: 'Küçük Kedicik',
+   // name: 'Little Kitten',
    description:
     'Sadece projeyi desteklemek isteyenler için temel seviye. Örneğin, Genshin Impact oynamayı bıraktıysanız ve artık oyunun faydalarına ihtiyacınız yoksa, ancak yine de projeyi gönüllü olarak desteklemek istiyorsanız, bu iyi bir çözümdür.',
   },
   2: {
-   name: 'Favori Kedicik',
+   // name: 'Favorite Cat',
    description:
     'Genshin Impact oyunuyla ilişkili temel avantajların çoğunu sunan orta seviye. Oyunda ek değişikliklerin ve geliştirmelerin keyfini çıkarmak isteyen oyuncular için idealdir.',
   },
   3: {
-   name: 'Güvenlik Kedisi',
+   // name: 'Safety Kitten',
    description:
     'Engellenmelere karşı koruma sağlayan sistemler, Genshin Impact hesapları için hediyeler ve Windows Terminal arayüzü için özel bir görünüm gibi özel avantajlar sunan güvenilir kullanıcılar için gelişmiş seviye.',
   },
   4: {
-   name: 'Klavye Kedisi',
+   // name: 'Keyboard Cat',
    description:
     "Cihazlarının yeteneklerini en üst düzeye çıkarmak ve herhangi bir kesinti olmadan oyunun tadını çıkarmak isteyen oyuncular için. Bu seçenek, bilgisayar optimizasyon hizmetleri (TeamViewer veya AnyDesk aracılığıyla), teknik destek ve Stella Mod Başlatıcısın'da ki dosyaları kullanma olanağı sunar.",
   },
   5: {
-   name: 'Sevimli Kedicik',
+   // name: 'Cute Kitty',
    description:
     "Daha düşük seviyelerde bulunan tüm avantajlara erişim sağlar ve ayrıca çoğu cihazda aktivasyona izin verir. Stella Mod'un yapımcısının çalışmalarını takdir eden ve daha fazla geliştirmeyi ve projenin sunucu altyapısını desteklemek isteyen oyuncular için idealdir.",
   },
@@ -345,7 +345,7 @@ exports.subscription = {
  benefitsShort: {
   IntDevice: '{0} cihaz',
   IntDevices: '{0} cihazlar',
-  RoleOnTheDiscordServer: 'Discord sunucusundaki rol',
+  RoleOnTheDiscordServer: 'Discord sunucusunda özel rol',
   VisibilityOnTheSubscriberList: 'Abone listesinde görünürlük',
   NoAdsOnTheWebsiteForPatrons: 'Aboneler için reklamsız web sitesi',
   CompletePostArchive: 'Gönderi arşivinin tamamı',
@@ -360,11 +360,11 @@ exports.subscription = {
   CarefullyDesignedSecuritySystem: 'Özenle tasarlanmış güvenlik sistemi',
   MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
   VariousGenshinImpactAccountGiveaways: 'Çeşitli Genshin Impact hesap hediyeleri',
-  NewWindowsTerminalAppearance: 'Yeni Windows Terminal (WT) görünümü',
+  NewWindowsTerminalAppearance: 'Yeni Windows Terminali (WT) görünümü',
   // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
   OptimizationOfYourComputerForBestPerformance: 'Bilgisayarınız için optimizasyon',
-  AssistanceRelatedToPCsOrLaptops: 'Bilgisayarlar veya dizüstü bilgisayarlarla ilgili yardım',
+  AssistanceRelatedToPCsOrLaptops: 'Masaüstü bilgisayarlar veya dizüstü bilgisayarlarla ilgili yardım',
   ActivationPossibleOn: 'Etkinleştirme mümkün',
  },
  SubscribeNow: 'Şimdi abone ol',
