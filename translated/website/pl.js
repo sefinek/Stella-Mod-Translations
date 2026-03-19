@@ -282,27 +282,27 @@ exports.subscription = {
  Recommended: 'Polecane',
  tiers: {
   1: {
-   name: 'Mały Kociak',
+   // name: 'Little Kitten',
    description:
     'Podstawowy poziom dla tych, którzy po prostu chcą wesprzeć projekt. Dobry wybór, jeśli np. przestałeś grać w Genshin Impact i nie potrzebujesz już korzyści, ale nadal chcesz dobrowolnie wspierać projekt.',
   },
   2: {
-   name: 'Ulubiony Kot',
+   // name: 'Favorite Cat',
    description:
     'Średni tier, który oferuje większość podstawowych korzyści związanych z grą Genshin Impact. Idealne dla graczy, którzy chcą korzystać z dodatkowych modyfikacji i ulepszeń w grze.',
   },
   3: {
-   name: 'Bezpieczny Kotek',
+   // name: 'Safety Kitten',
    description:
     'Zaawansowany tier dla zaufanych użytkowników, który oferuje specjalne korzyści, takie jak systemy zabezpieczeń przed banem, giveaways na konta Genshin Impact, a także niestandardowy wygląd interfejsu Windows Terminal.',
   },
   4: {
-   name: 'Klawiatury Kot',
+   // name: 'Keyboard Cat',
    description:
     'Dla graczy, którzy chcą maksymalnie wykorzystać możliwości swoich urządzeń i cieszyć się grą bez jakichkolwiek zakłóceń. Ta opcja oferuje usługi optymalizacji komputera (poprzez TeamViewer lub AnyDesk), wsparcie techniczne oraz możliwość używania plików wsadowych w Stella Mod Launcher.',
   },
   5: {
-   name: 'Śliczna Kicia',
+   // name: 'Cute Kitty',
    description:
     'Zapewnia dostęp do wszystkich korzyści oferowanych w niższych tierach, a także umożliwia aktywację na największej liczbie urządzeń. Idealny dla graczy, którzy doceniają pracę twórcy Stella Mod i chcą wspierać dalszy rozwój oraz serwerownię projektu.',
   },
@@ -359,14 +359,14 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Presety z poprzednich wersji',
   EarlyAccessToStellaMod: 'Wczesny dostęp do Stella Mod',
   FasterDownloadServers: 'Szybsze serwery pobierania',
-  CarefullyDesignedSecuritySystem: 'Lepszy system bezpieczeństwa',
+  CarefullyDesignedSecuritySystem: 'Starannie zaprojektowany system bezpieczeństwa',
   MuchGreaterPrivacy: 'Znacznie lepsza prywatność (blokowanie telemetrii w grze)',
-  VariousGenshinImpactAccountGiveaways: 'Różne rozdania kont Genshin Impact',
+  VariousGenshinImpactAccountGiveaways: 'Różne eventy na konta do Genshin Impact',
   NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
   // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
   OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera',
-  AssistanceRelatedToPCsOrLaptops: 'Pomoc dot. komputerów PC lub laptopów',
+  AssistanceRelatedToPCsOrLaptops: 'Pomoc dotycząca komputerów PC lub laptopów',
   ActivationPossibleOn: 'Aktywacja możliwa na',
  },
  SubscribeNow: 'Subskrybuj teraz',

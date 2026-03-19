@@ -225,7 +225,7 @@ exports.stats = {
  PerOneHour: 'В час',
  PerOneDay: 'В день',
  PerOneMonth: 'В месяц',
- PerOneYear: 'В год',
+ PerOneYear: 'За год',
  ErrorRatePerDay: 'Количество ошибок в день',
 };
 
@@ -282,27 +282,27 @@ exports.subscription = {
  Recommended: 'Рекомендуем',
  tiers: {
   1: {
-   name: 'Маленький котенок',
+   // name: 'Little Kitten',
    description:
     'Базовый уровень для тех, кто просто хочет поддержать проект. Это хорошее решение, например, если вы перестали играть в Genshin Impact и больше не нуждаетесь в преимуществах игры, но все еще хотите добровольно поддержать проект.',
   },
   2: {
-   name: 'Любимый кот',
+   // name: 'Favorite Cat',
    description:
     'Средний уровень, который предлагает большинство основных преимуществ, связанных с игрой Genshin Impact. Идеально подходит для игроков, которые хотят пользоваться дополнительными модификациями и улучшениями в игре.',
   },
   3: {
-   name: 'Котенок в безопасности',
+   // name: 'Safety Kitten',
    description:
     'Расширенный уровень для доверенных пользователей, который предлагает особые преимущества, такие как системы защиты от банов, раздачи призов для учетных записей Genshin Impact и настраиваемый внешний вид интерфейса Windows Terminal.',
   },
   4: {
-   name: 'Клавиатурный кот',
+   // name: 'Keyboard Cat',
    description:
     'Для игроков, которые хотят максимально использовать возможности своих устройств и наслаждаться игрой без каких-либо сбоев. Этот вариант предлагает услуги по оптимизации компьютера (через TeamViewer или AnyDesk), техническую поддержку и возможность использовать пакетные файлы в Stella Mod Launcher.',
   },
   5: {
-   name: 'Милая кошечка',
+   // name: 'Cute Kitty',
    description:
     'Предоставляет доступ ко всем преимуществам, предлагаемым на нижних уровнях, а также позволяет активировать их на большинстве устройств. Идеально подходит для игроков, которые ценят работу создателя Stella Mod и хотят поддержать дальнейшее развитие и серверную инфраструктуру проекта.',
   },
@@ -348,14 +348,14 @@ exports.subscription = {
  benefitsShort: {
   IntDevice: '{0} устройство',
   IntDevices: '{0} устройства',
-  RoleOnTheDiscordServer: 'Роль на сервере Discord',
-  VisibilityOnTheSubscriberList: 'Отображение в списке подписчиков',
+  RoleOnTheDiscordServer: 'Роль в Discord сервере',
+  VisibilityOnTheSubscriberList: 'Видимость в списке подписчиков',
   NoAdsOnTheWebsiteForPatrons: 'Отсутствие рекламы на сайте для патронов',
   CompletePostArchive: 'Полный архив сообщений',
   RayTracingForGenshin: 'RTX для Genshin',
   BigCollectionOfShadersMods: 'Большая коллекция шейдеров и модов',
   AbilityToUseMods: 'Возможность использования модов в игре (больше для веселья)',
-  GameUIWithoutVisibleShaders: 'Игровой интерфейс без видимости шейдеров',
+  GameUIWithoutVisibleShaders: 'Игровой интерфейс без видемости шейдеров',
   HideYourUIDInTheGame: 'Скрыть свой UID в игре',
   PresetsFromPreviousVersions: 'Пресеты из предыдущих версий',
   EarlyAccessToStellaMod: 'Ранний доступ к Stella Mod',

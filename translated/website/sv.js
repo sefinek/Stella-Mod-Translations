@@ -281,27 +281,27 @@ exports.subscription = {
  Recommended: 'Rekommenderad',
  tiers: {
   1: {
-   name: 'Liten kattunge',
+   // name: 'Little Kitten',
    description:
     'Grundnivå för de som bara vill stödja projektet. Detta är en bra lösning, till exempel om du slutade spela Genshin Impact och inte längre behöver förmånerna från spelet, men fortfarande vill stödja projektet frivilligt.',
   },
   2: {
-   name: 'Favoritkatt',
+   // name: 'Favorite Cat',
    description:
     'Mellannivå som erbjuder de flesta av de grundläggande förmånerna kopplade till spelet Genshin Impact. Idealisk för spelare som vill njuta av ytterligare modifieringar och förbättringar i spelet.',
   },
   3: {
-   name: 'Säkerhetskatt',
+   // name: 'Safety Kitten',
    description:
     'Avancerad nivå för betrodda användare, som erbjuder särskilda förmåner såsom system för att skydda mot ban, giveaways för Genshin Impact-konton och en anpassad utseende för Windows Terminal-gränssnittet.',
   },
   4: {
-   name: 'Tangentbordskatt',
+   // name: 'Keyboard Cat',
    description:
     '"För spelare som vill maximera sina enheters kapabiliteter och njuta av spelet utan störningar. Denna alternativ erbjuder datoroptimeringstjänster (via TeamViewer eller AnyDesk), teknisk support och möjlighet att använda batchfiler i Stella Mod Launcher.',
   },
   5: {
-   name: 'Söt kattunge',
+   // name: 'Cute Kitty',
    description:
     'Ger åtkomst till alla förmåner som erbjuds i lägre nivåer och tillåter även aktivering på flest enheter. Idealisk för spelare som uppskattar arbetet från Stella Mod-skaparen och vill stödja vidare utveckling och projektets serverinfrastruktur.',
   },
@@ -356,7 +356,7 @@ exports.subscription = {
   GameUIWithoutVisibleShaders: 'Spelgränssnitt utan synliga shaders',
   HideYourUIDInTheGame: 'Dölj din UID i spelet',
   PresetsFromPreviousVersions: 'Förinställningar från tidigare versioner',
-  EarlyAccessToStellaMod: 'Tidigare tillgång till Stella Mod',
+  EarlyAccessToStellaMod: 'Tidigt tillgång till Stella Mod',
   FasterDownloadServers: 'Snabbare nedladdningsservrar',
   CarefullyDesignedSecuritySystem: 'Noggrant utformat säkerhetssystem',
   MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
@@ -365,7 +365,7 @@ exports.subscription = {
   // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
   OptimizationOfYourComputerForBestPerformance: 'Optimering av din dator',
-  AssistanceRelatedToPCsOrLaptops: 'Hjälp relaterad till PC eller bärbara datorer',
+  AssistanceRelatedToPCsOrLaptops: '"Hjälp relaterad till PC eller bärbara datorer',
   ActivationPossibleOn: 'Aktivering möjlig på',
  },
  SubscribeNow: 'Prenumerera nu',

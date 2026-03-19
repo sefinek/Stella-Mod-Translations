@@ -4,16 +4,16 @@ exports.default = {
  From: 'von',
  In: 'in',
  Back: 'Zurück',
- GoBack: 'Go back',
- GoBackTo: 'Go back to {0}',
+ GoBack: 'Zurück gehen',
+ GoBackTo: 'Zurück nach {0}',
  Next: 'Weiter',
  DiscordServer: 'Discord Server',
  DiscordServerTooltip: 'Einladung zu unserem Discord-Server',
- YourBrowserDoesNotSupportVideoTag: 'Your browser does not support the video tag.',
- YourBrowserDoesNotSupportAudioTag: 'Your browser does not support the audio tag.',
+ YourBrowserDoesNotSupportVideoTag: 'Dein Browser unterstützt den Video-Tag nicht.',
+ YourBrowserDoesNotSupportAudioTag: 'Dein Browser unterstützt den Audio-Tag nicht.',
  tooltips: {
   OfficialDiscordServer: 'Offizieller Discord-Server',
-  SupportThisProject: 'Support this project voluntarily',
+  SupportThisProject: 'Unterstütze das Projekt freiwillig',
   GitHubRepositories: 'GitHub-Repositorys',
  },
 };
@@ -28,8 +28,8 @@ exports.errors = {
  },
  wrongOs: {
   DeviceIsNotSupported: 'Gerät wird nicht unterstützt.',
-  OperatingSysIsNotSupported: "We're sorry! Your operating system {0}, is not yet supported.",
-  ViewSupportedSystems: 'View supported systems »',
+  OperatingSysIsNotSupported: 'Tut uns leid! Dein Betriebssystem {0}, wird noch nicht unterstützt.',
+  ViewSupportedSystems: 'Unterstützte Systeme anzeigen »',
  },
  missingZip: {
   WeCannotFindZipFileOnTheServer: 'Wir können die ZIP-Datei nicht auf dem Server finden',
@@ -40,13 +40,13 @@ exports.errors = {
 
 // GET /genshin-stella-mod
 exports.home = {
- Header: 'Step into a New World with Enhanced Graphics for Genshin Impact',
+ Header: 'Steig in eine Neue Welt mit verbesserter Grafik für Genshin Impact',
  Text1:
-  'Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!',
+  'Verbesserte Grafik, sorgfältig erstellte Shader, beeindruckende FPS Freischaltung, und Mods bringen Spielern ein noch besseres Gaming Erlebnis als jemals zuvor!',
  Text2:
-  'Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.',
+  'Entdecke die Welt von Teyvat mit neuer Grafik, die dein Gameplay noch realistischer macht. Ein eigener Launcher vereinfacht den gesamten Prozess und erlaubt es Spielern, schnell und einfach in die Action zu springen.',
  FinalText:
-  "Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!",
+  'Zögere nicht, lad es jetzt herunter! Bring dein Gameplay auf das nächste Level. Tausche in die verbesserte Welt von Teyvat ein und erschaffe unvergessliche Momente!',
  Download: 'Herunterladen',
  DownloadTooltip: 'Hier klicken, um den x64-Bit-Installer für Windows 10 und 11 herunterzuladen.',
  StelaModPlusTooltip:
@@ -57,50 +57,53 @@ exports.home = {
  GalleryTooltip: 'Sieh dir die Screenshots aus dem Spiel mit injiziertem ReShade an.',
  Videos: 'Videos',
  VideosTooltip: 'Schau dir unsere Videos über den Mod und das Startprogramm an.',
- Statistics: 'Statistics',
+ Statistics: 'Statistiken',
  StatisticsTooltip:
-  'Check how many people are currently playing Genshin Impact using the Stella Mod. Also browse various other statistics.',
+  'Überprüfen Sie, wie viele Personen Genshin Impact mit dem Stella Mod spielen. Durchsuchen Sie auch verschiedene andere Statistiken.',
  Feedback: 'Feedback',
  FeedbackTooltip: 'Teile deine Meinung über meine Arbeit und Stella Mod mit.',
  Support: 'Support',
  SupportTooltip: 'Klicke hier, wenn du Hilfe benötigst.',
- HomePage: 'Home page',
- HomePageTooltip: 'Home page - Official website of Sefinek',
- PlayMusic: 'Play music',
+ HomePage: 'Startseite',
+ HomePageTooltip: 'Startseite - Offizielle Website von Sefinek',
+ PlayMusic: 'Musik abspielen',
  FetchingData: 'Daten werden heruntergeladen...',
  Version: 'Version',
  TheVersionWithoutCaps: 'die Version',
  DownloadCount: 'Download-Zähler',
  LastDownload: 'Letzter Download',
- FeedbackOnTrustpilot: 'Feedback on Trustpilot',
+ FeedbackOnTrustpilot: 'Feedback bei Trustpilot',
  captchaModal: {
-  AreYouARobot: 'Are you a robot?',
-  FailedToVerifyCaptcha: 'Failed to verify captcha: {0}',
-  FailedToVerifyCaptchaStatusCode: 'Failed to verify captcha (status code: {0}). Reload the website and try again.',
+  AreYouARobot: 'Bist du ein Robot?',
+  FailedToVerifyCaptcha: 'Captcha konnte nicht verifiziert werden: {0}',
+  FailedToVerifyCaptchaStatusCode:
+   'Captcha konnte nicht verifiziert werden (Statuscode: {0}). Laden Sie die Webseite neu und versuchen Sie es erneut.',
  },
  mirrorModal: {
-  SelectADownloadSource: 'Select a download source',
-  ByCompany: 'By company',
-  ByLocation: 'By location',
-  InstallViaWinGet: 'Install via WinGet',
-  LauncherVersion: 'Launcher version:',
+  SelectADownloadSource: 'Download-Quelle auswählen',
+  ByCompany: 'Nach Unternehmen',
+  ByLocation: 'Nach Standort',
+  InstallViaWinGet: 'via WinGet installieren',
+  LauncherVersion: 'Launcher Version:',
   MirrorsAreCurrentlyUnavailable:
-   'Mirrors are currently disabled or unavailable for this category. Please check back later, or contact the administrator.',
-  ChecksumHasBeenSuccessfullyCopied: 'The {0} checksum has been successfully copied to the clipboard!',
-  FailedToCopyChecksumTryAgain: 'Failed to copy the {0} checksum to the clipboard. Please try again.',
+   'Mirrors sind derzeit deaktiviert oder nicht verfügbar für diese Kategorie. Komm bitte später zurück oder kontaktiere einen Administrator',
+  ChecksumHasBeenSuccessfullyCopied: 'Die Prüfsumme {0} wurde erfolgreich in die Zwischenablage kopiert!',
+  FailedToCopyChecksumTryAgain:
+   'Fehler beim Kopieren der Prüfsumme {0} in die Zwischenablage. Bitte versuchen Sie es erneut.',
  },
  finalModal: {
-  ThankYouForDownloading: 'Thank you for downloading',
+  ThankYouForDownloading: 'Vielen Dank für den Download',
   BecomeAStellaModSubscriber:
-   'Become a Stella Mod Plus subscriber to gain access to additional benefits such as the ability to use 3DMigoto, FPS Unlocker, and ReShade simultaneously, a large collection of error-free mods, enhanced security (blocking telemetry and analytics), a package of the latest shaders, an add-on to prevent filter overlays on the user interface (UI), Ray Tracing presets, and much more!',
+   'Werde ein Stella Mod Plus Abonnent und erhalte Zugang zu zusätzlichen Vorteilen wie 3DMigoto, FPS Freischalter und ReShade zeitgleich, eine große Auswahl an fehlerfreien Mods, verbesserte Sicherheit (Blockieren von Telemetrie und Analyse), ein Paket der neusten Shader, ein Add-On das Filter Overlays im User-Interface (UI) blockiert, Ray Tracing Voreinstellungen, und viel mehr!',
   JoinOurDiscordServerToReceiveNotifications:
-   'Join our Discord server to receive notifications about the latest updates, features, and other announcements. Contact the creator if you have any questions or encounter any issues. We are always ready to help. Wishing you a great day or night!',
-  IfYouReEnjoyingStellaModConsiderLeavingAReview: 'Leave a review at {a}trustpilot.com{/a} after testing the software!',
-  TheTotalNumberOfDownloadsNowIs: 'The total number of downloads is now',
-  NoProblem: 'No problem',
+   'Trete unserem Discord Server bei, um Benachrichtigungen über die neuesten Updates, Funktionen und andere Ankündigungen zu erhalten. Kontaktiere den Schöpfer, wenn du irgendwelche Fragen oder Probleme hast. Wir sind immer bereit zu helfen. Wir wünschen dir einen tollen Tag oder Nacht!',
+  IfYouReEnjoyingStellaModConsiderLeavingAReview:
+   'Hinterlasse eine Bewertung auf {a}trustpilot.com{/a} nach dem Testen der Software!',
+  TheTotalNumberOfDownloadsNowIs: 'Die Gesamtzahl der Downloads ist jetzt',
+  NoProblem: 'Kein Problem',
  },
  tooltips: {
-  ShareYourFeedbackOnTrustpilot: 'Share your feedback on Trustpilot! We would greatly appreciate it.',
+  ShareYourFeedbackOnTrustpilot: 'Teile dein Feedback auf Trustpilot! Wir würden es sehr schätzen.',
  },
 };
 
@@ -121,7 +124,7 @@ exports.gallery = {
  WithoutMod: 'Ohne mod',
  BonusScreenshot: 'Bonus Bildschirmaufnahme',
  tooltips: {
-  GoBackToMainGalleryPage: 'Go back to main gallery page',
+  GoBackToMainGalleryPage: 'Zurück zur Hauptgalerie-Seite',
  },
 };
 
@@ -129,9 +132,9 @@ exports.gallery = {
 exports.feedback = {
  LeaveYourFeedback: 'Meinung hinterlassen',
  IfYouLikeThisProjectSupportMe:
-  'If you like this project, consider {1}subscribing{/1} to my YouTube channel, giving {2}a star{/2} on GitHub, or {3}supporting me{/3} in another way.',
+  'Wenn dir dieses Projekt gefällt, erwäge {1}Abonniere{/1} meinen YouTube-Kanal, und gib {2}einen Stern{/2} auf GitHub oder {3} unterstütze mich{/3} auf andere Weise.',
  AdditionallyIfYouHaveCommentsOrSuggestions:
-  "Additionally, if you have any comments or suggestions, don't hesitate to join our Discord server and share them with us.",
+  'Wenn du Kommentare oder Vorschläge hast, zögere nicht, unserem Discord Server beizutreten und sie mit uns zu teilen.',
  btn: {
   BelowYTVideo: 'Unter dem YouTube Video',
   OnTheDiscordServer: 'Auf dem Discord Server',
@@ -146,7 +149,7 @@ exports.feedback = {
 exports.videos = {
  WatchVideosOnYT: 'Schaue Videos auf YouTube',
  IfYouWantToRecordNewVideo:
-  'If you want to record and upload a video about Stella Mod to YouTube, please contact me. The link to your video will be added to this page.',
+  'Wenn du ein Video über Stella Mod auf YouTube aufnehmen und hochladen möchtest, kontaktiere mich bitte. Der Link zu Ihrem Video wird zu dieser Seite hinzugefügt.',
  DeprecatedMovies: 'Veraltete Filme',
  TheMoviesAreFromPreviousVersionsOfStellaMod:
   'Die Filme sind von älteren Versionen von Stella Mod und werden als veraltet angesehen.',
@@ -156,82 +159,82 @@ exports.videos = {
 
 // GET /genshin-stella-mod/stats
 exports.stats = {
- ToggleBlur: 'Toggle blur',
- ToggleShadows: 'Toggle shadows',
- ToggleBorder: 'Toggle border',
- ToggleBackground: 'Toggle background',
- LiveStats: 'Live stats',
- OnlineNow: 'Online now',
- Playing: 'Playing',
- AllDownloadsNow: 'All downloads now',
- Player: 'player',
- Players: 'players',
+ ToggleBlur: 'Unschärfe umschalten',
+ ToggleShadows: 'Schatten umschalten',
+ ToggleBorder: 'Rahmen umschalten',
+ ToggleBackground: 'Hintergrund umschalten',
+ LiveStats: 'Live-Statistiken',
+ OnlineNow: 'Jetzt online',
+ Playing: 'Spielen',
+ AllDownloadsNow: 'Alle Downloads',
+ Player: 'Spieler',
+ Players: 'Spieler',
  BelowYouFindTheStatsOfStellaMod:
-  'Below you will find the statistics of Stella Mod. Timezone: Europe/Warsaw GMT+01:00 (Poland). Have a nice day!',
- PerCountry: 'Per country',
- PerHour: 'Per hour',
- PerDay: 'Per day',
- PerMonth: 'Per month',
- PerYear: 'Per year',
- All: 'All',
- Unique: 'Unique',
- FirstOpens: 'First opens',
- Peak: 'Peak',
- Connections: 'Connections',
- NumberOfGameLaunches: 'Number of game launches',
- FullDate: 'Full date',
+  'Hier finden Sie die Statistiken von Stella Mod. Zeitzone: Europa/Warschau GMT+01:00 (Polen).',
+ PerCountry: 'Pro Land',
+ PerHour: 'Pro Stunde',
+ PerDay: 'Pro Tag',
+ PerMonth: 'Pro Monat',
+ PerYear: 'Pro Jahr',
+ All: 'Alle',
+ Unique: 'Eindeutig',
+ FirstOpens: 'Erste Starts',
+ Peak: 'Spitze',
+ Connections: 'Verbindungen',
+ NumberOfGameLaunches: 'Anzahl der Spielstarts',
+ FullDate: 'Vollständiges Datum',
  Version: 'Version',
- NumberOfDownloads: 'Number of downloads',
- DownloadsPerCountry: 'Downloads per country',
- DownloadsPerCountryAll: 'Downloads per country [All]',
- DownloadsPerVersionAll: 'Downloads per version [All]',
- DownloadsPerVersionUnique: 'Downloads per version [Unique]',
- DownloadsPerDayAll: 'Downloads per day [All]',
- DownloadsPerDayUnique: 'Downloads per day [Unique]',
- DownloadsPerMonthAll: 'Downloads per month [All]',
- DownloadsPerMonthUnique: 'Downloads per month [Unique]',
- DownloadsPerYearAll: 'Downloads per year [All]',
- DownloadsPerYearUnique: 'Downloads per year [Unique]',
- StellaModDownloadsHeader: '📥 Stella Mod downloads',
+ NumberOfDownloads: 'Anzahl der Downloads',
+ DownloadsPerCountry: 'Downloads pro Land',
+ DownloadsPerCountryAll: 'Downloads pro Land [Alle]',
+ DownloadsPerVersionAll: 'Downloads pro Version [Alle]',
+ DownloadsPerVersionUnique: 'Downloads pro Version [Eindeutig]',
+ DownloadsPerDayAll: 'Downloads pro Tag [Alle]',
+ DownloadsPerDayUnique: 'Downloads pro Tag [Eindeutig]',
+ DownloadsPerMonthAll: 'Downloads pro Monat [Allee]',
+ DownloadsPerMonthUnique: 'Downloads pro Monat [Eindeutig]',
+ DownloadsPerYearAll: 'Downloads pro Jahr [Alle]',
+ DownloadsPerYearUnique: 'Downloads pro Jahr [Eindeutig]',
+ StellaModDownloadsHeader: '📥 Stella Mod Downloads',
  StellaModDownloadsText:
   'Here are the download statistics for Stella Mod directly from our official website. Please note that some historical data may be incomplete, as we began collecting statistics a significant time after the global release of Stella Mod.<br>Always ensure that you download Stella Mod from a trusted source, such as <a href="https://sefinek.net">sefinek.net</a>.',
- TotalDownloads: '🔢 Total downloads',
- LastDownload: '⏰ Last download',
- YourTimezone: '🪐 Your timezone',
- StellaModLauncherStatsHeader: '😻 Stella Mod Launcher stats',
+ TotalDownloads: '🔢 Gesamte Downloads',
+ LastDownload: '⏰ Letzter Download',
+ YourTimezone: '🪐 Deine Zeitzone',
+ StellaModLauncherStatsHeader: '😻 Stella Mod Launcher Statistiken',
  StellaModLauncherStatsText:
-  'In this category, we present detailed statistics on how many times the Stella Mod Launcher program has been initiated. This includes data on how often the application is launched.',
- AllStellaLauncherOpens: 'All Stella Launcher opens',
- UniqueStellaLauncherOpens: 'Unique Stella Launcher opens',
- OpensPerCountry: 'Opens per country',
- OpensPerVersion: 'Opens per version',
- OpensPerSysVersion: 'Opens per system version',
- OpensPerSysBuild: 'Opens per system build',
- WsConnectionsHeader: '🌍 WebSocket connections and operations',
+  'In dieser Kategorie präsentieren wir detaillierte Statistiken darüber, wie oft der Stella Mod Launcher gestartet wurde. Dazu gehören auch Daten, wie oft der Anwendung gestartet wird.',
+ AllStellaLauncherOpens: 'Alle Stella Launcher starts',
+ UniqueStellaLauncherOpens: 'Eindeutige Stella Launcher starts',
+ OpensPerCountry: 'Starts pro Land',
+ OpensPerVersion: 'Starts pro Version',
+ OpensPerSysVersion: 'Starts pro Systemversion',
+ OpensPerSysBuild: 'Starts pro System-Build',
+ WsConnectionsHeader: '🌍 WebSocket-Verbindungen und -Operationen',
  WsConnectionsText:
-  'In this section, familiarize yourself with WebSocket metrics, including charts that display the frequency of messages and heartbeats on an hourly, daily, monthly, and yearly basis.',
- Broadcast: 'Broadcast',
- Heartbeats: 'Heartbeats',
- CryptographicOperationsHeader: '🔠 Cryptographic operations',
+  'In diesem Abschnitt lernst du  WebSocket-Metriken kennen, inklusive Diagramme, die die Häufigkeit von Nachrichten und Herzschläge(?) auf einer Stunden-, Tages-, Monats- und Jahres- Basis anzeigen.',
+ Broadcast: 'Übertragen',
+ Heartbeats: 'Herzschläge',
+ CryptographicOperationsHeader: '🔠 kryptographische Operationen',
  CryptographicOperationsText:
-  'This section provides a comprehensive overview of cryptographic activities in our systems, presenting statistical data on encryption and decryption processes. Visitors can explore charts displaying the frequency and success rates of cryptographic operations over various timeframes. Cryptography plays a crucial role in securing applications and communications by ensuring data confidentiality, integrity, and authenticity, thus protecting against unauthorized access and cyber threats. It is vital for safeguarding digital transactions and maintaining the privacy of sensitive information.',
- Encryption: '🧶 Encryption',
- Decryption: '🔧 Decryption',
- Misc: '🧵 Misc',
- PerOneHour: 'Per hour',
- PerOneDay: 'Per day',
- PerOneMonth: 'Per month',
- PerOneYear: 'Per year',
- ErrorRatePerDay: 'Error rate per day',
+  'Dieser Abschnitt bietet einen umfassenden Überblick über die kryptographischen Aktivitäten in unseren Systemen, in dem statistische Daten zu Verschlüsselungs- und Entschlüsselungsprozessen vorgestellt werden. Besucher können Diagramme mit der Häufigkeit und Erfolgsrate kryptografischer Operationen über verschiedene Zeiträume erforschen. Die Kryptographie spielt eine entscheidende Rolle bei der Sicherung von Anwendungen und Kommunikationen durch die Gewährleistung von Vertraulichkeit, Integrität und Authentizität der Daten und schützt so vor unbefugten Zugriffen und Bedrohungen. Sie ist für den Schutz digitaler Transaktionen und die Wahrung der Privatsphäre sensibler Informationen von entscheidender Bedeutung.',
+ Encryption: '🧶 Verschlüsselung',
+ Decryption: '🔧 Entschlüsselung',
+ Misc: '🧵 Sonstige',
+ PerOneHour: 'Pro Stunde',
+ PerOneDay: 'Pro Tag',
+ PerOneMonth: 'Pro Monat',
+ PerOneYear: 'Pro Jahr',
+ ErrorRatePerDay: 'Fehlerrate pro Tag',
 };
 
 // GET /genshin-stella-mod/docs
 exports.docs = {
- TableOfContents: 'Table of Contents',
+ TableOfContents: 'Inhaltsangabe',
  1: {
-  Introduction: '{0}. {1} Introduction',
-  Requirements: '{0}. {1} Requirements',
-  WhatIs: '{0}. {1} What is...',
+  Introduction: '{0}. {1} Einleitung',
+  Requirements: '{0}. {1} Anforderungen',
+  WhatIs: '{0}. {1} Was ist...',
   FAQ: '{0}. {1} FAQ',
   Support: '{0}. {1} Support',
   Troubleshooting: '{0}. {1} Troubleshooting',
@@ -278,27 +281,27 @@ exports.subscription = {
  Recommended: 'Recommended',
  tiers: {
   1: {
-   name: 'Little Kitten',
+   // name: 'Little Kitten',
    description:
     'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
   },
   2: {
-   name: 'Favorite Cat',
+   // name: 'Favorite Cat',
    description:
     'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
   },
   3: {
-   name: 'Safety Kitten',
+   // name: 'Safety Kitten',
    description:
     'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
   },
   4: {
-   name: 'Keyboard Cat',
+   // name: 'Keyboard Cat',
    description:
     'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
   },
   5: {
-   name: 'Cute Kitty',
+   // name: 'Cute Kitty',
    description:
     "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
   },
