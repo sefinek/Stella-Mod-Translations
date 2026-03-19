@@ -282,27 +282,27 @@ exports.subscription = {
  Recommended: 'Recomendado',
  tiers: {
   1: {
-   name: 'Gatinho',
+   // name: 'Little Kitten',
    description:
     'Nível básico para aqueles que querem apenas apoiar o projeto. Esta é uma boa solução, por exemplo, se você parou de jogar Genshin Impact e não precisa mais dos benefícios do jogo, mas ainda quer apoiar o projeto voluntariamente.',
   },
   2: {
-   name: 'Gato favorito',
+   // name: 'Favorite Cat',
    description:
     'Nível médio que oferece a maioria dos benefícios básicos associados ao jogo Genshin Impact. Ideal para jogadores que querem aproveitar modificações e melhorias adicionais no jogo.',
   },
   3: {
-   name: 'Gatinho segurança',
+   // name: 'Safety Kitten',
    description:
     'Nível avançado para usuários confiáveis, que oferece benefícios especiais, como sistemas de proteção contra banimentos, brindes para contas do Genshin Impact e uma aparência personalizada para a interface do Terminal do Windows.',
   },
   4: {
-   name: 'Keyboard Cat',
+   // name: 'Keyboard Cat',
    description:
     'Para jogadores que querem maximizar as capacidades de seus dispositivos e aproveitar o jogo sem interrupções. Esta opção oferece serviços de otimização de computador (via TeamViewer ou AnyDesk), suporte técnico e a capacidade de usar arquivos em lote no launcher do Stella Mod.',
   },
   5: {
-   name: 'Gatinho fofo',
+   // name: 'Cute Kitty',
    description:
     'Fornece acesso a todos os benefícios oferecidos em níveis mais baixos e também permite ativação na maioria dos dispositivos. Ideal para jogadores que apreciam o trabalho do criador do Stella Mod e querem dar suporte ao desenvolvimento posterior e à infraestrutura de servidores do projeto.',
   },
