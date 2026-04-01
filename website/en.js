@@ -301,26 +301,10 @@ exports.subscription = {
 
 	Recommended: 'Recommended',
 	tiers: {
-		1: {
-			// name: 'Little Kitten',
-			description: 'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
-		},
-		2: {
-			// name: 'Favorite Cat',
-			description: 'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
-		},
-		3: {
-			// name: 'Safety Kitten',
-			description: 'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
-		},
-		4: {
-			// name: 'Keyboard Cat',
-			description: 'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
-		},
-		5: {
-			// name: 'Cute Kitty',
-			description: 'Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project\'s server infrastructure.',
-		},
+		1: 'Basic tier for those who simply want to support the project. A good solution if you\'ve stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.',
+		2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+		3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+		4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
 	},
 
 	UnknownBenefit: 'Unknown benefit',
@@ -333,9 +317,8 @@ exports.subscription = {
 
 	Everything: {
 		FromTheTier: 'Everything from Tier {0}',
-		FromTheTier12: 'Everything from Tier 1 and 2',
+		FromTheTier12: 'Everything from Tier 1 & 2',
 		FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
-		FromAllTheTiers: 'Everything from all Tiers',
 	},
 
 	TierName: 'Tier name',
@@ -354,14 +337,15 @@ exports.subscription = {
 		EarlyAccessToStellaMod: 'Early access to Stella Mod',
 		FasterDownloadServers: 'Faster download servers',
 
-		CarefullyDesignedSecuritySystem: 'Carefully designed security system',
-		MuchGreaterPrivacy: 'Much greater privacy',
+		BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		// ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
+		StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+		BetterSupport: 'Better support',
+		PrioritySupport: 'Priority support',
 
 		ActivationPossibleOn: 'Activation possible on {u}{0} devices{/u}',
 	},
@@ -385,22 +369,23 @@ exports.subscription = {
 		EarlyAccessToStellaMod: 'Early access to Stella Mod',
 		FasterDownloadServers: 'Faster download servers',
 
-		CarefullyDesignedSecuritySystem: 'Carefully designed security system',
-		MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
+		BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
 		VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
 		NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-		// ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
 
 		OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
 		AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
+		StandardSupport: 'Standard support',
+		BetterSupport: 'Better support',
+		PrioritySupport: 'Priority support',
 		ActivationPossibleOn: 'Activation possible on',
 	},
 
 	SubscribeNow: 'Subscribe now',
 	ChangeYourTier: 'Change your tier',
 
-	SubscriptionIsTreatedAsVoluntarySupport: 'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
-	IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost: 'If you wish, you can continue to use the free version at no cost. The decision is entirely up to you.',
+	SubscriptionIsTreatedAsVoluntarySupport: 'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation.',
+	IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost: 'If you wish, you can continue using the free version at no cost. The decision is entirely yours.',
 
 	Crypto: 'Crypto',
 	IfYouWantToMakeAPaymentUsingCrypto: 'If you want to make a payment using cryptocurrency, please contact the developer.',
