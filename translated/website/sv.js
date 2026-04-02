@@ -276,35 +276,12 @@ exports.subscription = {
  ChooseYourSubscriptionTier: 'Välj din prenumerationsnivå',
  IfYouAreInterestedInTheBenefits:
   'Om du är intresserad av fördelarna, vänligen utforska alla tillgängliga nivåer för att se vilken som passar dina preferenser. Förhoppningsvis hittar du en som väcker ditt intresse!',
- IfYouHaveAnyQuestions:
-  'Har du några frågor? Tveka inte att gå med i vår Discord-server eller kontakta oss via e-post. Du hittar kontaktinformation på huvudsidan på denna webbplats.',
  Recommended: 'Rekommenderad',
  tiers: {
-  1: {
-   // name: 'Little Kitten',
-   description:
-    'Grundnivå för de som bara vill stödja projektet. Detta är en bra lösning, till exempel om du slutade spela Genshin Impact och inte längre behöver förmånerna från spelet, men fortfarande vill stödja projektet frivilligt.',
-  },
-  2: {
-   // name: 'Favorite Cat',
-   description:
-    'Mellannivå som erbjuder de flesta av de grundläggande förmånerna kopplade till spelet Genshin Impact. Idealisk för spelare som vill njuta av ytterligare modifieringar och förbättringar i spelet.',
-  },
-  3: {
-   // name: 'Safety Kitten',
-   description:
-    'Avancerad nivå för betrodda användare, som erbjuder särskilda förmåner såsom system för att skydda mot ban, giveaways för Genshin Impact-konton och en anpassad utseende för Windows Terminal-gränssnittet.',
-  },
-  4: {
-   // name: 'Keyboard Cat',
-   description:
-    '"För spelare som vill maximera sina enheters kapabiliteter och njuta av spelet utan störningar. Denna alternativ erbjuder datoroptimeringstjänster (via TeamViewer eller AnyDesk), teknisk support och möjlighet att använda batchfiler i Stella Mod Launcher.',
-  },
-  5: {
-   // name: 'Cute Kitty',
-   description:
-    'Ger åtkomst till alla förmåner som erbjuds i lägre nivåer och tillåter även aktivering på flest enheter. Idealisk för spelare som uppskattar arbetet från Stella Mod-skaparen och vill stödja vidare utveckling och projektets serverinfrastruktur.',
-  },
+  1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
+  2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+  3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+  4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
  },
  UnknownBenefit: 'Okänd förmån',
  prices: {
@@ -316,7 +293,6 @@ exports.subscription = {
   FromTheTier: 'Allt från nivå {0}',
   FromTheTier12: 'Allt från nivå 1 och 2',
   FromTheTier12And3: 'Allt från nivå 1, 2 och 3',
-  FromAllTheTiers: 'Allt från alla nivåer',
  },
  TierName: 'Nivånamn',
  benefitsFull: {
@@ -332,17 +308,18 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Förinställningar från tidigare versioner',
   EarlyAccessToStellaMod: 'Tidigt tillgång till Stella Mod',
   FasterDownloadServers: 'Snabbare nedladdningsservrar',
-  CarefullyDesignedSecuritySystem: 'Noggrant utformat säkerhetssystem',
-  MuchGreaterPrivacy: 'Mycket större integritet',
+  BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Olika giveaways för Genshin Impact-konton',
   NewWindowsTerminalAppearance: 'Ny Windows Terminal (WT) utseende',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
-
   OptimizationOfYourComputerForBestPerformance: 'Optimering av din PC för den bästa prestanda',
   AssistanceRelatedToPCsOrLaptops: '"Hjälp relaterad till PC eller bärbara datorer',
+  StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Aktivering möjlig på {u}{0} enheter{/u}',
  },
  CompareAvailablePlans: 'Jämför tillgängliga planer',
+ SPCNote: '* SPC — Sefinek Patron Center (patrons.sefinek.net)',
  benefitsShort: {
   IntDevice: '{0} enhet',
   IntDevices: '{0} enheter',
@@ -358,42 +335,25 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Förinställningar från tidigare versioner',
   EarlyAccessToStellaMod: 'Tidigt tillgång till Stella Mod',
   FasterDownloadServers: 'Snabbare nedladdningsservrar',
-  CarefullyDesignedSecuritySystem: 'Noggrant utformat säkerhetssystem',
-  MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
+  BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
   VariousGenshinImpactAccountGiveaways: 'Olika giveaways för Genshin Impact-konton',
   NewWindowsTerminalAppearance: 'Ny Windows Terminal (WT) utseende',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
-
   OptimizationOfYourComputerForBestPerformance: 'Optimering av din dator',
   AssistanceRelatedToPCsOrLaptops: '"Hjälp relaterad till PC eller bärbara datorer',
+  StandardSupport: 'Standard support',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Aktivering möjlig på',
  },
  SubscribeNow: 'Prenumerera nu',
  ChangeYourTier: 'Ändra din nivå',
  SubscriptionIsTreatedAsVoluntarySupport:
   'Prenumerationen betraktas som frivilligt stöd, inte som ett köp av en tjänst eller produkt. De förmåner du får är enbart som ett tecken på uppskattning.',
- IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'Om du vill, kan du fortsätta använda den kostnadsfria versionen utan extra kostnad. Beslutet är helt upp till dig.',
- Crypto: 'Crypto',
- IfYouWantToMakeAPaymentUsingCrypto: 'Om du vill göra en betalning med kryptovaluta, vänligen kontakta utvecklaren.',
- IAcceptPaymentsOnlyOnBinance: 'Jag accepterar endast gireringar på Binance.',
- CloseModal: 'Stäng modal',
  PaymentSystem: {
   Header: 'Betalningssystem',
-  1: 'Vi är glada att meddela att vårt säkra betalningssystem drivs av {0}. Med Stripe kan du tryggt genomföra betalningar, med vetskapen om att din finansiella information hanteras med högsta säkerhetsnivå.',
-  2: 'Stripe är en välrenommerad och globalt erkänd betalningsplattform som garanterar smidiga och säkra transaktioner för våra kunder. Oavsett om du köper produkter, prenumererar på tjänster eller gör donationer, säkerställer Stripes robusta infrastruktur en pålitlig och problemfri betalningsupplevelse.',
-  3: 'Var säker på att dina känsliga betalningsuppgifter är krypterade och skyddade under hela betalningsprocessen. Din integritet och säkerhet är vår högsta prioritet.',
+  Text:
+   'Payments are securely processed by {0} — a globally trusted platform supporting all major cards and payment methods. Your financial data is encrypted and protected throughout the entire transaction, so you can subscribe with complete peace of mind.',
  },
- AcceptedPaymentMethods: 'Accepterade betalningssätt',
- IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
-  'Om du vill göra en betalning med kryptovalutor eller en direkt banköverföring, vänligen kontakta utvecklaren.',
- BankName: 'Bankens namn:',
- AccountNumber: 'Kontonummer:',
- SWIFTOrBICCode: 'SWIFT/BIC-koden:',
- IBAN: 'IBAN:',
- AskTheAdministratorForIt: 'Fråga administratören om det',
- PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Vänligen notera att köparen är ansvarig för att täcka eventuella bankavgifter kopplade till transaktionen.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Regler för användning av våra förmåner och patronage',
   SubText1:
@@ -404,6 +364,9 @@ exports.subscription = {
   HeaderText3: 'Att prenumerera innebär inte att köpa 3DMigoto-programvaran:',
   SubText3:
    'Genom att bli prenumerant på Stella Mod Plus förvärvar du inte 3DMigoto som en digital produkt att köpa. Istället får du som prenumerant enbart tillgång till att använda 3DMigoto inom Stella Mod Launcher-applikationen.',
+  HeaderText4: 'Refund policy:',
+  SubText4:
+   'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
    'Vi uppskattar din närvaro i vår gemenskap och ditt stöd för vårt arbete. Om du har några frågor eller funderingar, vänligen {a}kontakta oss{/a}. Din delaktighet och förståelse för dessa regler är oerhört viktig för vårt projekt.',
  },
