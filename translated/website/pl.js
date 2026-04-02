@@ -277,35 +277,12 @@ exports.subscription = {
  ChooseYourSubscriptionTier: 'Wybierz tier subskrypcji',
  IfYouAreInterestedInTheBenefits:
   'Jeśli jesteś zainteresowany korzyściami, zapoznaj się ze wszystkimi dostępnymi poziomami, aby sprawdzić, który z nich najlepiej odpowiada Twoim preferencjom. Mam nadzieję, że znajdziesz coś, co Cię zainteresuje!',
- IfYouHaveAnyQuestions:
-  'Masz jakieś pytania? Nie krępuj się dołączyć do naszego Discord serwer lub skontaktować się z nami za pomocą e-maila.',
  Recommended: 'Polecane',
  tiers: {
-  1: {
-   // name: 'Little Kitten',
-   description:
-    'Podstawowy poziom dla tych, którzy po prostu chcą wesprzeć projekt. Dobry wybór, jeśli np. przestałeś grać w Genshin Impact i nie potrzebujesz już korzyści, ale nadal chcesz dobrowolnie wspierać projekt.',
-  },
-  2: {
-   // name: 'Favorite Cat',
-   description:
-    'Średni tier, który oferuje większość podstawowych korzyści związanych z grą Genshin Impact. Idealne dla graczy, którzy chcą korzystać z dodatkowych modyfikacji i ulepszeń w grze.',
-  },
-  3: {
-   // name: 'Safety Kitten',
-   description:
-    'Zaawansowany tier dla zaufanych użytkowników, który oferuje specjalne korzyści, takie jak systemy zabezpieczeń przed banem, giveaways na konta Genshin Impact, a także niestandardowy wygląd interfejsu Windows Terminal.',
-  },
-  4: {
-   // name: 'Keyboard Cat',
-   description:
-    'Dla graczy, którzy chcą maksymalnie wykorzystać możliwości swoich urządzeń i cieszyć się grą bez jakichkolwiek zakłóceń. Ta opcja oferuje usługi optymalizacji komputera (poprzez TeamViewer lub AnyDesk), wsparcie techniczne oraz możliwość używania plików wsadowych w Stella Mod Launcher.',
-  },
-  5: {
-   // name: 'Cute Kitty',
-   description:
-    'Zapewnia dostęp do wszystkich korzyści oferowanych w niższych tierach, a także umożliwia aktywację na największej liczbie urządzeń. Idealny dla graczy, którzy doceniają pracę twórcy Stella Mod i chcą wspierać dalszy rozwój oraz serwerownię projektu.',
-  },
+  1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
+  2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+  3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+  4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
  },
  UnknownBenefit: 'Nieznana korzyść',
  prices: {
@@ -317,7 +294,6 @@ exports.subscription = {
   FromTheTier: 'Wszystko z poziomu {0}',
   FromTheTier12: 'Wszystko z Tieru 1 i 2',
   FromTheTier12And3: 'Wszystko z Tieru 1, 2 i 3',
-  FromAllTheTiers: 'Korzyści ze wszystkich tierów',
  },
  TierName: 'Nazwa tieru',
  benefitsFull: {
@@ -333,17 +309,18 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Presety z poprzednich wersji',
   EarlyAccessToStellaMod: 'Wczesny dostęp do Stella Mod',
   FasterDownloadServers: 'Szybsze serwery pobierania',
-  CarefullyDesignedSecuritySystem: 'Starannie zaprojektowany system bezpieczeństwa',
-  MuchGreaterPrivacy: 'Znacznie większa prywatność',
+  BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Różne eventy na konta do Genshin Impact',
   NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
-
   OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera lub laptopa',
   AssistanceRelatedToPCsOrLaptops: 'Pomoc dotycząca komputerów PC lub laptopów',
+  StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Aktywacja możliwa na {u}{0} urządzeniach{/u}',
  },
  CompareAvailablePlans: 'Porównaj dostępne plany',
+ SPCNote: '* SPC — Sefinek Patron Center (patrons.sefinek.net)',
  benefitsShort: {
   IntDevice: '{0} urządzeniu',
   IntDevices: '{0} urządzeniach',
@@ -359,43 +336,25 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Presety z poprzednich wersji',
   EarlyAccessToStellaMod: 'Wczesny dostęp do Stella Mod',
   FasterDownloadServers: 'Szybsze serwery pobierania',
-  CarefullyDesignedSecuritySystem: 'Starannie zaprojektowany system bezpieczeństwa',
-  MuchGreaterPrivacy: 'Znacznie lepsza prywatność (blokowanie telemetrii w grze)',
+  BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
   VariousGenshinImpactAccountGiveaways: 'Różne eventy na konta do Genshin Impact',
   NewWindowsTerminalAppearance: 'Nowy wygląd Windows Terminal (WT)',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
-
   OptimizationOfYourComputerForBestPerformance: 'Optymalizacja Twojego komputera',
   AssistanceRelatedToPCsOrLaptops: 'Pomoc dotycząca komputerów PC lub laptopów',
+  StandardSupport: 'Standard support',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Aktywacja możliwa na',
  },
  SubscribeNow: 'Subskrybuj teraz',
  ChangeYourTier: 'Zmień swój tier',
  SubscriptionIsTreatedAsVoluntarySupport:
   'Subskrypcja jest traktowana jako dobrowolne wsparcie, a nie jako zakup usługi lub produktu. Korzyści otrzymujesz tylko i wyłącznie jako dowód wdzięczności.',
- IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'Jeśli chcesz, możesz nadal korzystać z darmowej wersji całkowicie bezpłatnie. Decyzja należy wyłącznie od Ciebie.',
- Crypto: 'Kryptowaluty',
- IfYouWantToMakeAPaymentUsingCrypto:
-  'Jeśli chcesz dokonać płatności za pomocą kryptowaluty, skontaktuj się z deweloperem.',
- IAcceptPaymentsOnlyOnBinance: 'Akceptuję płatności tylko na Binance.',
- CloseModal: 'Zamknij okno modalne',
  PaymentSystem: {
   Header: 'System płatności',
-  1: 'Nasz bezpieczny system płatności jest napędzany dzięki {0}. To właśnie dzięki tej bramce płatności możesz śmiało dokonywać płatności, wiedząc, że Twoje dane finansowe są traktowane z najwyższym poziomem bezpieczeństwa.',
-  2: 'Stripe to dobrze zaufana i globalnie rozpoznawana platforma do przetwarzania płatności, która gwarantuje płynne i bezpieczne transakcje dla naszej społeczności. Bez względu na to, czy kupujesz produkty, subskrybujesz usługi czy dokonujesz darowizn, solidna infrastruktura Stripe zapewnia niezawodne i bezproblemowe doświadczenie płatności.',
-  3: 'Możesz być pewien, że Twoje wrażliwe dane płatnicze są szyfrowane i chronione na każdym etapie procesu płatności. Twoja prywatność i bezpieczeństwo są dla nas najwyższym priorytetem.',
+  Text:
+   'Payments are securely processed by {0} — a globally trusted platform supporting all major cards and payment methods. Your financial data is encrypted and protected throughout the entire transaction, so you can subscribe with complete peace of mind.',
  },
- AcceptedPaymentMethods: 'Akceptowane metody płatności',
- IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
-  'Jeśli chcesz dokonać płatności za pomocą kryptowalut lub przelewu bankowego, skontaktuj się z deweloperem.',
- BankName: 'Nazwa banku:',
- AccountNumber: 'Numer konta:',
- SWIFTOrBICCode: 'Kod SWIFT/BIC:',
- IBAN: 'IBAN:',
- AskTheAdministratorForIt: 'Zapytaj administratora o to',
- PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Prosimy pamiętać, że to kupujący ponosi odpowiedzialność za pokrycie wszelkich opłat bankowych związanych z jakąkolwiek transakcją.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Zasady korzystania z naszych korzyści i patronatu',
   SubText1:
@@ -406,6 +365,9 @@ exports.subscription = {
   HeaderText3: 'Subskrypcja nie pokrywa się z zakupem oprogramowania 3DMigoto:',
   SubText3:
    'Stając się subskrybentem Stella Mod Plus, nie nabywasz 3DMigoto jako produkt cyfrowy. Jako subskrybent, zyskujesz wyłącznie dostęp do korzystania z 3DMigoto w aplikacji Stella Mod Launcher.',
+  HeaderText4: 'Refund policy:',
+  SubText4:
+   'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
    'Cenimy Twoją obecność w naszej społeczności i Twoje wsparcie dla naszej pracy. Jeśli masz jakieś pytania lub obawy, {a}skontaktuj się z nami{/a}. Twoje uczestnictwo i zrozumienie tych zasad są niezwykle ważne dla naszego projektu.',
  },
