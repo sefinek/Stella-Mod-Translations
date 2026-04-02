@@ -276,7 +276,7 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Escolha seu nível de assinatura',
  IfYouAreInterestedInTheBenefits:
-  'Se você estiver interessado nos benefícios, explore todos os níveis disponíveis para ver qual se adéqua às suas preferências. Com sorte, você encontrará um que desperte seu interesse!',
+  "If you're interested in the benefits, explore all the available tiers to find one that suits your preferences. Do you have any questions? Join our Discord server or open a ticket at {0} — we typically respond within 24 hours.",
  Recommended: 'Recomendado',
  tiers: {
   1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
@@ -292,7 +292,7 @@ exports.subscription = {
  },
  Everything: {
   FromTheTier: 'Tudo do Nível {0}',
-  FromTheTier12: 'Tudo do Nível 1 e 2',
+  FromTheTier12: 'Everything from Tier 1 & 2',
   FromTheTier12And3: 'Tudo do Nível 1, 2 & 3',
  },
  TierName: 'Nome do Tier',
@@ -349,7 +349,7 @@ exports.subscription = {
  SubscribeNow: 'Assine agora',
  ChangeYourTier: 'Mude seu nível',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'A assinatura é tratada como suporte voluntário, não como uma compra de um serviço ou produto. Os benefícios que você recebe são apenas um símbolo de apreciação.',
+  'Subscription is treated as voluntary support for the project, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation. If you prefer, you can continue using the free version — the decision is entirely yours.',
  PaymentSystem: {
   Header: 'Meio de pagamento',
   Text:
@@ -357,25 +357,24 @@ exports.subscription = {
  },
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Regras para usar nossos benefícios e patrocínios',
-  SubText1:
-   'Gostaríamos de expressar nossa sincera gratidão a todos os nossos assinantes pelo apoio e confiança. Antes de prosseguir com a assinatura do Stella Mod Plus, reserve um momento para se familiarizar com algumas diretrizes importantes.',
-  HeaderText2: 'Os benefícios são destinados exclusivamente aos assinantes:',
+  SubText1: 'Before subscribing to Stella Mod Plus, please take a moment to read the following guidelines.',
+  HeaderText2: 'Subscription does not constitute a purchase of 3DMigoto:',
   SubText2:
-   'Cada token de resgate de benefício é atribuído a um assinante e deve ser mantido confidencial. Não compartilhe seus benefícios com outros nem os distribua online. Utilize-os somente para seu uso pessoal e de acordo com nossas diretrizes.',
-  HeaderText3: 'A assinatura não equivale à compra do software 3DMigoto:',
+   'By subscribing to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product. You gain access solely to use 3DMigoto within the Stella Mod Launcher application for the duration of your active subscription.',
+  HeaderText3: 'Access is personal and non-transferable:',
   SubText3:
-   'Ao se tornar um assinante do Stella Mod Plus, você não está adquirindo o 3DMigoto como um produto digital para compra. Em vez disso, como nosso assinante, você ganha acesso somente para usar o 3DMigoto dentro do aplicativo Stella Mod Launcher.',
+   'Your benefit redemption token and access to Stella Mod Plus are assigned exclusively to your account and must be kept confidential. Sharing, reselling, sublicensing, or granting access to anyone outside your household is strictly prohibited and may result in immediate loss of access without the right to a refund.',
   HeaderText4: 'Refund policy:',
   SubText4:
    'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
-   'Agradecemos sua presença em nossa comunidade e seu apoio ao nosso trabalho. Se você tiver alguma dúvida ou preocupação, {a}entre em contato conosco{/a}. Sua participação e compreensão dessas regras são incrivelmente importantes para o nosso projeto.',
+   'We appreciate your support for the project. If you have any questions or concerns, please open a {a}ticket{/a}. Respecting the above rules is incredibly important to us.',
  },
  request: {
   WeAreProcessingYourRequest: 'Estamos processando sua solicitação...',
   SubscribingInProgress:
-   'Precisamos de um pouco de tempo para deixar tudo pronto. Por favor, permaneça nesta página e nos dê um momento!\nEm breve, nós o redirecionaremos para uma página de pagamento segura, onde você poderá concluir sua transação com segurança. ^w^',
+   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction.',
   ChangingTheTierInProgress:
-   'Precisamos de algum tempo para alterar seu nível! Dê-nos um momento, e prometemos que tudo correrá bem. ^w^',
+   'We need some time to change your tier. Give us a moment, and we promise everything will go smoothly.',
  },
 };
