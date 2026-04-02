@@ -270,7 +270,7 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Choose your subscription tier',
  IfYouAreInterestedInTheBenefits:
-  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
+  "If you're interested in the benefits, explore all the available tiers to find one that suits your preferences. Do you have any questions? Join our Discord server or open a ticket at {0} — we typically respond within 24 hours.",
  Recommended: 'Recommended',
  tiers: {
   1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
@@ -286,7 +286,7 @@ exports.subscription = {
  },
  Everything: {
   FromTheTier: 'Everything from Tier {0}',
-  FromTheTier12: 'Everything from Tier 1 and 2',
+  FromTheTier12: 'Everything from Tier 1 & 2',
   FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
  },
  TierName: 'Tier name',
@@ -343,7 +343,7 @@ exports.subscription = {
  SubscribeNow: 'Subscribe now',
  ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
+  'Subscription is treated as voluntary support for the project, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation. If you prefer, you can continue using the free version — the decision is entirely yours.',
  PaymentSystem: {
   Header: 'Payment system',
   Text:
@@ -351,25 +351,24 @@ exports.subscription = {
  },
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Rules for using our benefits and patronage',
-  SubText1:
-   'We would like to express our heartfelt gratitude to all our subscribers for their support and trust. Before proceeding with the Stella Mod Plus subscription, please take a moment to familiarize yourself with a few important guidelines.',
-  HeaderText2: 'Benefits are intended exclusively for subscribers:',
+  SubText1: 'Before subscribing to Stella Mod Plus, please take a moment to read the following guidelines.',
+  HeaderText2: 'Subscription does not constitute a purchase of 3DMigoto:',
   SubText2:
-   'Each benefit redemption token is assigned to a subscriber and should be kept confidential. Please do not share your benefits with others or distribute them online. Utilize them solely for your personal use and in accordance with our guidelines.',
-  HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
+   'By subscribing to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product. You gain access solely to use 3DMigoto within the Stella Mod Launcher application for the duration of your active subscription.',
+  HeaderText3: 'Access is personal and non-transferable:',
   SubText3:
-   'By becoming a subscriber to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product for purchase. Instead, as our subscriber, you solely gain access to use 3DMigoto within the Stella Mod Launcher application.',
+   'Your benefit redemption token and access to Stella Mod Plus are assigned exclusively to your account and must be kept confidential. Sharing, reselling, sublicensing, or granting access to anyone outside your household is strictly prohibited and may result in immediate loss of access without the right to a refund.',
   HeaderText4: 'Refund policy:',
   SubText4:
    'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
-   'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.',
+   'We appreciate your support for the project. If you have any questions or concerns, please open a {a}ticket{/a}. Respecting the above rules is incredibly important to us.',
  },
  request: {
   WeAreProcessingYourRequest: 'We are processing your request...',
   SubscribingInProgress:
-   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction. ^w^',
+   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction.',
   ChangingTheTierInProgress:
-   'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+   'We need some time to change your tier. Give us a moment, and we promise everything will go smoothly.',
  },
 };
