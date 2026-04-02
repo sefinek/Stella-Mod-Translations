@@ -275,35 +275,12 @@ exports.subscription = {
  ChooseYourSubscriptionTier: 'Abonelik seviyenizi seçin',
  IfYouAreInterestedInTheBenefits:
   'Avantajlarla ilgileniyorsanız, hangisinin tercihlerinize uygun olduğunu görmek için lütfen mevcut tüm kademeleri inceleyin. Umarım ilginizi çekecek bir tane bulursunuz!',
- IfYouHaveAnyQuestions:
-  'Herhangi bir sorunuz var mı? Discord sunucumuza katılmaktan veya e-posta yoluyla bizimle iletişime geçmekten çekinmeyin. İletişim bilgilerini bu web sitesinin ana sayfasında bulabilirsiniz.',
  Recommended: 'Önerilen',
  tiers: {
-  1: {
-   // name: 'Little Kitten',
-   description:
-    'Sadece projeyi desteklemek isteyenler için temel seviye. Örneğin, Genshin Impact oynamayı bıraktıysanız ve artık oyunun faydalarına ihtiyacınız yoksa, ancak yine de projeyi gönüllü olarak desteklemek istiyorsanız, bu iyi bir çözümdür.',
-  },
-  2: {
-   // name: 'Favorite Cat',
-   description:
-    'Genshin Impact oyunuyla ilişkili temel avantajların çoğunu sunan orta seviye. Oyunda ek değişikliklerin ve geliştirmelerin keyfini çıkarmak isteyen oyuncular için idealdir.',
-  },
-  3: {
-   // name: 'Safety Kitten',
-   description:
-    'Engellenmelere karşı koruma sağlayan sistemler, Genshin Impact hesapları için hediyeler ve Windows Terminal arayüzü için özel bir görünüm gibi özel avantajlar sunan güvenilir kullanıcılar için gelişmiş seviye.',
-  },
-  4: {
-   // name: 'Keyboard Cat',
-   description:
-    "Cihazlarının yeteneklerini en üst düzeye çıkarmak ve herhangi bir kesinti olmadan oyunun tadını çıkarmak isteyen oyuncular için. Bu seçenek, bilgisayar optimizasyon hizmetleri (TeamViewer veya AnyDesk aracılığıyla), teknik destek ve Stella Mod Başlatıcısın'da ki dosyaları kullanma olanağı sunar.",
-  },
-  5: {
-   // name: 'Cute Kitty',
-   description:
-    "Daha düşük seviyelerde bulunan tüm avantajlara erişim sağlar ve ayrıca çoğu cihazda aktivasyona izin verir. Stella Mod'un yapımcısının çalışmalarını takdir eden ve daha fazla geliştirmeyi ve projenin sunucu altyapısını desteklemek isteyen oyuncular için idealdir.",
-  },
+  1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
+  2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+  3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+  4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
  },
  UnknownBenefit: 'Bilinmeyen avantaj',
  prices: {
@@ -315,7 +292,6 @@ exports.subscription = {
   FromTheTier: "Seviye {0}'den itibaren mevcut olan her şey",
   FromTheTier12: "Seviye 1 ve 2'den itibaren mevcut olan her şey",
   FromTheTier12And3: "Seviye 1, 2 ve 3'den itibaren mevcut olan her şey",
-  FromAllTheTiers: 'Tüm Seviyelerden itibaren mevcut olan Her Şey',
  },
  TierName: 'Seviye ismi',
  benefitsFull: {
@@ -331,17 +307,18 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Önceki sürümlerden hazır ayarlar',
   EarlyAccessToStellaMod: 'Stella moduna erken erişim',
   FasterDownloadServers: 'Yüksek hızlı veri sunucuları',
-  CarefullyDesignedSecuritySystem: 'Özenle tasarlanmış güvenlik sistemi',
-  MuchGreaterPrivacy: 'Çok daha iyi gizlilik',
+  BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Çeşitli Genshin Impact hesap hediyeleri',
   NewWindowsTerminalAppearance: 'Yeni Windows Terminali (WT) görünümü',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
-
   OptimizationOfYourComputerForBestPerformance: 'Bilgisayarınız için en iyi performans optimizasyonu',
   AssistanceRelatedToPCsOrLaptops: 'Masaüstü bilgisayarlar veya dizüstü bilgisayarlarla ilgili yardım',
+  StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Etkinleştirme {u}{0} cihazlarda mümkündür{/u}',
  },
  CompareAvailablePlans: 'Mevcut planları karşılaştırın',
+ SPCNote: '* SPC — Sefinek Patron Center (patrons.sefinek.net)',
  benefitsShort: {
   IntDevice: '{0} cihaz',
   IntDevices: '{0} cihazlar',
@@ -357,43 +334,25 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Önceki sürümlerden hazır ayarlar',
   EarlyAccessToStellaMod: 'Stella moduna erken erişim',
   FasterDownloadServers: 'Yüksek hızlı veri sunucuları',
-  CarefullyDesignedSecuritySystem: 'Özenle tasarlanmış güvenlik sistemi',
-  MuchGreaterPrivacy: 'Çok daha iyi gizlilik (oyun telemetrisinin engellenmesi)',
+  BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
   VariousGenshinImpactAccountGiveaways: 'Çeşitli Genshin Impact hesap hediyeleri',
   NewWindowsTerminalAppearance: 'Yeni Windows Terminali (WT) görünümü',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
-
   OptimizationOfYourComputerForBestPerformance: 'Bilgisayarınız için optimizasyon',
   AssistanceRelatedToPCsOrLaptops: 'Masaüstü bilgisayarlar veya dizüstü bilgisayarlarla ilgili yardım',
+  StandardSupport: 'Standard support',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Etkinleştirme mümkün',
  },
  SubscribeNow: 'Şimdi abone ol',
  ChangeYourTier: 'Seviyenizi değiştirin',
  SubscriptionIsTreatedAsVoluntarySupport:
   'Abonelik, bir hizmet veya ürünün satın alınması olarak değil, gönüllü destek olarak değerlendirilir. Aldığınız avantajlar yalnızca bir takdir göstergesidir.',
- IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'Dilerseniz ücretsiz sürümü hiçbir ücret ödemeden kullanmaya devam edebilirsiniz. Karar tamamen size kalmış.',
- Crypto: 'Kripto',
- IfYouWantToMakeAPaymentUsingCrypto:
-  'Kripto para kullanarak bir ödeme yapmak istiyorsanız, lütfen geliştiriciyle iletişime geçin.',
- IAcceptPaymentsOnlyOnBinance: 'Sadece Binance üzerinden ödeme kabul ediyorum.',
- CloseModal: 'Pencereyi kapat',
  PaymentSystem: {
   Header: 'Ödeme sistemi',
-  1: 'Güvenli ödeme sistemimizin {0} tarafından desteklendiğini duyurmaktan mutluluk duyuyoruz. Stripe ile, finansal bilgilerinizin en üst düzeyde güvenle ele alındığını bilerek rahatlıkla ödeme yapabilirsiniz.',
-  2: "Stripe, müşterilerimiz için sorunsuz ve güvenli işlemleri garanti eden, iyi güvenilen ve dünya çapında tanınan bir ödeme işleme platformudur. İster ürün satın alıyor, ister hizmetlere abone oluyor veya bağış yapıyor olun, Stripe'ın sağlam altyapısı güvenilir ve sorunsuz bir ödeme deneyimi sağlar.",
-  3: 'Lütfen hassas ödeme bilgilerinizin tüm ödeme süreci boyunca şifrelendiğinden ve korunduğundan emin olun. Gizliliğiniz ve güvenliğiniz bizim için en önemli önceliklerimizdir.',
+  Text:
+   'Payments are securely processed by {0} — a globally trusted platform supporting all major cards and payment methods. Your financial data is encrypted and protected throughout the entire transaction, so you can subscribe with complete peace of mind.',
  },
- AcceptedPaymentMethods: 'Kabul edilen ödeme yöntemleri',
- IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
-  'Kripto para birimleri veya doğrudan banka havalesi kullanarak ödeme yapmak istiyorsanız, lütfen geliştirici ile iletişime geçin.',
- BankName: 'Banka ismi:',
- AccountNumber: 'Hesap Numarası:',
- SWIFTOrBICCode: 'SWIFT/BIC Kodu:',
- IBAN: 'IBAN:',
- AskTheAdministratorForIt: 'Yöneticiden isteyin',
- PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Herhangi bir işlemle ilgili banka ücretlerinin karşılanmasından alıcının sorumlu olduğunu lütfen unutmayın.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Avantajlarımızı ve özelliklerimizi kullanma kuralları',
   SubText1:
@@ -404,6 +363,9 @@ exports.subscription = {
   HeaderText3: 'Abone olmak 3DMigoto yazılımını satın almak anlamına gelmez:',
   SubText3:
    "Stella Mod Plus'a abone olmakla, 3DMigoto'yu satın almak için dijital bir ürün olarak edinmiş olmuyorsunuz. Bunun yerine, abonemiz olarak, yalnızca Stella Mod Başlatıcısının uygulama içerisinde 3DMigoto'yu kullanabilme erişimine sahip olursunuz.",
+  HeaderText4: 'Refund policy:',
+  SubText4:
+   'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
    'Topluluğumuzdaki varlığınız ve çalışmalarımıza verdiğiniz destek için teşekkür ederiz. Herhangi bir sorunuz veya endişeniz varsa, lütfen {a}bizimle iletişime geçin{/a}. Katılımınız ve bu kuralları anlamanız projemiz için son derece önemlidir.',
  },
