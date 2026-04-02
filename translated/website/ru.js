@@ -276,7 +276,7 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Выберите уровень подписки',
  IfYouAreInterestedInTheBenefits:
-  'Если вас заинтересовали преимущества, изучите все доступные уровни, чтобы понять, какой из них соответствует вашим предпочтениям. Надеемся, вы найдете тот, который вас заинтересует!',
+  "If you're interested in the benefits, explore all the available tiers to find one that suits your preferences. Do you have any questions? Join our Discord server or open a ticket at {0} — we typically respond within 24 hours.",
  Recommended: 'Рекомендуем',
  tiers: {
   1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
@@ -292,7 +292,7 @@ exports.subscription = {
  },
  Everything: {
   FromTheTier: 'Все с уровня {0}',
-  FromTheTier12: 'Все из Уровня 1 и 2',
+  FromTheTier12: 'Everything from Tier 1 & 2',
   FromTheTier12And3: 'Все из уровней 1, 2 и 3',
  },
  TierName: 'Наименование яруса',
@@ -350,7 +350,7 @@ exports.subscription = {
  SubscribeNow: 'Подписаться сейчас',
  ChangeYourTier: 'Изменить уровень подписки',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Ваша подписка - это добровольная поддержка, а не покупка услуги. Все получаемые вами бонусы - это наша благодарность за вашу помощь.',
+  'Subscription is treated as voluntary support for the project, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation. If you prefer, you can continue using the free version — the decision is entirely yours.',
  PaymentSystem: {
   Header: 'Платежная система',
   Text:
@@ -358,25 +358,24 @@ exports.subscription = {
  },
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Правила использования наших преимуществ и спонсорства',
-  SubText1:
-   'Мы хотели бы выразить искреннюю благодарность всем нашим подписчикам за поддержку и доверие. Прежде чем приступить к оформлению подписки Stella Mod Plus, пожалуйста, ознакомьтесь с несколькими важными рекомендациями.',
-  HeaderText2: 'Эксклюзивно для подписчиков:',
+  SubText1: 'Before subscribing to Stella Mod Plus, please take a moment to read the following guidelines.',
+  HeaderText2: 'Subscription does not constitute a purchase of 3DMigoto:',
   SubText2:
-   'Каждый токен активации преимуществ является персональным и должен оставаться конфиденциальным. Передача, распространение или публикация токенов запрещены. Используйте их исключительно для личного пользования и в рамках установленных правил.',
-  HeaderText3: 'Подписка не означает приобретение программного обеспечения 3DMigoto:',
+   'By subscribing to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product. You gain access solely to use 3DMigoto within the Stella Mod Launcher application for the duration of your active subscription.',
+  HeaderText3: 'Access is personal and non-transferable:',
   SubText3:
-   'Став подписчиком Stella Mod Plus, вы не приобретаете 3DMigoto как цифровой продукт для покупки. Вместо этого, став нашим подписчиком, вы получаете доступ к использованию 3DMigoto только в Лаунчере Stella Mod.',
+   'Your benefit redemption token and access to Stella Mod Plus are assigned exclusively to your account and must be kept confidential. Sharing, reselling, sublicensing, or granting access to anyone outside your household is strictly prohibited and may result in immediate loss of access without the right to a refund.',
   HeaderText4: 'Refund policy:',
   SubText4:
    'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
-   'Мы искренне ценим ваше участие в нашем сообществе и поддержку нашей работы. При возникновении вопросов или сложностей, пожалуйста, {a}свяжитесь с нами{/a}. Ваше понимание этих правил и активность крайне важны для развития нашего проекта.',
+   'We appreciate your support for the project. If you have any questions or concerns, please open a {a}ticket{/a}. Respecting the above rules is incredibly important to us.',
  },
  request: {
   WeAreProcessingYourRequest: 'Мы обрабатываем ваш запрос...',
   SubscribingInProgress:
-   'Подготавливаем всё необходимое для вас. Не покидайте страницу, пожалуйста!\nБуквально через мгновение мы перенаправим вас на безопасную страницу оплаты. ^w^',
+   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction.',
   ChangingTheTierInProgress:
-   'Нам нужно немного времени, чтобы изменить ваш уровень подписки! Пожалуйста, подождите чуть-чуть, и мы обещаем, что всё пройдёт гладко! ^w^',
+   'We need some time to change your tier. Give us a moment, and we promise everything will go smoothly.',
  },
 };
