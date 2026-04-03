@@ -272,36 +272,13 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Choose your subscription tier',
  IfYouAreInterestedInTheBenefits:
-  "If you're interested in the benefits, please explore all the available tiers to see which one suits your preferences. Hopefully, you'll find one that piques your interest!",
- IfYouHaveAnyQuestions:
-  "Do you have any questions? Don't hesitate to join our Discord server or contact us via email. You can find the contact information on the main page of this website.",
+  "If you're interested in the benefits, explore all the available tiers to find one that suits your preferences. Do you have any questions? Join our Discord server or open a ticket at {0} — we typically respond within 24 hours.",
  Recommended: 'Recommended',
  tiers: {
-  1: {
-   // name: 'Little Kitten',
-   description:
-    'Basic tier for those who just want to support the project. This is a good solution, for example, if you stopped playing Genshin Impact and no longer need the benefits from the game, but still want to support the project voluntarily.',
-  },
-  2: {
-   // name: 'Favorite Cat',
-   description:
-    'Medium tier that offers most of the basic benefits associated with the game Genshin Impact. Ideal for players who want to enjoy additional modifications and enhancements in the game.',
-  },
-  3: {
-   // name: 'Safety Kitten',
-   description:
-    'Advanced tier for trusted users, which offers special benefits such as systems to protect against bans, giveaways for Genshin Impact accounts, and a custom appearance for the Windows Terminal interface.',
-  },
-  4: {
-   // name: 'Keyboard Cat',
-   description:
-    'For players who want to maximize the capabilities of their devices and enjoy the game without any disruptions. This option offers computer optimization services (via TeamViewer or AnyDesk), technical support, and the ability to use batch files in Stella Mod Launcher.',
-  },
-  5: {
-   // name: 'Cute Kitty',
-   description:
-    "Provides access to all the benefits offered in lower tiers, and also allows activation on the most devices. Ideal for players who appreciate the work of Stella Mod creator and want to support further development and the project's server infrastructure.",
-  },
+  1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
+  2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+  3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+  4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
  },
  UnknownBenefit: 'Unknown benefit',
  prices: {
@@ -311,9 +288,8 @@ exports.subscription = {
  },
  Everything: {
   FromTheTier: 'Everything from Tier {0}',
-  FromTheTier12: 'Everything from Tier 1 and 2',
+  FromTheTier12: 'Everything from Tier 1 & 2',
   FromTheTier12And3: 'Everything from Tier 1, 2 & 3',
-  FromAllTheTiers: 'Everything from all Tiers',
  },
  TierName: 'Tier name',
  benefitsFull: {
@@ -329,17 +305,18 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Presets from previous versions',
   EarlyAccessToStellaMod: 'Early access to Stella Mod',
   FasterDownloadServers: 'Faster download servers',
-  CarefullyDesignedSecuritySystem: 'Carefully designed security system',
-  MuchGreaterPrivacy: 'Much greater privacy',
+  BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
   NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
-
   OptimizationOfYourComputerForBestPerformance: 'Optimization of your PC for the best performance',
   AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
+  StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Activation possible on {u}{0} devices{/u}',
  },
  CompareAvailablePlans: 'Compare available plans',
+ SPCNote: '* SPC — Sefinek Patron Center (patrons.sefinek.net)',
  benefitsShort: {
   IntDevice: '{0} device',
   IntDevices: '{0} devices',
@@ -355,61 +332,45 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Presets from previous versions',
   EarlyAccessToStellaMod: 'Early access to Stella Mod',
   FasterDownloadServers: 'Faster download servers',
-  CarefullyDesignedSecuritySystem: 'Carefully designed security system',
-  MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
+  BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
   VariousGenshinImpactAccountGiveaways: 'Various Genshin Impact account giveaways',
   NewWindowsTerminalAppearance: 'New Windows Terminal (WT) appearance',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
-
   OptimizationOfYourComputerForBestPerformance: 'Optimization of your computer',
   AssistanceRelatedToPCsOrLaptops: 'Assistance related to PCs or laptops',
+  StandardSupport: 'Standard support',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Activation possible on',
  },
  SubscribeNow: 'Subscribe now',
  ChangeYourTier: 'Change your tier',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Subscription is treated as voluntary support, not as a purchase of a service or product. The benefits you receive are solely as a token of appreciation.',
- IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'If you wish, you can continue to use the free version at no cost. The decision is entirely up to you.',
- Crypto: 'Crypto',
- IfYouWantToMakeAPaymentUsingCrypto:
-  'If you want to make a payment using cryptocurrency, please contact the developer.',
- IAcceptPaymentsOnlyOnBinance: 'I accept payments only on Binance.',
- CloseModal: 'Close modal',
+  'Subscription is treated as voluntary support for the project, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation. If you prefer, you can continue using the free version — the decision is entirely yours.',
  PaymentSystem: {
   Header: 'Payment system',
-  1: 'We are delighted to announce that our secure payment system is powered by {0}. With Stripe, you can confidently make payments, knowing that your financial information is handled with the highest level of security.',
-  2: "Stripe is a well-trusted and globally recognized payment processing platform that guarantees smooth and secure transactions for our customers. Whether you're buying products, subscribing to services, or making donations, Stripe's robust infrastructure ensures a dependable and trouble-free payment experience.",
-  3: 'Please be assured that your sensitive payment details are encrypted and safeguarded throughout the entire payment process. Your privacy and security are our top priorities.',
+  Text:
+   'Payments are securely processed by {0} — a globally trusted platform supporting all major cards and payment methods. Your financial data is encrypted and protected throughout the entire transaction, so you can subscribe with complete peace of mind.',
  },
- AcceptedPaymentMethods: 'Accepted payment methods',
- IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
-  'If you wish to make a payment using cryptocurrencies or a direct bank transfer, please contact the developer.',
- BankName: 'Bank Name:',
- AccountNumber: 'Account Number:',
- SWIFTOrBICCode: 'SWIFT/BIC Code:',
- IBAN: 'IBAN:',
- AskTheAdministratorForIt: 'Ask the administrator for it',
- PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Please note that the buyer is responsible for covering any bank fees associated with any transaction.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Rules for using our benefits and patronage',
-  SubText1:
-   'We would like to express our heartfelt gratitude to all our subscribers for their support and trust. Before proceeding with the Stella Mod Plus subscription, please take a moment to familiarize yourself with a few important guidelines.',
-  HeaderText2: 'Benefits are intended exclusively for subscribers:',
+  SubText1: 'Before subscribing to Stella Mod Plus, please take a moment to read the following guidelines.',
+  HeaderText2: 'Subscription does not constitute a purchase of 3DMigoto:',
   SubText2:
-   'Each benefit redemption token is assigned to a subscriber and should be kept confidential. Please do not share your benefits with others or distribute them online. Utilize them solely for your personal use and in accordance with our guidelines.',
-  HeaderText3: 'Subscribing does not equate to purchasing the 3DMigoto software:',
+   'By subscribing to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product. You gain access solely to use 3DMigoto within the Stella Mod Launcher application for the duration of your active subscription.',
+  HeaderText3: 'Access is personal and non-transferable:',
   SubText3:
-   'By becoming a subscriber to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product for purchase. Instead, as our subscriber, you solely gain access to use 3DMigoto within the Stella Mod Launcher application.',
+   'Your benefit redemption token and access to Stella Mod Plus are assigned exclusively to your account and must be kept confidential. Sharing, reselling, sublicensing, or granting access to anyone outside your household is strictly prohibited and may result in immediate loss of access without the right to a refund.',
+  HeaderText4: 'Refund policy:',
+  SubText4:
+   'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
-   'We appreciate your presence in our community and your support for our work. If you have any questions or concerns, please {a}contact us{/a}. Your participation and understanding of these rules are incredibly important to our project.',
+   'We appreciate your support for the project. If you have any questions or concerns, please open a {a}ticket{/a}. Respecting the above rules is incredibly important to us.',
  },
  request: {
   WeAreProcessingYourRequest: 'We are processing your request...',
   SubscribingInProgress:
-   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction. ^w^',
+   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction.',
   ChangingTheTierInProgress:
-   'We need some time to change your tier! Give us a moment, and we promise everything will go smoothly. ^w^',
+   'We need some time to change your tier. Give us a moment, and we promise everything will go smoothly.',
  },
 };

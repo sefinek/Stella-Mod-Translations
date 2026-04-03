@@ -276,36 +276,13 @@ exports.github = {
 exports.subscription = {
  ChooseYourSubscriptionTier: 'Выберите уровень подписки',
  IfYouAreInterestedInTheBenefits:
-  'Если вас заинтересовали преимущества, изучите все доступные уровни, чтобы понять, какой из них соответствует вашим предпочтениям. Надеемся, вы найдете тот, который вас заинтересует!',
- IfYouHaveAnyQuestions:
-  'У вас есть вопросы? Не стесняйтесь присоединиться к нашему серверу Discord или связаться с нами по электронной почте. Контактную информацию можно найти на главной странице этого сайта.',
+  "If you're interested in the benefits, explore all the available tiers to find one that suits your preferences. Do you have any questions? Join our Discord server or open a ticket at {0} — we typically respond within 24 hours.",
  Recommended: 'Рекомендуем',
  tiers: {
-  1: {
-   // name: 'Little Kitten',
-   description:
-    'Базовый уровень для тех, кто просто хочет поддержать проект. Это хорошее решение, например, если вы перестали играть в Genshin Impact и больше не нуждаетесь в преимуществах игры, но все еще хотите добровольно поддержать проект.',
-  },
-  2: {
-   // name: 'Favorite Cat',
-   description:
-    'Средний уровень, который предлагает большинство основных преимуществ, связанных с игрой Genshin Impact. Идеально подходит для игроков, которые хотят пользоваться дополнительными модификациями и улучшениями в игре.',
-  },
-  3: {
-   // name: 'Safety Kitten',
-   description:
-    'Расширенный уровень для доверенных пользователей, который предлагает особые преимущества, такие как системы защиты от банов, раздачи призов для учетных записей Genshin Impact и настраиваемый внешний вид интерфейса Windows Terminal.',
-  },
-  4: {
-   // name: 'Keyboard Cat',
-   description:
-    'Для игроков, которые хотят максимально использовать возможности своих устройств и наслаждаться игрой без каких-либо сбоев. Этот вариант предлагает услуги по оптимизации компьютера (через TeamViewer или AnyDesk), техническую поддержку и возможность использовать пакетные файлы в Stella Mod Launcher.',
-  },
-  5: {
-   // name: 'Cute Kitty',
-   description:
-    'Предоставляет доступ ко всем преимуществам, предлагаемым на нижних уровнях, а также позволяет активировать их на большинстве устройств. Идеально подходит для игроков, которые ценят работу создателя Stella Mod и хотят поддержать дальнейшее развитие и серверную инфраструктуру проекта.',
-  },
+  1: "Basic tier for those who simply want to support the project. A good solution if you've stopped playing Genshin Impact and no longer need the in-game benefits, but still want to voluntarily support the project.",
+  2: 'The recommended tier offering a full set of Stella Mod benefits — Ray Tracing, mods, shaders, privacy protection, giveaways, and much more. Includes standard support for Stella Plus and Stella Mod.',
+  3: 'For players who want to use Stella Mod on two devices and take advantage of PC optimization and technical assistance. Includes better support.',
+  4: 'The highest tier with activation on three devices and priority support. Ideal for those who expect the best possible experience and the fastest response times.',
  },
  UnknownBenefit: 'Неизвестная польза',
  prices: {
@@ -315,9 +292,8 @@ exports.subscription = {
  },
  Everything: {
   FromTheTier: 'Все с уровня {0}',
-  FromTheTier12: 'Все из Уровня 1 и 2',
+  FromTheTier12: 'Everything from Tier 1 & 2',
   FromTheTier12And3: 'Все из уровней 1, 2 и 3',
-  FromAllTheTiers: 'Все со всех уровнях',
  },
  TierName: 'Наименование яруса',
  benefitsFull: {
@@ -333,18 +309,19 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Пресеты из предыдущих версий',
   EarlyAccessToStellaMod: 'Ранний доступ к Stella Mod',
   FasterDownloadServers: 'Быстрые сервера загрузки',
-  CarefullyDesignedSecuritySystem: 'Тщательно продуманная система безопасности',
-  MuchGreaterPrivacy: 'Гораздо большая конфиденциальность',
+  BlockGameTelemetry: 'Genshin Impact telemetry blocking for greater privacy',
   VariousGenshinImpactAccountGiveaways: 'Различные подарки для аккаунта Genshin Impact',
   NewWindowsTerminalAppearance: 'Новый внешний вид терминала Windows (WT)',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Photos and interesting videos of the developer\'s cats',
-
   OptimizationOfYourComputerForBestPerformance:
    'Оптимизация вашего компьютера для достижения максимальной производительности',
   AssistanceRelatedToPCsOrLaptops: 'Помощь, связанная с ПК или ноутбуками',
+  StandardSupport: 'Standard support for Stella Plus & Stella Mod',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Активация возможна на {u}{0} устройствах{/u}',
  },
  CompareAvailablePlans: 'Сравните доступные планы',
+ SPCNote: '* SPC — Sefinek Patron Center (patrons.sefinek.net)',
  benefitsShort: {
   IntDevice: '{0} устройство',
   IntDevices: '{0} устройства',
@@ -360,61 +337,45 @@ exports.subscription = {
   PresetsFromPreviousVersions: 'Пресеты из предыдущих версий',
   EarlyAccessToStellaMod: 'Ранний доступ к Stella Mod',
   FasterDownloadServers: 'Быстрые сервера загрузки',
-  CarefullyDesignedSecuritySystem: 'Тщательно продуманная система безопасности',
-  MuchGreaterPrivacy: 'Much better privacy (game telemetry blocking)',
+  BlockGameTelemetry: 'Blocks in-game telemetry & tracking',
   VariousGenshinImpactAccountGiveaways: 'Различные подарки для аккаунта Genshin Impact',
   NewWindowsTerminalAppearance: 'Новый внешний вид терминала Windows (WT)',
-  // ImagesAndInterestingVideosOfTheDevsCats: 'Dev\'s cat images & interesting videos',
-
   OptimizationOfYourComputerForBestPerformance: 'Оптимизация вашего компьютера',
   AssistanceRelatedToPCsOrLaptops: 'Помощь, связанная с ПК или ноутбуками',
+  StandardSupport: 'Standard support',
+  BetterSupport: 'Better support',
+  PrioritySupport: 'Priority support',
   ActivationPossibleOn: 'Активация возможна на',
  },
  SubscribeNow: 'Подписаться сейчас',
  ChangeYourTier: 'Изменить уровень подписки',
  SubscriptionIsTreatedAsVoluntarySupport:
-  'Ваша подписка - это добровольная поддержка, а не покупка услуги. Все получаемые вами бонусы - это наша благодарность за вашу помощь.',
- IfYouWishYouCanContinueToUseTheFreeVersionAtNoCost:
-  'При желании вы можете продолжать использовать бесплатную версию без каких-либо платежей. Решение полностью остается за вами.',
- Crypto: 'Криптовалюта',
- IfYouWantToMakeAPaymentUsingCrypto:
-  'Если вы хотите произвести оплату с помощью криптовалюты, пожалуйста, свяжитесь с разработчиком.',
- IAcceptPaymentsOnlyOnBinance: 'Я принимаю платежи только на Binance.',
- CloseModal: 'Закрыть',
+  'Subscription is treated as voluntary support for the project, not as a purchase of a service or product. The benefits you receive are solely a token of appreciation. If you prefer, you can continue using the free version — the decision is entirely yours.',
  PaymentSystem: {
   Header: 'Платежная система',
-  1: 'Мы рады сообщить, что наша безопасная платежная система работает на {0}. Благодаря Stripe вы можете с уверенностью совершать платежи, зная, что ваша финансовая информация обрабатывается с высочайшим уровнем безопасности.',
-  2: 'Stripe - это надежная и признанная во всем мире платформа для обработки платежей, которая гарантирует нашим клиентам бесперебойные и безопасные транзакции. Покупаете ли вы товары, подписываетесь на услуги или делаете пожертвования, надежная инфраструктура Stripe обеспечивает надежную и бесперебойную работу платежной системы.',
-  3: 'Пожалуйста, будьте уверены, что ваши конфиденциальные платежные данные будут зашифрованы и защищены на протяжении всего процесса оплаты. Ваша конфиденциальность и безопасность - наши главные приоритеты.',
+  Text:
+   'Payments are securely processed by {0} — a globally trusted platform supporting all major cards and payment methods. Your financial data is encrypted and protected throughout the entire transaction, so you can subscribe with complete peace of mind.',
  },
- AcceptedPaymentMethods: 'Доступные способы оплаты',
- IfYouWishToMakeAPaymentUsingCryptoOrADirectBankTransfer:
-  'Если вы хотите произвести оплату с помощью криптовалют или прямого банковского перевода, пожалуйста, свяжитесь с разработчиком.',
- BankName: 'Название Банка:',
- AccountNumber: 'Номер счёта:',
- SWIFTOrBICCode: 'Код SWIFT/BIC:',
- IBAN: 'IBAN (международный номер банковского счета):',
- AskTheAdministratorForIt: 'Попросите об этом администратора',
- PleaseNoteThatTheBuyerIsResponsibleForCoveringAnyBankFees:
-  'Пожалуйста, обратите внимание, что покупатель несет ответственность за покрытие любых банковских комиссий, связанных с любой транзакцией.',
  RulesForUsingOurBenefitsAndPatronage: {
   HeaderText1: 'Правила использования наших преимуществ и спонсорства',
-  SubText1:
-   'Мы хотели бы выразить искреннюю благодарность всем нашим подписчикам за поддержку и доверие. Прежде чем приступить к оформлению подписки Stella Mod Plus, пожалуйста, ознакомьтесь с несколькими важными рекомендациями.',
-  HeaderText2: 'Эксклюзивно для подписчиков:',
+  SubText1: 'Before subscribing to Stella Mod Plus, please take a moment to read the following guidelines.',
+  HeaderText2: 'Subscription does not constitute a purchase of 3DMigoto:',
   SubText2:
-   'Каждый токен активации преимуществ является персональным и должен оставаться конфиденциальным. Передача, распространение или публикация токенов запрещены. Используйте их исключительно для личного пользования и в рамках установленных правил.',
-  HeaderText3: 'Подписка не означает приобретение программного обеспечения 3DMigoto:',
+   'By subscribing to Stella Mod Plus, you are not acquiring 3DMigoto as a digital product. You gain access solely to use 3DMigoto within the Stella Mod Launcher application for the duration of your active subscription.',
+  HeaderText3: 'Access is personal and non-transferable:',
   SubText3:
-   'Став подписчиком Stella Mod Plus, вы не приобретаете 3DMigoto как цифровой продукт для покупки. Вместо этого, став нашим подписчиком, вы получаете доступ к использованию 3DMigoto только в Лаунчере Stella Mod.',
+   'Your benefit redemption token and access to Stella Mod Plus are assigned exclusively to your account and must be kept confidential. Sharing, reselling, sublicensing, or granting access to anyone outside your household is strictly prohibited and may result in immediate loss of access without the right to a refund.',
+  HeaderText4: 'Refund policy:',
+  SubText4:
+   'Subscriptions constitute a digital service delivered immediately upon payment. Refunds are generally not available, but may be considered individually in cases of technical payment errors or system failures preventing access to benefits. In such situations, please contact us via ticket.',
   Footer:
-   'Мы искренне ценим ваше участие в нашем сообществе и поддержку нашей работы. При возникновении вопросов или сложностей, пожалуйста, {a}свяжитесь с нами{/a}. Ваше понимание этих правил и активность крайне важны для развития нашего проекта.',
+   'We appreciate your support for the project. If you have any questions or concerns, please open a {a}ticket{/a}. Respecting the above rules is incredibly important to us.',
  },
  request: {
   WeAreProcessingYourRequest: 'Мы обрабатываем ваш запрос...',
   SubscribingInProgress:
-   'Подготавливаем всё необходимое для вас. Не покидайте страницу, пожалуйста!\nБуквально через мгновение мы перенаправим вас на безопасную страницу оплаты. ^w^',
+   'We need a little bit of time to get everything ready. Please remain on this page and give us a moment!\nShortly, we will redirect you to a secure payment page where you can safely complete your transaction.',
   ChangingTheTierInProgress:
-   'Нам нужно немного времени, чтобы изменить ваш уровень подписки! Пожалуйста, подождите чуть-чуть, и мы обещаем, что всё пройдёт гладко! ^w^',
+   'We need some time to change your tier. Give us a moment, and we promise everything will go smoothly.',
  },
 };
