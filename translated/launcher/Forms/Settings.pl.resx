@@ -438,8 +438,8 @@ Pełna obsługa dodatków: Odblokowuje dodatki oraz bufor głębi do zaawansowan
     <value>130</value>
   </data>
   <data name="release_Label.Text" xml:space="preserve">
-    <value>Kompilacja: v{0}
-Zainstalowana wersja: v{1}</value>
+    <value>Installed version: v{0}
+Build: v{1}</value>
   </data>
   <data name="release_Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
