@@ -549,12 +549,6 @@ Impostazioni predefinite attuali:
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Le risorse Stella Mod non sono state trovate sul tuo disco rigido.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Modifica del percorso del launcher</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>Abbiamo rilevato un probabile cambiamento nella posizione del launcher di Stella Mod. Alcune scorciatoie sono state aggiornate.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>È stato rilevato un nuovo aggiornamento di 3DMigoto per gli abbonati a Stella Plus. Questo aggiornamento non sovrascriverà le tue mod attuali.
 
