@@ -547,12 +547,6 @@ Nuvarande förinställning:
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Stella Mod-filer hittades inte på din hårddisk.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Ändring av launcherns sökväg</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>Vi har upptäckt en trolig förändring i platsen för Stella Mod-launchern. Vissa genvägar har uppdaterats.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>En ny 3DMigoto-uppdatering för Stella Plus-prenumeranter har upptäckts. Denna uppdatering kommer inte att skriva över dina nuvarande mods.
 

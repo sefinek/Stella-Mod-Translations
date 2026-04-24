@@ -549,12 +549,6 @@ Thank you, and see you in the game! Have fun and enjoy. Cheers!</value>
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Ресурсы Stella Mod не были найдены на Вашем диске.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Изменить патч лаунчера</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>Мы обнаружили вероятное изменение в расположении лаунчера Stella Mod. Некоторые ярлыки были обновлены.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Доступно новое обновление 3DMigoto для подписчиков Stella Plus! Ваши текущие моды останутся без изменений.
 

@@ -549,12 +549,6 @@ Préréglage actuel :
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Stella Mod resources were not found on your hard drive.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Change of the launcher path</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>We have detected a probable change in the location of the Stella Mod launcher. Some shortcuts have been updated.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>A new 3DMigoto update for Stella Plus subscribers has been detected. This update will not overwrite your current mods.
 
