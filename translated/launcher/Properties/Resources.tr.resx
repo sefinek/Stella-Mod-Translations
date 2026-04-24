@@ -549,12 +549,6 @@ Mevcut ön ayar:
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Stella Mod dosyaları sabit diskinizde bulunamadı.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Başlatıcının yolunu değiştir</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>Stella Mod başlatıcısının bulunduğu konumda olası bir değişiklik tespit edildi. Bazı kısayollar güncellendi.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Stella Plus aboneleri için yeni bir 3DMigoto güncellemesi bulundu. Bu güncelleme mevcut modlarınızın üzerine eklenmeyecektir.
 
