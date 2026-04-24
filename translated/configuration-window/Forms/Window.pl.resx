@@ -414,8 +414,8 @@ Jednakże Twoje ustawienia wstępne i inne niestandardowe shadery nie zostaną u
     <value>91</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Fields marked with an asterisk (*) are recommended to be filled.
-If you are unsure of what you're doing, do not uncheck any field.</value>
+    <value>Pola oznaczone gwiazdką (*) są zalecane do wypełnienia.
+Jeśli nie jesteś pewien, co robisz, nie odznaczaj żadnego pola.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
