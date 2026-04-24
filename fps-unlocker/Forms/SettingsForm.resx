@@ -142,7 +142,7 @@
     <value>2</value>
   </data>
   <data name="CBAutoClose.Text" xml:space="preserve">
-    <value>Auto Close</value>
+    <value>Auto close</value>
   </data>
   <data name="CBAutoClose.ToolTip" xml:space="preserve">
     <value>Unlocker will automatically close when the game exits</value>
@@ -178,7 +178,7 @@
     <value>1</value>
   </data>
   <data name="CBStartMinimized.Text" xml:space="preserve">
-    <value>Start the Tool Minimized</value>
+    <value>Start the tool minimized</value>
   </data>
   <data name="CBStartMinimized.ToolTip" xml:space="preserve">
     <value>Unlocker will minimize to the tray on startup</value>
@@ -214,7 +214,7 @@
     <value>3</value>
   </data>
   <data name="CBPowerSave.Text" xml:space="preserve">
-    <value>Power Saving</value>
+    <value>Power saving</value>
   </data>
   <data name="CBPowerSave.ToolTip" xml:space="preserve">
     <value>Limits FPS to 10 and lowers process priority when the game window loses focus (e.g. when minimized or in the background)</value>
@@ -250,7 +250,7 @@
     <value>11</value>
   </data>
   <data name="CBUseMobileUI.Text" xml:space="preserve">
-    <value>Use Mobile UI</value>
+    <value>Use mobile UI</value>
   </data>
   <data name="&gt;&gt;CBUseMobileUI.Name" xml:space="preserve">
     <value>CBUseMobileUI</value>
@@ -571,7 +571,7 @@
     <value>2</value>
   </data>
   <data name="CBCustomRes.Text" xml:space="preserve">
-    <value>Custom Resolution:</value>
+    <value>Custom resolution:</value>
   </data>
   <data name="&gt;&gt;CBCustomRes.Name" xml:space="preserve">
     <value>CBCustomRes</value>
@@ -637,7 +637,7 @@
     <value>0</value>
   </data>
   <data name="CBPopup.Text" xml:space="preserve">
-    <value>Borderless Window</value>
+    <value>Borderless window</value>
   </data>
   <data name="&gt;&gt;CBPopup.Name" xml:space="preserve">
     <value>CBPopup</value>
@@ -722,13 +722,13 @@
     <value>High</value>
   </data>
   <data name="ComboPriority.Items2" xml:space="preserve">
-    <value>Above Normal</value>
+    <value>Above normal</value>
   </data>
   <data name="ComboPriority.Items3" xml:space="preserve">
     <value>Normal</value>
   </data>
   <data name="ComboPriority.Items4" xml:space="preserve">
-    <value>Below Normal</value>
+    <value>Below normal</value>
   </data>
   <data name="ComboPriority.Items5" xml:space="preserve">
     <value>Low</value>
@@ -773,7 +773,7 @@
     <value>4</value>
   </data>
   <data name="LabelPriority.Text" xml:space="preserve">
-    <value>Game Process Priority:</value>
+    <value>Game process priority:</value>
   </data>
   <data name="&gt;&gt;LabelPriority.Name" xml:space="preserve">
     <value>LabelPriority</value>
