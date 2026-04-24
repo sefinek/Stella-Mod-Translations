@@ -550,12 +550,6 @@ Preset atual:
   <data name="ReShadeFile_StellaModResourcesWereNotFoundOnYourHardDrive" xml:space="preserve">
     <value>Os recursos do Stella Mod não foram encontrados no seu disco rígido.</value>
   </data>
-  <data name="Shortcut_ChangeOfTheLauncherPath" xml:space="preserve">
-    <value>Mudança do caminho do launcher</value>
-  </data>
-  <data name="Shortcut_WeHaveDetectedAProbableChangeInTheLocationOfTheStellaModLauncherSomeShortcutsHaveBeenUpdated" xml:space="preserve">
-    <value>Detectamos uma provável mudança na localização do launcher do Stella Mod. Alguns atalhos foram atualizados.</value>
-  </data>
   <data name="CheckForUpdatesOfBenefits_ANew3DMigotoUpdateForStellaPlusSubscribersHasBeenDetected" xml:space="preserve">
     <value>Uma nova atualização do 3DMigoto para assinantes do Stella Plus foi detectada. Esta atualização não substituirá seus mods atuais.
 
